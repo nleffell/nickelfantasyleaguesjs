@@ -1,17 +1,6 @@
-async function getgit (path) { 
-// A function to fetch files from github using the api 
-
-let data = await fetch(`https://api.github.com/repos/nleffell/nickelfantasyleaguesjs/contents/${path}`)
-  .then(d => d.json())
-  .then(d => fetch(`https://api.github.com/repos/nleffell/nickelfantasyleaguesjs/git/blobs/${d.sha}`))
-  .then(d => d.json())
-  .then(d => JSON.parse(atob(d.content)));
-
-return data;
-}
-
 async function createHomepageStandingsTable() {
-  let json = await getgit ("wbdw_jsons/website_jsons/homepage_current_standings_table.json")
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json")
+  .then(res => res.json());
   
   const tableContainer = document.querySelector('div.div-wbdw-home-standings');
   
@@ -79,7 +68,8 @@ async function createHomepageStandingsTable() {
 }
 
 async function createStats(owner) {
-  let json = await getgit ("wbdw_jsons/website_jsons/owner_aggregate_records.json")
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json")
+  .then(res => res.json());
   
   // Filter data for the owner
   var ownerData = json.filter(function(item) {
@@ -104,8 +94,7 @@ async function createStats(owner) {
 }
 
 async function createOwnersSeasonHistoryTable(owner) {
-
-  let json = await getgit("wbdw_jsons/website_jsons/owner_season_history.json");
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json")
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
@@ -176,7 +165,7 @@ async function createOwnersSeasonHistoryTable(owner) {
 
 
 async function createOwnersRosterTable(owner) {
-  let json = await getgit("wbdw_jsons/website_jsons/owner_rosters.json");
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json")
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
@@ -263,7 +252,7 @@ async function createOwnersRosterTable(owner) {
 }
 
 async function createOwnerDraftPicksTable(owner) {
-  let json = await getgit("wbdw_jsons/website_jsons/owner_draft_picks.json");
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json")
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
@@ -333,7 +322,7 @@ async function createOwnerDraftPicksTable(owner) {
 
 
 async function createPowerRankingsDynasty() {
-  let json = await getgit("/wbdw_jsons/website_jsons/power_rankings.json")
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json")
 
   json.sort((a, b) => b['Overall Value'] - a['Overall Value']);    
   const owners = json.map(item => item.Owner);
@@ -420,8 +409,7 @@ async function createPowerRankingsDynasty() {
 
 
 async function createPowerRankingsSeason() {
-  // Fetch the JSON data
-  let json = await getgit("/wbdw_jsons/website_jsons/power_rankings.json")
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json")
   
   // Sort the JSON data by the total value
   json.sort((a, b) => b.point_projection - a.point_projection); // Sort in descending order
@@ -512,7 +500,7 @@ async function createPowerRankingsSeason() {
 
 
 async function createCurrentDraftPickOrderTable() {
-  let json = await getgit ("wbdw_jsons/website_jsons/current_draft_pick_order.json")
+  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json")
      
   let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order') || 
                        document.querySelector('div.div-wbdw-home-draft-pick-order-post-season')
