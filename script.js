@@ -1,5 +1,5 @@
 async function createHomepageStandingsTable() {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json").then(res => res.json());
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json").then(json => res.json());
   
   const tableContainer = document.querySelector('div.div-wbdw-home-standings');
   
@@ -67,7 +67,7 @@ async function createHomepageStandingsTable() {
 }
 
 async function createStats(owner) {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json").then(res => res.json());
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json").then(json => res.json());
   
   // Filter data for the owner
   var ownerData = json.filter(function(item) {
@@ -92,7 +92,7 @@ async function createStats(owner) {
 }
 
 async function createOwnersSeasonHistoryTable(owner) {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json").then(res => res.json());
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json").then(json => res.json());
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
@@ -163,7 +163,7 @@ async function createOwnersSeasonHistoryTable(owner) {
 
 
 async function createOwnersRosterTable(owner) {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json").then(res => res.json());
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json").then(json => res.json());
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
@@ -250,7 +250,7 @@ async function createOwnersRosterTable(owner) {
 }
 
 async function createOwnerDraftPicksTable(owner) {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json").then(res => res.json());
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json").then(json => res.json());
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
@@ -320,12 +320,7 @@ async function createOwnerDraftPicksTable(owner) {
 
 
 async function createPowerRankingsDynasty() {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json").then(res => res.json());
-
-  if (!Array.isArray(json)) {
-  console.error("Expected an array but got:", json);
-  return;
-  }
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json").then(json => res.json());
 
   json.sort((a, b) => b['Overall Value'] - a['Overall Value']);    
   const owners = json.map(item => item.Owner);
@@ -412,7 +407,7 @@ async function createPowerRankingsDynasty() {
 
 
 async function createPowerRankingsSeason() {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json").then(res => res.json());
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json").then(json => res.json());
   
   // Sort the JSON data by the total value
   json.sort((a, b) => b.point_projection - a.point_projection); // Sort in descending order
@@ -504,12 +499,7 @@ async function createPowerRankingsSeason() {
 
 
 async function createCurrentDraftPickOrderTable() {
-  const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json").then(res => res.json());
-
-  if (!Array.isArray(json)) {
-  console.error("Expected an array but got:", json);
-  return;
-  }
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json").then(json => res.json());
      
   let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order') || 
                        document.querySelector('div.div-wbdw-home-draft-pick-order-post-season')
