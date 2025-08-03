@@ -322,6 +322,11 @@ async function createOwnerDraftPicksTable(owner) {
 async function createPowerRankingsDynasty() {
   const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json").then(res => res.json());
 
+  if (!Array.isArray(json)) {
+  console.error("Expected an array but got:", json);
+  return;
+  }
+
   json.sort((a, b) => b['Overall Value'] - a['Overall Value']);    
   const owners = json.map(item => item.Owner);
   const draftCapitalValues = json.map(item => item['Draft Capital Value']);
@@ -500,6 +505,11 @@ async function createPowerRankingsSeason() {
 
 async function createCurrentDraftPickOrderTable() {
   const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json").then(res => res.json());
+
+  if (!Array.isArray(json)) {
+  console.error("Expected an array but got:", json);
+  return;
+  }
      
   let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order') || 
                        document.querySelector('div.div-wbdw-home-draft-pick-order-post-season')
