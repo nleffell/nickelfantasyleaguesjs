@@ -499,6 +499,7 @@ async function createPowerRankingsSeason() {
 }
 
 
+
 async function createCurrentDraftPickOrderTable() {
   const json = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json")
      
@@ -567,4 +568,75 @@ async function createCurrentDraftPickOrderTable() {
   scrollWrapper.appendChild(table);
   tableContainer.appendChild(scrollWrapper);
 
+}
+
+
+
+function createBetTrackerOwnerRecordsTable() {
+  const records = {};
+  const rows = document.querySelectorAll("#table_wbdw_bet_tracker tbody tr");
+
+  rows.forEach(row => {
+    const cells = row.querySelectorAll("td");
+    if (cells.length < 6) return;
+
+    const maker = cells[1].textContent.trim();
+    const taker = cells[3].textContent.trim();
+    const stakeText = cells[4].textContent.replace("$", "").trim();
+    const winner = cells[5].textContent.trim().replace("</td>", "");
+    const stake = parseFloat(stakeText);
+
+    if (isNaN(stake) || !maker || !taker || !winner) return;
+    if (winner.toLowerCase().includes("pending")) return;
+
+    [maker, taker].forEach(name => {
+      if (!(name in records)) {
+        records[name] = { wins: 0, losses: 0, net: 0 };
+      }
+    });
+
+    if (winner === maker) {
+      records[maker].wins += 1;
+      records[maker].net += stake;
+      records[taker].losses += 1;
+      records[taker].net -= stake;
+    } else if (winner === taker) {
+      records[taker].wins += 1;
+      records[taker].net += stake;
+      records[maker].losses += 1;
+      records[maker].net -= stake;
+    } else {
+      if (!(winner in records)) {
+        records[winner] = { wins: 0, losses: 0, net: 0 };
+      }
+      records[winner].wins += 1;
+      records[winner].net += stake;
+      if (winner !== maker) {
+        records[maker].losses += 1;
+        records[maker].net -= stake;
+      }
+      if (winner !== taker) {
+        records[taker].losses += 1;
+        records[taker].net -= stake;
+      }
+    }
+  });
+
+  // Sort by net descending
+  const sorted = Object.entries(records).sort(([, a], [, b]) => b.net - a.net);
+
+  // Output to table
+  const tbody = document.querySelector("#table_wbdw_bet_tracker_owner_records tbody");
+  tbody.innerHTML = "";
+
+  sorted.forEach(([name, { wins, losses, net }]) => {
+    const row = document.createElement("tr");
+    row.innerHTML = `
+      <td>${name}</td>
+      <td>${wins}</td>
+      <td>${losses}</td>
+      <td>$${net}</td>
+    `;
+    tbody.appendChild(row);
+  });
 }
