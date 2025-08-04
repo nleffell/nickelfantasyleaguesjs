@@ -415,7 +415,7 @@ async function createOwnerDraftPicksTable(owner) {
   tableContainer.appendChild(table);
 }
 
-async function createOwnersRosterTable(owner) {
+async function createOwnerRosterTable(owner) {
   const onwersRosterRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json");
   const json = await onwersRosterRes.json();
 
@@ -503,7 +503,7 @@ async function createOwnersRosterTable(owner) {
   tableContainer.appendChild(table);
 }
 
-async function createOwnersSeasonHistoryTable(owner) {
+async function createOwnerSeasonHistoryTable(owner) {
   const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json");
   const json = await ownerSeasonHistoryRes.json();
 
