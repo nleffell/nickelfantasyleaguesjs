@@ -322,6 +322,9 @@ async function createPowerRankingsSeason() {
 async function createOwnerStats(owner) {
   const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
   const json = await statsRes.json();
+
+  // Debug: Log the owner you're searching for
+  console.log(`Searching stats for owner: "${owner}"`);
   
   // Filter data for the owner
   var ownerData = json.filter(function(item) {
