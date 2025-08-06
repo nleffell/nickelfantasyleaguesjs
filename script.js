@@ -72,7 +72,7 @@ async function createCurrentDraftPickOrderTable() {
   const currentDraftPickOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
   const json = await currentDraftPickOrderRes.json();
      
-  let tableContainer = document.querySelector('div.test')
+  let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order') || document.querySelector('div.div-wbdw-home-draft-pick-order-post-season')
 
   const table = document.createElement('table');
   table.classList.add('table-wbdw-draft-pick-order');
