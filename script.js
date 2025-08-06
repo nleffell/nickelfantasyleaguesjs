@@ -72,8 +72,7 @@ async function createCurrentDraftPickOrderTable() {
   const currentDraftPickOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
   const json = await currentDraftPickOrderRes.json();
      
-  let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order') || 
-                       document.querySelector('div.div-wbdw-home-draft-pick-order-post-season')
+  let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order-table')
 
   const table = document.createElement('table');
   table.classList.add('table-wbdw-draft-pick-order');
@@ -129,13 +128,8 @@ async function createCurrentDraftPickOrderTable() {
   noteCell.style.fontStyle = 'italic';
   noteRow.appendChild(noteCell);
   tableBody.appendChild(noteRow);
-
   table.appendChild(tableBody);
-
-  const scrollWrapper = document.createElement('div');
-  scrollWrapper.classList.add('table-scroll-wrapper');
-  scrollWrapper.appendChild(table);
-  tableContainer.appendChild(scrollWrapper);
+  tableContainer.appendChild(table);
 
 }
 
