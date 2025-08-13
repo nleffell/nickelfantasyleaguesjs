@@ -1,0 +1,45 @@
+name: Merge JSON Updates to Main
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # every hour
+  workflow_dispatch:       # allow manual trigger
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch json-updates
+        run: git fetch origin json-updates
+
+      - name: Merge only at scheduled ET times
+        run: |
+          # Get current time in Eastern Time (ET)
+          ET_HOUR=$(TZ="America/New_York" date +'%H:%M')
+
+          # Only merge at 07:05 or 19:20 ET
+          if [[ "$ET_HOUR" != "07:05" && "$ET_HOUR" != "19:20" ]]; then
+            echo "Not the scheduled time in ET ($ET_HOUR). Exiting."
+            exit 0
+          fi
+
+          # Check for changes
+          if git diff --quiet main origin/json-updates; then
+            echo "No changes to merge."
+          else
+            echo "Changes detected in the following files:"
+            git diff --name-only main origin/json-updates
+            git merge origin/json-updates --no-edit
+            git push origin main
+          fi
