@@ -2,8 +2,13 @@ name: Merge JSON Updates to Main
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour
-  workflow_dispatch:       # allow manual trigger
+    # EDT versions (UTC-4)
+    - cron: "5 11 * * *"   # 07:05 ET during EDT
+    - cron: "20 23 * * *"  # 19:20 ET during EDT
+    # EST versions (UTC-5)
+    - cron: "5 12 * * *"   # 07:05 ET during EST
+    - cron: "20 0 * * *"   # 19:20 ET during EST
+  workflow_dispatch:        # allow manual trigger anytime
 
 jobs:
   merge:
@@ -13,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure Git
@@ -20,21 +26,30 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Ensure main is up to date
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
       - name: Fetch json-updates
         run: git fetch origin json-updates
 
-      - name: Merge only at scheduled ET times
+      - name: Merge (time-gated for schedule, skipped for manual)
         run: |
-          # Get current time in Eastern Time (ET)
-          ET_HOUR=$(TZ="America/New_York" date +'%H:%M')
-
-          # Only merge at 07:05 or 19:20 ET
-          if [[ "$ET_HOUR" != "07:05" && "$ET_HOUR" != "19:20" ]]; then
-            echo "Not the scheduled time in ET ($ET_HOUR). Exiting."
-            exit 0
+          # If this was triggered by the scheduler, enforce ET time window.
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
+            ET_NOW=$(TZ="America/New_York" date +'%H:%M')
+            if [[ "$ET_NOW" != "07:05" && "$ET_NOW" != "19:20" ]]; then
+              echo "Scheduled run but not at the ET gate ($ET_NOW). Exiting."
+              exit 0
+            fi
+            echo "Scheduled run at allowed ET time ($ET_NOW). Proceeding."
+          else
+            echo "Manual run detected. Skipping time check and proceeding."
           fi
 
-          # Check for changes
+          # Merge if there are changes
           if git diff --quiet main origin/json-updates; then
             echo "No changes to merge."
           else
