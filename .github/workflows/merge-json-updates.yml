@@ -1,8 +1,8 @@
 name: Merge JSON Updates to Main
 
-# Give the workflow permission to push commits
 permissions:
   contents: write
+  pull-requests: write
 
 on:
   schedule:
@@ -12,7 +12,7 @@ on:
     # EST (UTC-5)
     - cron: "5 12 * * *"   # 07:05 ET during EST
     - cron: "20 0 * * *"   # 19:20 ET during EST
-  workflow_dispatch:        # manual trigger merges immediately
+  workflow_dispatch:
 
 jobs:
   merge:
@@ -30,39 +30,48 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Ensure main is up to date
+      - name: Show context & recent history
         run: |
-          git fetch origin main
-          git checkout main
-          git reset --hard origin/main
+          echo "Event: ${{ github.event_name }}"
+          echo "ET now: $(TZ="America/New_York" date +'%Y-%m-%d %H:%M')"
+          git --version
+          git fetch origin json-updates
+          echo "== Branch status =="
+          git log --oneline --decorate --graph --all -n 20
+          echo "== Ahead/behind =="
+          git rev-list --left-right --count origin/main...origin/json-updates || true
+          echo "== Changed files (name-only) =="
+          git diff --name-only origin/main origin/json-updates || true
 
-      - name: Fetch json-updates
-        run: git fetch origin json-updates
-
-      - name: Merge (manual runs always merge; scheduled runs only at ET times)
-        env:
-          EVENT_NAME: ${{ github.event_name }}
+      - name: Enforce time gate for scheduled runs only
         run: |
-          if [ "$EVENT_NAME" = "schedule" ]; then
+          if [[ "${{ github.event_name }}" == "schedule" ]]; then
             ET_NOW=$(TZ="America/New_York" date +'%H:%M')
             if [[ "$ET_NOW" != "07:05" && "$ET_NOW" != "19:20" ]]; then
               echo "Scheduled run at $ET_NOW ET; outside merge window. Exiting."
               exit 0
             fi
-            echo "Scheduled run at allowed ET time ($ET_NOW). Proceeding."
+            echo "Scheduled run at allowed ET time ($ET_NOW)."
           else
             echo "Manual run detected — proceeding to merge immediately."
           fi
 
-          # Skip if no changes
+      - name: Ensure main is up to date locally
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
+
+      - name: Merge json-updates -> main if changes exist
+        run: |
           if git diff --quiet main origin/json-updates; then
             echo "No changes to merge."
             exit 0
           fi
 
-          echo "Changes detected in the following files:"
-          git diff --name-only main origin/json-updates
-
-          # Merge and push
+          echo "Merging origin/json-updates into main..."
+          set -e
           git merge origin/json-updates --no-edit
+          echo "Pushing to origin/main..."
           git push origin main
+          echo "Merge complete."
