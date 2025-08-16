@@ -1,18 +1,17 @@
 name: Merge JSON Updates to Main
 
-# Give the workflow permission to push commits
 permissions:
   contents: write
 
 on:
   schedule:
     # EDT (UTC-4)
-    - cron: "5 11 * * *"   # 07:05 ET during EDT
-    - cron: "20 23 * * *"  # 19:20 ET during EDT
+    - cron: "5 11 * * *"   # 07:05 AM ET during EDT
+    - cron: "20 23 * * *"  # 07:20 PM ET during EDT
     # EST (UTC-5)
-    - cron: "5 12 * * *"   # 07:05 ET during EST
-    - cron: "20 0 * * *"   # 19:20 ET during EST
-  workflow_dispatch:        # manual trigger merges immediately
+    - cron: "5 12 * * *"   # 07:05 AM ET during EST
+    - cron: "20 0 * * *"   # 07:20 PM ET during EST
+  workflow_dispatch:        # allow manual trigger anytime
 
 jobs:
   merge:
@@ -39,22 +38,8 @@ jobs:
       - name: Fetch json-updates
         run: git fetch origin json-updates
 
-      - name: Merge (manual runs always merge; scheduled runs only at ET times)
-        env:
-          EVENT_NAME: ${{ github.event_name }}
+      - name: Merge if Changes Exist
         run: |
-          if [ "$EVENT_NAME" = "schedule" ]; then
-            ET_NOW=$(TZ="America/New_York" date +'%H:%M')
-            if [[ "$ET_NOW" != "07:05" && "$ET_NOW" != "19:20" ]]; then
-              echo "Scheduled run at $ET_NOW ET; outside merge window. Exiting."
-              exit 0
-            fi
-            echo "Scheduled run at allowed ET time ($ET_NOW). Proceeding."
-          else
-            echo "Manual run detected — proceeding to merge immediately."
-          fi
-
-          # Skip if no changes
           if git diff --quiet main origin/json-updates; then
             echo "No changes to merge."
             exit 0
@@ -63,6 +48,5 @@ jobs:
           echo "Changes detected in the following files:"
           git diff --name-only main origin/json-updates
 
-          # Merge and push
           git merge origin/json-updates --no-edit
           git push origin main
