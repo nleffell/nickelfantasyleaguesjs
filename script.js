@@ -399,7 +399,7 @@ async function createAllTimeRecords() {
       mount.appendChild(card);
     });
   }
-
+}
 
 
 //#######Owner Page Functions#######
