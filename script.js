@@ -1,4 +1,4 @@
-//Homepage Tables
+//#######Homepage Functions#######
 async function createHomepageStandingsTable() {
   const homepageStandingsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json");
   const json = await homepageStandingsRes.json();
@@ -317,7 +317,152 @@ async function createPowerRankingsSeason() {
 }
 
 
-// Owner Page Tables
+
+//#######Records Page Functions#######
+async function createAllTimeMatchupRecords() {
+  // Titles for nice labels
+  const titles = {
+    highest_score: "Highest Score",
+    lowest_score: "Lowest Score",
+    largest_mov: "Largest Margin of Victory",
+    closest_mov: "Closest Margin of Victory"
+  };
+
+  // Order to render the four cards
+  const order = ["highest_score", "lowest_score", "largest_mov", "closest_mov"];
+
+  try {
+    // Fetch JSON (same approach as your existing function)
+    const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
+    const json = await res.json();
+
+    // Ensure array
+    const data = Array.isArray(json) ? json : (json.data || []);
+    const allTime = data.filter(d => String(d.year).toLowerCase() === "all time");
+
+    // Split by season type
+    const regular = allTime.filter(r => r.season_type === "regular");
+    const postseason = allTime.filter(r => r.season_type === "postseason");
+
+    // Pick winners for each record type
+    const winnersRegular = pickWinnersByType(regular);
+    const winnersPost    = pickWinnersByType(postseason);
+
+    // Build cards into your Webflow containers (if present)
+    renderCardsInto(".div-wbdw-records-regular", winnersRegular, titles, order);
+    renderCardsInto(".div-wbdw-records-postseason", winnersPost, titles, order);
+
+    // Optional: build simple tables (if those containers exist)
+    renderTableInto(".div-wbdw-records-regular-table", regular, titles);
+    renderTableInto(".div-wbdw-records-postseason-table", postseason, titles);
+
+  } catch (e) {
+    console.error("createAllTimeMatchupRecords:", e);
+  }
+
+  // ---------- helpers ----------
+  function fmt(n) { return Number(n).toFixed(2); }
+
+  function pickRecord(rows, type) {
+    const typed = rows.filter(r => r.type === type);
+    if (!typed.length) return null;
+
+    if (type === "highest_score") return typed.reduce((a,b)=> (b.owner_points > a.owner_points ? b : a));
+    if (type === "lowest_score")  return typed.reduce((a,b)=> (b.owner_points < a.owner_points ? b : a));
+    if (type === "largest_mov")   return typed.reduce((a,b)=> (b.margin > a.margin ? b : a));
+    if (type === "closest_mov")   return typed.reduce((a,b)=> (b.margin < a.margin ? b : a));
+    return typed[0];
+  }
+
+  function pickWinnersByType(rows) {
+    return {
+      highest_score: pickRecord(rows, "highest_score"),
+      lowest_score:  pickRecord(rows, "lowest_score"),
+      largest_mov:   pickRecord(rows, "largest_mov"),
+      closest_mov:   pickRecord(rows, "closest_mov"),
+    };
+  }
+
+  function renderCardsInto(selector, winners, titlesMap, renderOrder) {
+    const mount = document.querySelector(selector);
+    if (!mount) return;
+
+    // Clear any previous content
+    mount.innerHTML = "";
+
+    renderOrder.forEach(type => {
+      const r = winners[type];
+      if (!r) return;
+
+      const card = document.createElement("div");
+      // Give this a class you can style in Webflow
+      card.classList.add("card-wbdw-record");
+      // Optional type-specific class for color accents in Webflow:
+      // card.classList.add(`is-${type}`);
+
+      const scoreLine = `${fmt(r.owner_points)} – ${fmt(r.opponent_points)}`;
+      const fromLine  = `from ${Number(r.source_year)} • Week ${Number(r.source_week)}`;
+
+      // Mirror your innerHTML table-building style
+      card.innerHTML = `
+        <h3 class="card-wbdw-record-title">${titlesMap[type] || type}</h3>
+        <div class="card-wbdw-record-owner"><strong>${r.owner}</strong> — ${r.team}</div>
+        <div class="card-wbdw-record-score">${scoreLine} <span class="sep">vs</span> ${r.opponent_owner} — ${r.opponent_team}</div>
+        <div class="card-wbdw-record-meta">Week ${r.week} • ${r.year} • Margin ${fmt(r.margin)} • ${fromLine}</div>
+      `;
+
+      mount.appendChild(card);
+    });
+  }
+
+  function renderTableInto(selector, rows, titlesMap) {
+    const mount = document.querySelector(selector);
+    if (!mount) return;
+
+    // Clear any previous content
+    mount.innerHTML = "";
+
+    const table = document.createElement("table");
+    table.classList.add("table-wbdw-records");
+
+    const thead = document.createElement("thead");
+    const headerRow = document.createElement("tr");
+    headerRow.innerHTML = `
+      <th>Type</th>
+      <th>Owner</th>
+      <th>Team</th>
+      <th>Opponent</th>
+      <th>Score</th>
+      <th>Margin</th>
+      <th>From</th>
+    `;
+    thead.appendChild(headerRow);
+    table.appendChild(thead);
+
+    const tbody = document.createElement("tbody");
+
+    rows.forEach(r => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${titlesMap[r.type] || r.type}</td>
+        <td>${r.owner}</td>
+        <td>${r.team}</td>
+        <td>${r.opponent_owner} — ${r.opponent_team}</td>
+        <td>${fmt(r.owner_points)}–${fmt(r.opponent_points)}</td>
+        <td>${fmt(r.margin)}</td>
+        <td>${Number(r.source_year)} Wk ${Number(r.source_week)}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+
+    table.appendChild(tbody);
+    mount.appendChild(table);
+  }
+}
+
+
+
+//#######Owner Page Functions#######
 async function createOwnerStats(owner) {
   const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
   const json = await statsRes.json();
