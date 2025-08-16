@@ -319,82 +319,117 @@ async function createPowerRankingsSeason() {
 
 
 //#######Records Page Functions#######
+// Fetches all-time records from matchup_records.json and injects them into Webflow divs.
+// Exposes window.createAllTimeRecords() for you to call on DOMContentLoaded.
 async function createAllTimeRecords() {
-  // Order to render the four cards
-  const order = ["highest_score", "lowest_score", "largest_mov", "closest_mov"];
+  const DATA_URL = "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json";
 
-  // Fetch JSON (same approach as your existing function)
-  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
+  // Helpers --------------------------------------------------------------
+  const ensureNumber = (v) => (typeof v === "number" ? v : Number(v));
+
+  const mapSelectors = {
+    largest_mov: ".div-wbdw-records-largest-margin",
+    highest_score: ".div-wbdw-records-highest-score",
+    closest_mov: ".div-wbdw-records-smallest-margin",
+    lowest_score: ".div-wbdw-records-lowest-score",
+  };
+
+  const prettyNames = {
+    largest_mov: "Largest Margin",
+    highest_score: "Highest Score",
+    closest_mov: "Smallest Margin",
+    lowest_score: "Lowest Score",
+  };
+
+  function groupTypes(arr) {
+    const wanted = ["largest_mov", "highest_score", "closest_mov", "lowest_score"];
+    const obj = {};
+    for (const t of wanted) obj[t] = arr.find((r) => r.type === t) || null;
+    return obj;
+  }
+
+  function renderSeason(recordsForSeason) {
+    for (const [type, selector] of Object.entries(mapSelectors)) {
+      const container = document.querySelector(selector);
+      if (!container) continue; // fail-soft if the div isn't present
+      container.innerHTML = "";
+
+      const rec = recordsForSeason[type];
+      if (!rec) {
+        container.textContent = "—";
+        continue;
+      }
+
+      const wrap = document.createElement("div");
+      wrap.className = "wbdw-record"; // style in Webflow if desired
+
+      const header = document.createElement("p");
+      header.className = "wbdw-record-header";
+      header.textContent = `${prettyNames[type]}`;
+
+      const matchup = document.createElement("p");
+      matchup.className = "wbdw-record-matchup";
+      matchup.textContent = `${rec.owner} (${rec.team}) vs ${rec.opponent_owner} (${rec.opponent_team})`;
+
+      const score = document.createElement("p");
+      score.className = "wbdw-record-score";
+      const ownerPts = ensureNumber(rec.owner_points).toFixed(2);
+      const oppPts = ensureNumber(rec.opponent_points).toFixed(2);
+      if (type === "highest_score" || type === "lowest_score") {
+        score.textContent = `${ownerPts} - ${oppPts}`;
+      } else {
+        const margin = ensureNumber(rec.margin).toFixed(2);
+        score.textContent = `Margin: ${margin} (${ownerPts} - ${oppPts})`;
+      }
+
+      const meta = document.createElement("p");
+      meta.className = "wbdw-record-meta";
+      const srcYear = rec.source_year ?? rec.year;
+      const srcWeek = rec.source_week ?? rec.week;
+      const weekStr = Number(srcWeek) ? `Week ${Number(srcWeek)}` : `Week ${srcWeek}`;
+      meta.textContent = `${weekStr} • ${srcYear}`;
+
+      wrap.append(header, matchup, score, meta);
+      container.appendChild(wrap);
+    }
+  }
+
+  // Fetch + prepare ------------------------------------------------------
+  const res = await fetch(DATA_URL, { cache: "no-store" });
   const json = await res.json();
+  const data = Array.isArray(json) ? json : [];
 
-  // Ensure array
-  const data = Array.isArray(json) ? json : (json.data || []);
-  const allTime = data.filter(d => String(d.year).toLowerCase() === "all time");
+  // Filter to the pre-computed "all time" records in the feed
+  const allTime = data.filter((d) => String(d.year).toLowerCase() === "all time");
+  const regular = allTime.filter((r) => r.season_type === "regular");
+  const postseason = allTime.filter((r) => r.season_type === "postseason");
 
-  // Split by season type
-  const regular = allTime.filter(r => r.season_type === "regular");
-  const postseason = allTime.filter(r => r.season_type === "postseason");
+  const grouped = {
+    regular: groupTypes(regular),
+    postseason: groupTypes(postseason),
+  };
 
-  // Pick winners for each record type
-  const winnersRegular = pickWinnersByType(regular);
-  const winnersPost    = pickWinnersByType(postseason);
+  // Initial render (default to regular season) ---------------------------
+  const btnReg = document.querySelector(".button-wbdw-records-reg-season");
+  const btnPost = document.querySelector(".button-wbdw-records-post-season");
 
-  // Build cards into your Webflow containers (if present)
-  renderCardsInto(".div-wbdw-records-regular", winnersRegular, order);
-  renderCardsInto(".div-wbdw-records-postseason", winnersPost, order);
+  function setActive(which) {
+    renderSeason(grouped[which]);
+    if (btnReg && btnPost) {
+      btnReg.classList.toggle("is-active", which === "regular");
+      btnPost.classList.toggle("is-active", which === "postseason");
+    }
+  }
+
+  if (btnReg) btnReg.addEventListener("click", () => setActive("regular"));
+  if (btnPost) btnPost.addEventListener("click", () => setActive("postseason"));
+
+  setActive("regular");
 }
 
-  // ---------- helpers ----------
-  function pickRecord(rows, type) {
-    const typed = rows.filter(r => r.type === type);
-    if (!typed.length) return null;
+// Expose on window for easy calling from Webflow embeds
+window.createAllTimeRecords = createAllTimeRecords;
 
-    if (type === "highest_score") return typed.reduce((a,b)=> (b.owner_points > a.owner_points ? b : a));
-    if (type === "lowest_score")  return typed.reduce((a,b)=> (b.owner_points < a.owner_points ? b : a));
-    if (type === "largest_mov")   return typed.reduce((a,b)=> (b.margin > a.margin ? b : a));
-    if (type === "closest_mov")   return typed.reduce((a,b)=> (b.margin < a.margin ? b : a));
-    return typed[0];
-  }
-
-  function pickWinnersByType(rows) {
-    return {
-      highest_score: pickRecord(rows, "highest_score"),
-      lowest_score:  pickRecord(rows, "lowest_score"),
-      largest_mov:   pickRecord(rows, "largest_mov"),
-      closest_mov:   pickRecord(rows, "closest_mov"),
-    };
-  }
-
-  function renderCardsInto(selector, winners, renderOrder) {
-    const mount = document.querySelector(selector);
-    if (!mount) return;
-
-    // Clear any previous content
-    mount.innerHTML = "";
-
-    renderOrder.forEach(type => {
-      const r = winners[type];
-      if (!r) return;
-
-      const card = document.createElement("div");
-      // Give this a class you can style in Webflow
-      card.classList.add("card-wbdw-record");
-      // Optional type-specific class for color accents in Webflow:
-      // card.classList.add(`is-${type}`);
-
-      const scoreLine = `${r.owner_points} – ${r.opponent_points}`;
-      const fromLine  = `from ${Number(r.source_year)} • Week ${Number(r.source_week)}`;
-
-      // Mirror your innerHTML table-building style
-      card.innerHTML = `
-        <div class="card-wbdw-record-owner"><strong>${r.owner}</strong> — ${r.team}</div>
-        <div class="card-wbdw-record-score">${scoreLine} <span class="sep">vs</span> ${r.opponent_owner} — ${r.opponent_team}</div>
-        <div class="card-wbdw-record-meta">Week ${r.week} • ${r.year} • Margin ${r.margin} • ${fromLine}</div>
-      `;
-
-      mount.appendChild(card);
-    });
-  }
 
 
 //#######Owner Page Functions#######
@@ -495,8 +530,8 @@ async function createOwnerDraftPicksTable(owner) {
 }
 
 async function createOwnerRosterTable(owner) {
-  const onwersRosterRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json");
-  const json = await onwersRosterRes.json();
+  const ownersRosterRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json");
+  const json = await ownersRosterRes.json();
 
   var ownerData = json.filter(function (item) {
     return item.owner === `${owner}`;
