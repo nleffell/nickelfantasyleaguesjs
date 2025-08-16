@@ -323,30 +323,26 @@ async function createAllTimeRecords() {
   // Order to render the four cards
   const order = ["highest_score", "lowest_score", "largest_mov", "closest_mov"];
 
-  try {
-    // Fetch JSON (same approach as your existing function)
-    const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
-    const json = await res.json();
+  // Fetch JSON (same approach as your existing function)
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
+  const json = await res.json();
 
-    // Ensure array
-    const data = Array.isArray(json) ? json : (json.data || []);
-    const allTime = data.filter(d => String(d.year).toLowerCase() === "all time");
+  // Ensure array
+  const data = Array.isArray(json) ? json : (json.data || []);
+  const allTime = data.filter(d => String(d.year).toLowerCase() === "all time");
 
-    // Split by season type
-    const regular = allTime.filter(r => r.season_type === "regular");
-    const postseason = allTime.filter(r => r.season_type === "postseason");
+  // Split by season type
+  const regular = allTime.filter(r => r.season_type === "regular");
+  const postseason = allTime.filter(r => r.season_type === "postseason");
 
-    // Pick winners for each record type
-    const winnersRegular = pickWinnersByType(regular);
-    const winnersPost    = pickWinnersByType(postseason);
+  // Pick winners for each record type
+  const winnersRegular = pickWinnersByType(regular);
+  const winnersPost    = pickWinnersByType(postseason);
 
-    // Build cards into your Webflow containers (if present)
-    renderCardsInto(".div-wbdw-records-regular", winnersRegular, order);
-    renderCardsInto(".div-wbdw-records-postseason", winnersPost, order);
-
-  } catch (e) {
-    console.error("createAllTimeMatchupRecords:", e);
-  }
+  // Build cards into your Webflow containers (if present)
+  renderCardsInto(".div-wbdw-records-regular", winnersRegular, order);
+  renderCardsInto(".div-wbdw-records-postseason", winnersPost, order);
+}
 
   // ---------- helpers ----------
   function pickRecord(rows, type) {
@@ -399,7 +395,6 @@ async function createAllTimeRecords() {
       mount.appendChild(card);
     });
   }
-}
 
 
 //#######Owner Page Functions#######
