@@ -322,23 +322,12 @@ async function createPowerRankingsSeason() {
 // Fetches all-time records from matchup_records.json and injects them into Webflow divs.
 // Exposes window.createAllTimeRecords() for you to call on DOMContentLoaded.
 async function createAllTimeRecords() {
-  const DATA_URL = "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json";
-
   // Helpers --------------------------------------------------------------
-  const ensureNumber = (v) => (typeof v === "number" ? v : Number(v));
-
   const mapSelectors = {
     largest_mov: ".div-wbdw-records-largest-margin",
     highest_score: ".div-wbdw-records-highest-score",
     closest_mov: ".div-wbdw-records-smallest-margin",
     lowest_score: ".div-wbdw-records-lowest-score",
-  };
-
-  const prettyNames = {
-    largest_mov: "Largest Margin",
-    highest_score: "Highest Score",
-    closest_mov: "Smallest Margin",
-    lowest_score: "Lowest Score",
   };
 
   function groupTypes(arr) {
@@ -363,22 +352,18 @@ async function createAllTimeRecords() {
       const wrap = document.createElement("div");
       wrap.className = "wbdw-record"; // style in Webflow if desired
 
-      const header = document.createElement("p");
-      header.className = "wbdw-record-header";
-      header.textContent = `${prettyNames[type]}`;
-
       const matchup = document.createElement("p");
       matchup.className = "wbdw-record-matchup";
       matchup.textContent = `${rec.owner} (${rec.team}) vs ${rec.opponent_owner} (${rec.opponent_team})`;
 
       const score = document.createElement("p");
       score.className = "wbdw-record-score";
-      const ownerPts = ensureNumber(rec.owner_points).toFixed(2);
-      const oppPts = ensureNumber(rec.opponent_points).toFixed(2);
+      const ownerPts = rec.owner_points;
+      const oppPts = rec.opponent_points;
       if (type === "highest_score" || type === "lowest_score") {
         score.textContent = `${ownerPts} - ${oppPts}`;
       } else {
-        const margin = ensureNumber(rec.margin).toFixed(2);
+        const margin = rec.margin;
         score.textContent = `Margin: ${margin} (${ownerPts} - ${oppPts})`;
       }
 
@@ -389,13 +374,13 @@ async function createAllTimeRecords() {
       const weekStr = Number(srcWeek) ? `Week ${Number(srcWeek)}` : `Week ${srcWeek}`;
       meta.textContent = `${weekStr} • ${srcYear}`;
 
-      wrap.append(header, matchup, score, meta);
+      wrap.append(matchup, score, meta);
       container.appendChild(wrap);
     }
   }
 
   // Fetch + prepare ------------------------------------------------------
-  const res = await fetch(DATA_URL, { cache: "no-store" });
+  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
   const json = await res.json();
   const data = Array.isArray(json) ? json : [];
 
@@ -426,9 +411,6 @@ async function createAllTimeRecords() {
 
   setActive("regular");
 }
-
-// Expose on window for easy calling from Webflow embeds
-window.createAllTimeRecords = createAllTimeRecords;
 
 
 
