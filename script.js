@@ -323,6 +323,8 @@ async function createPowerRankingsSeason() {
 // Exposes window.createAllTimeRecords() for you to call on DOMContentLoaded.
 async function createAllTimeRecords() {
   // Helpers --------------------------------------------------------------
+  const ensureNumber = (v) => (typeof v === "number" ? v : Number(v));
+
   const mapSelectors = {
     largest_mov: ".div-wbdw-records-largest-margin",
     highest_score: ".div-wbdw-records-highest-score",
@@ -349,32 +351,63 @@ async function createAllTimeRecords() {
         continue;
       }
 
+      // Parse numbers safely
+      const ownerPts = ensureNumber(rec.owner_points);
+      const oppPts = ensureNumber(rec.opponent_points);
+      const marginRaw = Number.isFinite(ensureNumber(rec.margin))
+        ? ensureNumber(rec.margin)
+        : Math.abs(ownerPts - oppPts);
+
+      // Determine record owner & value based on record type
+      let recordOwner = rec.owner;
+      let opponentOwner = rec.opponent_owner;
+      let valueLabel = "";
+      let valueNumber = 0;
+
+      if (type === "largest_mov" || type === "closest_mov") {
+        // Winning owner for MOV
+        const ownerWon = ownerPts >= oppPts;
+        recordOwner = ownerWon ? rec.owner : rec.opponent_owner;
+        opponentOwner = ownerWon ? rec.opponent_owner : rec.owner;
+        valueLabel = "Margin";
+        valueNumber = marginRaw;
+      } else if (type === "highest_score") {
+        // Owner with the higher single-game score
+        const ownerHigher = ownerPts >= oppPts;
+        recordOwner = ownerHigher ? rec.owner : rec.opponent_owner;
+        opponentOwner = ownerHigher ? rec.opponent_owner : rec.owner;
+        valueLabel = "Score";
+        valueNumber = ownerHigher ? ownerPts : oppPts;
+      } else if (type === "lowest_score") {
+        // Owner with the lower single-game score
+        const ownerLower = ownerPts <= oppPts;
+        recordOwner = ownerLower ? rec.owner : rec.opponent_owner;
+        opponentOwner = ownerLower ? rec.opponent_owner : rec.owner;
+        valueLabel = "Score";
+        valueNumber = ownerLower ? ownerPts : oppPts;
+      }
+
+      // Build the three-line output
       const wrap = document.createElement("div");
       wrap.className = "wbdw-record"; // style in Webflow if desired
 
-      const matchup = document.createElement("p");
-      matchup.className = "wbdw-record-matchup";
-      matchup.textContent = `${rec.owner} (${rec.team}) vs ${rec.opponent_owner} (${rec.opponent_team})`;
+      const lineOwner = document.createElement("p");
+      lineOwner.className = "wbdw-record-owner";
+      lineOwner.textContent = `${recordOwner}`;
 
-      const score = document.createElement("p");
-      score.className = "wbdw-record-score";
-      const ownerPts = rec.owner_points;
-      const oppPts = rec.opponent_points;
-      if (type === "highest_score" || type === "lowest_score") {
-        score.textContent = `${ownerPts} - ${oppPts}`;
-      } else {
-        const margin = rec.margin;
-        score.textContent = `Margin: ${margin} (${ownerPts} - ${oppPts})`;
-      }
+      const lineValue = document.createElement("p");
+      lineValue.className = "wbdw-record-value";
+      lineValue.textContent = `${valueLabel}: ${Number.isFinite(valueNumber) ? valueNumber.toFixed(2) : "—"}`;
 
-      const meta = document.createElement("p");
-      meta.className = "wbdw-record-meta";
       const srcYear = rec.source_year ?? rec.year;
       const srcWeek = rec.source_week ?? rec.week;
       const weekStr = Number(srcWeek) ? `Week ${Number(srcWeek)}` : `Week ${srcWeek}`;
-      meta.textContent = `${weekStr} • ${srcYear}`;
 
-      wrap.append(matchup, score, meta);
+      const lineMeta = document.createElement("p");
+      lineMeta.className = "wbdw-record-meta";
+      lineMeta.textContent = `${srcYear} • ${weekStr} (vs ${opponentOwner})`;
+
+      wrap.append(lineOwner, lineValue, lineMeta);
       container.appendChild(wrap);
     }
   }
@@ -411,7 +444,6 @@ async function createAllTimeRecords() {
 
   setActive("regular");
 }
-
 
 
 //#######Owner Page Functions#######
