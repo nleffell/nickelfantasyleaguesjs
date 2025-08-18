@@ -343,9 +343,10 @@ async function createAllTimeRecords() {
       wrap.append(p1,p2,p3); el.appendChild(wrap);
     }
   }
+  
+  const allTimeRecords = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json";
+  const data = await allTimeRecords.json();
 
-  const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
-  const data = Array.isArray(await res.json()) ? await res.json() : [];
   const groups = {
     reg_season:  byType(data.filter(d => d.season_type === "reg_season")),
     post_season: byType(data.filter(d => d.season_type === "post_season")),
