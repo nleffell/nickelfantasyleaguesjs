@@ -344,7 +344,7 @@ async function createAllTimeRecords() {
     }
   }
   
-  const allTimeRecords = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json";
+  const allTimeRecords = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json");
   const data = await allTimeRecords.json();
 
   const groups = {
