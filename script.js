@@ -320,130 +320,45 @@ async function createPowerRankingsSeason() {
 
 //#######Records Page Functions#######
 // Fetches all-time records from matchup_records.json and injects them into Webflow divs.
-// Exposes window.createAllTimeRecords() for you to call on DOMContentLoaded.
 async function createAllTimeRecords() {
-  // Helpers --------------------------------------------------------------
-  const ensureNumber = (v) => (typeof v === "number" ? v : Number(v));
-
-  const mapSelectors = {
-    largest_mov: ".div-wbdw-records-largest-margin",
+  const SEL = {
+    largest_mov:  ".div-wbdw-records-largest-margin",
     highest_score: ".div-wbdw-records-highest-score",
-    closest_mov: ".div-wbdw-records-smallest-margin",
-    lowest_score: ".div-wbdw-records-lowest-score",
+    smallest_mov: ".div-wbdw-records-smallest-margin",
+    lowest_score:  ".div-wbdw-records-lowest-score",
   };
+  const labelFor = (t) => (t.includes("mov") ? "Margin" : "Score");
+  const byType = (arr) => Object.keys(SEL).reduce((o,k)=>(o[k]=arr.find(r=>r.type===k)||null,o),{});
+  const nfmt = (v) => Number.isFinite(+v) ? (+v).toFixed(2) : "—";
 
-  function groupTypes(arr) {
-    const wanted = ["largest_mov", "highest_score", "closest_mov", "lowest_score"];
-    const obj = {};
-    for (const t of wanted) obj[t] = arr.find((r) => r.type === t) || null;
-    return obj;
-  }
-
-  function renderSeason(recordsForSeason) {
-    for (const [type, selector] of Object.entries(mapSelectors)) {
-      const container = document.querySelector(selector);
-      if (!container) continue; // fail-soft if the div isn't present
-      container.innerHTML = "";
-
-      const rec = recordsForSeason[type];
-      if (!rec) {
-        container.textContent = "—";
-        continue;
-      }
-
-      // Parse numbers safely
-      const ownerPts = ensureNumber(rec.owner_points);
-      const oppPts = ensureNumber(rec.opponent_points);
-      const marginRaw = Number.isFinite(ensureNumber(rec.margin))
-        ? ensureNumber(rec.margin)
-        : Math.abs(ownerPts - oppPts);
-
-      // Determine record owner & value based on record type
-      let recordOwner = rec.owner;
-      let opponentOwner = rec.opponent_owner;
-      let valueLabel = "";
-      let valueNumber = 0;
-
-      if (type === "largest_mov" || type === "closest_mov") {
-        // Winning owner for MOV
-        const ownerWon = ownerPts >= oppPts;
-        recordOwner = ownerWon ? rec.owner : rec.opponent_owner;
-        opponentOwner = ownerWon ? rec.opponent_owner : rec.owner;
-        valueLabel = "Margin";
-        valueNumber = marginRaw;
-      } else if (type === "highest_score") {
-        // Owner with the higher single-game score
-        const ownerHigher = ownerPts >= oppPts;
-        recordOwner = ownerHigher ? rec.owner : rec.opponent_owner;
-        opponentOwner = ownerHigher ? rec.opponent_owner : rec.owner;
-        valueLabel = "Score";
-        valueNumber = ownerHigher ? ownerPts : oppPts;
-      } else if (type === "lowest_score") {
-        // Owner with the lower single-game score
-        const ownerLower = ownerPts <= oppPts;
-        recordOwner = ownerLower ? rec.owner : rec.opponent_owner;
-        opponentOwner = ownerLower ? rec.opponent_owner : rec.owner;
-        valueLabel = "Score";
-        valueNumber = ownerLower ? ownerPts : oppPts;
-      }
-
-      // Build the three-line output
-      const wrap = document.createElement("div");
-      wrap.className = "wbdw-record"; // style in Webflow if desired
-
-      const lineOwner = document.createElement("p");
-      lineOwner.className = "wbdw-record-owner";
-      lineOwner.textContent = `${recordOwner}`;
-
-      const lineValue = document.createElement("p");
-      lineValue.className = "wbdw-record-value";
-      lineValue.textContent = `${valueLabel}: ${Number.isFinite(valueNumber) ? valueNumber.toFixed(2) : "—"}`;
-
-      const srcYear = rec.source_year ?? rec.year;
-      const srcWeek = rec.source_week ?? rec.week;
-      const weekStr = Number(srcWeek) ? `Week ${Number(srcWeek)}` : `Week ${srcWeek}`;
-
-      const lineMeta = document.createElement("p");
-      lineMeta.className = "wbdw-record-meta";
-      lineMeta.textContent = `${srcYear} • ${weekStr} (vs ${opponentOwner})`;
-
-      wrap.append(lineOwner, lineValue, lineMeta);
-      container.appendChild(wrap);
+  function render(group) {
+    for (const [type, selector] of Object.entries(SEL)) {
+      const el = document.querySelector(selector); if (!el) continue;
+      el.innerHTML = "";
+      const r = group[type]; if (!r) { el.textContent = "—"; continue; }
+      const wrap = document.createElement("div"); wrap.className = "wbdw-record";
+      const p1 = document.createElement("p"); p1.className = "wbdw-record-owner"; p1.textContent = r.owner;
+      const p2 = document.createElement("p"); p2.className = "wbdw-record-value"; p2.textContent = `${labelFor(type)}: ${nfmt(r.value)}`;
+      const p3 = document.createElement("p"); p3.className = "wbdw-record-meta"; p3.textContent = `${r.year} • Week ${r.week} (vs ${r["opponent owner"]})`;
+      wrap.append(p1,p2,p3); el.appendChild(wrap);
     }
   }
 
-  // Fetch + prepare ------------------------------------------------------
   const res = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json", { cache: "no-store" });
-  const json = await res.json();
-  const data = Array.isArray(json) ? json : [];
-
-  // Filter to the pre-computed "all time" records in the feed
-  const allTime = data.filter((d) => String(d.year).toLowerCase() === "all time");
-  const regular = allTime.filter((r) => r.season_type === "regular");
-  const postseason = allTime.filter((r) => r.season_type === "postseason");
-
-  const grouped = {
-    regular: groupTypes(regular),
-    postseason: groupTypes(postseason),
+  const data = Array.isArray(await res.json()) ? await res.json() : [];
+  const groups = {
+    reg_season:  byType(data.filter(d => d.season_type === "reg_season")),
+    post_season: byType(data.filter(d => d.season_type === "post_season")),
   };
 
-  // Initial render (default to regular season) ---------------------------
   const btnReg = document.querySelector(".button-wbdw-records-reg-season");
   const btnPost = document.querySelector(".button-wbdw-records-post-season");
-
-  function setActive(which) {
-    renderSeason(grouped[which]);
-    if (btnReg && btnPost) {
-      btnReg.classList.toggle("is-active", which === "regular");
-      btnPost.classList.toggle("is-active", which === "postseason");
-    }
-  }
-
-  if (btnReg) btnReg.addEventListener("click", () => setActive("regular"));
-  if (btnPost) btnPost.addEventListener("click", () => setActive("postseason"));
-
-  setActive("regular");
+  const setActive = (k) => { render(groups[k]); btnReg?.classList.toggle("is-active", k==="reg_season"); btnPost?.classList.toggle("is-active", k==="post_season"); };
+  btnReg?.addEventListener("click", () => setActive("reg_season"));
+  btnPost?.addEventListener("click", () => setActive("post_season"));
+  setActive("reg_season");
 }
+
 
 
 //#######Owner Page Functions#######
