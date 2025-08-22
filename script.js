@@ -256,7 +256,7 @@ async function createPowerRankingsSeason() {
           borderWidth: 1 // Border width
         },
         {
-          label: 'RBs Projection',
+          label: 'RB Projection',
           data: rbValue,
           backgroundColor: 'rgba(255, 205, 86, 0.2)', // Bar color for RB Value
           borderColor: 'rgba(255, 205, 86, 1)', // Border color
