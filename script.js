@@ -687,3 +687,51 @@ function createBetTrackerOwnerRecordsTable() {
     tbody.appendChild(row);
   });
 }
+
+
+
+//#######Bet Tracker Page Functions#######
+async function createPreseasonChampionshipOdds() {
+  // --- Fetch owner odds JSON ---
+  const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_odds.json");
+  const json = await ownerSeasonHistoryRes.json();
+
+  // --- Filter preseason championship odds ---
+  const data = json.filter(d => d.season === "preseason" && d.type === "championship");
+
+  // --- Helpers ---
+  const parseOdds = (txt) => {
+    if (!txt) return NaN;
+    const n = parseInt(txt.replace(/[^\-\d]/g, ''), 10);
+    return isNaN(n) ? NaN : n;
+  };
+  const oddsToProb = (odds) => odds > 0 ? 100 / (odds + 100) : (-odds) / ((-odds) + 100);
+  const fmtPct = (p) => `${(p * 100).toFixed(1)}%`;
+
+  // --- Process rows ---
+  const rows = data
+    .map(d => {
+      const o = parseOdds(d.championship_odds);
+      return { name: d.owner, odds: d.championship_odds, prob: oddsToProb(o) };
+    })
+    .filter(r => Number.isFinite(r.prob))
+    .sort((a, b) => b.prob - a.prob);
+
+  // --- Fill cards (assumes you have same number of .team-card blocks as in data) ---
+  const cards = [...document.querySelectorAll(".div-wbdw-bet-tracker-odds-team")];
+  cards.forEach((card, i) => {
+    const r = rows[i];
+    if (!r) return;
+
+    const nameEl = card.querySelector(".text-wbdw-bet-tracker-owner");
+    const oddsEl = card.querySelector(".text-wbdw-bet-tracker-odds");
+    const probEl = card.querySelector(".text-wbdw-bet-tracker-prob");
+
+    if (nameEl) nameEl.textContent = r.name;
+    if (oddsEl) oddsEl.textContent = r.odds;
+    if (probEl) {
+      probEl.textContent = fmtPct(r.prob);
+      probEl.setAttribute("title", `Implied probability from ${r.odds}`);
+    }
+  });
+};
