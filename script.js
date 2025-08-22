@@ -699,20 +699,11 @@ async function createPreseasonChampionshipOdds() {
   // --- Filter preseason championship odds ---
   const data = json.filter(d => d.season === "preseason" && d.type === "championship");
 
-  // --- Helpers ---
-  const parseOdds = (txt) => {
-    if (!txt) return NaN;
-    const n = parseInt(txt.replace(/[^\-\d]/g, ''), 10);
-    return isNaN(n) ? NaN : n;
-  };
-  const oddsToProb = (odds) => odds > 0 ? 100 / (odds + 100) : (-odds) / ((-odds) + 100);
-  const fmtPct = (p) => `${(p * 100).toFixed(1)}%`;
-
   // --- Process rows ---
   const rows = data
     .map(d => {
-      const o = parseOdds(d.championship_odds);
-      return { name: d.owner, odds: d.championship_odds, prob: oddsToProb(o) };
+      const o = d.championship_odds;
+      return { name: d.owner, odds: o, prob: (o > 0 ? 100 / (o + 100) : (-o) / ((-o) + 100)) };
     })
     .filter(r => Number.isFinite(r.prob))
     .sort((a, b) => b.prob - a.prob);
@@ -728,10 +719,7 @@ async function createPreseasonChampionshipOdds() {
     const probEl = card.querySelector(".text-wbdw-bet-tracker-prob");
 
     if (nameEl) nameEl.textContent = r.name;
-    if (oddsEl) oddsEl.textContent = r.odds;
-    if (probEl) {
-      probEl.textContent = fmtPct(r.prob);
-      probEl.setAttribute("title", `Implied probability from ${r.odds}`);
-    }
+    if (oddsEl) oddsEl.textContent = (r.odds > 0 ? `+${r.odds}` : r.odds);
+    if (probEl) probEl.textContent = (`${(r.prob * 100).toFixed(1)}%`);
   });
 };
