@@ -66,6 +66,11 @@ async function createHomepageStandingsTable() {
 
   // Append the table to the table container
   tableContainer.appendChild(table);
+
+  const scrollWrapper = document.createElement('div');
+  scrollWrapper.classList.add('table-scroll-wrapper');
+  scrollWrapper.appendChild(table);
+  tableContainer.appendChild(scrollWrapper);
 }
 
 async function createCurrentDraftPickOrderTable() {
