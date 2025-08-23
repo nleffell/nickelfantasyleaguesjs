@@ -230,16 +230,14 @@ async function createPowerRankingsSeason() {
   const json = await powerRankingsSeasonRes.json();
   
   // Sort the JSON data by the total value
-  json.sort((a, b) => b['Total Remaining Projection'] - a['Total Remaining Projection']); // Sort in descending order
+  json.sort((a, b) => b.projected_points - a.projected_points); // Sort in descending order
 
-  const owners = json.map(item => item.Owner); // Extract owners from the JSON
-
-  // Extract and calculate the sum of value categories for each user
-  const qbValue = json.map(item => item['QB Remaining Projection']);
-  const rbValue = json.map(item => item['RB Remaining Projection']);
-  const wrValue = json.map(item => item['WR Remaining Projection']);
-  const teValue = json.map(item => item['TE Remaining Projection']);
-  const flexValue = json.map(item => item['Flex Remaining Projection']);
+  const owners = json.map(item => item.Owner); 
+  const qbValue = json.map(item => item.qb_proj);
+  const rbValue = json.map(item => item.rb_proj);
+  const wrValue = json.map(item => item.wr_proj);
+  const teValue = json.map(item => item.te_proj);
+  const flexValue = json.map(item => item.flex_proj);
 
   // Create a bar chart
   var ctx = document.getElementById('canvas-wbdw-power-rankings-season').getContext('2d');
