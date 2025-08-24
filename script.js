@@ -787,7 +787,7 @@ async function createOwnerStats(owner) {
     avg-finish: afStr
   };
 
-  // Render into page
+  // Render into various divs
   for (const [key, text] of Object.entries(mapSelectors)) {
     const el = document.querySelector(`.div-wbdw-owners-records-${key}`);
     if (el) {
