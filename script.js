@@ -789,7 +789,7 @@ async function createOwnerRecords() {
   for (const [key, text] of Object.entries(mapSelectors)) {
     const el = document.querySelector(`.div-wbdw-owners-records-${key}`);
     if (el) {
-      el.textContent = text; // or innerHTML if you want formatting
+      el.innerHTML += `<div>${text}</div>`; // or innerHTML if you want formatting
     }
   }
 }
