@@ -1,0 +1,3432 @@
+[
+  {
+    "Player":"Deandre Hopkins",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Stefon Diggs",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Alvin Kamara",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Aaron Jones",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Calvin Ridley",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Jordan Love",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Jaylen Waddle",
+    "Keeper Round":4,
+    "Years Kept":1,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Drake London",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Trey Mcbride",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Isaiah Likely",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Jerome Ford",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Jahmyr Gibbs",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Keenan Allen",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Dalton Schultz",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Kyler Murray",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Devin Singletary",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Tee Higgins",
+    "Keeper Round":11,
+    "Years Kept":2,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Devonta Smith",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Kenneth Gainwell",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Jake Ferguson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"James Cook",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Josh Downs",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Bijan Robinson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Keaton Mitchell",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Zay Flowers",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2023
+  },
+  {
+    "Player":"Sam Laporta",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Ezekiel Elliott",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Courtland Sutton",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Jakobi Meyers",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Alexander Mattison",
+    "Keeper Round":12,
+    "Years Kept":1,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Joe Burrow",
+    "Keeper Round":11,
+    "Years Kept":2,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Clyde Edwardshelaire",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Amonra St Brown",
+    "Keeper Round":11,
+    "Years Kept":1,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Rhamondre Stevenson",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Romeo Doubs",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Chris Olave",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Sam Howell",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Ty Chandler",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Chase Brown",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2023
+  },
+  {
+    "Player":"Kirk Cousins",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Derek Carr",
+    "Keeper Round":9,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Davante Adams",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Raheem Mostert",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Cooper Kupp",
+    "Keeper Round":1,
+    "Years Kept":1,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Zay Jones",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Curtis Samuel",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Donta Foreman",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Matthew Stafford",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"George Kittle",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Tony Pollard",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Jake Browning",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Chuba Hubbard",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Brian Robinson",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2023
+  },
+  {
+    "Player":"Roschon Johnson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Dalton Kincaid",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Amari Cooper",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Chris Godwin",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Austin Ekeler",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Tj Hockenson",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Trevor Lawrence",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Javonte Williams",
+    "Keeper Round":3,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Elijah Moore",
+    "Keeper Round":8,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Jahan Dotson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Kyren Williams",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Brock Purdy",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Devon Achane",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Tank Dell",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2023
+  },
+  {
+    "Player":"Mike Evans",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Joe Mixon",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Kareem Hunt",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Taysom Hill",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Saquon Barkley",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Dk Metcalf",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Justin Jefferson",
+    "Keeper Round":5,
+    "Years Kept":2,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Gabe Davis",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Kyle Pitts",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Justin Fields",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Breece Hall",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Puka Nacua",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Cj Stroud",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2023
+  },
+  {
+    "Player":"Tyler Higbee",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Christian Mccaffrey",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Evan Engram",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Baker Mayfield",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Christian Kirk",
+    "Keeper Round":9,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Royce Freeman",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Diontae Johnson",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Brandon Aiyuk",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Michael Pittman",
+    "Keeper Round":11,
+    "Years Kept":2,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Darnell Mooney",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Dameon Pierce",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Rachaad White",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Kenneth Walker",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Anthony Richardson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2023
+  },
+  {
+    "Player":"Dak Prescott",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Tyreek Hill",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"David Njoku",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Tua Tagovailoa",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Kj Osborn",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Travis Etienne",
+    "Keeper Round":12,
+    "Years Kept":1,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Nico Collins",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Khalil Herbert",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"George Pickens",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Zamir White",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Isiah Pacheco",
+    "Keeper Round":9,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Zach Charbonnet",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Jordan Addison",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2023
+  },
+  {
+    "Player":"Adam Thielen",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Jerick Mckinnon",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Jared Goff",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Derrick Henry",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Patrick Mahomes",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Gerald Everett",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Dj Moore",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Hollywood Brown",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Jonathan Taylor",
+    "Keeper Round":0,
+    "Years Kept":2,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Aj Dillon",
+    "Keeper Round":6,
+    "Years Kept":1,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Jameson Williams",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Christian Watson",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Tyjae Spears",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2023
+  },
+  {
+    "Player":"Jayden Reed",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Travis Kelce",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Odell Beckham",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"James Conner",
+    "Keeper Round":4,
+    "Years Kept":1,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Lamar Jackson",
+    "Keeper Round":7,
+    "Years Kept":3,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Aj Brown",
+    "Keeper Round":8,
+    "Years Kept":3,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Terry Mclaurin",
+    "Keeper Round":7,
+    "Years Kept":3,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Ceedee Lamb",
+    "Keeper Round":3,
+    "Years Kept":2,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Dandre Swift",
+    "Keeper Round":1,
+    "Years Kept":2,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Jk Dobbins",
+    "Keeper Round":5,
+    "Years Kept":1,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Jaylen Warren",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Quentin Johnston",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2023
+  },
+  {
+    "Player":"Rashee Rice",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Brandin Cooks",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Darren Waller",
+    "Keeper Round":7,
+    "Years Kept":3,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Josh Allen",
+    "Keeper Round":9,
+    "Years Kept":2,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Josh Jacobs",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Deebo Samuel",
+    "Keeper Round":3,
+    "Years Kept":1,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"David Montgomery",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Cole Kmet",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Antonio Gibson",
+    "Keeper Round":3,
+    "Years Kept":2,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Jamarr Chase",
+    "Keeper Round":2,
+    "Years Kept":1,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Rashid Shaheed",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Jaxon Smithnjigba",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Demario Douglas",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2023
+  },
+  {
+    "Player":"Tyler Lockett",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Michael Thomas",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Tyler Boyd",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Noah Brown",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Dallas Goedert",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Gus Edwards",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Jerry Jeudy",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Zack Moss",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Jalen Hurts",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Najee Harris",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Michael Carter",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Cade Otton",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Garrett Wilson",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2023
+  },
+  {
+    "Player":"Bo Nix",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Marvin Harrison",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Ricky Pearsall",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Devaughn Vele",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Ameer Abdullah",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Hunter Henry",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Josh Jacobs",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Zack Moss",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Jaylen Waddle",
+    "Keeper Round":3,
+    "Years Kept":2,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Rashod Bateman",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Drake London",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"James Cook",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Chig Okonkwo",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Jahmyr Gibbs",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Kendre Miller",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Roschon Johnson",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Audric Estime",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Jalen Mcmillan",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Malik Nabers",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Ladd Mcconkey",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Keon Coleman",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Dk Metcalf",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Tee Higgins",
+    "Keeper Round":10,
+    "Years Kept":3,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Rico Dowdle",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Chuba Hubbard",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Jake Ferguson",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Jerome Ford",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Brock Purdy",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Bijan Robinson",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2024
+  },
+  {
+    "Player":"Trey Benson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Davante Adams",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Cooper Kupp",
+    "Keeper Round":0,
+    "Years Kept":2,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Baker Mayfield",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Tj Hockenson",
+    "Keeper Round":4,
+    "Years Kept":1,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Hollywood Brown",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Justin Jefferson",
+    "Keeper Round":4,
+    "Years Kept":3,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Jauan Jennings",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Travis Etienne",
+    "Keeper Round":11,
+    "Years Kept":2,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Amonra St Brown",
+    "Keeper Round":10,
+    "Years Kept":2,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Kyle Pitts",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Michael Carter",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Rhamondre Stevenson",
+    "Keeper Round":5,
+    "Years Kept":1,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"George Pickens",
+    "Keeper Round":7,
+    "Years Kept":1,
+    "Owner":"Nick Leffell",
+    "Year":2024
+  },
+  {
+    "Player":"Jonathon Brooks",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Brock Bowers",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Brian Thomas",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Raheem Mostert",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Evan Engram",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Matthew Stafford",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Kyler Murray",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Deebo Samuel",
+    "Keeper Round":2,
+    "Years Kept":2,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Diontae Johnson",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Tony Pollard",
+    "Keeper Round":8,
+    "Years Kept":2,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Darius Slayton",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Khalil Herbert",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Tyler Allgeier",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Dontayvion Wicks",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2024
+  },
+  {
+    "Player":"Dalton Kincaid",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Blake Corum",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Jaylen Wright",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Zach Ertz",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Tyreek Hill",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Calvin Ridley",
+    "Keeper Round":6,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Dj Moore",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Josh Allen",
+    "Keeper Round":8,
+    "Years Kept":3,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Michael Pittman",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Najee Harris",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Chris Olave",
+    "Keeper Round":5,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Kyren Williams",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Devon Achane",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Jaxon Smithnjigba",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Josh Downs",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2024
+  },
+  {
+    "Player":"Braelon Allen",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Mike Evans",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"James Conner",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Dallas Goedert",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Ceedee Lamb",
+    "Keeper Round":2,
+    "Years Kept":3,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Justin Herbert",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Darnell Mooney",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Breece Hall",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Chase Brown",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Tucker Kraft",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Puka Nacua",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Zach Charbonnet",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Quentin Johnston",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Cj Stroud",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2024
+  },
+  {
+    "Player":"Bucky Irving",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Rome Odunze",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Isaac Guerendo",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Amari Cooper",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Demarcus Robinson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Alvin Kamara",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Sam Darnold",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Terry Mclaurin",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Jonathan Taylor",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Nick Westbrookikhine",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Cade Otton",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Khalil Shakir",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Kenneth Walker",
+    "Keeper Round":6,
+    "Years Kept":1,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Anthony Richardson",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2024
+  },
+  {
+    "Player":"Cedric Tillman",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Tyrone Tracy",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Deandre Hopkins",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Brandin Cooks",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Saquon Barkley",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Lamar Jackson",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Mark Andrews",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Courtland Sutton",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Aj Brown",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Patrick Taylor",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Nico Collins",
+    "Keeper Round":12,
+    "Years Kept":1,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Javonte Williams",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Pat Freiermuth",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Brian Robinson",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Jaylen Warren",
+    "Keeper Round":9,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2024
+  },
+  {
+    "Player":"Sam Laporta",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Travis Kelce",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Keenan Allen",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Tyler Lockett",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Jared Goff",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Aaron Jones",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Kendrick Bourne",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Gus Edwards",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Alexander Mattison",
+    "Keeper Round":11,
+    "Years Kept":2,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Jerry Jeudy",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Antonio Gibson",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Joshua Palmer",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Jameson Williams",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Tyjae Spears",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2024
+  },
+  {
+    "Player":"Jayden Reed",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Jayden Daniels",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Xavier Worthy",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Geno Smith",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Adam Thielen",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Kareem Hunt",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"George Kittle",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Taysom Hill",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Marquez Valdesscantling",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Rayray Mccloud",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Justice Hill",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Trey Mcbride",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Isiah Pacheco",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Tank Dell",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2024
+  },
+  {
+    "Player":"Rashee Rice",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Xavier Legette",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Sterling Shepard",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Joe Mixon",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Joe Burrow",
+    "Keeper Round":10,
+    "Years Kept":3,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Jordan Love",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Jk Dobbins",
+    "Keeper Round":4,
+    "Years Kept":2,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Cole Kmet",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Colby Parkinson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Jamarr Chase",
+    "Keeper Round":0,
+    "Years Kept":2,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Romeo Doubs",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Rachaad White",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Tank Bigsby",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Jordan Addison",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Zay Flowers",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2024
+  },
+  {
+    "Player":"Jalen Coker",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Joe Flacco",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Derrick Henry",
+    "Keeper Round":0,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"David Njoku",
+    "Keeper Round":9,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Jonnu Smith",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"David Montgomery",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Jakobi Meyers",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Dandre Swift",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Jalen Hurts",
+    "Keeper Round":4,
+    "Years Kept":1,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Devonta Smith",
+    "Keeper Round":4,
+    "Years Kept":1,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Garrett Wilson",
+    "Keeper Round":6,
+    "Years Kept":1,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Christian Watson",
+    "Keeper Round":11,
+    "Years Kept":1,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Jordan Mason",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Brenton Strange",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Demario Douglas",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2024
+  },
+  {
+    "Player":"Bo Nix",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Ricky Pearsall",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Devaughn Vele",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Hunter Henry",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Josh Jacobs",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Zack Moss",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Jaylen Waddle",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Rashod Bateman",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Drake London",
+    "Keeper Round":2,
+    "Years Kept":1,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"James Cook",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Chig Okonkwo",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Kendre Miller",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Roschon Johnson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Audric Estime",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Jalen Mcmillan",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Malik Nabers",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Ladd Mcconkey",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Keon Coleman",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Dk Metcalf",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Tee Higgins",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Rico Dowdle",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Chuba Hubbard",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Jake Ferguson",
+    "Keeper Round":12,
+    "Years Kept":1,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Jerome Ford",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Brock Purdy",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Jon Knicely",
+    "Year":2025
+  },
+  {
+    "Player":"Trey Benson",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Davante Adams",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Cooper Kupp",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Baker Mayfield",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Tj Hockenson",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Hollywood Brown",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Jauan Jennings",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Kyle Pitts",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Michael Carter",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Rhamondre Stevenson",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"George Pickens",
+    "Keeper Round":6,
+    "Years Kept":2,
+    "Owner":"Nick Leffell",
+    "Year":2025
+  },
+  {
+    "Player":"Jonathon Brooks",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Brock Bowers",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Brian Thomas",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Raheem Mostert",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Evan Engram",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Matthew Stafford",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Kyler Murray",
+    "Keeper Round":10,
+    "Years Kept":1,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Deebo Samuel",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Diontae Johnson",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Darius Slayton",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Khalil Herbert",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Tyler Allgeier",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Dontayvion Wicks",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Chad Hill",
+    "Year":2025
+  },
+  {
+    "Player":"Dalton Kincaid",
+    "Keeper Round":7,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Blake Corum",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Jaylen Wright",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Zach Ertz",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Calvin Ridley",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Dj Moore",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Josh Allen",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Michael Pittman",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Najee Harris",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Chris Olave",
+    "Keeper Round":4,
+    "Years Kept":2,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Kyren Williams",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Devon Achane",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Jaxon Smithnjigba",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Josh Downs",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Brian Fuquay",
+    "Year":2025
+  },
+  {
+    "Player":"Braelon Allen",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Mike Evans",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"James Conner",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Dallas Goedert",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Justin Herbert",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Darnell Mooney",
+    "Keeper Round":12,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Breece Hall",
+    "Keeper Round":1,
+    "Years Kept":1,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Chase Brown",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Tucker Kraft",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Puka Nacua",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Zach Charbonnet",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Quentin Johnston",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Cj Stroud",
+    "Keeper Round":8,
+    "Years Kept":1,
+    "Owner":"Tyler Smith",
+    "Year":2025
+  },
+  {
+    "Player":"Bucky Irving",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Rome Odunze",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Isaac Guerendo",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Amari Cooper",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Demarcus Robinson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Alvin Kamara",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Sam Darnold",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Terry Mclaurin",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Nick Westbrookikhine",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Cade Otton",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Khalil Shakir",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Kenneth Walker",
+    "Keeper Round":5,
+    "Years Kept":2,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Anthony Richardson",
+    "Keeper Round":10,
+    "Years Kept":1,
+    "Owner":"Lucas Janowicz",
+    "Year":2025
+  },
+  {
+    "Player":"Cedric Tillman",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Tyrone Tracy",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Deandre Hopkins",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Brandin Cooks",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Saquon Barkley",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Lamar Jackson",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Mark Andrews",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Courtland Sutton",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Patrick Taylor",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Nico Collins",
+    "Keeper Round":11,
+    "Years Kept":2,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Javonte Williams",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Pat Freiermuth",
+    "Keeper Round":9,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Brian Robinson",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Jaylen Warren",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Thomas Kessler",
+    "Year":2025
+  },
+  {
+    "Player":"Sam Laporta",
+    "Keeper Round":10,
+    "Years Kept":1,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Travis Kelce",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Keenan Allen",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Tyler Lockett",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Jared Goff",
+    "Keeper Round":11,
+    "Years Kept":1,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Aaron Jones",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Kendrick Bourne",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Gus Edwards",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Alexander Mattison",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Jerry Jeudy",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Antonio Gibson",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Joshua Palmer",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Jameson Williams",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Tyjae Spears",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Matt Brady",
+    "Year":2025
+  },
+  {
+    "Player":"Jayden Reed",
+    "Keeper Round":8,
+    "Years Kept":1,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Jayden Daniels",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Xavier Worthy",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Geno Smith",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Adam Thielen",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Kareem Hunt",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"George Kittle",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Taysom Hill",
+    "Keeper Round":13,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Marquez Valdesscantling",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Rayray Mccloud",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Justice Hill",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Trey Mcbride",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Isiah Pacheco",
+    "Keeper Round":3,
+    "Years Kept":1,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Tank Dell",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Tyler Goodman",
+    "Year":2025
+  },
+  {
+    "Player":"Rashee Rice",
+    "Keeper Round":9,
+    "Years Kept":1,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Xavier Legette",
+    "Keeper Round":11,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Sterling Shepard",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Joe Mixon",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Joe Burrow",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Jordan Love",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Jk Dobbins",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Cole Kmet",
+    "Keeper Round":12,
+    "Years Kept":1,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Colby Parkinson",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Romeo Doubs",
+    "Keeper Round":6,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Rachaad White",
+    "Keeper Round":1,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Tank Bigsby",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Jordan Addison",
+    "Keeper Round":5,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Zay Flowers",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Brad Lowe",
+    "Year":2025
+  },
+  {
+    "Player":"Jalen Coker",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Joe Flacco",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"David Njoku",
+    "Keeper Round":7,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Jonnu Smith",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"David Montgomery",
+    "Keeper Round":3,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Jakobi Meyers",
+    "Keeper Round":8,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Dandre Swift",
+    "Keeper Round":4,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Jalen Hurts",
+    "Keeper Round":3,
+    "Years Kept":2,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Devonta Smith",
+    "Keeper Round":2,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Garrett Wilson",
+    "Keeper Round":5,
+    "Years Kept":2,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Christian Watson",
+    "Keeper Round":10,
+    "Years Kept":2,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Jordan Mason",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Brenton Strange",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  },
+  {
+    "Player":"Demario Douglas",
+    "Keeper Round":10,
+    "Years Kept":0,
+    "Owner":"Jake Currie",
+    "Year":2025
+  }
+]
