@@ -784,7 +784,7 @@ async function createOwnerStats(owner) {
     agg: aggStr,
     "playoff-pct": ppStr,
     "playoff-wins": pwStr,
-    avg-finish: afStr
+    "avg-finish": afStr
   };
 
   // Render into various divs
