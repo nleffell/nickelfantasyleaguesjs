@@ -782,8 +782,8 @@ async function createOwnerStats(owner) {
     loser: loserStr,
     reg: regStr,
     agg: aggStr,
-    playoff-pct: ppStr,
-    playoff-wins: pwStr,
+    "playoff-pct": ppStr,
+    "playoff-wins": pwStr,
     avg-finish: afStr
   };
 
