@@ -365,7 +365,7 @@ async function createAllTimeRecords() {
 
 
 
-//#######Owner Page Functions#######
+//#######Individual Owner Pages Functions#######
 async function createOwnerStats(owner) {
   const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
   const json = await statsRes.json();
@@ -387,11 +387,11 @@ async function createOwnerStats(owner) {
   }
   
   const sortedDynasty = [...prJson].sort((a, b) => b['Overall Value'] - a['Overall Value']); // Sort all owners by Dynasty value
-  const dynastyIndex = sortedDynasty.findIndex(item => item.owner === `${owner}`);
+  const dynastyIndex = sortedDynasty.findIndex(item => item.Owner === `${owner}`);
   const dynastyPowerRank = dynastyIndex >= 0 ? ordinalSuffix(dynastyIndex + 1) : "N/A";
 
   const sortedSeason = [...prJson].sort((a, b) => b.projected_points - a.projected_point); // Sort all owners by remaining projected points
-  const seasonIndex = sortedSeason.findIndex(item => item.owner === `${owner}`); 
+  const seasonIndex = sortedSeason.findIndex(item => item.Owner === `${owner}`); 
   const seasonPowerRank = seasonIndex >= 0 ? ordinalSuffix(seasonIndex + 1) : "N/A";
   
   // Create an HTML representation for the filtered data
@@ -748,3 +748,50 @@ async function createPreseasonChampionshipOdds() {
     if (probEl) probEl.textContent = (`${(r.prob * 100).toFixed(1)}%`);
   });
 };
+
+
+
+//#######Owner Page Functions#######
+async function createOwnerStats(owner) {
+  const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
+  const json = await statsRes.json();
+
+  // Helper: builds "Owner A, Owner B - N" for any metric by max count
+  function leaderByCount(data, placeCol, countCol) {
+    const owners = data.filter(d => d[placeCol] === "1st" || d[placeCol] === "T-1st");
+
+    const names = owners
+      .map(d => d.Owner)
+      .filter(Boolean)
+      .join(", ");
+
+    return `${names} - ${countCol}`;
+  }
+
+  const championsStr = leaderByCount(json, "championships_place", "championships");
+  const loserStr = leaderByCount(json, "league_loser_count_place", "league_loser_count");
+  const regStr = leaderByCount(json, "reg_place", "reg_record");
+  const aggStr = leaderByCount(json, "agg_place", "agg_record");
+  const ppStr = leaderByCount(json, "playoffs_pct_place", "playoff_pct");
+  const pwStr = leaderByCount(json, "playoff_wins_place", "playoff_wins");
+  const afStr = leaderByCount(json, "avg_finish_place", "avg_finish");
+
+    // Map the strings to your div class names
+  const mapSelectors = {
+    champ: champStr,
+    loser: loserStr,
+    reg: regStr,
+    agg: aggStr,
+    playoff-pct: ppStr,
+    playoff-wins: pwStr,
+    avg-finish: afStr
+  };
+
+  // Render into page
+  for (const [key, text] of Object.entries(mapSelectors)) {
+    const el = document.querySelector(`.div-wbdw-owners-records-${key}`);
+    if (el) {
+      el.textContent = text; // or innerHTML if you want formatting
+    }
+  }
+}
