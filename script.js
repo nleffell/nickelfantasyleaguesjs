@@ -386,13 +386,13 @@ async function createOwnerStats(owner) {
     return n + (s[(v - 20) % 10] || s[v] || s[0]);
   }
   
-  const sortedPR = [...prJson].sort((a, b) => b['Overall Value'] - a['Overall Value']); // Sort all owners by Dynasty value
-  const rankIndex = sortedPR.findIndex(item => item.owner === `${owner}`);
-  const dynastyPowerRank = rankIndex >= 0 ? ordinalSuffix(rankIndex + 1) : "N/A";
+  const sortedDynasty = [...prJson].sort((a, b) => b['Overall Value'] - a['Overall Value']); // Sort all owners by Dynasty value
+  const dynastyIndex = sortedDynasty.findIndex(item => item.owner === `${owner}`);
+  const dynastyPowerRank = dynastyIndex >= 0 ? ordinalSuffix(dynastyIndex + 1) : "N/A";
 
-  const sortedPR = [...prJson].sort((a, b) => b.projected_points - a.projected_point); // Sort all owners by remaining projected points
-  const rankIndex = sortedPR.findIndex(item => item.owner === `${owner}`); 
-  const seasonPowerRank = rankIndex >= 0 ? ordinalSuffix(rankIndex + 1) : "N/A";
+  const sortedSeason = [...prJson].sort((a, b) => b.projected_points - a.projected_point); // Sort all owners by remaining projected points
+  const seasonIndex = sortedSeason.findIndex(item => item.owner === `${owner}`); 
+  const seasonPowerRank = seasonIndex >= 0 ? ordinalSuffix(seasonIndex + 1) : "N/A";
   
   // Create an HTML representation for the filtered data
   var htmlText = "<p>"
