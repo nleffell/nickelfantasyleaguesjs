@@ -757,11 +757,11 @@ async function createOwnerRecords() {
   const json = await statsRes.json();
 
   // Helper: builds "Owner A, Owner B - N" for any metric by max count
-  function leaderByCount(data, placeCol, countCol) {
+  function leaderByCount(data, placeCol, countCol, formatter = v => v) {
     const owners = data.filter(d => d[placeCol] === "1st" || d[placeCol] === "T-1st");
 
     const names = owners.map(d => d.owner).filter(Boolean).join(", ");
-    const value = owners[0][countCol];
+    const value = formatter(owners[0][countCol]);
 
     return `${names} - ${value}`;
   }
@@ -770,7 +770,7 @@ async function createOwnerRecords() {
   const loserStr = leaderByCount(json, "league_loser_count_place", "league_loser_count");
   const regStr = leaderByCount(json, "reg_place", "reg_record");
   const aggStr = leaderByCount(json, "agg_place", "agg_record");
-  const ppStr = leaderByCount(json, "playoffs_pct_place", "playoff_pct");
+  const ppStr = leaderByCount(json, "playoffs_pct_place", "playoff_pct", v => (v * 100).toFixed(1) + "%"));
   const pwStr = leaderByCount(json, "playoff_wins_place", "playoff_wins");
   const afStr = leaderByCount(json, "avg_finish_place", "avg_finish");
 
