@@ -768,7 +768,7 @@ async function createOwnerStats(owner) {
     return `${names} - ${countCol}`;
   }
 
-  const championsStr = leaderByCount(json, "championships_place", "championships");
+  const champStr = leaderByCount(json, "championships_place", "championships");
   const loserStr = leaderByCount(json, "league_loser_count_place", "league_loser_count");
   const regStr = leaderByCount(json, "reg_place", "reg_record");
   const aggStr = leaderByCount(json, "agg_place", "agg_record");
