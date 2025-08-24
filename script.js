@@ -760,12 +760,10 @@ async function createOwnerRecords() {
   function leaderByCount(data, placeCol, countCol) {
     const owners = data.filter(d => d[placeCol] === "1st" || d[placeCol] === "T-1st");
 
-    const names = owners
-      .map(d => d.Owner)
-      .filter(Boolean)
-      .join(", ");
+    const names = owners.map(d => d.Owner).filter(Boolean).join(", ");
+    const value = owners[0][countCol];
 
-    return `${names} - ${countCol}`;
+    return `${names} - ${value}`;
   }
 
   const champStr = leaderByCount(json, "championships_place", "championships");
