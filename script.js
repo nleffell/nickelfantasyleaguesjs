@@ -375,10 +375,32 @@ async function createOwnerStats(owner) {
       return item.owner === `${owner}`;
   });
 
+  // Fetch power rankings
+  const prRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json");
+  const prJson = await prRes.json();
+
+  //helper function
+  function ordinalSuffix(n) {
+    const s = ["th", "st", "nd", "rd"];
+    const v = n % 100;
+    return n + (s[(v - 20) % 10] || s[v] || s[0]);
+  }
+  
+  const sortedPR = [...prJson].sort((a, b) => b['Overall Value'] - a['Overall Value']); // Sort all owners by Dynasty value
+  const rankIndex = sortedPR.findIndex(item => item.owner === `${owner}`);
+  const dynastyPowerRank = rankIndex >= 0 ? ordinalSuffix(rankIndex + 1) : "N/A";
+
+  const sortedPR = [...prJson].sort((a, b) => b.projected_points - a.projected_point); // Sort all owners by remaining projected points
+  const rankIndex = sortedPR.findIndex(item => item.owner === `${owner}`); 
+  const seasonPowerRank = rankIndex >= 0 ? ordinalSuffix(rankIndex + 1) : "N/A";
+  
   // Create an HTML representation for the filtered data
   var htmlText = "<p>"
+  htmlText +=  ownerData[0]['avg_finish'] + " (" + ownerData[0]['avg_finish_place'] + ")\n\n";
   htmlText +=  ownerData[0]['reg_record'] + " (" + ownerData[0]['reg_place'] + ")\n\n";
   htmlText +=  ownerData[0]['agg_record'] + " (" + ownerData[0]['agg_place'] + ")\n\n";
+  htmlText +=  dynastyPowerRank + "\n\n";
+  htmlText +=  seasonPowerRank + "\n\n";
   htmlText +=  ownerData[0]['playoff_appearances'] + "/" + ownerData[0]['seasons'] + " (" + ownerData[0]['playoffs_pct_place'] + ")\n\n";
   htmlText +=  ownerData[0]['playoff_wins'] + " (" + ownerData[0]['playoff_wins_place'] + ")\n\n";
   htmlText += ownerData[0]['league_loser_count'];
