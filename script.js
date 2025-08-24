@@ -763,7 +763,7 @@ async function createOwnerRecords() {
     const names = owners.map(d => d.owner).filter(Boolean).join(", ");
     const value = formatter(owners[0][countCol]);
 
-    return `${names} - ${value}`;
+    return `${value} - ${names}`;
   }
 
   const champStr = leaderByCount(json, "championships_place", "championships");
