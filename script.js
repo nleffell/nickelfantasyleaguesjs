@@ -768,8 +768,6 @@ async function createOwnerRecords() {
 
   const champStr = leaderByCount(json, "championships_place", "championships");
   const loserStr = leaderByCount(json, "league_loser_count_place", "league_loser_count");
-  const regStr = leaderByCount(json, "reg_place", "reg_record");
-  const aggStr = leaderByCount(json, "agg_place", "agg_record");
   const ppStr = leaderByCount(json, "playoffs_pct_place", "playoff_pct", v => (v * 100).toFixed(0) + "%");
   const pwStr = leaderByCount(json, "playoff_wins_place", "playoff_wins");
   const afStr = leaderByCount(json, "avg_finish_place", "avg_finish");
@@ -778,8 +776,6 @@ async function createOwnerRecords() {
   const mapSelectors = {
     champ: champStr,
     loser: loserStr,
-    reg: regStr,
-    agg: aggStr,
     "playoff-pct": ppStr,
     "playoff-wins": pwStr,
     "avg-finish": afStr
