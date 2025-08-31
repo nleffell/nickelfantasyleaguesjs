@@ -752,7 +752,7 @@ async function createPreseasonChampionshipOdds() {
 
 
 //#######Owner Page Functions#######
-async function createOwnerRecords() {
+async function createOwnerStats() {
   const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
   const json = await statsRes.json();
 
