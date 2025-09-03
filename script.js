@@ -322,7 +322,7 @@ async function createPowerRankingsSeason() {
 
 
 //#######Records Page Functions#######
-// Fetches all-time records from matchup_records.json and injects them into Webflow divs.
+// Fetches weekly records from record.json
 async function createWeeklyRecords() {
   // Map JSON record_names -> your DOM blocks
   const SEL = {
@@ -389,12 +389,8 @@ async function createWeeklyRecords() {
 
   // Fetch + build groups
   let data = [];
-  try {
-    const resp = await fetch("https://raw.githubusercontent.com/nleffell/nickelfantasyleaguesjs/refs/heads/json-updates/wbdw_jsons/website_jsons/records.json", { cache: "no-store" });
-    data = await resp.json();
-  } catch (e) {
-    console.error("Failed to load weekly records:", e);
-  }
+  const resp = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/records.json");
+  data = await resp.json();
 
   // Only weekly records
   const weekly = (Array.isArray(data) ? data : []).filter(d => d.weekly_flag === true);
@@ -420,6 +416,86 @@ async function createWeeklyRecords() {
 
   // Default to regular season
   setActive("reg_season");
+}
+
+
+
+// Fetches yearly records from record.json
+async function createYearlyRecords() {
+  // Map JSON record_name -> target elements
+  const SEL = {
+    best_agg_record:  ".div-wbdw-records-yearly-best-record",
+    worst_agg_record: ".div-wbdw-records-yearly-worst-record",
+    most_points:      ".div-wbdw-records-yearly-most-points",
+    least_points:     ".div-wbdw-records-yearly-least-points", 
+  };
+
+  // Label per metric
+  const labelFor = (name) =>
+    name.includes("agg_record") ? "Record" : "Points";
+
+  // Format: agg_record is a string like "10-3"; points are numbers
+  const fmtValue = (name, val) => {
+    if (name.includes("agg_record")) return String(val ?? "—");
+    const n = Number(val);
+    return Number.isFinite(n) ? Math.round(n).toLocaleString() : "—";
+  };
+
+  // Ensure we return exactly the keys we care about (or nulls)
+  function pickByName(arr) {
+    const byKey = {};
+    for (const r of arr) {
+      if (r && r.record_name && (r.record_name in SEL)) {
+        byKey[r.record_name] = r;
+      }
+    }
+    return Object.keys(SEL).reduce((o, k) => (o[k] = byKey[k] || null, o), {});
+  }
+
+  // Render into the DOM
+  function render(group) {
+    for (const [name, selector] of Object.entries(SEL)) {
+      const el = document.querySelector(selector);
+      if (!el) continue;
+
+      el.innerHTML = "";
+      const r = group[name];
+      if (!r) { el.textContent = "—"; continue; }
+
+      const wrap = document.createElement("div");
+      wrap.className = "wbdw-record";
+
+      const p1 = document.createElement("p");
+      p1.className = "wbdw-record-owner";
+      p1.textContent = r.owner ?? "—";
+
+      const p2 = document.createElement("p");
+      p2.className = "wbdw-record-value";
+      p2.textContent = `${labelFor(name)}: ${fmtValue(name, r.value)}`;
+
+      const p3 = document.createElement("p");
+      p3.className = "wbdw-record-meta";
+      const yr = r.year ?? "—";
+      p3.textContent = `Year ${yr} • Regular Season`;
+
+      wrap.append(p1, p2, p3);
+      el.appendChild(wrap);
+    }
+  }
+
+  // Fetch JSON
+  let data = [];
+  const resp = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/records.json");
+  data = await resp.json();
+
+  // Yearly = not weekly, regular season only
+  const yearly = (Array.isArray(data) ? data : []).filter(
+    d => d.weekly_flag === false && d.reg_season_flag === true
+  );
+
+  // Select desired records and render
+  const group = pickByName(yearly);
+  render(group);
 }
 
 
