@@ -323,43 +323,102 @@ async function createPowerRankingsSeason() {
 
 //#######Records Page Functions#######
 // Fetches all-time records from matchup_records.json and injects them into Webflow divs.
-async function createAllTimeRecords() {
+async function createWeeklyRecords() {
+  // Map JSON record_names -> your DOM blocks
   const SEL = {
-    largest_mov:  ".div-wbdw-records-largest-margin",
-    highest_score: ".div-wbdw-records-highest-score",
-    smallest_mov: ".div-wbdw-records-smallest-margin",
-    lowest_score:  ".div-wbdw-records-lowest-score",
+    largest_mov:   ".div-wbdw-records-largest-margin",
+    most_points:   ".div-wbdw-records-highest-score",
+    smallest_mov:  ".div-wbdw-records-smallest-margin",
+    least_points:  ".div-wbdw-records-lowest-score",
   };
-  const labelFor = (t) => (t.includes("mov") ? "Margin" : "Score");
-  const byType = (arr) => Object.keys(SEL).reduce((o,k)=>(o[k]=arr.find(r=>r.type===k)||null,o),{});
-  const nfmt = (v) => Number.isFinite(+v) ? (+v).toFixed(2) : "—";
 
+  // Label depends on metric family
+  const labelFor = (name) => name.includes("mov") ? "Margin" : "Score";
+
+  // Format numeric values as XX.XX (or show em dash if not numeric)
+  const nfmt = (v) => {
+    const num = Number(v);
+    return Number.isFinite(num) ? num.toFixed(2) : "—";
+  };
+
+  // Reduce an array of records into the 4 we care about
+  function pickByType(arr) {
+    // Normalize: strip "_playoffs" so both regular/post map to base names
+    const byBase = {};
+    for (const r of arr) {
+      const base = (r.record_name || "").replace("_playoffs", "");
+      // keep only the first/best occurrence per base (dataset already unique)
+      if (!(base in byBase)) byBase[base] = r;
+    }
+    // Project onto our expected keys (ensures nulls for missing)
+    return Object.keys(SEL).reduce((o, key) => (o[key] = byBase[key] || null, o), {});
+  }
+
+  // Render a group (either regular season or postseason) into the DOM
   function render(group) {
-    for (const [type, selector] of Object.entries(SEL)) {
-      const el = document.querySelector(selector); if (!el) continue;
+    for (const [jsonKey, selector] of Object.entries(SEL)) {
+      const el = document.querySelector(selector);
+      if (!el) continue;
+
       el.innerHTML = "";
-      const r = group[type]; if (!r) { el.textContent = "—"; continue; }
-      const wrap = document.createElement("div"); wrap.className = "wbdw-record";
-      const p1 = document.createElement("p"); p1.className = "wbdw-record-owner"; p1.textContent = r.owner;
-      const p2 = document.createElement("p"); p2.className = "wbdw-record-value"; p2.textContent = `${labelFor(type)}: ${nfmt(r.value)}`;
-      const p3 = document.createElement("p"); p3.className = "wbdw-record-meta"; p3.textContent = `${r.year} • Week ${r.week} (vs ${r["opponent owner"]})`;
-      wrap.append(p1,p2,p3); el.appendChild(wrap);
+      const r = group[jsonKey];
+      if (!r) { el.textContent = "—"; continue; }
+
+      const wrap = document.createElement("div");
+      wrap.className = "wbdw-record";
+
+      const p1 = document.createElement("p");
+      p1.className = "wbdw-record-owner";
+      p1.textContent = r.owner ?? "—";
+
+      const p2 = document.createElement("p");
+      p2.className = "wbdw-record-value";
+      p2.textContent = `${labelFor(jsonKey)}: ${nfmt(r.value)}`;
+
+      const p3 = document.createElement("p");
+      p3.className = "wbdw-record-meta";
+      const yr = r.year ?? "—";
+      const wk = r.week ?? "—";
+      const opp = r.opponent_owner ?? "—";
+      p3.textContent = `${yr} • Week ${wk} (vs ${opp})`;
+
+      wrap.append(p1, p2, p3);
+      el.appendChild(wrap);
     }
   }
-  
-  const allTimeRecords = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/matchup_records.json");
-  const data = await allTimeRecords.json();
 
+  // Fetch + build groups
+  let data = [];
+  try {
+    const resp = await fetch("https://raw.githubusercontent.com/nleffell/nickelfantasyleaguesjs/refs/heads/json-updates/wbdw_jsons/website_jsons/records.json", { cache: "no-store" });
+    data = await resp.json();
+  } catch (e) {
+    console.error("Failed to load weekly records:", e);
+  }
+
+  // Only weekly records
+  const weekly = (Array.isArray(data) ? data : []).filter(d => d.weekly_flag === true);
+
+  // Split by reg_season_flag
   const groups = {
-    reg_season:  byType(data.filter(d => d.season_type === "reg_season")),
-    post_season: byType(data.filter(d => d.season_type === "post_season")),
+    reg_season:  pickByType(weekly.filter(d => d.reg_season_flag === true)),
+    post_season: pickByType(weekly.filter(d => d.reg_season_flag === false)),
   };
 
-  const btnReg = document.querySelector(".button-wbdw-records-reg-season");
+  // Wire up buttons
+  const btnReg  = document.querySelector(".button-wbdw-records-reg-season");
   const btnPost = document.querySelector(".button-wbdw-records-post-season");
-  const setActive = (k) => { render(groups[k]); btnReg?.classList.toggle("is-active", k==="reg_season"); btnPost?.classList.toggle("is-active", k==="post_season"); };
+
+  const setActive = (key) => {
+    render(groups[key]);
+    btnReg?.classList.toggle("is-active",  key === "reg_season");
+    btnPost?.classList.toggle("is-active", key === "post_season");
+  };
+
   btnReg?.addEventListener("click", () => setActive("reg_season"));
   btnPost?.addEventListener("click", () => setActive("post_season"));
+
+  // Default to regular season
   setActive("reg_season");
 }
 
