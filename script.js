@@ -326,10 +326,10 @@ async function createPowerRankingsSeason() {
 async function createWeeklyRecords() {
   // Map JSON record_names -> your DOM blocks
   const SEL = {
-    largest_mov:   ".div-wbdw-records-largest-margin",
-    most_points:   ".div-wbdw-records-highest-score",
-    smallest_mov:  ".div-wbdw-records-smallest-margin",
-    least_points:  ".div-wbdw-records-lowest-score",
+    largest_mov:   ".div-wbdw-records-weekly-largest-margin",
+    most_points:   ".div-wbdw-records-weekly-highest-score",
+    smallest_mov:  ".div-wbdw-records-weekly-smallest-margin",
+    least_points:  ".div-wbdw-records-weekly-lowest-score",
   };
 
   // Label depends on metric family
