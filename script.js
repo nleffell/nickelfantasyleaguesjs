@@ -525,7 +525,7 @@ async function createOwnerStats(owner) {
   const dynastyIndex = sortedDynasty.findIndex(item => item.Owner === `${owner}`);
   const dynastyPowerRank = dynastyIndex >= 0 ? ordinalSuffix(dynastyIndex + 1) : "N/A";
 
-  const sortedSeason = [...prJson].sort((a, b) => b.projected_points - a.projected_point); // Sort all owners by remaining projected points
+  const sortedSeason = [...prJson].sort((a, b) => b.projected_points - a.projected_points); // Sort all owners by remaining projected points
   const seasonIndex = sortedSeason.findIndex(item => item.Owner === `${owner}`); 
   const seasonPowerRank = seasonIndex >= 0 ? ordinalSuffix(seasonIndex + 1) : "N/A";
   
