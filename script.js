@@ -476,7 +476,7 @@ async function createYearlyRecords() {
       const p3 = document.createElement("p");
       p3.className = "wbdw-record-meta";
       const yr = r.year ?? "—";
-      p3.textContent = `Year ${yr} • Regular Season`;
+      p3.textContent = `Year: ${yr}`;
 
       wrap.append(p1, p2, p3);
       el.appendChild(wrap);
