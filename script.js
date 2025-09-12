@@ -467,7 +467,7 @@ async function createYearlyRecords() {
 
       const p1 = document.createElement("p");
       p1.className = "wbdw-record-owner";
-      p1.textContent = r.owner ?? "—";
+      p1.textContent = `Owner: ${r.owner}`;
 
       const p2 = document.createElement("p");
       p2.className = "wbdw-record-value";
