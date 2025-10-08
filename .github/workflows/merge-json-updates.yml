@@ -50,3 +50,7 @@ jobs:
 
           git merge origin/json-updates --no-edit
           git push origin main
+
+      - name: Show pushed commit
+        run: git rev-parse --short HEAD
+
