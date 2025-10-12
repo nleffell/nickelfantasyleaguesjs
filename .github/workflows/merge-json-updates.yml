@@ -38,19 +38,27 @@ jobs:
       - name: Fetch json-updates
         run: git fetch origin json-updates
 
-      - name: Merge if Changes Exist
+      - name: Merge if Changes Exist (FF-only)
         run: |
-          if git diff --quiet main origin/json-updates; then
+          # Compare remote tips
+          if git diff --quiet origin/main origin/json-updates; then
             echo "No changes to merge."
             exit 0
           fi
 
-          echo "Changes detected in the following files:"
-          git diff --name-only main origin/json-updates
+          # Ensure local main matches the remote tip
+          git checkout main
+          git reset --hard origin/main
 
-          git merge origin/json-updates --no-edit
-          git push origin main
+          # Only fast-forward; skip if histories diverged
+          if git merge-base --is-ancestor origin/main origin/json-updates; then
+            echo "Fast-forwarding main to origin/json-updates"
+            git merge --ff-only origin/json-updates
+            git push origin main
+          else
+            echo "Not a fast-forward; skipping merge to protect main."
+            exit 0
+          fi
 
       - name: Show pushed commit
         run: git rev-parse --short HEAD
-
