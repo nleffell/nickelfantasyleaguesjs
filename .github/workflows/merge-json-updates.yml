@@ -5,14 +5,14 @@ permissions:
 
 on:
   schedule:
-    # EDT (UTC-4)
-    - cron: "5 11 * * *"   # 07:05 AM ET during EDT
-    - cron: "20 23 * * *"  # 07:20 PM ET during EDT
-    # EST (UTC-5)
-    - cron: "5 12 * * *"   # 07:05 AM ET during EST
-    - cron: "20 0 * * *"   # 07:20 PM ET during EST
+    - cron: "20 12 * * *"  # 8:20 AM ET during EDT 7:20 AM ET during EST
+    - cron: "20 0 * * *"   # 8:20 PM ET during EDT 7:20 PM ET during EST
   workflow_dispatch:        # allow manual trigger anytime
 
+concurrency:
+  group: merge-json-updates
+  cancel-in-progress: true
+  
 jobs:
   merge:
     runs-on: ubuntu-latest
@@ -50,3 +50,7 @@ jobs:
 
           git merge origin/json-updates --no-edit
           git push origin main
+
+      - name: Show pushed commit
+        run: git rev-parse --short HEAD
+
