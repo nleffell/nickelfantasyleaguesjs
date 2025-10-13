@@ -5,60 +5,44 @@ permissions:
 
 on:
   schedule:
-    - cron: "20 12 * * *"  # 8:20 AM ET during EDT 7:20 AM ET during EST
-    - cron: "20 0 * * *"   # 8:20 PM ET during EDT 7:20 PM ET during EST
-  workflow_dispatch:        # allow manual trigger anytime
+    - cron: "20 12 * * *"  # 8:20 AM ET (EDT) / 7:20 AM ET (EST)
+    - cron: "20 0 * * *"   # 8:20 PM ET (EDT) / 7:20 PM ET (EST)
+  workflow_dispatch:
 
 concurrency:
   group: merge-json-updates
   cancel-in-progress: true
-  
+
 jobs:
   merge:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Main
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure Git
+      - name: Fast-forward main to json-updates if ahead
+        shell: bash
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          set -euo pipefail
+          git fetch --prune origin
 
-      - name: Ensure main is up to date
-        run: |
-          git fetch origin main
-          git checkout main
-          git reset --hard origin/main
+          # Exit if either branch is missing
+          git rev-parse --verify -q origin/main >/dev/null || exit 0
+          git rev-parse --verify -q origin/json-updates >/dev/null || exit 0
 
-      - name: Fetch json-updates
-        run: git fetch origin json-updates
+          MAIN=origin/main
+          UP=origin/json-updates
 
-      - name: Merge if Changes Exist (FF-only)
-        run: |
-          # Compare remote tips
-          if git diff --quiet origin/main origin/json-updates; then
-            echo "No changes to merge."
-            exit 0
-          fi
+          # No differences? Done.
+          git diff --quiet "$MAIN" "$UP" && { echo "No changes."; exit 0; }
 
-          # Ensure local main matches the remote tip
-          git checkout main
-          git reset --hard origin/main
-
-          # Only fast-forward; skip if histories diverged
-          if git merge-base --is-ancestor origin/main origin/json-updates; then
-            echo "Fast-forwarding main to origin/json-updates"
-            git merge --ff-only origin/json-updates
-            git push origin main
+          # Only merge when it's a true fast-forward (no merge commit)
+          if git merge-base --is-ancestor "$MAIN" "$UP"; then
+            UP_SHA=$(git rev-parse "$UP")
+            echo "Fast-forwarding main -> $UP_SHA"
+            git push origin "$UP_SHA:refs/heads/main"
           else
-            echo "Not a fast-forward; skipping merge to protect main."
-            exit 0
+            echo "Histories diverged; skipping to protect main."
           fi
-
-      - name: Show pushed commit
-        run: git rev-parse --short HEAD
