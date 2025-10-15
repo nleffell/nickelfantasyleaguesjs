@@ -1,4 +1,5 @@
 //#######Homepage Functions#######
+//Creates current standings table for home page
 async function createHomepageStandingsTable() {
   const homepageStandingsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json");
   const json = await homepageStandingsRes.json();
@@ -73,6 +74,8 @@ async function createHomepageStandingsTable() {
   tableContainer.appendChild(scrollWrapper);
 }
 
+
+//Creates draft pick order table for home page
 async function createCurrentDraftPickOrderTable() {
   const currentDraftPickOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
   const json = await currentDraftPickOrderRes.json();
@@ -143,6 +146,7 @@ async function createCurrentDraftPickOrderTable() {
 
 }
 
+//Creates dynasty power rankings for home page
 async function createPowerRankingsDynasty() {
   const powerRankingsDynastyRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json");
   const json = await powerRankingsDynastyRes.json();
@@ -230,6 +234,8 @@ async function createPowerRankingsDynasty() {
   });
 }
 
+
+//Create Current season power rankings for home page
 async function createPowerRankingsSeason() {
   const powerRankingsSeasonRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json");
   const json = await powerRankingsSeasonRes.json();
@@ -318,7 +324,7 @@ async function createPowerRankingsSeason() {
     }
   });
 }
-
+//#######End Homepage Functions#######
 
 
 //#######Records Page Functions#######
@@ -419,7 +425,6 @@ async function createWeeklyRecords() {
 }
 
 
-
 // Fetches yearly records from record.json
 async function createYearlyRecords() {
   // Map JSON record_name -> target elements
@@ -499,8 +504,79 @@ async function createYearlyRecords() {
 }
 
 
+// Gets weekly award winners table
+async function createWeeklyAwardsTable() {
+  const weeklyAwardsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/weekly_awards_history.json");
+  const json = await weeklyAwardsRes.json();
+     
+  let tableContainer = document.querySelector('div.div-wbdw-records-weekly-awards')
+
+  const table = document.createElement('table');
+  table.classList.add('table-wbdw-weekly-awards');
+
+  const tableHeader = document.createElement('thead');
+  const headerRow = document.createElement('tr');
+  headerRow.innerHTML = `
+    <th>Year</th>
+    <th>Week</th>
+    <th>Award</th>
+    <th>Owner</th>
+    <th>Value</th>
+  `;
+  tableHeader.appendChild(headerRow);
+  table.appendChild(tableHeader);
+
+  // Create the table body
+  const tableBody = document.createElement('tbody');
+
+  // Iterate through the JSON array
+  json.forEach((item, index) => {
+    const row = document.createElement('tr');
+    
+    // Access properties of each object
+    const year = item.year;
+    const week = item.week;
+    const award = item.award;
+    const owner = item.owner;
+    const val = item.value;
+
+    // Create table cells and populate with data
+    const yearCell = document.createElement('td');
+    yearCell.textContent = year;
+    row.appendChild(yearCell);
+
+    const weekCell = document.createElement('td');
+    weekCell.textContent = week;
+    row.appendChild(weekCell);
+
+    const awardCell = document.createElement('td');
+    awardCell.textContent = award;
+    row.appendChild(awardCell);
+
+    const ownerCell = document.createElement('td');
+    ownerCell.textContent = owner;
+    row.appendChild(ownerCell);
+    
+    const valueCell = document.createElement('td');
+    valueCell.textContent = val;
+    row.appendChild(valueCell);
+
+    tableBody.appendChild(row);
+  });
+  
+  table.appendChild(tableBody);
+
+  const scrollWrapper = document.createElement('div');
+  scrollWrapper.classList.add('table-scroll-wrapper');
+  scrollWrapper.appendChild(table);
+  tableContainer.appendChild(scrollWrapper);
+
+}
+//#######End Records Page Functions#######
+
 
 //#######Individual Owner Pages Functions#######
+//Create individual owner record information table
 async function createOwnerRecords(owner) {
   const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
   const json = await statsRes.json();
@@ -549,6 +625,8 @@ async function createOwnerRecords(owner) {
   document.getElementById("text-wbdw-owners-statistics-right").innerHTML = htmlText;
 }
 
+
+//Create individual owner draft picks table
 async function createOwnerDraftPicksTable(owner) {
   const ownerDraftPicksRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json");
   const json = await ownerDraftPicksRes.json();
@@ -619,6 +697,8 @@ async function createOwnerDraftPicksTable(owner) {
   tableContainer.appendChild(table);
 }
 
+
+//Create table of individual rosters for each owner
 async function createOwnerRosterTable(owner) {
   const ownersRosterRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json");
   const json = await ownersRosterRes.json();
@@ -707,6 +787,8 @@ async function createOwnerRosterTable(owner) {
   tableContainer.appendChild(table);
 }
 
+
+//Create season history table for individual owner pages
 async function createOwnerSeasonHistoryTable(owner) {
   const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json");
   const json = await ownerSeasonHistoryRes.json();
@@ -847,6 +929,7 @@ function createBetTrackerOwnerRecordsTable() {
     tbody.appendChild(row);
   });
 }
+//#######End Individual Owner Pages Functions#######
 
 
 
@@ -883,10 +966,11 @@ async function createPreseasonChampionshipOdds() {
     if (probEl) probEl.textContent = (`${(r.prob * 100).toFixed(1)}%`);
   });
 };
+//#######End Bet Tracker Page Functions#######
 
 
 
-//#######Owner Page Functions#######
+//########Owner Page Functions#######
 async function createOwnerStats() {
   const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
   const json = await statsRes.json();
@@ -924,3 +1008,4 @@ async function createOwnerStats() {
     }
   }
 }
+//########End Owner Page Functions#######
