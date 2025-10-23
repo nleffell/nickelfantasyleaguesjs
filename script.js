@@ -858,9 +858,11 @@ async function createOwnerSeasonHistoryTable(owner) {
   // Append the table to the table container
   tableContainer.appendChild(table);
 }
+//#######End Individual Owner Pages Functions#######
 
 
-//Bet Tracker Tables
+
+//#######Bet Tracker Page Functions#######
 function createBetTrackerOwnerRecordsTable() {
   const records = {};
   const rows = document.querySelectorAll("#table_wbdw_bet_tracker tbody tr");
@@ -876,7 +878,7 @@ function createBetTrackerOwnerRecordsTable() {
     const stake = parseFloat(stakeText);
 
     if (isNaN(stake) || !maker || !taker || !winner) return;
-    if (winner.toLowerCase().includes("pending")) return;
+    if (winnerLower.includes("pending") || winnerLower.includes("void")) return;
 
     [maker, taker].forEach(name => {
       if (!(name in records)) {
@@ -929,11 +931,8 @@ function createBetTrackerOwnerRecordsTable() {
     tbody.appendChild(row);
   });
 }
-//#######End Individual Owner Pages Functions#######
 
-
-
-//#######Bet Tracker Page Functions#######
+// Preseason Championship Odds table creation
 async function createPreseasonChampionshipOdds() {
   // --- Fetch owner odds JSON ---
   const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_odds.json");
