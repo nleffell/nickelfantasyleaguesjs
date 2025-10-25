@@ -570,7 +570,117 @@ async function createWeeklyAwardsTable() {
   scrollWrapper.classList.add('table-scroll-wrapper');
   scrollWrapper.appendChild(table);
   tableContainer.appendChild(scrollWrapper);
+}
 
+
+// Creates trade count table
+async function createTradeCountTable() {
+  // Fetch trade history JSON
+  const tradeHistoryRes = await fetch("https://raw.githubusercontent.com/nleffell/nickelfantasyleaguesjs/refs/heads/main/wbdw_jsons/website_jsons/trade_history.json");
+  const tradeHistory = await tradeHistoryRes.json();
+
+  // Select container div
+  const tableContainer = document.querySelector('div.div-wbdw-records-trade-count');
+
+  // Group entries by trade_id so each trade has both participants
+  const tradesById = {};
+  tradeHistory.forEach(entry => {
+    const id = entry.trade_id;
+    if (!tradesById[id]) tradesById[id] = [];
+    tradesById[id].push(entry.owner);
+  });
+
+  // Build trade stats per owner
+  const tradeStats = {};
+
+  Object.entries(tradesById).forEach(([tradeId, owners]) => {
+    if (owners.length < 2) return; // skip incomplete trades
+    const [ownerA, ownerB] = owners;
+
+    // Initialize owner records
+    if (!tradeStats[ownerA]) tradeStats[ownerA] = { count: 0, partners: {} };
+    if (!tradeStats[ownerB]) tradeStats[ownerB] = { count: 0, partners: {} };
+
+    // Increment total trades
+    tradeStats[ownerA].count++;
+    tradeStats[ownerB].count++;
+
+    // Track partner frequencies
+    tradeStats[ownerA].partners[ownerB] = (tradeStats[ownerA].partners[ownerB] || 0) + 1;
+    tradeStats[ownerB].partners[ownerA] = (tradeStats[ownerB].partners[ownerA] || 0) + 1;
+  });
+
+  // Convert to displayable array
+  const tradeArray = Object.entries(tradeStats).map(([owner, data]) => {
+    const maxCount = Math.max(...Object.values(data.partners));
+    const mostPopularPartners = Object.entries(data.partners)
+      .filter(([_, count]) => count === maxCount)
+      .map(([partner]) => partner)
+      .join(', ');
+
+    return {
+      owner,
+      tradeCount: data.count,
+      mostPopular: mostPopularPartners
+    };
+  });
+
+  // Sort by trade count descending
+  tradeArray.sort((a, b) => b.tradeCount - a.tradeCount);
+
+  // Create the table element
+  const table = document.createElement('table');
+  table.classList.add('table-wbdw-records-trade-count');
+
+  const thead = document.createElement('thead');
+  const headerRow = document.createElement('tr');
+  headerRow.innerHTML = `
+    <th>Owner</th>
+    <th>Trade Count</th>
+    <th>Most Popular Partner(s)</th>
+  `;
+  thead.appendChild(headerRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement('tbody');
+
+  tradeArray.forEach(item => {
+    const row = document.createElement('tr');
+
+    const ownerCell = document.createElement('td');
+    ownerCell.textContent = item.owner;
+    row.appendChild(ownerCell);
+
+    const countCell = document.createElement('td');
+    countCell.textContent = item.tradeCount;
+    row.appendChild(countCell);
+
+    const partnerCell = document.createElement('td');
+    partnerCell.textContent = item.mostPopular;
+    row.appendChild(partnerCell);
+
+    tbody.appendChild(row);
+  });
+
+  // Add total trades row
+  const totalTrades = Math.max(...tradeHistory.map(t => t.trade_id));
+  const totalRow = document.createElement('tr');
+  totalRow.classList.add('trade-total-row');
+  totalRow.innerHTML = `
+    <td colspan="3" style="font-weight:bold; text-align:center;">
+      Total Trades: ${totalTrades}
+    </td>
+  `;
+  tbody.appendChild(totalRow);
+
+  table.appendChild(tbody);
+
+  // Wrap for scroll
+  const scrollWrapper = document.createElement('div');
+  scrollWrapper.classList.add('table-scroll-wrapper');
+  scrollWrapper.appendChild(table);
+
+  tableContainer.appendChild(scrollWrapper);
 }
 //#######End Records Page Functions#######
 
