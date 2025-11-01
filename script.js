@@ -163,8 +163,7 @@ async function createDraftBoard() {
   };
 
   // Table container
-  let tableContainer = document.querySelector('div.div-wbdw-home-draft-board') ||
-                       document.querySelector('div.div-wbdw-home-draft-board-post-season');
+  let tableContainer = document.querySelector('div.div-wbdw-home-draft-board');
 
   const table = document.createElement('table');
   table.classList.add('table-wbdw-draft-board');
