@@ -211,7 +211,7 @@ async function createDraftBoard() {
     table.appendChild(row);
   }
 
-  tableContainer.appendChild(tabe);
+  tableContainer.appendChild(table);
 }
 
 
