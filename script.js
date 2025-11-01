@@ -143,8 +143,76 @@ async function createCurrentDraftPickOrderTable() {
   scrollWrapper.classList.add('table-scroll-wrapper');
   scrollWrapper.appendChild(table);
   tableContainer.appendChild(scrollWrapper);
-
 }
+
+
+//Create draft board for homepage
+async function createDraftBoard() {
+  // Fetch projected draft pick order
+  const draftOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
+  const draftOrderJson = await draftOrderRes.json();
+
+  // Fetch 2026 draft pick ownership info
+  const ownerDraftPicksRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json");
+  const ownerDraftPicksJson = await ownerDraftPicksRes.json();
+
+  // Helper to extract original owner from pick string
+  const getOriginalOwnerFromPick = pickStr => {
+    const match = pickStr.match(/\(([^)]+)\)/);
+    return match ? match[1].trim() : null;
+  };
+
+  // Table container
+  let tableContainer = document.querySelector('div.div-wbdw-home-draft-board') ||
+                       document.querySelector('div.div-wbdw-home-draft-board-post-season');
+
+  const table = document.createElement('table');
+  table.classList.add('table-wbdw-draft-board');
+
+  // Top row = projected picks
+  const headerRow = document.createElement('tr');
+  const blankHeader = document.createElement('th');
+  blankHeader.textContent = '';
+  headerRow.appendChild(blankHeader);
+
+  draftOrderJson.forEach(item => {
+    const th = document.createElement('th');
+    th.textContent = `${item.pick} (${item.owner})`;
+    headerRow.appendChild(th);
+  });
+  table.appendChild(headerRow);
+
+  // Rows for rounds 1–4
+  for (let round = 1; round <= 4; round++) {
+    const row = document.createElement('tr');
+
+    // First column = round label
+    const roundCell = document.createElement('td');
+    roundCell.textContent = `Round ${round}`;
+    row.appendChild(roundCell);
+
+    draftOrderJson.forEach((projPick, colIndex) => {
+      // Projected owner = top row owner
+      const projectedOwner = projPick.owner;
+
+      // Find the true owner for this round and projected pick
+      const pickEntry = ownerDraftPicksJson.find(p =>
+        p.year === 2026 &&
+        p.round === round &&
+        (getOriginalOwnerFromPick(p.pick) === projectedOwner || (!p.pick.includes('(') && p.owner === projectedOwner))
+      );
+
+      const trueOwner = pickEntry ? pickEntry.owner : projectedOwner;
+
+      const cell = document.createElement('td');
+      cell.textContent = `${round}.${colIndex + 1} - ${trueOwner}`;
+      row.appendChild(cell);
+    });
+
+    table.appendChild(row);
+  }
+}
+
 
 //Creates dynasty power rankings for home page
 async function createPowerRankingsDynasty() {
