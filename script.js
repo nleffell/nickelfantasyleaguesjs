@@ -18,6 +18,7 @@ async function createHomepageStandingsTable() {
     <th>Owner</th>
     <th>Team Name</th>
     <th>Record</th>
+    <th>Agg. Record*</th>
     <th>Points</th>
   `;
   tableHeader.appendChild(headerRow);
@@ -36,6 +37,7 @@ async function createHomepageStandingsTable() {
     const teamName = item.team_name;
     const record = item.record;
     const points = item.points;
+    const aggRec = item.agg_record
 
     // Create table cells and populate with data
     const placeCell = document.createElement('td');
@@ -54,6 +56,10 @@ async function createHomepageStandingsTable() {
     recordCell.textContent = record;
     row.appendChild(recordCell);
 
+    const aggRecordCell = document.createElement('td');
+    aggRecordCell.textContent = aggRec;
+    row.appendChild(aggRecordCell);
+
     const pointsCell = document.createElement('td');
     pointsCell.textContent = points;
     row.appendChild(pointsCell);
@@ -67,6 +73,15 @@ async function createHomepageStandingsTable() {
 
   // Append the table to the table container
   tableContainer.appendChild(table);
+
+  const noteRow = document.createElement('tr');
+  const noteCell = document.createElement('td');
+  noteCell.colSpan = 6; // Span all columns
+  noteCell.textContent = '* Aggregate Record is a team\'s record if they played all other teams every week';
+  noteCell.style.fontStyle = 'italic';
+  noteRow.appendChild(noteCell);
+  tableBody.appendChild(noteRow);
+  table.appendChild(tableBody);
 
   const scrollWrapper = document.createElement('div');
   scrollWrapper.classList.add('table-scroll-wrapper');
@@ -211,7 +226,10 @@ async function createDraftBoard() {
     table.appendChild(row);
   }
 
-  tableContainer.appendChild(table);
+  const scrollWrapper = document.createElement('div');
+  scrollWrapper.classList.add('table-scroll-wrapper');
+  scrollWrapper.appendChild(table);
+  tableContainer.appendChild(scrollWrapper);
 }
 
 
