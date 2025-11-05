@@ -18,7 +18,7 @@ async function createHomepageStandingsTable() {
     <th>Owner</th>
     <th>Team Name</th>
     <th>Record</th>
-    <th>Agg. Record*</th>
+    <th>Agg.*</th>
     <th>Points</th>
   `;
   tableHeader.appendChild(headerRow);
