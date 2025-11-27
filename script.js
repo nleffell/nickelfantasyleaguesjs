@@ -1075,6 +1075,7 @@ function createBetTrackerOwnerRecordsTable() {
     const stake = parseFloat(stakeText);
 
     if (isNaN(stake) || !maker || !taker || !winner) return;
+    const winnerLower = winner.toLowerCase();
     if (winnerLower.includes("pending") || winnerLower.includes("void")) return;
 
     [maker, taker].forEach(name => {
