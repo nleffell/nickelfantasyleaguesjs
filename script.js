@@ -1124,7 +1124,7 @@ function createBetTrackerOwnerRecordsTable() {
       <td>${name}</td>
       <td>${wins}</td>
       <td>${losses}</td>
-      <td>$${net}</td>
+      <td>$${net.toFixed(2)}</td>
     `;
     tbody.appendChild(row);
   });
