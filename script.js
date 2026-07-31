@@ -1408,7 +1408,13 @@ async function createEligibleKeepers() {
 
     const json = await response.json();
 
-    eligibleKeeperOwners = groupEligibleKeepers(json);
+    const currentYear = new Date().getFullYear();
+
+    const currentYearKeepers = json.filter(
+        player => Number(player.Year) === currentYear
+    );
+
+    eligibleKeeperOwners = groupEligibleKeepers(currentYearKeepers);
 
     selectedEligibleKeeperOwner = Object.keys(eligibleKeeperOwners).sort()[0];
 
