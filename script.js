@@ -1206,3 +1206,186 @@ async function createOwnerStats() {
   }
 }
 //########End Owner Page Functions#######
+
+
+
+//########KEEPER LEAGUE FUNCTIONS#######
+function setupKeeperHomeTabs() {
+
+    const tabs = document.querySelectorAll(".button-kl-home-tab");
+
+    const keepersPanel = document.querySelector(".div-kl-home-panel-keepers");
+    const historyPanel = document.querySelector(".div-kl-home-panel-past-keepers");
+    const rulesPanel = document.querySelector(".div-kl-home-panel-rules");
+
+    function showPanel(panel) {
+
+        keepersPanel.style.display = "none";
+        historyPanel.style.display = "none";
+        rulesPanel.style.display = "none";
+
+        keepersPanel.classList.remove("active");
+        historyPanel.classList.remove("active");
+        rulesPanel.classList.remove("active");
+
+        tabs.forEach(tab => tab.classList.remove("active"));
+
+        panel.style.display = "block";
+        panel.classList.add("active");
+    }
+
+    // Default panel
+    showPanel(keepersPanel);
+    tabs[0].classList.add("active");
+
+    tabs[0].addEventListener("click", () => {
+        showPanel(keepersPanel);
+        tabs.forEach(tab => tab.classList.remove("active"));
+        tabs[0].classList.add("active");
+    });
+
+    tabs[1].addEventListener("click", () => {
+        showPanel(historyPanel);
+        tabs.forEach(tab => tab.classList.remove("active"));
+        tabs[1].classList.add("active");
+    });
+
+    tabs[2].addEventListener("click", () => {
+        showPanel(rulesPanel);
+        tabs.forEach(tab => tab.classList.remove("active"));
+        tabs[2].classList.add("active");
+    });
+
+}
+
+
+
+
+
+//#######Eligible keeper functions
+function groupEligibleKeepers(json) {
+
+    const owners = {};
+
+    json.forEach(player => {
+
+        if (!owners[player.Owner]) {
+            owners[player.Owner] = [];
+        }
+
+        owners[player.Owner].push(player);
+
+    });
+
+    Object.values(owners).forEach(players => {
+
+        players.sort((a, b) => {
+
+            if (a["Keeper Round"] !== b["Keeper Round"]) {
+                return a["Keeper Round"] - b["Keeper Round"];
+            }
+
+            return a.Player.localeCompare(b.Player);
+
+        });
+
+    });
+
+    return owners;
+
+}
+
+function createEligibleKeeperPlayerRow(player) {
+
+    const row = document.createElement("div");
+    row.className = "div-kl-player-row";
+
+    return row;
+
+}
+
+function createEligibleKeeperPlayerRow(player) {
+
+    const row = document.createElement("div");
+    row.className = "div-kl-player-row";
+
+    return row;
+
+}
+
+function createEligibleKeeperOwnerCard(owner, players) {
+
+    const card = document.createElement("div");
+    card.className = "div-kl-owner-card";
+
+    const title = document.createElement("h3");
+    title.className = "text-kl-owner-name";
+    title.textContent = owner;
+
+    card.appendChild(title);
+
+    players.forEach(player => {
+
+        const row = createEligibleKeeperPlayerRow(player);
+
+        card.appendChild(row);
+
+    });
+
+    return card;
+
+}
+
+function renderEligibleKeeperCards(owners) {
+
+    const container = document.querySelector(".div-kl-home-panel-keepers");
+
+    container.innerHTML = "";
+
+    Object.keys(owners)
+        .sort()
+        .forEach(owner => {
+
+            const ownerCard = createEligibleKeeperOwnerCard(
+                owner,
+                owners[owner]
+            );
+
+            container.appendChild(ownerCard);
+
+        });
+
+}
+
+async function createEligibleKeepers() {
+
+    const response = await fetch(
+        "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/eligible_keepers.json"
+    );
+
+    const json = await response.json();
+
+    const groupedData = groupEligibleKeepers(json);
+
+    renderEligibleKeeperCards(groupedData);
+
+}
+//#######End eligible keeper functions
+
+
+async function createPastKeepers() {
+
+    const response = await fetch(
+        "https://raw.githubusercontent.com/USERNAME/REPO/main/keeper_jsons/website_jsons/past_keepers_by_year.json"
+    );
+
+    const data = await response.json();
+
+    const container = document.querySelector(".div-kl-home-panel-past-keepers");
+
+    // build HTML
+
+}
+
+//########END KEEPER LEAGUE FUNCTIONS#######
+
