@@ -1300,14 +1300,7 @@ function createEligibleKeeperPlayerRow(player) {
     const row = document.createElement("div");
     row.className = "div-kl-player-row";
 
-    return row;
-
-}
-
-function createEligibleKeeperPlayerRow(player) {
-
-    const row = document.createElement("div");
-    row.className = "div-kl-player-row";
+    row.textContent = `${player.Player} | Round ${player["Keeper Round"]} | Kept ${player["Years Kept"]}x`;
 
     return row;
 
@@ -1325,16 +1318,13 @@ function createEligibleKeeperOwnerCard(owner, players) {
     card.appendChild(title);
 
     players.forEach(player => {
-
-        const row = createEligibleKeeperPlayerRow(player);
-
-        card.appendChild(row);
-
+        card.appendChild(createEligibleKeeperPlayerRow(player));
     });
 
     return card;
 
 }
+
 
 function renderEligibleKeeperCards(owners) {
 
@@ -1357,6 +1347,7 @@ function renderEligibleKeeperCards(owners) {
 
 }
 
+
 async function createEligibleKeepers() {
 
     const response = await fetch(
@@ -1373,6 +1364,7 @@ async function createEligibleKeepers() {
 //#######End eligible keeper functions
 
 
+//#######Start past keeper functions#######
 async function createPastKeepers() {
 
     const response = await fetch(
@@ -1386,6 +1378,8 @@ async function createPastKeepers() {
     // build HTML
 
 }
+//#######End past keeper functions#######
+
 
 //########END KEEPER LEAGUE FUNCTIONS#######
 
