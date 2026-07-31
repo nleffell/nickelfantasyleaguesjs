@@ -1343,7 +1343,7 @@ function createEligibleKeeperOwner(players) {
 
 function renderEligibleKeeperOwner(owners, ownerName) {
 
-    const container = document.querySelector(".div-kl-owner-display");
+    const container = document.querySelector(".div-kl-keeper-rows");
 
     container.innerHTML = "";
 
