@@ -494,7 +494,7 @@
     }
   },
   "2022": {
-    "Nick Leffell": {
+    "3": {
       "Lamar Jackson": {
         "round_kept": 8,
         "times_kept": 3
@@ -508,7 +508,7 @@
         "times_kept": 1
       }
     },
-    "Brian Fuquay": {
+    "5": {
       "Javonte Williams": {
         "round_kept": 4,
         "times_kept": 1
@@ -522,7 +522,7 @@
         "times_kept": 1
       }
     },
-    "Jon Knicely": {
+    "2": {
       "Dalton Schultz": {
         "round_kept": 10,
         "times_kept": 1
@@ -536,7 +536,7 @@
         "times_kept": 2
       }
     },
-    "Thomas Kessler": {
+    "8": {
       "Dandre Swift": {
         "round_kept": 2,
         "times_kept": 2
@@ -550,7 +550,7 @@
         "times_kept": 1
       }
     },
-    "Tyler Smith": {
+    "6": {
       "Elijah Mitchell": {
         "round_kept": 10,
         "times_kept": 1
@@ -564,7 +564,7 @@
         "times_kept": 1
       }
     },
-    "Lucas Janowicz": {
+    "7": {
       "Leonard Fournette": {
         "round_kept": 4,
         "times_kept": 1
@@ -574,7 +574,7 @@
         "times_kept": 1
       }
     },
-    "Matt Brady": {
+    "9": {
       "Justin Jefferson": {
         "round_kept": 6,
         "times_kept": 2
@@ -588,7 +588,7 @@
         "times_kept": 1
       }
     },
-    "Brad Lowe": {
+    "11": {
       "Jamarr Chase": {
         "round_kept": 3,
         "times_kept": 1
@@ -602,7 +602,7 @@
         "times_kept": 2
       }
     },
-    "Tyler Goodman": {
+    "10": {
       "Antonio Gibson": {
         "round_kept": 4,
         "times_kept": 2
@@ -616,7 +616,7 @@
         "times_kept": 1
       }
     },
-    "Chad Hill": {
+    "4": {
       "Cooper Kupp": {
         "round_kept": 2,
         "times_kept": 1
@@ -630,7 +630,7 @@
         "times_kept": 1
       }
     },
-    "Jake Currie": {
+    "12": {
       "Jonathan Taylor": {
         "round_kept": 1,
         "times_kept": 2
@@ -644,7 +644,7 @@
         "times_kept": 2
       }
     },
-    "Nick Janowicz": {
+    "1": {
       "Jaylen Waddle": {
         "round_kept": 5,
         "times_kept": 1
@@ -660,7 +660,7 @@
     }
   },
   "2023": {
-    "Nick Leffell": {
+    "3": {
       "Calvin Ridley": {
         "round_kept": 7,
         "times_kept": 1
@@ -674,7 +674,7 @@
         "times_kept": 1
       }
     },
-    "Brian Fuquay": {
+    "5": {
       "Tj Hockenson": {
         "round_kept": 5,
         "times_kept": 1
@@ -688,7 +688,7 @@
         "times_kept": 1
       }
     },
-    "Jon Knicely": {
+    "2": {
       "Devonta Smith": {
         "round_kept": 5,
         "times_kept": 1
@@ -702,7 +702,7 @@
         "times_kept": 3
       }
     },
-    "Thomas Kessler": {
+    "8": {
       "George Pickens": {
         "round_kept": 8,
         "times_kept": 1
@@ -716,7 +716,7 @@
         "times_kept": 1
       }
     },
-    "Tyler Smith": {
+    "6": {
       "Rhamondre Stevenson": {
         "round_kept": 6,
         "times_kept": 1
@@ -730,7 +730,7 @@
         "times_kept": 2
       }
     },
-    "Lucas Janowicz": {
+    "7": {
       "Kenneth Walker": {
         "round_kept": 7,
         "times_kept": 1
@@ -744,7 +744,7 @@
         "times_kept": 1
       }
     },
-    "Matt Brady": {
+    "9": {
       "Patrick Mahomes": {
         "round_kept": 3,
         "times_kept": 1
@@ -754,7 +754,7 @@
         "times_kept": 3
       }
     },
-    "Brad Lowe": {
+    "11": {
       "Jamarr Chase": {
         "round_kept": 1,
         "times_kept": 2
@@ -768,7 +768,7 @@
         "times_kept": 3
       }
     },
-    "Tyler Goodman": {
+    "10": {
       "Ceedee Lamb": {
         "round_kept": 3,
         "times_kept": 3
@@ -782,7 +782,7 @@
         "times_kept": 1
       }
     },
-    "Chad Hill": {
+    "4": {
       "Nick Chubb": {
         "round_kept": 1,
         "times_kept": 1
@@ -796,13 +796,13 @@
         "times_kept": 2
       }
     },
-    "Jake Currie": {
+    "12": {
       "Joe Burrow": {
         "round_kept": 11,
         "times_kept": 3
       }
     },
-    "Nick Janowicz": {
+    "1": {
       "Jaylen Waddle": {
         "round_kept": 4,
         "times_kept": 2
@@ -818,7 +818,7 @@
     }
   },
   "2024": {
-    "Nick Leffell": {
+    "3": {
       "George Pickens": {
         "round_kept": 7,
         "times_kept": 2
@@ -832,7 +832,7 @@
         "times_kept": 1
       }
     },
-    "Brian Fuquay": {
+    "5": {
       "Dalton Kincaid": {
         "round_kept": 8,
         "times_kept": 1
@@ -846,7 +846,7 @@
         "times_kept": 1
       }
     },
-    "Jon Knicely": {
+    "2": {
       "Kyler Murray": {
         "round_kept": 11,
         "times_kept": 1
@@ -860,7 +860,7 @@
         "times_kept": 1
       }
     },
-    "Thomas Kessler": {
+    "8": {
       "Zamir White": {
         "round_kept": 10,
         "times_kept": 1
@@ -874,7 +874,7 @@
         "times_kept": 2
       }
     },
-    "Tyler Smith": {
+    "6": {
       "Breece Hall": {
         "round_kept": 2,
         "times_kept": 1
@@ -888,7 +888,7 @@
         "times_kept": 1
       }
     },
-    "Lucas Janowicz": {
+    "7": {
       "Kenneth Walker": {
         "round_kept": 6,
         "times_kept": 2
@@ -898,7 +898,7 @@
         "times_kept": 1
       }
     },
-    "Matt Brady": {
+    "9": {
       "Tyjae Spears": {
         "round_kept": 10,
         "times_kept": 1
@@ -912,7 +912,7 @@
         "times_kept": 1
       }
     },
-    "Brad Lowe": {
+    "11": {
       "Rashee Rice": {
         "round_kept": 10,
         "times_kept": 1
@@ -922,7 +922,7 @@
         "times_kept": 1
       }
     },
-    "Tyler Goodman": {
+    "10": {
       "Isiah Pacheco": {
         "round_kept": 4,
         "times_kept": 1
@@ -936,7 +936,7 @@
         "times_kept": 1
       }
     },
-    "Chad Hill": {
+    "4": {
       "Chris Olave": {
         "round_kept": 5,
         "times_kept": 2
@@ -950,7 +950,7 @@
         "times_kept": 1
       }
     },
-    "Jake Currie": {
+    "12": {
       "Jalen Hurts": {
         "round_kept": 4,
         "times_kept": 2
@@ -964,7 +964,7 @@
         "times_kept": 1
       }
     },
-    "Nick Janowicz": {
+    "1": {
       "Josh Gibbs": {
         "round_kept": 1,
         "times_kept": 1
