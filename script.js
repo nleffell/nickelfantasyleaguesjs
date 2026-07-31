@@ -1348,7 +1348,6 @@ function renderEligibleKeeperOwner(owners, ownerName) {
     container.innerHTML = "";
 
     const ownerKeeper = createEligibleKeeperOwner(
-        ownerName,
         owners[ownerName]
     );
 
