@@ -1387,6 +1387,9 @@ function populateEligibleKeeperDropdown() {
                 selectedEligibleKeeperOwner
             );
 
+            const dropdown = document.querySelector(".dropdown-kl-eligible-keepers");
+            dropdown.classList.remove("w--open");
+
         });
 
         navigation.appendChild(link);
