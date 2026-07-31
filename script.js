@@ -1210,6 +1210,9 @@ async function createOwnerStats() {
 
 
 //########KEEPER LEAGUE FUNCTIONS#######
+let eligibleKeeperOwners = {};
+let selectedEligibleKeeperOwner = "";
+
 function setupKeeperHomeTabs() {
 
     const tabs = document.querySelectorAll(".button-kl-home-tab");
@@ -1285,6 +1288,10 @@ function groupEligibleKeepers(json) {
                 return a["Keeper Round"] - b["Keeper Round"];
             }
 
+            if (a["Years Kept"] !== b["Years Kept"]) {
+                return a["Years Kept"] - b["Years Kept"];
+            }
+
             return a.Player.localeCompare(b.Player);
 
         });
@@ -1300,22 +1307,30 @@ function createEligibleKeeperPlayerRow(player) {
     const row = document.createElement("div");
     row.className = "div-kl-player-row";
 
-    row.textContent = `${player.Player} | Round ${player["Keeper Round"]} | Kept ${player["Years Kept"]}x`;
+    const playerName = document.createElement("div");
+    playerName.className = "text-kl-player-name";
+    playerName.textContent = player.Player;
+
+    const round = document.createElement("div");
+    round.className = "text-kl-keeper-round";
+    round.textContent = player["Keeper Round"];
+
+    const kept = document.createElement("div");
+    kept.className = "text-kl-years-kept";
+    kept.textContent = player["Years Kept"];
+
+    row.appendChild(playerName);
+    row.appendChild(round);
+    row.appendChild(kept);
 
     return row;
 
 }
 
-function createEligibleKeeperOwnerCard(owner, players) {
+function createEligibleKeeperOwner(players) {
 
     const card = document.createElement("div");
     card.className = "div-kl-owner-card";
-
-    const title = document.createElement("h3");
-    title.className = "text-kl-owner-name";
-    title.textContent = owner;
-
-    card.appendChild(title);
 
     players.forEach(player => {
         card.appendChild(createEligibleKeeperPlayerRow(player));
@@ -1326,25 +1341,60 @@ function createEligibleKeeperOwnerCard(owner, players) {
 }
 
 
-function renderEligibleKeeperCards(owners) {
+function renderEligibleKeeperOwner(owners, ownerName) {
 
-    const container = document.querySelector(".div-kl-home-panel-keepers");
+    const container = document.querySelector(".div-kl-owner-display");
 
     container.innerHTML = "";
 
-    Object.keys(owners)
-        .sort()
-        .forEach(owner => {
+    const ownerKeeper = createEligibleKeeperOwner(
+        ownerName,
+        owners[ownerName]
+    );
 
-            const ownerCard = createEligibleKeeperOwnerCard(
-                owner,
-                owners[owner]
+    container.appendChild(ownerKeeper);
+
+}
+
+function populateEligibleKeeperDropdown() {
+
+    const navigation = document.querySelector(
+        ".dropdown-kl-eligible-keepers .w-dropdown-list"
+    );
+
+    navigation.innerHTML = "";
+
+    const dropdownText = document.querySelector(".text-kl-eligible-keepers");
+    const owners = Object.keys(eligibleKeeperOwners).sort();
+
+    owners.forEach(owner => {
+
+        const link = document.createElement("a");
+
+        link.href = "#";
+        link.className = "w-dropdown-link";
+        link.textContent = owner;
+
+        link.addEventListener("click", function (e) {
+
+            e.preventDefault();
+
+            selectedEligibleKeeperOwner = owner;
+
+            dropdownText.textContent = owner;
+
+            renderEligibleKeeperOwner(
+                eligibleKeeperOwners,
+                selectedEligibleKeeperOwner
             );
-
-            container.appendChild(ownerCard);
 
         });
 
+        navigation.appendChild(link);
+
+    });
+
+    dropdownText.textContent = owners[0];
 }
 
 
@@ -1356,9 +1406,16 @@ async function createEligibleKeepers() {
 
     const json = await response.json();
 
-    const groupedData = groupEligibleKeepers(json);
+    eligibleKeeperOwners = groupEligibleKeepers(json);
 
-    renderEligibleKeeperCards(groupedData);
+    selectedEligibleKeeperOwner = Object.keys(eligibleKeeperOwners).sort()[0];
+
+    populateEligibleKeeperDropdown();
+
+    renderEligibleKeeperOwner(
+        eligibleKeeperOwners,
+        selectedEligibleKeeperOwner
+    );
 
 }
 //#######End eligible keeper functions
