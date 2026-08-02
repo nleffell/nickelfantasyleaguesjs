@@ -1136,8 +1136,13 @@ async function createPreseasonChampionshipOdds() {
   const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_odds.json");
   const json = await ownerSeasonHistoryRes.json();
 
-  // --- Filter preseason championship odds ---
-  const data = json.filter(d => d.season === "preseason" && d.type === "championship");
+  // --- Filter preseason championship odds for the latest year we have them ---
+  const latestYear = Math.max(...json.map(d => Number(d.year)));
+  const data = json.filter(d =>
+    Number(d.year) === latestYear &&
+    d.season === "preseason" &&
+    d.type === "championship"
+  );
 
   // --- Process rows ---
   const rows = data
