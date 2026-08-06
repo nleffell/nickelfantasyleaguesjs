@@ -1301,11 +1301,11 @@ async function create_eligible_keepers() {
                     row.style.gridTemplateColumns = "1.5fr 4fr 1fr 1fr 2fr";
 
                     row.innerHTML = `
-                        <div>${player.Owner}</div>
+                        <div><strong>Owner</strong><span>${player.Owner}</span></div>
                         <div class="player-name">${player.Player}</div>
-                        <div>${player["Keeper Round"]}</div>
-                        <div>${player["Years Kept"]}</div>
-                        <div><span class="status ${statusClass}">${statusText}</span></div>
+                        <div><strong>Round</strong><span>${player["Keeper Round"]}</span></div>
+                        <div><strong>Years</strong><span>${player["Years Kept"]}</span></div>
+                        <div><strong>Status</strong><span class="status ${statusClass}">${statusText}</span></div>
                     `;
 
                 } else {
@@ -1314,9 +1314,9 @@ async function create_eligible_keepers() {
 
                     row.innerHTML = `
                         <div class="player-name">${player.Player}</div>
-                        <div>${player["Keeper Round"]}</div>
-                        <div>${player["Years Kept"]}</div>
-                        <div><span class="status ${statusClass}">${statusText}</span></div>
+                        <div><strong>Round</strong><span>${player["Keeper Round"]}</span></div>
+                        <div><strong>Years</strong><span>${player["Years Kept"]}</span></div>
+                        <div><strong>Status</strong><span class="status ${statusClass}">${statusText}</span></div>
                     `;
 
                 }
