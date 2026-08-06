@@ -1215,241 +1215,139 @@ async function createOwnerStats() {
 
 
 //########KEEPER LEAGUE FUNCTIONS#######
-let eligibleKeeperOwners = {};
-let selectedEligibleKeeperOwner = "";
+async function create_eligible_keepers() {
 
-function setupKeeperHomeTabs() {
+    const jsonUrl = "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/eligible_keepers.json";
 
-    const tabs = document.querySelectorAll(".button-kl-home-tab");
+    const ownerSelect = document.getElementById("keeper-owner-select");
+    const keeperList = document.getElementById("keeper-list");
+    const keeperHeader = document.querySelector(".keeper-header");
 
-    const keepersPanel = document.querySelector(".div-kl-home-panel-keepers");
-    const historyPanel = document.querySelector(".div-kl-home-panel-past-keepers");
-    const rulesPanel = document.querySelector(".div-kl-home-panel-rules");
+    try {
 
-    function showPanel(panel) {
+        const response = await fetch(jsonUrl);
+        const data = await response.json();
 
-        keepersPanel.style.display = "none";
-        historyPanel.style.display = "none";
-        rulesPanel.style.display = "none";
+        // Only use the most recent year
+        const maxYear = Math.max(...data.map(p => p.Year));
 
-        keepersPanel.classList.remove("active");
-        historyPanel.classList.remove("active");
-        rulesPanel.classList.remove("active");
+        let keepers = data.filter(p => p.Year === maxYear);
 
-        tabs.forEach(tab => tab.classList.remove("active"));
-
-        panel.style.display = "block";
-        panel.classList.add("active");
-    }
-
-    // Default panel
-    showPanel(keepersPanel);
-    tabs[0].classList.add("active");
-
-    tabs[0].addEventListener("click", () => {
-        showPanel(keepersPanel);
-        tabs.forEach(tab => tab.classList.remove("active"));
-        tabs[0].classList.add("active");
-    });
-
-    tabs[1].addEventListener("click", () => {
-        showPanel(historyPanel);
-        tabs.forEach(tab => tab.classList.remove("active"));
-        tabs[1].classList.add("active");
-    });
-
-    tabs[2].addEventListener("click", () => {
-        showPanel(rulesPanel);
-        tabs.forEach(tab => tab.classList.remove("active"));
-        tabs[2].classList.add("active");
-    });
-
-}
-
-
-
-
-
-//#######Eligible keeper functions
-function groupEligibleKeepers(json) {
-
-    const owners = {};
-
-    json.forEach(player => {
-
-        if (!owners[player.Owner]) {
-            owners[player.Owner] = [];
-        }
-
-        owners[player.Owner].push(player);
-
-    });
-
-    Object.values(owners).forEach(players => {
-
-        players.sort((a, b) => {
-
+        // Sort Owner -> Round -> Player
+        keepers.sort((a, b) => {
+            if (a.Owner !== b.Owner) return a.Owner.localeCompare(b.Owner);
             if (a["Keeper Round"] !== b["Keeper Round"]) {
                 return a["Keeper Round"] - b["Keeper Round"];
             }
+            return a.Player.localeCompare(b.Player);
+        });
 
-            if (a["Years Kept"] !== b["Years Kept"]) {
-                return a["Years Kept"] - b["Years Kept"];
+        // Populate dropdown
+        const owners = [...new Set(keepers.map(k => k.Owner))];
+
+        ownerSelect.innerHTML = `<option value="all">All Owners</option>`;
+
+        owners.forEach(owner => {
+            ownerSelect.innerHTML += `<option value="${owner}">${owner}</option>`;
+        });
+
+        function renderTable(selectedOwner = "all") {
+
+            keeperList.innerHTML = "";
+
+            const filtered = selectedOwner === "all"
+                ? keepers
+                : keepers.filter(k => k.Owner === selectedOwner);
+
+            // Hide Owner column when filtering
+            if (selectedOwner === "all") {
+                keeperHeader.style.gridTemplateColumns = "1.5fr 4fr 1fr 1fr 2fr";
+
+                keeperHeader.children[0].style.display = "";
+
+            } else {
+                keeperHeader.style.gridTemplateColumns = "4fr 1fr 1fr 2fr";
+
+                keeperHeader.children[0].style.display = "none";
             }
 
-            return a.Player.localeCompare(b.Player);
+            filtered.forEach(player => {
 
+                let statusText;
+                let statusClass;
+
+                if (player["Keeper Round"] === 0) {
+                    statusText = "1st Round Pick";
+                    statusClass = "ineligible";
+                }
+                else if (player["Years Kept"] >= 3) {
+                    statusText = "Max Years Reached";
+                    statusClass = "ineligible";
+                }
+                else if (player["Years Kept"] === 2) {
+                    statusText = "Final Year";
+                    statusClass = "warning";
+                }
+                else {
+                    statusText = "Eligible";
+                    statusClass = "eligible";
+                }
+
+                const row = document.createElement("div");
+                row.className = `keeper-row ${statusClass}`;
+
+                if (selectedOwner === "all") {
+
+                    row.style.gridTemplateColumns = "1.5fr 4fr 1fr 1fr 2fr";
+
+                    row.innerHTML = `
+                        <div>${player.Owner}</div>
+                        <div class="player-name">${player.Player}</div>
+                        <div>${player["Keeper Round"]}</div>
+                        <div>${player["Years Kept"]}</div>
+                        <div><span class="status ${statusClass}">${statusText}</span></div>
+                    `;
+
+                } else {
+
+                    row.style.gridTemplateColumns = "4fr 1fr 1fr 2fr";
+
+                    row.innerHTML = `
+                        <div class="player-name">${player.Player}</div>
+                        <div>${player["Keeper Round"]}</div>
+                        <div>${player["Years Kept"]}</div>
+                        <div><span class="status ${statusClass}">${statusText}</span></div>
+                    `;
+
+                }
+
+                keeperList.appendChild(row);
+
+            });
+
+        }
+
+        renderTable();
+
+        ownerSelect.addEventListener("change", function () {
+            renderTable(this.value);
         });
 
-    });
+    } catch (err) {
 
-    return owners;
+        console.error("Error loading eligible keepers:", err);
 
-}
+        keeperList.innerHTML = `
+            <div class="keeper-row">
+                <div style="grid-column:1/-1;text-align:center;padding:20px;">
+                    Unable to load eligible keepers.
+                </div>
+            </div>
+        `;
 
-function createEligibleKeeperPlayerRow(player) {
-
-    const row = document.createElement("div");
-    row.className = "div-kl-player-row";
-
-    const playerName = document.createElement("div");
-    playerName.className = "text-kl-player-name";
-    playerName.textContent = player.Player;
-
-    const round = document.createElement("div");
-    round.className = "text-kl-keeper-round";
-    round.textContent = player["Keeper Round"];
-
-    const kept = document.createElement("div");
-    kept.className = "text-kl-years-kept";
-    kept.textContent = player["Years Kept"];
-
-    row.appendChild(playerName);
-    row.appendChild(round);
-    row.appendChild(kept);
-
-    return row;
+    }
 
 }
-
-function createEligibleKeeperOwner(players) {
-
-    const card = document.createElement("div");
-    card.className = "div-kl-owner-card";
-
-    players.forEach(player => {
-        card.appendChild(createEligibleKeeperPlayerRow(player));
-    });
-
-    return card;
-
-}
-
-
-function renderEligibleKeeperOwner(owners, ownerName) {
-
-    const container = document.querySelector(".div-kl-keeper-rows");
-
-    container.innerHTML = "";
-
-    const ownerKeeper = createEligibleKeeperOwner(
-        owners[ownerName]
-    );
-
-    container.appendChild(ownerKeeper);
-
-}
-
-function populateEligibleKeeperDropdown() {
-
-    const navigation = document.querySelector(
-        ".dropdown-kl-eligible-keepers .w-dropdown-list"
-    );
-
-    navigation.innerHTML = "";
-
-    const dropdownText = document.querySelector(".text-kl-eligible-keepers");
-    const owners = Object.keys(eligibleKeeperOwners).sort();
-
-    owners.forEach(owner => {
-
-        const link = document.createElement("a");
-
-        link.href = "#";
-        link.className = "w-dropdown-link";
-        link.textContent = owner;
-
-        link.addEventListener("click", function (e) {
-
-            e.preventDefault();
-
-            selectedEligibleKeeperOwner = owner;
-
-            dropdownText.textContent = owner;
-
-            renderEligibleKeeperOwner(
-                eligibleKeeperOwners,
-                selectedEligibleKeeperOwner
-            );
-
-            const dropdown = document.querySelector(".dropdown-kl-eligible-keepers");
-            dropdown.classList.remove("w--open");
-
-        });
-
-        navigation.appendChild(link);
-
-    });
-
-    dropdownText.textContent = owners[0];
-}
-
-
-async function createEligibleKeepers() {
-
-    const response = await fetch(
-        "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/eligible_keepers.json"
-    );
-
-    const json = await response.json();
-
-    const currentYear = new Date().getFullYear();
-
-    const currentYearKeepers = json.filter(
-        player => Number(player.Year) === currentYear
-    );
-
-    eligibleKeeperOwners = groupEligibleKeepers(currentYearKeepers);
-
-    selectedEligibleKeeperOwner = Object.keys(eligibleKeeperOwners).sort()[0];
-
-    populateEligibleKeeperDropdown();
-
-    renderEligibleKeeperOwner(
-        eligibleKeeperOwners,
-        selectedEligibleKeeperOwner
-    );
-
-}
-//#######End eligible keeper functions
-
-
-//#######Start past keeper functions#######
-async function createPastKeepers() {
-
-    const response = await fetch(
-        "https://raw.githubusercontent.com/USERNAME/REPO/main/keeper_jsons/website_jsons/past_keepers_by_year.json"
-    );
-
-    const data = await response.json();
-
-    const container = document.querySelector(".div-kl-home-panel-past-keepers");
-
-    // build HTML
-
-}
-//#######End past keeper functions#######
-
 
 //########END KEEPER LEAGUE FUNCTIONS#######
 
