@@ -1394,6 +1394,7 @@ async function create_eligible_keepers() {
 
                     row.innerHTML = `
                         <div class="owner-cell">
+                            <strong>Owner</strong>
                             <span>${player.owner}</span>
                         </div>
 
