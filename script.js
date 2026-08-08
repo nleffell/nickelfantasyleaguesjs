@@ -1228,98 +1228,246 @@ async function create_eligible_keepers() {
         const response = await fetch(jsonUrl);
         const data = await response.json();
 
-        // Only use the most recent year
-        const maxYear = Math.max(...data.map(p => p.Year));
+        // ---------------------------------------------
+        // Get the most recent year
+        // ---------------------------------------------
 
-        let keepers = data.filter(p => p.Year === maxYear);
+        const maxYear = Math.max(...Object.keys(data).map(Number));
 
-        // Sort Owner -> Round -> Player
-        keepers.sort((a, b) => {
-            if (a.Owner !== b.Owner) return a.Owner.localeCompare(b.Owner);
-            if (a["Keeper Round"] !== b["Keeper Round"]) {
-                return a["Keeper Round"] - b["Keeper Round"];
-            }
-            return a.Player.localeCompare(b.Player);
+        const yearData = data[maxYear];
+
+
+        // ---------------------------------------------
+        // Create sortable player array
+        // ---------------------------------------------
+
+        const players = [];
+
+        Object.values(yearData).forEach(roster => {
+
+            Object.entries(roster).forEach(([playerName, player]) => {
+
+                players.push({
+                    playerName: playerName,
+                    ...player
+                });
+
+            });
+
         });
 
-        // Populate dropdown
-        const owners = [...new Set(keepers.map(k => k.Owner))];
 
-        ownerSelect.innerHTML = `<option value="all">All Owners</option>`;
+        // ---------------------------------------------
+        // Sort Owner → Keeper Round → Player
+        // ---------------------------------------------
+
+        players.sort((a, b) => {
+
+            if (a.owner !== b.owner) {
+                return a.owner.localeCompare(b.owner);
+            }
+
+            if (a.keeper_round !== b.keeper_round) {
+                return a.keeper_round - b.keeper_round;
+            }
+
+            return a.playerName.localeCompare(b.playerName);
+
+        });
+
+
+        // ---------------------------------------------
+        // Populate owner dropdown
+        // ---------------------------------------------
+
+        const owners = [
+            ...new Set(players.map(player => player.owner))
+        ];
+
+        ownerSelect.innerHTML = `
+            <option value="all">All Owners</option>
+        `;
 
         owners.forEach(owner => {
-            ownerSelect.innerHTML += `<option value="${owner}">${owner}</option>`;
+
+            ownerSelect.innerHTML += `
+                <option value="${owner}">${owner}</option>
+            `;
+
         });
+
+
+        // ---------------------------------------------
+        // Render table
+        // ---------------------------------------------
 
         function renderTable(selectedOwner = "all") {
 
             keeperList.innerHTML = "";
 
-            const filtered = selectedOwner === "all"
-                ? keepers
-                : keepers.filter(k => k.Owner === selectedOwner);
 
-            // Hide Owner column when filtering
+            // -----------------------------------------
+            // Determine columns
+            // -----------------------------------------
+
             if (selectedOwner === "all") {
-                keeperHeader.style.gridTemplateColumns = "1.5fr 4fr 1fr 1fr 2fr";
+
+                keeperHeader.style.gridTemplateColumns =
+                    "1.5fr 4fr 0.75fr 1fr 1fr 2fr";
 
                 keeperHeader.children[0].style.display = "";
 
             } else {
-                keeperHeader.style.gridTemplateColumns = "4fr 1fr 1fr 2fr";
+
+                keeperHeader.style.gridTemplateColumns =
+                    "4fr 0.75fr 1fr 1fr 2fr";
 
                 keeperHeader.children[0].style.display = "none";
+
             }
 
-            filtered.forEach(player => {
+
+            // -----------------------------------------
+            // Filter selected owner
+            // -----------------------------------------
+
+            const filteredPlayers = selectedOwner === "all"
+                ? players
+                : players.filter(player => player.owner === selectedOwner);
+
+
+            // -----------------------------------------
+            // Create rows
+            // -----------------------------------------
+
+            filteredPlayers.forEach(player => {
+
+                // -------------------------------------
+                // Determine keeper status
+                // -------------------------------------
 
                 let statusText;
                 let statusClass;
 
-                if (player["Keeper Round"] === 0) {
+                if (player.keeper_round === 0) {
+
                     statusText = "1st Round Pick";
                     statusClass = "ineligible";
+
                 }
-                else if (player["Years Kept"] >= 3) {
+                else if (player.years_kept_consecutively >= 3) {
+
                     statusText = "Max Years Reached";
                     statusClass = "ineligible";
+
                 }
-                else if (player["Years Kept"] === 2) {
+                else if (player.years_kept_consecutively === 2) {
+
                     statusText = "Final Year";
                     statusClass = "warning";
+
                 }
                 else {
+
                     statusText = "Eligible";
                     statusClass = "eligible";
+
                 }
 
+
+                // -------------------------------------
+                // Create row
+                // -------------------------------------
+
                 const row = document.createElement("div");
+
                 row.className = `keeper-row ${statusClass}`;
+
+
+                // -------------------------------------
+                // All Owners view
+                // -------------------------------------
 
                 if (selectedOwner === "all") {
 
-                    row.style.gridTemplateColumns = "1.5fr 4fr 1fr 1fr 2fr";
+                    row.style.gridTemplateColumns =
+                        "1.5fr 4fr 0.75fr 1fr 1fr 2fr";
 
                     row.innerHTML = `
-                        <div><strong>Owner</strong><span>${player.Owner}</span></div>
-                        <div class="player-name">${player.Player}</div>
-                        <div><strong>Round</strong><span>${player["Keeper Round"]}</span></div>
-                        <div><strong>Years</strong><span>${player["Years Kept"]}</span></div>
-                        <div><strong>Status</strong><span class="status ${statusClass}">${statusText}</span></div>
-                    `;
+                        <div>
+                            <strong>Owner</strong>
+                            <span>${player.owner}</span>
+                        </div>
 
-                } else {
+                        <div class="player-name">
+                            ${player.playerName}
+                        </div>
 
-                    row.style.gridTemplateColumns = "4fr 1fr 1fr 2fr";
+                        <div>
+                            <strong>Pos</strong>
+                            <span>${player.position}</span>
+                        </div>
 
-                    row.innerHTML = `
-                        <div class="player-name">${player.Player}</div>
-                        <div><strong>Round</strong><span>${player["Keeper Round"]}</span></div>
-                        <div><strong>Years</strong><span>${player["Years Kept"]}</span></div>
-                        <div><strong>Status</strong><span class="status ${statusClass}">${statusText}</span></div>
+                        <div>
+                            <strong>Round</strong>
+                            <span>${player.keeper_round}</span>
+                        </div>
+
+                        <div>
+                            <strong>Years</strong>
+                            <span>${player.years_kept_consecutively}</span>
+                        </div>
+
+                        <div>
+                            <strong>Status</strong>
+                            <span class="status ${statusClass}">
+                                ${statusText}
+                            </span>
+                        </div>
                     `;
 
                 }
+
+
+                // -------------------------------------
+                // Individual Owner view
+                // -------------------------------------
+
+                else {
+
+                    row.style.gridTemplateColumns =
+                        "4fr 0.75fr 1fr 1fr 2fr";
+
+                    row.innerHTML = `
+                        <div class="player-name">
+                            ${player.playerName}
+                        </div>
+
+                        <div>
+                            <strong>Pos</strong>
+                            <span>${player.position}</span>
+                        </div>
+
+                        <div>
+                            <strong>Round</strong>
+                            <span>${player.keeper_round}</span>
+                        </div>
+
+                        <div>
+                            <strong>Years</strong>
+                            <span>${player.years_kept_consecutively}</span>
+                        </div>
+
+                        <div>
+                            <strong>Status</strong>
+                            <span class="status ${statusClass}">
+                                ${statusText}
+                            </span>
+                        </div>
+                    `;
+
+                }
+
 
                 keeperList.appendChild(row);
 
@@ -1327,11 +1475,24 @@ async function create_eligible_keepers() {
 
         }
 
+
+        // ---------------------------------------------
+        // Initial render
+        // ---------------------------------------------
+
         renderTable();
 
+
+        // ---------------------------------------------
+        // Owner dropdown
+        // ---------------------------------------------
+
         ownerSelect.addEventListener("change", function () {
+
             renderTable(this.value);
+
         });
+
 
     } catch (err) {
 
@@ -1348,6 +1509,7 @@ async function create_eligible_keepers() {
     }
 
 }
+
 
 //########END KEEPER LEAGUE FUNCTIONS#######
 
