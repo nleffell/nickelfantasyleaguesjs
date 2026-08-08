@@ -1233,7 +1233,6 @@ async function create_eligible_keepers() {
         // ---------------------------------------------
 
         const maxYear = Math.max(...Object.keys(data).map(Number));
-
         const yearData = data[maxYear];
 
 
@@ -1394,30 +1393,30 @@ async function create_eligible_keepers() {
                         "1.5fr 4fr 0.75fr 1fr 1fr 2fr";
 
                     row.innerHTML = `
-                        <div>
+                        <div class="owner-cell">
                             <span>${player.owner}</span>
                         </div>
 
-                        <div class="player-name">
+                        <div class="player-cell player-name">
                             ${player.playerName}
                         </div>
 
-                        <div>
+                        <div class="position-cell">
                             <strong>Pos</strong>
                             <span>${player.position}</span>
                         </div>
 
-                        <div>
+                        <div class="round-cell">
                             <strong>Round</strong>
                             <span>${player.keeper_round}</span>
                         </div>
 
-                        <div>
+                        <div class="years-cell">
                             <strong>Years</strong>
                             <span>${player.years_kept_consecutively}</span>
                         </div>
 
-                        <div>
+                        <div class="status-cell">
                             <strong>Status</strong>
                             <span class="status ${statusClass}">
                                 ${statusText}
@@ -1438,23 +1437,27 @@ async function create_eligible_keepers() {
                         "4fr 0.75fr 1fr 1fr 2fr";
 
                     row.innerHTML = `
-                        <div class="player-name">
+                        <div class="player-cell player-name">
                             ${player.playerName}
                         </div>
 
-                        <div>
+                        <div class="position-cell">
+                            <strong>Pos</strong>
                             <span>${player.position}</span>
                         </div>
 
-                        <div>
+                        <div class="round-cell">
+                            <strong>Round</strong>
                             <span>${player.keeper_round}</span>
                         </div>
 
-                        <div>
+                        <div class="years-cell">
+                            <strong>Years</strong>
                             <span>${player.years_kept_consecutively}</span>
                         </div>
 
-                        <div>
+                        <div class="status-cell">
+                            <strong>Status</strong>
                             <span class="status ${statusClass}">
                                 ${statusText}
                             </span>
