@@ -1395,7 +1395,6 @@ async function create_eligible_keepers() {
 
                     row.innerHTML = `
                         <div>
-                            <strong>Owner</strong>
                             <span>${player.owner}</span>
                         </div>
 
@@ -1444,22 +1443,18 @@ async function create_eligible_keepers() {
                         </div>
 
                         <div>
-                            <strong>Pos</strong>
                             <span>${player.position}</span>
                         </div>
 
                         <div>
-                            <strong>Round</strong>
                             <span>${player.keeper_round}</span>
                         </div>
 
                         <div>
-                            <strong>Years</strong>
                             <span>${player.years_kept_consecutively}</span>
                         </div>
 
                         <div>
-                            <strong>Status</strong>
                             <span class="status ${statusClass}">
                                 ${statusText}
                             </span>
