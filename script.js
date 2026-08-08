@@ -1217,7 +1217,7 @@ async function createOwnerStats() {
 //########KEEPER LEAGUE FUNCTIONS#######
 async function create_eligible_keepers() {
 
-    const jsonUrl = "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/eligible_keepers.json";
+    const jsonUrl = "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/eligible_keepers_by_year.json";
 
     const ownerSelect = document.getElementById("keeper-owner-select");
     const keeperList = document.getElementById("keeper-list");
