@@ -161,74 +161,168 @@ async function createCurrentDraftPickOrderTable() {
 }
 
 
-//Create draft board for homepage
+// Create draft board for homepage
 async function createDraftBoard() {
   // Fetch projected draft pick order
   const draftOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
   const draftOrderJson = await draftOrderRes.json();
 
-  // Fetch 2026 draft pick ownership info
+  // Fetch draft pick ownership info
   const ownerDraftPicksRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json");
   const ownerDraftPicksJson = await ownerDraftPicksRes.json();
 
-  // Helper to extract original owner from pick string
+  // ------------------------------------------------------------
+  // Determine the closest/upcoming draft year
+  // ------------------------------------------------------------
+  const draftYear = Math.min(...ownerDraftPicksJson.map(p => Number(p.year)));
+
+  // ------------------------------------------------------------
+  // Helper: get original owner from a pick string
+  //
+  // "TBD"                  -> null
+  // "TBD (Chad Hill)"      -> "Chad Hill"
+  // ------------------------------------------------------------
   const getOriginalOwnerFromPick = pickStr => {
     const match = pickStr.match(/\(([^)]+)\)/);
     return match ? match[1].trim() : null;
   };
 
+  // ------------------------------------------------------------
+  // Find the current owner of an original owner's pick
+  // for a specific year and round.
+  //
+  // If the original owner still owns their pick:
+  //   owner = originalOwner
+  //   pick = "TBD"
+  //
+  // If it was traded:
+  //   owner = current owner
+  //   pick = "TBD (Original Owner)"
+  // ------------------------------------------------------------
+  const getCurrentPickOwner = (originalOwner, round) => {
+    const picks = ownerDraftPicksJson.filter(
+      p =>
+        Number(p.year) === draftYear &&
+        Number(p.round) === round
+    );
+
+    // First look for a traded pick that originally belonged
+    // to this projected owner.
+    const tradedPick = picks.find(
+      p => getOriginalOwnerFromPick(p.pick) === originalOwner
+    );
+
+    if (tradedPick) {
+      return tradedPick.owner;
+    }
+
+    // If there is no traded version, the original owner
+    // still owns their own pick.
+    const originalPick = picks.find(
+      p =>
+        p.owner === originalOwner &&
+        !getOriginalOwnerFromPick(p.pick)
+    );
+
+    if (originalPick) {
+      return originalPick.owner;
+    }
+
+    // Fallback — this should only happen if the pick is missing
+    // from the ownership JSON.
+    return originalOwner;
+  };
+
+  // ------------------------------------------------------------
   // Table container
-  let tableContainer = document.querySelector('div.div-wbdw-home-draft-board');
+  // ------------------------------------------------------------
+  const tableContainer = document.querySelector(
+    "div.div-wbdw-home-draft-board"
+  );
 
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-draft-board');
+  if (!tableContainer) {
+    console.error(
+      "Draft board container not found: .div-wbdw-home-draft-board"
+    );
+    return;
+  }
 
-  // Top row = projected picks
-  const headerRow = document.createElement('tr');
-  const blankHeader = document.createElement('th');
-  blankHeader.textContent = '';
+  // Clear existing board in case function is called more than once
+  tableContainer.innerHTML = "";
+
+  // ------------------------------------------------------------
+  // Create table
+  // ------------------------------------------------------------
+  const table = document.createElement("table");
+  table.classList.add("table-wbdw-draft-board");
+
+  // ------------------------------------------------------------
+  // Header row = projected draft order
+  // ------------------------------------------------------------
+  const headerRow = document.createElement("tr");
+
+  // Blank first column
+  const blankHeader = document.createElement("th");
+  blankHeader.textContent = "";
   headerRow.appendChild(blankHeader);
 
   draftOrderJson.forEach(item => {
-    const th = document.createElement('th');
+    const th = document.createElement("th");
+
     th.textContent = `${item.pick} (${item.owner})`;
+
     headerRow.appendChild(th);
   });
+
   table.appendChild(headerRow);
 
+  // ------------------------------------------------------------
   // Rows for rounds 1–4
+  // ------------------------------------------------------------
   for (let round = 1; round <= 4; round++) {
-    const row = document.createElement('tr');
+    const row = document.createElement("tr");
 
-    // First column = round label
-    const roundCell = document.createElement('td');
+    // Round label
+    const roundCell = document.createElement("td");
     roundCell.textContent = `Round ${round}`;
     row.appendChild(roundCell);
 
+    // Each column represents an original/projected draft slot
     draftOrderJson.forEach((projPick, colIndex) => {
-      // Projected owner = top row owner
-      const projectedOwner = projPick.owner;
+      const originalOwner = projPick.owner;
 
-      // Find the true owner for this round and projected pick
-      const pickEntry = ownerDraftPicksJson.find(p =>
-        p.year === 2026 &&
-        p.round === round &&
-        (getOriginalOwnerFromPick(p.pick) === projectedOwner || (!p.pick.includes('(') && p.owner === projectedOwner))
+      // Find who currently owns this particular original pick
+      const currentOwner = getCurrentPickOwner(
+        originalOwner,
+        round
       );
 
-      const trueOwner = pickEntry ? pickEntry.owner : projectedOwner;
+      const cell = document.createElement("td");
 
-      const cell = document.createElement('td');
-      cell.textContent = `${round}.${colIndex + 1} - ${trueOwner}`;
+      cell.textContent =
+        `${round}.${String(colIndex + 1).padStart(2, "0")} - ${currentOwner}`;
+
       row.appendChild(cell);
     });
 
     table.appendChild(row);
   }
 
-  const scrollWrapper = document.createElement('div');
-  scrollWrapper.classList.add('table-scroll-wrapper');
+  // ------------------------------------------------------------
+  // Add year label
+  // ------------------------------------------------------------
+  const yearLabel = document.createElement("div");
+  yearLabel.classList.add("draft-board-year");
+  yearLabel.textContent = `${draftYear} Draft`;
+
+  // ------------------------------------------------------------
+  // Scroll wrapper
+  // ------------------------------------------------------------
+  const scrollWrapper = document.createElement("div");
+  scrollWrapper.classList.add("table-scroll-wrapper");
   scrollWrapper.appendChild(table);
+
+  tableContainer.appendChild(yearLabel);
   tableContainer.appendChild(scrollWrapper);
 }
 
