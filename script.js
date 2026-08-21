@@ -885,19 +885,31 @@ async function createYearlyRecords() {
 
 // Gets weekly award winners table
 async function createWeeklyAwardsTable() {
-  const weeklyAwardsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/weekly_awards_history.json");
+
+  const weeklyAwardsRes = await fetch(
+    "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/weekly_awards_history.json"
+  );
 
   const json = await weeklyAwardsRes.json();
 
-  const tableContainer = document.querySelector("div.div-wbdw-records-weekly-awards");
+  const container = document.querySelector(
+    "div.div-wbdw-records-weekly-awards"
+  );
 
-  if (!tableContainer) return;
+  if (!container) return;
 
-  // Clear existing content
-  tableContainer.innerHTML = "";
+  const awardsList = container.querySelector(
+    "[data-weekly-awards]"
+  );
+
+  if (!awardsList) return;
+
+  // Clear existing rows
+  awardsList.innerHTML = "";
+
 
   // --------------------------------------------------
-  // Flatten nested JSON:
+  // Flatten nested JSON
   //
   // Year
   //   -> Week
@@ -907,101 +919,122 @@ async function createWeeklyAwardsTable() {
 
   const awards = [];
 
-  Object.entries(json).forEach(([year, weeks]) => {
-    Object.entries(weeks).forEach(([week, weekAwards]) => {
-      Object.entries(weekAwards).forEach(([award, data]) => {
-        awards.push({
-          year: Number(year),
-          week: Number(week),
-          award: award,
-          owner: data.owner,
-          value: data.value
-        });
-      });
-    });
-  });
+  Object.entries(json).forEach(
+    ([year, weeks]) => {
+
+      Object.entries(weeks).forEach(
+        ([week, weekAwards]) => {
+
+          Object.entries(weekAwards).forEach(
+            ([award, data]) => {
+
+              awards.push({
+                year: Number(year),
+                week: Number(week),
+                award: award,
+                owner: data.owner,
+                value: data.value
+              });
+
+            }
+          );
+
+        }
+      );
+
+    }
+  );
+
 
   // --------------------------------------------------
-  // Sort newest year/week first
+  // Newest → oldest
   // --------------------------------------------------
 
   awards.sort((a, b) => {
+
     if (b.year !== a.year) {
       return b.year - a.year;
     }
 
     return b.week - a.week;
+
   });
 
+
   // --------------------------------------------------
-  // Create table
+  // Create award rows
   // --------------------------------------------------
-
-  const table = document.createElement("table");
-  table.classList.add("table-wbdw-weekly-awards");
-
-  // Header
-  const tableHeader = document.createElement("thead");
-  const headerRow = document.createElement("tr");
-
-  headerRow.innerHTML = `
-    <th>Year</th>
-    <th>Week</th>
-    <th>Award</th>
-    <th>Owner</th>
-    <th>Value</th>
-  `;
-
-  tableHeader.appendChild(headerRow);
-  table.appendChild(tableHeader);
-
-  // Body
-  const tableBody = document.createElement("tbody");
 
   awards.forEach(item => {
-    const row = document.createElement("tr");
 
-    const yearCell = document.createElement("td");
-    yearCell.textContent = item.year;
-    row.appendChild(yearCell);
+    const row = document.createElement("div");
 
-    const weekCell = document.createElement("td");
-    weekCell.textContent = item.week;
-    row.appendChild(weekCell);
+    row.className = "wbdw-award-row";
 
-    const awardCell = document.createElement("td");
-    awardCell.textContent = item.award;
-    row.appendChild(awardCell);
 
-    const ownerCell = document.createElement("td");
-    ownerCell.textContent = item.owner;
-    row.appendChild(ownerCell);
+    // Week
+    const week = document.createElement("div");
 
-    const valueCell = document.createElement("td");
+    week.className = "wbdw-award-week";
 
-    // Format values based on award type
+    week.textContent =
+      `${item.year} • Week ${item.week}`;
+
+
+    // Award name
+    const award = document.createElement("div");
+
+    award.className = "wbdw-award-name";
+
+    award.textContent =
+      item.award;
+
+
+    // Owner
+    const owner = document.createElement("div");
+
+    owner.className = "wbdw-award-owner";
+
+    owner.textContent =
+      item.owner ?? "—";
+
+
+    // Value
+    const value = document.createElement("div");
+
+    value.className = "wbdw-award-value";
+
+
     if (item.award === "most efficient manager") {
-      valueCell.textContent = `${(Number(item.value) * 100).toFixed(1)}%`;
+
+      value.textContent =
+        `${(Number(item.value) * 100).toFixed(1)}%`;
+
     } else {
-      valueCell.textContent = Number(item.value).toFixed(2);
+
+      const numericValue =
+        Number(item.value);
+
+      value.textContent =
+        Number.isFinite(numericValue)
+          ? numericValue.toFixed(2)
+          : "—";
+
     }
 
-    row.appendChild(valueCell);
 
-    tableBody.appendChild(row);
+    row.append(
+      week,
+      award,
+      owner,
+      value
+    );
+
+
+    awardsList.appendChild(row);
+
   });
 
-  table.appendChild(tableBody);
-
-  // --------------------------------------------------
-  // Scroll wrapper
-  // --------------------------------------------------
-
-  const scrollWrapper = document.createElement("div");
-  scrollWrapper.classList.add("table-scroll-wrapper");
-  scrollWrapper.appendChild(table);
-
-  tableContainer.appendChild(scrollWrapper);
 }
 
 
