@@ -1040,112 +1040,241 @@ async function createWeeklyAwardsTable() {
 
 // Creates trade count table
 async function createTradeCountTable() {
-  // Fetch trade history JSON
-  const tradeHistoryRes = await fetch("https://raw.githubusercontent.com/nleffell/nickelfantasyleaguesjs/refs/heads/main/wbdw_jsons/website_jsons/trade_history.json");
+
+  const tradeHistoryRes = await fetch(
+    "https://raw.githubusercontent.com/nleffell/nickelfantasyleaguesjs/refs/heads/main/wbdw_jsons/website_jsons/trade_history.json"
+  );
+
   const tradeHistory = await tradeHistoryRes.json();
 
-  // Select container div
-  const tableContainer = document.querySelector('div.div-wbdw-records-trade-count');
 
-  // Group entries by trade_id so each trade has both participants
+  // --------------------------------------------------
+  // Find our new HTML elements
+  // --------------------------------------------------
+
+  const totalElement = document.querySelector(
+    "[data-trade-total]"
+  );
+
+  const tableBody = document.querySelector(
+    "[data-trade-history]"
+  );
+
+
+  if (!totalElement || !tableBody) {
+
+    console.error(
+      "Trade history elements not found."
+    );
+
+    return;
+  }
+
+
+  // Clear existing rows
+  tableBody.innerHTML = "";
+
+
+  // --------------------------------------------------
+  // Group entries by trade ID
+  //
+  // Each trade has two records:
+  // Owner A
+  // Owner B
+  // --------------------------------------------------
+
   const tradesById = {};
+
   tradeHistory.forEach(entry => {
-    const id = entry.trade_id;
-    if (!tradesById[id]) tradesById[id] = [];
-    tradesById[id].push(entry.owner);
+
+    const tradeId = entry.trade_id;
+
+    if (!tradesById[tradeId]) {
+      tradesById[tradeId] = [];
+    }
+
+    tradesById[tradeId].push(entry.owner);
+
   });
 
-  // Build trade stats per owner
+
+  // --------------------------------------------------
+  // Build owner statistics
+  // --------------------------------------------------
+
   const tradeStats = {};
 
-  Object.entries(tradesById).forEach(([tradeId, owners]) => {
-    if (owners.length < 2) return; // skip incomplete trades
-    const [ownerA, ownerB] = owners;
 
-    // Initialize owner records
-    if (!tradeStats[ownerA]) tradeStats[ownerA] = { count: 0, partners: {} };
-    if (!tradeStats[ownerB]) tradeStats[ownerB] = { count: 0, partners: {} };
+  Object.values(tradesById).forEach(
+    owners => {
 
-    // Increment total trades
-    tradeStats[ownerA].count++;
-    tradeStats[ownerB].count++;
+      if (owners.length < 2) {
+        return;
+      }
 
-    // Track partner frequencies
-    tradeStats[ownerA].partners[ownerB] = (tradeStats[ownerA].partners[ownerB] || 0) + 1;
-    tradeStats[ownerB].partners[ownerA] = (tradeStats[ownerB].partners[ownerA] || 0) + 1;
-  });
+      const ownerA = owners[0];
+      const ownerB = owners[1];
 
-  // Convert to displayable array
-  const tradeArray = Object.entries(tradeStats).map(([owner, data]) => {
-    const maxCount = Math.max(...Object.values(data.partners));
-    const mostPopularPartners = Object.entries(data.partners)
-      .filter(([_, count]) => count === maxCount)
-      .map(([partner]) => partner)
-      .join(', ');
 
-    return {
-      owner,
-      tradeCount: data.count,
-      mostPopular: mostPopularPartners
-    };
-  });
+      // Initialize owners
+      if (!tradeStats[ownerA]) {
 
-  // Sort by trade count descending
-  tradeArray.sort((a, b) => b.tradeCount - a.tradeCount);
+        tradeStats[ownerA] = {
+          count: 0,
+          partners: {}
+        };
 
-  // Create the table element
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-records-trade-count');
+      }
 
-  const thead = document.createElement('thead');
-  const headerRow = document.createElement('tr');
-  headerRow.innerHTML = `
-    <th>Owner</th>
-    <th>Trade Count</th>
-    <th>Most Popular Partner(s)</th>
-  `;
-  thead.appendChild(headerRow);
-  table.appendChild(thead);
+      if (!tradeStats[ownerB]) {
 
-  const tbody = document.createElement('tbody');
+        tradeStats[ownerB] = {
+          count: 0,
+          partners: {}
+        };
+
+      }
+
+
+      // Increment trade counts
+      tradeStats[ownerA].count++;
+      tradeStats[ownerB].count++;
+
+
+      // Track trading partners
+      tradeStats[ownerA].partners[ownerB] =
+        (tradeStats[ownerA].partners[ownerB] || 0) + 1;
+
+      tradeStats[ownerB].partners[ownerA] =
+        (tradeStats[ownerB].partners[ownerA] || 0) + 1;
+
+    }
+  );
+
+
+  // --------------------------------------------------
+  // Convert stats into sortable array
+  // --------------------------------------------------
+
+  const tradeArray = Object.entries(tradeStats)
+    .map(([owner, data]) => {
+
+      const partnerCounts =
+        Object.entries(data.partners);
+
+
+      const maxPartnerCount =
+        Math.max(
+          ...partnerCounts.map(
+            ([_, count]) => count
+          )
+        );
+
+
+      const mostPopularPartners =
+        partnerCounts
+          .filter(
+            ([_, count]) =>
+              count === maxPartnerCount
+          )
+          .map(
+            ([partner]) => partner
+          )
+          .join(", ");
+
+
+      return {
+        owner,
+        tradeCount: data.count,
+        mostPopular: mostPopularPartners
+      };
+
+    });
+
+
+  // --------------------------------------------------
+  // Sort most trades → least trades
+  // --------------------------------------------------
+
+  tradeArray.sort(
+    (a, b) =>
+      b.tradeCount - a.tradeCount
+  );
+
+
+  // --------------------------------------------------
+  // Total trades
+  // --------------------------------------------------
+
+  const tradeIds =
+    Object.keys(tradesById)
+      .map(Number)
+      .filter(Number.isFinite);
+
+
+  const totalTrades =
+    tradeIds.length > 0
+      ? Math.max(...tradeIds)
+      : 0;
+
+
+  totalElement.textContent =
+    totalTrades;
+
+
+  // --------------------------------------------------
+  // Create table rows
+  // --------------------------------------------------
 
   tradeArray.forEach(item => {
-    const row = document.createElement('tr');
 
-    const ownerCell = document.createElement('td');
-    ownerCell.textContent = item.owner;
-    row.appendChild(ownerCell);
+    const row = document.createElement("tr");
 
-    const countCell = document.createElement('td');
-    countCell.textContent = item.tradeCount;
-    row.appendChild(countCell);
 
-    const partnerCell = document.createElement('td');
-    partnerCell.textContent = item.mostPopular;
-    row.appendChild(partnerCell);
+    // Owner
+    const ownerCell =
+      document.createElement("td");
 
-    tbody.appendChild(row);
+    ownerCell.className =
+      "wbdw-trade-owner";
+
+    ownerCell.textContent =
+      item.owner;
+
+
+    // Trade count
+    const countCell =
+      document.createElement("td");
+
+    countCell.className =
+      "wbdw-trade-count";
+
+    countCell.textContent =
+      item.tradeCount;
+
+
+    // Most frequent partner
+    const partnerCell =
+      document.createElement("td");
+
+    partnerCell.className =
+      "wbdw-trade-partner";
+
+    partnerCell.textContent =
+      item.mostPopular;
+
+
+    row.append(
+      ownerCell,
+      countCell,
+      partnerCell
+    );
+
+
+    tableBody.appendChild(row);
+
   });
 
-  // Add total trades row
-  const totalTrades = Math.max(...tradeHistory.map(t => t.trade_id));
-  const totalRow = document.createElement('tr');
-  totalRow.classList.add('trade-total-row');
-  totalRow.innerHTML = `
-    <td colspan="3" style="font-weight:bold; text-align:center;">
-      Total Trades: ${totalTrades}
-    </td>
-  `;
-  tbody.appendChild(totalRow);
-
-  table.appendChild(tbody);
-
-  // Wrap for scroll
-  const scrollWrapper = document.createElement('div');
-  scrollWrapper.classList.add('table-scroll-wrapper');
-  scrollWrapper.appendChild(table);
-
-  tableContainer.appendChild(scrollWrapper);
 }
 //#######End Records Page Functions#######
 
