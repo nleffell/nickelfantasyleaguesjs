@@ -511,98 +511,204 @@ async function createPowerRankingsSeason() {
 //#######Records Page Functions#######
 // Fetches weekly records from record.json
 async function createWeeklyRecords() {
-  // Map JSON record_names -> your DOM blocks
-  const SEL = {
-    largest_mov:   ".div-wbdw-records-weekly-largest-margin",
-    most_points:   ".div-wbdw-records-weekly-highest-score",
-    smallest_mov:  ".div-wbdw-records-weekly-smallest-margin",
-    least_points:  ".div-wbdw-records-weekly-lowest-score",
+
+  const RECORDS = {
+    largest_mov: {
+      card: '[data-record="largest-margin"]',
+      label: "Largest Margin"
+    },
+    most_points: {
+      card: '[data-record="highest-score"]',
+      label: "Highest Score"
+    },
+    smallest_mov: {
+      card: '[data-record="smallest-margin"]',
+      label: "Smallest Margin"
+    },
+    least_points: {
+      card: '[data-record="lowest-score"]',
+      label: "Lowest Score"
+    }
   };
 
-  // Label depends on metric family
-  const labelFor = (name) => name.includes("mov") ? "Margin" : "Score";
-
-  // Format numeric values as XX.XX (or show em dash if not numeric)
-  const nfmt = (v) => {
-    const num = Number(v);
-    return Number.isFinite(num) ? num.toFixed(2) : "—";
+  // Format numbers as XX.XX
+  const nfmt = (value) => {
+    const num = Number(value);
+    return Number.isFinite(num)
+      ? num.toFixed(2)
+      : "—";
   };
 
-  // Reduce an array of records into the 4 we care about
+  // Get the four records from a specific group
   function pickByType(arr) {
-    // Normalize: strip "_playoffs" so both regular/post map to base names
+
     const byBase = {};
-    for (const r of arr) {
-      const base = (r.record_name || "").replace("_playoffs", "");
-      // keep only the first/best occurrence per base (dataset already unique)
-      if (!(base in byBase)) byBase[base] = r;
+
+    for (const record of arr) {
+
+      const base = (record.record_name || "")
+        .replace("_playoffs", "");
+
+      if (!(base in byBase)) {
+        byBase[base] = record;
+      }
     }
-    // Project onto our expected keys (ensures nulls for missing)
-    return Object.keys(SEL).reduce((o, key) => (o[key] = byBase[key] || null, o), {});
+
+    return byBase;
   }
 
-  // Render a group (either regular season or postseason) into the DOM
+
+  // Populate the four cards
   function render(group) {
-    for (const [jsonKey, selector] of Object.entries(SEL)) {
-      const el = document.querySelector(selector);
-      if (!el) continue;
 
-      el.innerHTML = "";
-      const r = group[jsonKey];
-      if (!r) { el.textContent = "—"; continue; }
+    Object.entries(RECORDS).forEach(
+      ([jsonKey, config]) => {
 
-      const wrap = document.createElement("div");
-      wrap.className = "wbdw-record";
+        const card = document.querySelector(
+          config.card
+        );
 
-      const p1 = document.createElement("p");
-      p1.className = "wbdw-record-owner";
-      p1.textContent = r.owner ?? "—";
+        if (!card) return;
 
-      const p2 = document.createElement("p");
-      p2.className = "wbdw-record-value";
-      p2.textContent = `${labelFor(jsonKey)}: ${nfmt(r.value)}`;
+        const record = group[jsonKey];
 
-      const p3 = document.createElement("p");
-      p3.className = "wbdw-record-meta";
-      const yr = r.year ?? "—";
-      const wk = r.week ?? "—";
-      const opp = r.opponent_owner ?? "—";
-      p3.textContent = `${yr} • Week ${wk} (vs ${opp})`;
+        const valueElement =
+          card.querySelector("[data-record-value]");
 
-      wrap.append(p1, p2, p3);
-      el.appendChild(wrap);
-    }
+        const ownerElement =
+          card.querySelector("[data-record-owner]");
+
+        const detailsElement =
+          card.querySelector("[data-record-details]");
+
+
+        // No record found
+        if (!record) {
+
+          valueElement.textContent = "—";
+          ownerElement.textContent = "";
+          detailsElement.textContent = "";
+
+          return;
+        }
+
+
+        // Main value
+        valueElement.textContent =
+          nfmt(record.value);
+
+
+        // Owner
+        ownerElement.textContent =
+          record.owner ?? "—";
+
+
+        // Details
+        const year =
+          record.year ?? "—";
+
+        const week =
+          record.week ?? "—";
+
+        const opponent =
+          record.opponent_owner ?? "—";
+
+
+        detailsElement.innerHTML = `
+          <span>${year}</span>
+          <span>Week ${week}</span>
+          <span>vs ${opponent}</span>
+        `;
+      }
+    );
   }
 
-  // Fetch + build groups
-  let data = [];
-  const resp = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/records.json");
-  data = await resp.json();
+
+  // --------------------------------------------------
+  // Fetch records JSON
+  // --------------------------------------------------
+
+  const response = await fetch(
+    "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/records.json"
+  );
+
+  const data = await response.json();
+
 
   // Only weekly records
-  const weekly = (Array.isArray(data) ? data : []).filter(d => d.weekly_flag === true);
+  const weeklyRecords =
+    (Array.isArray(data) ? data : [])
+      .filter(record => record.weekly_flag === true);
 
-  // Split by reg_season_flag
+
+  // Separate regular season and playoffs
   const groups = {
-    reg_season:  pickByType(weekly.filter(d => d.reg_season_flag === true)),
-    post_season: pickByType(weekly.filter(d => d.reg_season_flag === false)),
+
+    regular: pickByType(
+      weeklyRecords.filter(
+        record => record.reg_season_flag === true
+      )
+    ),
+
+    playoffs: pickByType(
+      weeklyRecords.filter(
+        record => record.reg_season_flag === false
+      )
+    )
+
   };
 
-  // Wire up buttons
-  const btnReg  = document.querySelector(".button-wbdw-records-reg-season");
-  const btnPost = document.querySelector(".button-wbdw-records-post-season");
 
-  const setActive = (key) => {
-    render(groups[key]);
-    btnReg?.classList.toggle("is-active",  key === "reg_season");
-    btnPost?.classList.toggle("is-active", key === "post_season");
-  };
+  // --------------------------------------------------
+  // Regular Season / Playoffs buttons
+  // --------------------------------------------------
 
-  btnReg?.addEventListener("click", () => setActive("reg_season"));
-  btnPost?.addEventListener("click", () => setActive("post_season"));
+  const regularButton =
+    document.querySelector(
+      '[data-record-type="regular"]'
+    );
+
+  const playoffsButton =
+    document.querySelector(
+      '[data-record-type="playoffs"]'
+    );
+
+
+  function setActive(type) {
+
+    render(groups[type]);
+
+
+    regularButton?.classList.toggle(
+      "is-active",
+      type === "regular"
+    );
+
+
+    playoffsButton?.classList.toggle(
+      "is-active",
+      type === "playoffs"
+    );
+
+  }
+
+
+  // Button events
+  regularButton?.addEventListener(
+    "click",
+    () => setActive("regular")
+  );
+
+
+  playoffsButton?.addEventListener(
+    "click",
+    () => setActive("playoffs")
+  );
+
 
   // Default to regular season
-  setActive("reg_season");
+  setActive("regular");
+
 }
 
 
