@@ -892,17 +892,17 @@ async function createWeeklyAwardsTable() {
 
   const json = await weeklyAwardsRes.json();
 
-  const container = document.querySelector(
-    "div.div-wbdw-records-weekly-awards"
-  );
-
-  if (!container) return;
-
-  const awardsList = container.querySelector(
+  // This is the element from our new HTML
+  const awardsList = document.querySelector(
     "[data-weekly-awards]"
   );
 
-  if (!awardsList) return;
+  if (!awardsList) {
+    console.error(
+      "Weekly awards container not found: [data-weekly-awards]"
+    );
+    return;
+  }
 
   // Clear existing rows
   awardsList.innerHTML = "";
@@ -947,7 +947,7 @@ async function createWeeklyAwardsTable() {
 
 
   // --------------------------------------------------
-  // Newest → oldest
+  // Sort newest year/week first
   // --------------------------------------------------
 
   awards.sort((a, b) => {
@@ -962,7 +962,7 @@ async function createWeeklyAwardsTable() {
 
 
   // --------------------------------------------------
-  // Create award rows
+  // Create rows
   // --------------------------------------------------
 
   awards.forEach(item => {
@@ -972,7 +972,7 @@ async function createWeeklyAwardsTable() {
     row.className = "wbdw-award-row";
 
 
-    // Week
+    // Year + Week
     const week = document.createElement("div");
 
     week.className = "wbdw-award-week";
@@ -981,7 +981,7 @@ async function createWeeklyAwardsTable() {
       `${item.year} • Week ${item.week}`;
 
 
-    // Award name
+    // Award
     const award = document.createElement("div");
 
     award.className = "wbdw-award-name";
