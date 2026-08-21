@@ -714,80 +714,172 @@ async function createWeeklyRecords() {
 
 // Fetches yearly records from record.json
 async function createYearlyRecords() {
-  // Map JSON record_name -> target elements
-  const SEL = {
-    best_agg_record:  ".div-wbdw-records-yearly-best-record",
-    worst_agg_record: ".div-wbdw-records-yearly-worst-record",
-    most_points:      ".div-wbdw-records-yearly-most-points",
-    least_points:     ".div-wbdw-records-yearly-least-points", 
+
+  const RECORDS = {
+    best_record: {
+      card: '[data-season-record="best-record"]'
+    },
+    worst_record: {
+      card: '[data-season-record="worst-record"]'
+    },
+    most_points: {
+      card: '[data-season-record="most-points"]'
+    },
+    least_points: {
+      card: '[data-season-record="least-points"]'
+    }
   };
 
-  // Label per metric
-  const labelFor = (name) =>
-    name.includes("agg_record") ? "Record" : "Points";
 
-  // Format: agg_record is a string like "10-3"; points are numbers
-  const fmtValue = (name, val) => {
-    if (name.includes("agg_record")) return String(val ?? "—");
-    const n = Number(val);
-    return Number.isFinite(n) ? Math.round(n).toLocaleString() : "—";
-  };
+  // Format the record value
+  function formatValue(recordName, value) {
 
-  // Ensure we return exactly the keys we care about (or nulls)
-  function pickByName(arr) {
-    const byKey = {};
-    for (const r of arr) {
-      if (r && r.record_name && (r.record_name in SEL)) {
-        byKey[r.record_name] = r;
+    // Best / worst record
+    if (
+      recordName === "best_agg_record" ||
+      recordName === "worst_agg_record"
+    ) {
+      return value ?? "—";
+    }
+
+    // Points
+    const num = Number(value);
+
+    return Number.isFinite(num)
+      ? num.toFixed(2)
+      : "—";
+  }
+
+
+  // Populate the four cards
+  function render(records) {
+
+    Object.entries(RECORDS).forEach(
+      ([cardName, config]) => {
+
+        const card = document.querySelector(
+          config.card
+        );
+
+        if (!card) return;
+
+
+        /*
+         * Map our card names to the record names
+         * used in records.json
+         */
+        const recordNameMap = {
+          best_record: "best_agg_record",
+          worst_record: "worst_agg_record",
+          most_points: "most_points",
+          least_points: "least_points"
+        };
+
+
+        const recordName =
+          recordNameMap[cardName];
+
+        const record =
+          records[recordName];
+
+
+        const valueElement =
+          card.querySelector(
+            "[data-season-value]"
+          );
+
+        const ownerElement =
+          card.querySelector(
+            "[data-season-owner]"
+          );
+
+        const detailsElement =
+          card.querySelector(
+            "[data-season-details]"
+          );
+
+
+        // No record
+        if (!record) {
+
+          valueElement.textContent = "—";
+          ownerElement.textContent = "";
+          detailsElement.textContent = "";
+
+          return;
+        }
+
+
+        // Main value
+        valueElement.textContent =
+          formatValue(
+            recordName,
+            record.value
+          );
+
+
+        // Owner
+        ownerElement.textContent =
+          record.owner ?? "—";
+
+
+        // Year
+        detailsElement.innerHTML = `
+          <span>${record.year ?? "—"}</span>
+        `;
+
       }
-    }
-    return Object.keys(SEL).reduce((o, k) => (o[k] = byKey[k] || null, o), {});
+    );
   }
 
-  // Render into the DOM
-  function render(group) {
-    for (const [name, selector] of Object.entries(SEL)) {
-      const el = document.querySelector(selector);
-      if (!el) continue;
 
-      el.innerHTML = "";
-      const r = group[name];
-      if (!r) { el.textContent = "—"; continue; }
+  // --------------------------------------------------
+  // Fetch records JSON
+  // --------------------------------------------------
 
-      const wrap = document.createElement("div");
-      wrap.className = "wbdw-record";
-
-      const p1 = document.createElement("p");
-      p1.className = "wbdw-record-owner";
-      p1.textContent = `Owner: ${r.owner}`;
-
-      const p2 = document.createElement("p");
-      p2.className = "wbdw-record-value";
-      p2.textContent = `${labelFor(name)}: ${fmtValue(name, r.value)}`;
-
-      const p3 = document.createElement("p");
-      p3.className = "wbdw-record-meta";
-      const yr = r.year ?? "—";
-      p3.textContent = `Year: ${yr}`;
-
-      wrap.append(p1, p2, p3);
-      el.appendChild(wrap);
-    }
-  }
-
-  // Fetch JSON
-  let data = [];
-  const resp = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/records.json");
-  data = await resp.json();
-
-  // Yearly = not weekly, regular season only
-  const yearly = (Array.isArray(data) ? data : []).filter(
-    d => d.weekly_flag === false && d.reg_season_flag === true
+  const response = await fetch(
+    "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/records.json"
   );
 
-  // Select desired records and render
-  const group = pickByName(yearly);
-  render(group);
+  const data = await response.json();
+
+
+  // --------------------------------------------------
+  // Get season records
+  //
+  // Season records are:
+  // - not weekly
+  // - regular season
+  // --------------------------------------------------
+
+  const yearlyRecords =
+    (Array.isArray(data) ? data : [])
+      .filter(
+        record =>
+          record.weekly_flag === false &&
+          record.reg_season_flag === true
+      );
+
+
+  // --------------------------------------------------
+  // Create lookup by record name
+  // --------------------------------------------------
+
+  const recordsByName = {};
+
+  yearlyRecords.forEach(record => {
+
+    if (record.record_name) {
+      recordsByName[record.record_name] =
+        record;
+    }
+
+  });
+
+
+  // Render
+  render(recordsByName);
+
 }
 
 
