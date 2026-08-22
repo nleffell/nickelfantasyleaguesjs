@@ -203,7 +203,7 @@
     "bet": "Michigan moneyline vs. Duke in college basketball on 2/21/2026",
     "taker": "Tyler Smith",
     "stake": 25,
-    "odds": 100,
+    "odds": 120,
     "payout": 30,
     "status": "Settled",
     "winner": "Tyler Smith"
@@ -214,7 +214,7 @@
     "bet": "Michigan moneyline vs. Duke in college basketball on 2/21/2026",
     "taker": "Nick Leffell",
     "stake": 25,
-    "odds": 100,
+    "odds": 120,
     "payout": 30,
     "status": "Settled",
     "winner": "Nick Leffell"
