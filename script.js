@@ -1696,22 +1696,22 @@ async function createPreseasonChampionshipOdds() {
       card.innerHTML = `
 
         <span class="wbdw-bet-odds-owner">
-          ${item.name}
+            ${item.name}
         </span>
 
         <span class="wbdw-bet-odds-value">
-          ${formatOdds(item.odds)}
+            ${formatOdds(item.odds)}
         </span>
 
         <span class="wbdw-bet-odds-label">
-          Championship Odds
+            Championship Odds
         </span>
 
         <span class="wbdw-bet-odds-stake">
-          ${(item.probability * 100).toFixed(1)}% implied probability
+            $10 BET WINS $${(10 * item.odds / 100).toFixed(2)}
         </span>
 
-      `;
+    `;
 
       container.appendChild(card);
 
