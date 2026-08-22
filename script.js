@@ -1896,115 +1896,98 @@ async function createBetTracker() {
 
       filteredBets.forEach(bet => {
 
-        const row =
-          document.createElement("tr");
+        const row = document.createElement("tr");
 
 
         // Date
-        const dateCell =
-          document.createElement("td");
-
-        dateCell.textContent =
-          bet.date;
-
+        const dateCell = document.createElement("td");
+        dateCell.textContent = bet.date;
         row.appendChild(dateCell);
 
 
         // Maker
-        const makerCell =
-          document.createElement("td");
-
-        makerCell.textContent =
-          bet.maker;
-
+        const makerCell = document.createElement("td");
+        makerCell.textContent = bet.maker;
         row.appendChild(makerCell);
 
 
+        // Maker Potential Payout
+        const makerPayoutCell = document.createElement("td");
+
+        makerPayoutCell.textContent =
+            formatMoney(bet.stake);
+
+        row.appendChild(makerPayoutCell);
+
+
         // Bet
-        const betCell =
-          document.createElement("td");
-
-        betCell.textContent =
-          bet.bet;
-
+        const betCell = document.createElement("td");
+        betCell.textContent = bet.bet;
         row.appendChild(betCell);
 
 
         // Taker
-        const takerCell =
-          document.createElement("td");
-
-        takerCell.textContent =
-          bet.taker;
-
+        const takerCell = document.createElement("td");
+        takerCell.textContent = bet.taker;
         row.appendChild(takerCell);
 
 
-        // Stake
-        const stakeCell =
-          document.createElement("td");
+        // Taker Potential Payout
+        const takerPayoutCell =
+            document.createElement("td");
 
-        stakeCell.textContent =
-          formatMoney(bet.stake);
+        takerPayoutCell.textContent =
+            formatMoney(bet.payout);
 
-        row.appendChild(stakeCell);
+        row.appendChild(takerPayoutCell);
 
 
-        // Status
-        const statusCell =
-          document.createElement("td");
+        // Result
+        const resultCell =
+            document.createElement("td");
 
-        const status =
-          document.createElement("span");
+        const result =
+            document.createElement("span");
 
-        status.classList.add(
-          "wbdw-bet-status"
+        result.classList.add(
+            "wbdw-bet-status"
         );
 
 
-        if (
-          bet.status === "Pending"
-        ) {
+        if (bet.status === "Pending") {
 
-          status.classList.add(
-            "pending"
-          );
-
-          status.textContent =
-            "Pending";
+            result.classList.add("pending");
+            result.textContent = "Pending";
 
         }
 
-        else if (
-          bet.status === "Void"
-        ) {
+        else if (bet.status === "Void") {
 
-          status.classList.add(
-            "settled"
-          );
-
-          status.textContent =
-            "Void";
+            result.classList.add("settled");
+            result.textContent = "Void";
 
         }
 
         else {
 
-          status.classList.add(
-            "settled"
-          );
-
-          status.textContent =
-            bet.winner === bet.maker
-              ? `${bet.maker} Won`
-              : `${bet.taker} Won`;
+            result.classList.add("settled");
+            result.textContent = "Settled";
 
         }
 
 
-        statusCell.appendChild(status);
+        resultCell.appendChild(result);
+        row.appendChild(resultCell);
 
-        row.appendChild(statusCell);
+
+        // Winner
+        const winnerCell =
+            document.createElement("td");
+
+        winnerCell.textContent =
+            bet.winner || "—";
+
+        row.appendChild(winnerCell);
 
 
         historyBody.appendChild(row);
