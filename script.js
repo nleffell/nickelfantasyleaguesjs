@@ -1912,10 +1912,20 @@ async function createBetTracker() {
 
 
         // Maker Potential Payout
-        const makerPayoutCell = document.createElement("td");
+        const makerPayoutCell =
+            document.createElement("td");
 
         makerPayoutCell.textContent =
             formatMoney(bet.stake);
+
+        if (
+            bet.status === "Settled" &&
+            bet.winner === bet.maker
+        ) {
+            makerPayoutCell.classList.add(
+                "wbdw-bet-winning-payout"
+            );
+        }
 
         row.appendChild(makerPayoutCell);
 
@@ -1938,6 +1948,15 @@ async function createBetTracker() {
 
         takerPayoutCell.textContent =
             formatMoney(bet.payout);
+
+        if (
+            bet.status === "Settled" &&
+            bet.winner === bet.taker
+        ) {
+            takerPayoutCell.classList.add(
+                "wbdw-bet-winning-payout"
+            );
+        }
 
         row.appendChild(takerPayoutCell);
 
