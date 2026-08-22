@@ -1567,114 +1567,730 @@ async function createOwnerSeasonHistoryTable(owner) {
 
 
 //#######Bet Tracker Page Functions#######
-function createBetTrackerOwnerRecordsTable() {
-  const records = {};
-  const rows = document.querySelectorAll("#table_wbdw_bet_tracker tbody tr");
+const BET_TRACKER_JSON_URL =
+  "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/bet_tracker.json";
 
-  rows.forEach(row => {
-    const cells = row.querySelectorAll("td");
-    if (cells.length < 6) return;
 
-    const maker = cells[1].textContent.trim();
-    const taker = cells[3].textContent.trim();
-    const stakeText = cells[4].textContent.replace("$", "").trim();
-    const winner = cells[5].textContent.trim().replace("</td>", "");
-    const stake = parseFloat(stakeText);
+// ------------------------------------------------------------
+// Bet Tracker helpers
+// ------------------------------------------------------------
 
-    if (isNaN(stake) || !maker || !taker || !winner) return;
-    const winnerLower = winner.toLowerCase();
-    if (winnerLower.includes("pending") || winnerLower.includes("void")) return;
+function formatMoney(value) {
+  const number = Number(value);
 
-    [maker, taker].forEach(name => {
-      if (!(name in records)) {
-        records[name] = { wins: 0, losses: 0, net: 0 };
-      }
-    });
+  if (!Number.isFinite(number)) {
+    return "—";
+  }
 
-    if (winner === maker) {
-      records[maker].wins += 1;
-      records[maker].net += stake;
-      records[taker].losses += 1;
-      records[taker].net -= stake;
-    } else if (winner === taker) {
-      records[taker].wins += 1;
-      records[taker].net += stake;
-      records[maker].losses += 1;
-      records[maker].net -= stake;
-    } else {
-      if (!(winner in records)) {
-        records[winner] = { wins: 0, losses: 0, net: 0 };
-      }
-      records[winner].wins += 1;
-      records[winner].net += stake;
-      if (winner !== maker) {
-        records[maker].losses += 1;
-        records[maker].net -= stake;
-      }
-      if (winner !== taker) {
-        records[taker].losses += 1;
-        records[taker].net -= stake;
-      }
-    }
-  });
-
-  // Sort by net descending
-  const sorted = Object.entries(records).sort(([, a], [, b]) => b.net - a.net);
-
-  // Output to table
-  const tbody = document.querySelector("#table_wbdw_bet_tracker_owner_records tbody");
-  tbody.innerHTML = "";
-
-  sorted.forEach(([name, { wins, losses, net }]) => {
-    const row = document.createElement("tr");
-    row.innerHTML = `
-      <td>${name}</td>
-      <td>${wins}</td>
-      <td>${losses}</td>
-      <td>$${net.toFixed(2)}</td>
-    `;
-    tbody.appendChild(row);
-  });
+  return `$${number.toFixed(2)}`;
 }
 
-// Preseason Championship Odds table creation
+
+function formatOdds(odds) {
+  const number = Number(odds);
+
+  if (!Number.isFinite(number)) {
+    return "—";
+  }
+
+  return number > 0
+    ? `+${number}`
+    : `${number}`;
+}
+
+
+// ------------------------------------------------------------
+// Preseason Championship Odds
+// ------------------------------------------------------------
+
 async function createPreseasonChampionshipOdds() {
-  // --- Fetch owner odds JSON ---
-  const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_odds.json");
-  const json = await ownerSeasonHistoryRes.json();
 
-  // --- Filter preseason championship odds for the latest year we have them ---
-  const latestYear = Math.max(...json.map(d => Number(d.year)));
-  const data = json.filter(d =>
-    Number(d.year) === latestYear &&
-    d.season === "preseason" &&
-    d.type === "championship"
-  );
+  const container =
+    document.querySelector("[data-bet-odds]");
 
-  // --- Process rows ---
-  const rows = data
-    .map(d => {
-      const o = d.championship_odds;
-      return { name: d.owner, odds: o, prob: (o > 0 ? 100 / (o + 100) : (-o) / ((-o) + 100)) };
-    })
-    .filter(r => Number.isFinite(r.prob))
-    .sort((a, b) => b.prob - a.prob);
+  if (!container) {
+    return;
+  }
 
-  // --- Fill cards (assumes you have same number of .team-card blocks as in data) ---
-  const cards = [...document.querySelectorAll(".div-wbdw-bet-tracker-odds-team")];
-  cards.forEach((card, i) => {
-    const r = rows[i];
-    if (!r) return;
+  try {
 
-    const nameEl = card.querySelector(".text-wbdw-bet-tracker-owner");
-    const oddsEl = card.querySelector(".text-wbdw-bet-tracker-odds");
-    const probEl = card.querySelector(".text-wbdw-bet-tracker-prob");
+    const response = await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_odds.json"
+    );
 
-    if (nameEl) nameEl.textContent = r.name;
-    if (oddsEl) oddsEl.textContent = (r.odds > 0 ? `+${r.odds}` : r.odds);
-    if (probEl) probEl.textContent = (`${(r.prob * 100).toFixed(1)}%`);
-  });
-};
+    const json = await response.json();
+
+
+    // --------------------------------------------------------
+    // Find latest year
+    // --------------------------------------------------------
+
+    const latestYear = Math.max(
+      ...json.map(item => Number(item.year))
+    );
+
+
+    // --------------------------------------------------------
+    // Filter championship preseason odds
+    // --------------------------------------------------------
+
+    const data = json.filter(item =>
+      Number(item.year) === latestYear &&
+      item.season === "preseason" &&
+      item.type === "championship"
+    );
+
+
+    // --------------------------------------------------------
+    // Calculate implied probability
+    // --------------------------------------------------------
+
+    const rows = data
+      .map(item => {
+
+        const odds = Number(item.championship_odds);
+
+        let probability;
+
+        if (odds > 0) {
+          probability =
+            100 / (odds + 100);
+        }
+        else {
+          probability =
+            (-odds) / ((-odds) + 100);
+        }
+
+        return {
+          name: item.owner,
+          odds,
+          probability
+        };
+
+      })
+      .filter(item =>
+        Number.isFinite(item.probability)
+      )
+      .sort(
+        (a, b) =>
+          b.probability - a.probability
+      );
+
+
+    // --------------------------------------------------------
+    // Create cards
+    // --------------------------------------------------------
+
+    container.innerHTML = "";
+
+
+    rows.forEach(item => {
+
+      const card =
+        document.createElement("div");
+
+      card.className =
+        "wbdw-bet-odds-card";
+
+
+      card.innerHTML = `
+
+        <span class="wbdw-bet-odds-owner">
+          ${item.name}
+        </span>
+
+        <span class="wbdw-bet-odds-value">
+          ${formatOdds(item.odds)}
+        </span>
+
+        <span class="wbdw-bet-odds-label">
+          Championship Odds
+        </span>
+
+        <span class="wbdw-bet-odds-stake">
+          ${(item.probability * 100).toFixed(1)}% implied probability
+        </span>
+
+      `;
+
+      container.appendChild(card);
+
+    });
+
+  }
+  catch (error) {
+
+    console.error(
+      "Error loading preseason championship odds:",
+      error
+    );
+
+  }
+
+}
+
+
+// ------------------------------------------------------------
+// Bet Tracker
+// ------------------------------------------------------------
+
+async function createBetTracker() {
+
+  const historyBody =
+    document.querySelector("[data-bet-history]");
+
+  const ownerSelect =
+    document.querySelector("[data-bet-owner-filter]");
+
+  const emptyState =
+    document.querySelector("[data-bet-empty]");
+
+  const statusButtons =
+    document.querySelectorAll(
+      "[data-bet-status]"
+    );
+
+  const recordsContainer =
+    document.querySelector("[data-bet-records]");
+
+
+  // ----------------------------------------------------------
+  // Make sure we're actually on the Bet Tracker page
+  // ----------------------------------------------------------
+
+  if (
+    !historyBody &&
+    !recordsContainer
+  ) {
+    return;
+  }
+
+
+  try {
+
+    // --------------------------------------------------------
+    // Fetch betting data
+    // --------------------------------------------------------
+
+    const response =
+      await fetch(BET_TRACKER_JSON_URL);
+
+    if (!response.ok) {
+      throw new Error(
+        `Bet tracker request failed: ${response.status}`
+      );
+    }
+
+    const bets =
+      await response.json();
+
+
+    // --------------------------------------------------------
+    // Owner list
+    // --------------------------------------------------------
+
+    const owners = [
+      ...new Set(
+        bets.flatMap(bet => [
+          bet.maker,
+          bet.taker
+        ])
+      )
+    ]
+      .filter(Boolean)
+      .sort();
+
+
+    // --------------------------------------------------------
+    // Populate owner dropdown
+    // --------------------------------------------------------
+
+    if (ownerSelect) {
+
+      ownerSelect.innerHTML = `
+        <option value="all">
+          All Owners
+        </option>
+      `;
+
+      owners.forEach(owner => {
+
+        const option =
+          document.createElement("option");
+
+        option.value = owner;
+        option.textContent = owner;
+
+        ownerSelect.appendChild(option);
+
+      });
+
+    }
+
+
+    // --------------------------------------------------------
+    // Current filters
+    // --------------------------------------------------------
+
+    let selectedStatus = "all";
+    let selectedOwner = "all";
+
+
+    // --------------------------------------------------------
+    // Filter bets
+    // --------------------------------------------------------
+
+    function getFilteredBets() {
+
+      return bets.filter(bet => {
+
+        // Status filter
+        if (
+          selectedStatus !== "all" &&
+          bet.status.toLowerCase() !==
+            selectedStatus
+        ) {
+          return false;
+        }
+
+
+        // Owner filter
+        if (
+          selectedOwner !== "all" &&
+          bet.maker !== selectedOwner &&
+          bet.taker !== selectedOwner
+        ) {
+          return false;
+        }
+
+
+        return true;
+
+      });
+
+    }
+
+
+    // --------------------------------------------------------
+    // Render betting history
+    // --------------------------------------------------------
+
+    function renderBetHistory() {
+
+      if (!historyBody) {
+        return;
+      }
+
+      const filteredBets =
+        getFilteredBets();
+
+
+      historyBody.innerHTML = "";
+
+
+      if (emptyState) {
+        emptyState.hidden =
+          filteredBets.length !== 0;
+      }
+
+
+      filteredBets.forEach(bet => {
+
+        const row =
+          document.createElement("tr");
+
+
+        // Date
+        const dateCell =
+          document.createElement("td");
+
+        dateCell.textContent =
+          bet.date;
+
+        row.appendChild(dateCell);
+
+
+        // Maker
+        const makerCell =
+          document.createElement("td");
+
+        makerCell.textContent =
+          bet.maker;
+
+        row.appendChild(makerCell);
+
+
+        // Bet
+        const betCell =
+          document.createElement("td");
+
+        betCell.textContent =
+          bet.bet;
+
+        row.appendChild(betCell);
+
+
+        // Taker
+        const takerCell =
+          document.createElement("td");
+
+        takerCell.textContent =
+          bet.taker;
+
+        row.appendChild(takerCell);
+
+
+        // Stake
+        const stakeCell =
+          document.createElement("td");
+
+        stakeCell.textContent =
+          formatMoney(bet.stake);
+
+        row.appendChild(stakeCell);
+
+
+        // Status
+        const statusCell =
+          document.createElement("td");
+
+        const status =
+          document.createElement("span");
+
+        status.classList.add(
+          "wbdw-bet-status"
+        );
+
+
+        if (
+          bet.status === "Pending"
+        ) {
+
+          status.classList.add(
+            "pending"
+          );
+
+          status.textContent =
+            "Pending";
+
+        }
+
+        else if (
+          bet.status === "Void"
+        ) {
+
+          status.classList.add(
+            "settled"
+          );
+
+          status.textContent =
+            "Void";
+
+        }
+
+        else {
+
+          status.classList.add(
+            "settled"
+          );
+
+          status.textContent =
+            bet.winner === bet.maker
+              ? `${bet.maker} Won`
+              : `${bet.taker} Won`;
+
+        }
+
+
+        statusCell.appendChild(status);
+
+        row.appendChild(statusCell);
+
+
+        historyBody.appendChild(row);
+
+      });
+
+    }
+
+
+    // --------------------------------------------------------
+    // Calculate owner records
+    // --------------------------------------------------------
+
+    function calculateOwnerRecords() {
+
+      const records = {};
+
+
+      // ------------------------------------------------------
+      // Only settled bets count
+      // ------------------------------------------------------
+
+      bets
+        .filter(
+          bet => bet.status === "Settled"
+        )
+        .forEach(bet => {
+
+          const maker =
+            bet.maker;
+
+          const taker =
+            bet.taker;
+
+          const stake =
+            Number(bet.stake);
+
+          const payout =
+            Number(bet.payout);
+
+
+          if (!records[maker]) {
+
+            records[maker] = {
+              wins: 0,
+              losses: 0,
+              net: 0
+            };
+
+          }
+
+
+          if (!records[taker]) {
+
+            records[taker] = {
+              wins: 0,
+              losses: 0,
+              net: 0
+            };
+
+          }
+
+
+          // --------------------------------------------------
+          // Maker wins
+          //
+          // Maker gets stake
+          // Taker loses stake
+          // --------------------------------------------------
+
+          if (
+            bet.winner === maker
+          ) {
+
+            records[maker].wins += 1;
+
+            records[maker].net +=
+              stake;
+
+            records[taker].losses += 1;
+
+            records[taker].net -=
+              stake;
+
+          }
+
+
+          // --------------------------------------------------
+          // Taker wins
+          //
+          // Taker gets payout
+          // Maker loses payout
+          // --------------------------------------------------
+
+          else if (
+            bet.winner === taker
+          ) {
+
+            records[taker].wins += 1;
+
+            records[taker].net +=
+              payout;
+
+            records[maker].losses += 1;
+
+            records[maker].net -=
+              payout;
+
+          }
+
+        });
+
+
+      return records;
+
+    }
+
+
+    // --------------------------------------------------------
+    // Render owner record cards
+    // --------------------------------------------------------
+
+    function renderOwnerRecords() {
+
+      if (!recordsContainer) {
+        return;
+      }
+
+
+      const records =
+        calculateOwnerRecords();
+
+
+      const sorted =
+        Object.entries(records)
+          .sort(
+            ([, a], [, b]) =>
+              b.net - a.net
+          );
+
+
+      recordsContainer.innerHTML = "";
+
+
+      sorted.forEach(
+        ([owner, record]) => {
+
+          const card =
+            document.createElement("div");
+
+          card.className =
+            "wbdw-bet-record-card";
+
+
+          const netClass =
+            record.net < 0
+              ? "negative"
+              : "";
+
+
+          card.innerHTML = `
+
+            <div class="wbdw-bet-record-owner">
+              ${owner}
+            </div>
+
+            <div class="wbdw-bet-record-net ${netClass}">
+              ${record.net >= 0 ? "+" : ""}
+              ${formatMoney(record.net)}
+            </div>
+
+            <span class="wbdw-bet-record-net-label">
+              Net
+            </span>
+
+            <div class="wbdw-bet-record-stats">
+
+              <div class="wbdw-bet-record-stat">
+
+                <span class="wbdw-bet-record-stat-value">
+                  ${record.wins}
+                </span>
+
+                <span class="wbdw-bet-record-stat-label">
+                  Wins
+                </span>
+
+              </div>
+
+
+              <div class="wbdw-bet-record-stat">
+
+                <span class="wbdw-bet-record-stat-value">
+                  ${record.losses}
+                </span>
+
+                <span class="wbdw-bet-record-stat-label">
+                  Losses
+                </span>
+
+              </div>
+
+            </div>
+
+          `;
+
+
+          recordsContainer.appendChild(card);
+
+        }
+      );
+
+    }
+
+
+    // --------------------------------------------------------
+    // Status filter buttons
+    // --------------------------------------------------------
+
+    statusButtons.forEach(button => {
+
+      button.addEventListener(
+        "click",
+        () => {
+
+          selectedStatus =
+            button.dataset.betStatus;
+
+
+          statusButtons.forEach(
+            otherButton => {
+
+              otherButton.classList.toggle(
+                "is-active",
+                otherButton === button
+              );
+
+            }
+          );
+
+
+          renderBetHistory();
+
+        }
+      );
+
+    });
+
+
+    // --------------------------------------------------------
+    // Owner filter
+    // --------------------------------------------------------
+
+    ownerSelect?.addEventListener(
+      "change",
+      () => {
+
+        selectedOwner =
+          ownerSelect.value;
+
+        renderBetHistory();
+
+      }
+    );
+
+
+    // --------------------------------------------------------
+    // Initial render
+    // --------------------------------------------------------
+
+    renderBetHistory();
+
+    renderOwnerRecords();
+
+  }
+  catch (error) {
+
+    console.error(
+      "Error loading Bet Tracker:",
+      error
+    );
+
+  }
+
+}
+
 //#######End Bet Tracker Page Functions#######
 
 
