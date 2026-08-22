@@ -1918,13 +1918,24 @@ async function createBetTracker() {
         makerPayoutCell.textContent =
             formatMoney(bet.stake);
 
-        if (
-            bet.status === "Settled" &&
-            bet.winner === bet.maker
-        ) {
+        if (bet.status === "Settled") {
+
+            if (bet.winner === bet.maker) {
+                makerPayoutCell.classList.add(
+                    "wbdw-bet-winning-payout"
+                );
+            } else {
+                makerPayoutCell.classList.add(
+                    "wbdw-bet-losing-payout"
+                );
+            }
+
+        } else if (bet.status === "Void") {
+
             makerPayoutCell.classList.add(
-                "wbdw-bet-winning-payout"
+                "wbdw-bet-losing-payout"
             );
+
         }
 
         row.appendChild(makerPayoutCell);
@@ -1949,13 +1960,24 @@ async function createBetTracker() {
         takerPayoutCell.textContent =
             formatMoney(bet.payout);
 
-        if (
-            bet.status === "Settled" &&
-            bet.winner === bet.taker
-        ) {
+        if (bet.status === "Settled") {
+
+            if (bet.winner === bet.taker) {
+                takerPayoutCell.classList.add(
+                    "wbdw-bet-winning-payout"
+                );
+            } else {
+                takerPayoutCell.classList.add(
+                    "wbdw-bet-losing-payout"
+                );
+            }
+
+        } else if (bet.status === "Void") {
+
             takerPayoutCell.classList.add(
-                "wbdw-bet-winning-payout"
+                "wbdw-bet-losing-payout"
             );
+
         }
 
         row.appendChild(takerPayoutCell);
@@ -1997,18 +2019,6 @@ async function createBetTracker() {
 
         resultCell.appendChild(result);
         row.appendChild(resultCell);
-
-
-        // Winner
-        const winnerCell =
-            document.createElement("td");
-
-        winnerCell.textContent =
-            bet.winner || "—";
-
-        row.appendChild(winnerCell);
-
-
         historyBody.appendChild(row);
 
       });
