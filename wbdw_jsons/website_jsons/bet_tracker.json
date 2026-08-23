@@ -378,9 +378,9 @@
     "maker": "Brian Fuquay",
     "bet": "Virginia Tech beats NC State",
     "taker": "Nick Leffell",
-    "stake": 20,
-    "odds": 300,
-    "payout": 60,
+    "stake": 60,
+    "odds": -300,
+    "payout": 20,
     "status": "Settled",
     "winner": "Brian Fuquay"
   },
