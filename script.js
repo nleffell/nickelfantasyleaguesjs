@@ -257,7 +257,7 @@ async function createDraftBoard() {
 
   const tableContainer =
     document.querySelector(
-      "div.div-wbdw-home-draft-board"
+      ".wbdw-home-draft-order-grid"
     );
 
 
