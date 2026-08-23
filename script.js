@@ -2414,12 +2414,12 @@ async function createOwnerStats() {
 
             card.innerHTML = `
 
-                <div class="wbdw-owner-record-card-value">
-                    ${record.data.value}
-                </div>
-
                 <div class="wbdw-owner-record-card-label">
                     ${record.label}
+                </div>
+
+                <div class="wbdw-owner-record-card-value">
+                    ${record.data.value}
                 </div>
 
                 <div class="wbdw-owner-record-card-owner">
