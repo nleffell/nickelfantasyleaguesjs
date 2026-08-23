@@ -258,7 +258,7 @@
     "bet": "Broncos moneyline vs. Bills 1/17/2026",
     "taker": "Brian Fuquay",
     "stake": 40,
-    "odds": +120,
+    "odds": 120,
     "payout": 50,
     "status": "Settled",
     "winner": "Nick Janowicz"
