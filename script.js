@@ -1445,6 +1445,108 @@ async function createWeeklyAwardsTable() {
 
 }
 
+//create weekly award records cards
+async function calculateWeeklyAwardRecords() {
+
+    const response = await fetch(
+        "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/weekly_awards_history.json"
+    );
+
+    const data = await response.json();
+
+    const records = {
+        allTime: {},
+        byYear: {}
+    };
+
+
+    // ========================================================
+    // Loop through each year
+    // ========================================================
+
+    Object.entries(data).forEach(
+        ([year, weeks]) => {
+
+            if (!records.byYear[year]) {
+                records.byYear[year] = {};
+            }
+
+
+            // =================================================
+            // Loop through each week
+            // =================================================
+
+            Object.values(weeks).forEach(
+                awards => {
+
+
+                    // =========================================
+                    // Loop through each award type
+                    // =========================================
+
+                    Object.values(awards).forEach(
+                        award => {
+
+                            const owner =
+                                award.owner;
+
+                            const amount =
+                                Number(award.amount);
+
+
+                            // =================================
+                            // ALL TIME
+                            // =================================
+
+                            if (!records.allTime[owner]) {
+
+                                records.allTime[owner] = {
+                                    awards: 0,
+                                    money: 0
+                                };
+
+                            }
+
+
+                            records.allTime[owner].awards += 1;
+
+                            records.allTime[owner].money +=
+                                amount;
+
+
+                            // =================================
+                            // SPECIFIC YEAR
+                            // =================================
+
+                            if (!records.byYear[year][owner]) {
+
+                                records.byYear[year][owner] = {
+                                    awards: 0,
+                                    money: 0
+                                };
+
+                            }
+
+
+                            records.byYear[year][owner].awards += 1;
+
+                            records.byYear[year][owner].money +=
+                                amount;
+
+                        }
+                    );
+
+                }
+            );
+
+        }
+    );
+
+
+    return records;
+
+}
+
 
 // Creates trade count table
 async function createTradeCountTable() {
