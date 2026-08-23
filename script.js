@@ -2,7 +2,7 @@
 
 
 // ============================================================
-// STANDINGS
+// CURRENT STANDINGS
 // ============================================================
 
 async function createHomepageStandingsTable() {
@@ -13,20 +13,28 @@ async function createHomepageStandingsTable() {
 
   const json = await response.json();
 
+
   const tableContainer =
-    document.querySelector(".wbdw-home-standings-table-wrapper");
+    document.querySelector(
+      "div.div-wbdw-home-standings"
+    );
+
 
   if (!tableContainer) {
     return;
   }
 
+
   tableContainer.innerHTML = "";
 
-  const table = document.createElement("table");
+
+  const table =
+    document.createElement("table");
 
   table.classList.add(
-    "wbdw-home-standings-table"
+    "table-wbdw-home-standings"
   );
+
 
   table.innerHTML = `
     <thead>
@@ -42,6 +50,7 @@ async function createHomepageStandingsTable() {
 
     <tbody></tbody>
   `;
+
 
   const tableBody =
     table.querySelector("tbody");
@@ -113,16 +122,21 @@ async function createHomepageStandingsTable() {
   const noteRow =
     document.createElement("tr");
 
+
   const noteCell =
     document.createElement("td");
 
+
   noteCell.colSpan = 6;
+
 
   noteCell.textContent =
     "* Aggregate Record is a team's record if they played all other teams every week";
 
+
   noteCell.style.fontStyle =
     "italic";
+
 
   noteRow.appendChild(noteCell);
 
@@ -159,6 +173,10 @@ async function createDraftBoard() {
     await ownerDraftPicksRes.json();
 
 
+  // ----------------------------------------------------------
+  // Determine upcoming draft year
+  // ----------------------------------------------------------
+
   const draftYear =
     Math.min(
       ...ownerDraftPicksJson.map(
@@ -167,79 +185,86 @@ async function createDraftBoard() {
     );
 
 
-  function getOriginalOwnerFromPick(pickStr) {
+  // ----------------------------------------------------------
+  // Get original owner from pick string
+  // ----------------------------------------------------------
 
-    const match =
-      pickStr.match(/\(([^)]+)\)/);
+  const getOriginalOwnerFromPick =
+    pickStr => {
 
-    return match
-      ? match[1].trim()
-      : null;
+      const match =
+        pickStr.match(/\(([^)]+)\)/);
 
-  }
+      return match
+        ? match[1].trim()
+        : null;
 
-
-  function getCurrentPickOwner(
-    originalOwner,
-    round
-  ) {
-
-    const picks =
-      ownerDraftPicksJson.filter(
-        p =>
-          Number(p.year) === draftYear &&
-          Number(p.round) === round
-      );
+    };
 
 
-    const tradedPick =
-      picks.find(
-        p =>
-          getOriginalOwnerFromPick(
-            p.pick
-          ) === originalOwner
-      );
+  // ----------------------------------------------------------
+  // Determine current owner of a pick
+  // ----------------------------------------------------------
+
+  const getCurrentPickOwner =
+    (originalOwner, round) => {
+
+      const picks =
+        ownerDraftPicksJson.filter(
+          p =>
+            Number(p.year) === draftYear &&
+            Number(p.round) === round
+        );
 
 
-    if (tradedPick) {
-
-      return tradedPick.owner;
-
-    }
-
-
-    const originalPick =
-      picks.find(
-        p =>
-          p.owner === originalOwner &&
-          !getOriginalOwnerFromPick(
-            p.pick
-          )
-      );
+      const tradedPick =
+        picks.find(
+          p =>
+            getOriginalOwnerFromPick(
+              p.pick
+            ) === originalOwner
+        );
 
 
-    if (originalPick) {
-
-      return originalPick.owner;
-
-    }
+      if (tradedPick) {
+        return tradedPick.owner;
+      }
 
 
-    return originalOwner;
+      const originalPick =
+        picks.find(
+          p =>
+            p.owner === originalOwner &&
+            !getOriginalOwnerFromPick(
+              p.pick
+            )
+        );
 
-  }
+
+      if (originalPick) {
+        return originalPick.owner;
+      }
 
 
-  const container =
+      return originalOwner;
+
+    };
+
+
+  // ----------------------------------------------------------
+  // Find container
+  // ----------------------------------------------------------
+
+  const tableContainer =
     document.querySelector(
-      ".wbdw-home-draft-order-grid"
+      "div.div-wbdw-home-draft-board"
     );
 
 
-  if (!container) {
+  if (!tableContainer) {
 
     console.error(
-      "Draft order container not found."
+      "Draft board container not found."
     );
 
     return;
@@ -247,8 +272,12 @@ async function createDraftBoard() {
   }
 
 
-  container.innerHTML = "";
+  tableContainer.innerHTML = "";
 
+
+  // ----------------------------------------------------------
+  // Year label
+  // ----------------------------------------------------------
 
   const yearLabel =
     document.createElement("div");
@@ -260,10 +289,14 @@ async function createDraftBoard() {
     `${draftYear} Draft`;
 
 
-  container.appendChild(
+  tableContainer.appendChild(
     yearLabel
   );
 
+
+  // ----------------------------------------------------------
+  // Create table
+  // ----------------------------------------------------------
 
   const table =
     document.createElement("table");
@@ -273,6 +306,7 @@ async function createDraftBoard() {
   );
 
 
+  // Header
   const headerRow =
     document.createElement("tr");
 
@@ -287,25 +321,27 @@ async function createDraftBoard() {
   );
 
 
-  draftOrderJson.forEach(
-    item => {
+  draftOrderJson.forEach(item => {
 
-      const th =
-        document.createElement("th");
+    const th =
+      document.createElement("th");
 
-      th.textContent =
-        `${item.pick} (${item.owner})`;
+    th.textContent =
+      `${item.pick} (${item.owner})`;
 
-      headerRow.appendChild(th);
+    headerRow.appendChild(th);
 
-    }
-  );
+  });
 
 
   table.appendChild(
     headerRow
   );
 
+
+  // ----------------------------------------------------------
+  // Rounds 1–4
+  // ----------------------------------------------------------
 
   for (
     let round = 1;
@@ -363,26 +399,34 @@ async function createDraftBoard() {
   }
 
 
-  const wrapper =
+  // ----------------------------------------------------------
+  // Scroll wrapper
+  // ----------------------------------------------------------
+
+  const scrollWrapper =
     document.createElement("div");
 
-  wrapper.className =
+  scrollWrapper.className =
     "table-scroll-wrapper";
 
-  wrapper.appendChild(table);
+  scrollWrapper.appendChild(
+    table
+  );
 
 
-  container.appendChild(wrapper);
+  tableContainer.appendChild(
+    scrollWrapper
+  );
 
 }
 
 
 
 // ============================================================
-// POWER RANKINGS
+// DYNASTY POWER RANKINGS
 // ============================================================
 
-async function createPowerRankings() {
+async function createPowerRankingsDynasty() {
 
   const response =
     await fetch(
@@ -393,176 +437,483 @@ async function createPowerRankings() {
     await response.json();
 
 
-  const container =
-    document.querySelector(
-      ".wbdw-home-power-rankings-list"
+  json.sort(
+    (a, b) =>
+      b["Overall Value"] -
+      a["Overall Value"]
+  );
+
+
+  const owners =
+    json.map(
+      item => item.Owner
     );
 
 
-  if (!container) {
+  const draftCapitalValues =
+    json.map(
+      item => item["Draft Capital Value"]
+    );
 
+
+  const qbValues =
+    json.map(
+      item => item["QB Value"]
+    );
+
+
+  const rbValues =
+    json.map(
+      item => item["RB Value"]
+    );
+
+
+  const wrValues =
+    json.map(
+      item => item["WR Value"]
+    );
+
+
+  const teValues =
+    json.map(
+      item => item["TE Value"]
+    );
+
+
+  const canvas =
+    document.getElementById(
+      "canvas-wbdw-power-rankings-dynasty"
+    );
+
+
+  if (!canvas) {
     return;
-
   }
 
 
-  container.innerHTML = "";
+  const ctx =
+    canvas.getContext("2d");
 
 
-  function renderDynasty() {
+  new Chart(ctx, {
 
-    const sorted =
-      [...json].sort(
-        (a, b) =>
-          b["Overall Value"] -
-          a["Overall Value"]
-      );
+    type: "bar",
 
 
-    sorted.forEach(
-      (item, index) => {
+    data: {
 
-        const row =
-          document.createElement("div");
-
-        row.className =
-          "wbdw-power-ranking-row";
+      labels: owners,
 
 
-        row.innerHTML = `
+      datasets: [
 
-          <div class="wbdw-power-ranking-place">
-            ${index + 1}
-          </div>
-
-          <div class="wbdw-power-ranking-owner">
-            ${item.Owner}
-          </div>
-
-          <div class="wbdw-power-ranking-value">
-            ${Number(
-              item["Overall Value"]
-            ).toFixed(1)}
-          </div>
-
-        `;
+        {
+          label: "QB Value",
+          data: qbValues,
+          backgroundColor:
+            "rgba(255, 99, 132, 0.2)",
+          borderColor:
+            "rgba(255, 99, 132, 1)",
+          borderWidth: 1
+        },
 
 
-        container.appendChild(row);
-
-      }
-    );
-
-  }
-
-
-  function renderSeason() {
-
-    const sorted =
-      [...json].sort(
-        (a, b) =>
-          b.projected_points -
-          a.projected_points
-      );
+        {
+          label: "RB Value",
+          data: rbValues,
+          backgroundColor:
+            "rgba(255, 205, 86, 0.2)",
+          borderColor:
+            "rgba(255, 205, 86, 1)",
+          borderWidth: 1
+        },
 
 
-    sorted.forEach(
-      (item, index) => {
-
-        const row =
-          document.createElement("div");
-
-        row.className =
-          "wbdw-power-ranking-row";
-
-
-        row.innerHTML = `
-
-          <div class="wbdw-power-ranking-place">
-            ${index + 1}
-          </div>
-
-          <div class="wbdw-power-ranking-owner">
-            ${item.Owner}
-          </div>
-
-          <div class="wbdw-power-ranking-value">
-            ${Number(
-              item.projected_points
-            ).toFixed(2)}
-          </div>
-
-        `;
+        {
+          label: "WR Value",
+          data: wrValues,
+          backgroundColor:
+            "rgba(54, 162, 235, 0.2)",
+          borderColor:
+            "rgba(54, 162, 235, 1)",
+          borderWidth: 1
+        },
 
 
-        container.appendChild(row);
-
-      }
-    );
-
-  }
-
-
-  function setRanking(type) {
-
-    container.innerHTML = "";
+        {
+          label: "TE Value",
+          data: teValues,
+          backgroundColor:
+            "rgba(153, 102, 255, 0.2)",
+          borderColor:
+            "rgba(153, 102, 255, 1)",
+          borderWidth: 1
+        },
 
 
-    if (type === "dynasty") {
+        {
+          label: "Draft Capital Value",
+          data: draftCapitalValues,
+          backgroundColor:
+            "rgba(75, 192, 192, 0.2)",
+          borderColor:
+            "rgba(75, 192, 192, 1)",
+          borderWidth: 1
+        }
 
-      renderDynasty();
+      ]
 
-    }
-
-    else {
-
-      renderSeason();
-
-    }
-
-
-    document
-      .querySelectorAll(
-        ".wbdw-home-tab"
-      )
-      .forEach(button => {
-
-        button.classList.toggle(
-          "is-active",
-          button.dataset.ranking === type
-        );
-
-      });
-
-  }
+    },
 
 
-  document
-    .querySelectorAll(
-      ".wbdw-home-tab"
-    )
-    .forEach(button => {
+    options: {
 
-      button.addEventListener(
-        "click",
-        () => {
+      responsive: true,
 
-          setRanking(
-            button.dataset.ranking
-          );
+      maintainAspectRatio: false,
+
+
+      plugins: {
+
+        legend: {
+
+          display: true,
+
+          labels: {
+            color: "white"
+          }
 
         }
-      );
 
-    });
+      },
 
 
-  setRanking("dynasty");
+      scales: {
+
+        x: {
+
+          stacked: true,
+
+          ticks: {
+
+            color: "white",
+
+            autoSkip: false,
+
+            maxRotation: 90
+
+          }
+
+        },
+
+
+        y: {
+
+          beginAtZero: true,
+
+          stacked: true,
+
+          ticks: {
+            color: "white"
+          }
+
+        }
+
+      }
+
+    }
+
+  });
 
 }
 
 
-//#######End Homepage Functions#######
+
+// ============================================================
+// CURRENT SEASON POWER RANKINGS
+// ============================================================
+
+async function createPowerRankingsSeason() {
+
+  const response =
+    await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json"
+    );
+
+  const json =
+    await response.json();
+
+
+  json.sort(
+    (a, b) =>
+      b.projected_points -
+      a.projected_points
+  );
+
+
+  const owners =
+    json.map(
+      item => item.Owner
+    );
+
+
+  const qbValue =
+    json.map(
+      item => item.qb_proj
+    );
+
+
+  const rbValue =
+    json.map(
+      item => item.rb_proj
+    );
+
+
+  const wrValue =
+    json.map(
+      item => item.wr_proj
+    );
+
+
+  const teValue =
+    json.map(
+      item => item.te_proj
+    );
+
+
+  const flexValue =
+    json.map(
+      item => item.flex_proj
+    );
+
+
+  const canvas =
+    document.getElementById(
+      "canvas-wbdw-power-rankings-season"
+    );
+
+
+  if (!canvas) {
+    return;
+  }
+
+
+  const ctx =
+    canvas.getContext("2d");
+
+
+  new Chart(ctx, {
+
+    type: "bar",
+
+
+    data: {
+
+      labels: owners,
+
+
+      datasets: [
+
+        {
+          label: "QB Projection",
+          data: qbValue,
+          backgroundColor:
+            "rgba(255, 99, 132, 0.2)",
+          borderColor:
+            "rgba(255, 99, 132, 1)",
+          borderWidth: 1
+        },
+
+
+        {
+          label: "RB Projection",
+          data: rbValue,
+          backgroundColor:
+            "rgba(255, 205, 86, 0.2)",
+          borderColor:
+            "rgba(255, 205, 86, 1)",
+          borderWidth: 1
+        },
+
+
+        {
+          label: "WR Projection",
+          data: wrValue,
+          backgroundColor:
+            "rgba(54, 162, 235, 0.2)",
+          borderColor:
+            "rgba(54, 162, 235, 1)",
+          borderWidth: 1
+        },
+
+
+        {
+          label: "TE Projection",
+          data: teValue,
+          backgroundColor:
+            "rgba(153, 102, 255, 0.2)",
+          borderColor:
+            "rgba(153, 102, 255, 1)",
+          borderWidth: 1
+        },
+
+
+        {
+          label: "Flex Projection",
+          data: flexValue,
+          backgroundColor:
+            "rgba(75, 192, 192, 0.2)",
+          borderColor:
+            "rgba(75, 192, 192, 1)",
+          borderWidth: 1
+        }
+
+      ]
+
+    },
+
+
+    options: {
+
+      responsive: true,
+
+      maintainAspectRatio: false,
+
+
+      plugins: {
+
+        legend: {
+
+          display: true,
+
+          labels: {
+            color: "white"
+          }
+
+        }
+
+      },
+
+
+      scales: {
+
+        x: {
+
+          stacked: true,
+
+          ticks: {
+
+            color: "white",
+
+            autoSkip: false,
+
+            maxRotation: 90
+
+          }
+
+        },
+
+
+        y: {
+
+          beginAtZero: true,
+
+          stacked: true,
+
+          ticks: {
+            color: "white"
+          }
+
+        }
+
+      }
+
+    }
+
+  });
+
+}
+
+
+
+// ============================================================
+// POWER RANKING TABS
+// ============================================================
+
+function setupPowerRankingTabs() {
+
+  const buttons =
+    document.querySelectorAll(
+      ".wbdw-home-tab"
+    );
+
+
+  const dynastyChart =
+    document.querySelector(
+      '[data-ranking-chart="dynasty"]'
+    );
+
+
+  const seasonChart =
+    document.querySelector(
+      '[data-ranking-chart="season"]'
+    );
+
+
+  buttons.forEach(button => {
+
+    button.addEventListener(
+      "click",
+      () => {
+
+        const ranking =
+          button.dataset.ranking;
+
+
+        buttons.forEach(
+          otherButton => {
+
+            otherButton.classList.toggle(
+              "is-active",
+              otherButton === button
+            );
+
+          }
+        );
+
+
+        if (ranking === "dynasty") {
+
+          dynastyChart.style.display =
+            "block";
+
+          seasonChart.style.display =
+            "none";
+
+        }
+
+        else {
+
+          dynastyChart.style.display =
+            "none";
+
+          seasonChart.style.display =
+            "block";
+
+        }
+
+      }
+    );
+
+  });
+
+}
+
+
+
+// ============================================================
+// END HOMEPAGE FUNCTIONS
+// ============================================================
 
 
 //#######Records Page Functions#######
