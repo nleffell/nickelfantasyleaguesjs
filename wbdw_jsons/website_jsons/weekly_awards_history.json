@@ -3,141 +3,169 @@
         "1": {
             "closest loss": {
                 "owner": "Brian Fuquay",
-                "value": 18.42
+                "value": 18.42,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Nick Janowicz",
-                "value": 0.99
+                "value": 0.99,
+                "amount": 25
             }
         },
         "2": {
             "closest loss": {
                 "owner": "Nick Janowicz",
-                "value": 1.22
+                "value": 1.22,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Nick Leffell",
-                "value": 0.967
+                "value": 0.967,
+                "amount": 25
             }
         },
         "3": {
             "closest loss": {
                 "owner": "Jon Knicely",
-                "value": 3.32
+                "value": 3.32,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Ryan Shannon",
-                "value": 0.949
+                "value": 0.949,
+                "amount": 25
             }
         },
         "4": {
             "closest loss": {
                 "owner": "Nick Janowicz",
-                "value": 3.52
+                "value": 3.52,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Ryan Shannon",
-                "value": 0.968
+                "value": 0.968,
+                "amount": 25
             }
         },
         "5": {
             "closest loss": {
                 "owner": "Kyle Nester",
-                "value": 0.58
+                "value": 0.58,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Ryan Shannon",
-                "value": 0.977
+                "value": 0.977,
+                "amount": 25
             }
         },
         "6": {
             "closest loss": {
                 "owner": "Patrick Neafsey",
-                "value": 2.86
+                "value": 2.86,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Tyler Smith",
-                "value": 0.966
+                "value": 0.966,
+                "amount": 25
             }
         },
         "7": {
             "closest loss": {
                 "owner": "Jon Knicely",
-                "value": 7.78
+                "value": 7.78,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Ryan Shannon",
-                "value": 0.995
+                "value": 0.995,
+                "amount": 25
             }
         },
         "8": {
             "closest loss": {
                 "owner": "Patrick Neafsey",
-                "value": 6.22
+                "value": 6.22,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Chad Hill",
-                "value": 1.0
+                "value": 1.0,
+                "amount": 25
             }
         },
         "9": {
             "closest loss": {
                 "owner": "Brian Fuquay",
-                "value": 25.72
+                "value": 25.72,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Chad Hill",
-                "value": 0.986
+                "value": 0.986,
+                "amount": 25
             }
         },
         "10": {
             "closest loss": {
                 "owner": "Patrick Neafsey",
-                "value": 25.22
+                "value": 25.22,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "TJ Pickeral",
-                "value": 1.0
+                "value": 1.0,
+                "amount": 25
             }
         },
         "11": {
             "closest loss": {
                 "owner": "Nick Leffell",
-                "value": 12.14
+                "value": 12.14,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "TJ Pickeral",
-                "value": 0.951
+                "value": 0.951,
+                "amount": 25
             }
         },
         "12": {
             "closest loss": {
                 "owner": "Brian Fuquay",
-                "value": 10.62
+                "value": 10.62,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Patrick Neafsey",
-                "value": 0.999
+                "value": 0.999,
+                "amount": 25
             }
         },
         "13": {
             "closest loss": {
                 "owner": "Nick Leffell",
-                "value": 16.66
+                "value": 16.66,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Nick Leffell",
-                "value": 0.956
+                "value": 0.956,
+                "amount": 25
             }
         },
         "14": {
             "closest loss": {
                 "owner": "Nick Janowicz",
-                "value": 7.26
+                "value": 7.26,
+                "amount": 25
             },
             "most efficient manager": {
                 "owner": "Chad Hill",
-                "value": 1.0
+                "value": 1.0,
+                "amount": 25
             }
         }
     }
