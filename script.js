@@ -2309,41 +2309,141 @@ async function createBetTracker() {
 
 //########Owner Page Functions#######
 async function createOwnerStats() {
-  const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
-  const json = await statsRes.json();
 
-  // Helper: builds "Owner A, Owner B - N" for any metric by max count
-  function leaderByCount(data, placeCol, countCol, formatter = v => v) {
-    const owners = data.filter(d => d[placeCol] === "1st" || d[placeCol] === "T-1st");
+    const container =
+        document.querySelector(".wbdw-owner-records-grid");
 
-    const names = owners.map(d => d.owner).filter(Boolean).join(", ");
-    const value = formatter(owners[0][countCol]);
-
-    return `${value} - ${names}`;
-  }
-
-  const champStr = leaderByCount(json, "championships_place", "championships");
-  const loserStr = leaderByCount(json, "league_loser_count_place", "league_loser_count");
-  const ppStr = leaderByCount(json, "playoffs_pct_place", "playoff_pct", v => (v * 100).toFixed(0) + "%");
-  const pwStr = leaderByCount(json, "playoff_wins_place", "playoff_wins");
-  const afStr = leaderByCount(json, "avg_finish_place", "avg_finish");
-
-    // Map the strings to your div class names
-  const mapSelectors = {
-    champ: champStr,
-    loser: loserStr,
-    "playoff-pct": ppStr,
-    "playoff-wins": pwStr,
-    "avg-finish": afStr
-  };
-
-  // Render into various divs
-  for (const [key, text] of Object.entries(mapSelectors)) {
-    const el = document.querySelector(`.div-wbdw-owners-records-${key}`);
-    if (el) {
-      el.innerHTML += `<div>${text}</div>`; // or innerHTML if you want formatting
+    if (!container) {
+        return;
     }
-  }
+
+    try {
+
+        const response = await fetch(
+            "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json"
+        );
+
+        const data = await response.json();
+
+
+        // --------------------------------------------------------
+        // Find owners tied for the highest value
+        // --------------------------------------------------------
+
+        function getLeaders(field) {
+
+            const values =
+                data.map(
+                    owner => Number(owner[field]) || 0
+                );
+
+            const maxValue =
+                Math.max(...values);
+
+            const owners =
+                data
+                    .filter(
+                        owner =>
+                            Number(owner[field]) === maxValue
+                    )
+                    .map(
+                        owner => owner.owner
+                    );
+
+            return {
+                value: maxValue,
+                owners: owners.join(", ")
+            };
+
+        }
+
+
+        // --------------------------------------------------------
+        // Build records
+        // --------------------------------------------------------
+
+        const records = [
+
+            {
+                label: "Most Championships",
+                data: getLeaders("championships")
+            },
+
+            {
+                label: "Most League Loser Finishes",
+                data: getLeaders("league_loser_count")
+            },
+
+            {
+                label: "Most Playoff Wins",
+                data: getLeaders("playoff_wins")
+            },
+
+            {
+                label: "Most Playoff Losses",
+                data: getLeaders("playoff_losses")
+            },
+
+            {
+                label: "Most Playoff Appearances",
+                data: getLeaders("playoff_appearances")
+            }
+
+        ];
+
+
+        // --------------------------------------------------------
+        // Clear existing cards
+        // --------------------------------------------------------
+
+        container.innerHTML = "";
+
+
+        // --------------------------------------------------------
+        // Create cards
+        // --------------------------------------------------------
+
+        records.forEach(record => {
+
+            const card =
+                document.createElement("div");
+
+            card.className =
+                "wbdw-owner-record-card";
+
+
+            card.innerHTML = `
+
+                <div class="wbdw-owner-record-card-value">
+                    ${record.data.value}
+                </div>
+
+                <div class="wbdw-owner-record-card-label">
+                    ${record.label}
+                </div>
+
+                <div class="wbdw-owner-record-card-owner">
+                    ${record.data.owners}
+                </div>
+
+            `;
+
+
+            container.appendChild(card);
+
+        });
+
+    }
+
+    catch (error) {
+
+        console.error(
+            "Error loading owner stats:",
+            error
+        );
+
+    }
+
 }
 //########End Owner Page Functions#######
 
