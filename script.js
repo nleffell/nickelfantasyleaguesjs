@@ -16,7 +16,7 @@ async function createHomepageStandingsTable() {
 
   const tableContainer =
     document.querySelector(
-      "div.div-wbdw-home-standings"
+      ".wbdw-home-standings-table-wrapper"
     );
 
 
