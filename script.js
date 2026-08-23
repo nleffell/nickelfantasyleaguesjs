@@ -1445,8 +1445,8 @@ async function createWeeklyAwardsTable() {
 
 }
 
-//create weekly award records cards
-async function calculateWeeklyAwardRecords() {
+//calc and create weekly award records cards
+async function createWeeklyAwardRecords() {
 
     const response = await fetch(
         "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/weekly_awards_history.json"
@@ -1454,15 +1454,16 @@ async function calculateWeeklyAwardRecords() {
 
     const data = await response.json();
 
+
+    // ========================================================
+    // Build award records
+    // ========================================================
+
     const records = {
         allTime: {},
         byYear: {}
     };
 
-
-    // ========================================================
-    // Loop through each year
-    // ========================================================
 
     Object.entries(data).forEach(
         ([year, weeks]) => {
@@ -1472,17 +1473,8 @@ async function calculateWeeklyAwardRecords() {
             }
 
 
-            // =================================================
-            // Loop through each week
-            // =================================================
-
             Object.values(weeks).forEach(
                 awards => {
-
-
-                    // =========================================
-                    // Loop through each award type
-                    // =========================================
 
                     Object.values(awards).forEach(
                         award => {
@@ -1494,9 +1486,9 @@ async function calculateWeeklyAwardRecords() {
                                 Number(award.amount);
 
 
-                            // =================================
-                            // ALL TIME
-                            // =================================
+                            // ------------------------------
+                            // All Time
+                            // ------------------------------
 
                             if (!records.allTime[owner]) {
 
@@ -1514,9 +1506,9 @@ async function calculateWeeklyAwardRecords() {
                                 amount;
 
 
-                            // =================================
-                            // SPECIFIC YEAR
-                            // =================================
+                            // ------------------------------
+                            // Current Year
+                            // ------------------------------
 
                             if (!records.byYear[year][owner]) {
 
@@ -1543,7 +1535,177 @@ async function calculateWeeklyAwardRecords() {
     );
 
 
-    return records;
+    // ========================================================
+    // Get HTML elements
+    // ========================================================
+
+    const yearSelect =
+        document.getElementById(
+            "wbdw-award-year-select"
+        );
+
+    const mostAwardsValue =
+        document.getElementById(
+            "wbdw-most-awards-value"
+        );
+
+    const mostAwardsOwner =
+        document.getElementById(
+            "wbdw-most-awards-owner"
+        );
+
+    const mostMoneyValue =
+        document.getElementById(
+            "wbdw-most-money-value"
+        );
+
+    const mostMoneyOwner =
+        document.getElementById(
+            "wbdw-most-money-owner"
+        );
+
+
+    if (
+        !yearSelect ||
+        !mostAwardsValue ||
+        !mostAwardsOwner ||
+        !mostMoneyValue ||
+        !mostMoneyOwner
+    ) {
+        return;
+    }
+
+
+    // ========================================================
+    // Populate year dropdown
+    // ========================================================
+
+    Object.keys(records.byYear)
+        .sort(
+            (a, b) =>
+                Number(b) - Number(a)
+        )
+        .forEach(
+            year => {
+
+                const option =
+                    document.createElement("option");
+
+                option.value = year;
+
+                option.textContent = year;
+
+                yearSelect.appendChild(option);
+
+            }
+        );
+
+
+    // ========================================================
+    // Render selected period
+    // ========================================================
+
+    function renderRecords() {
+
+        const selectedYear =
+            yearSelect.value;
+
+
+        const selectedRecords =
+            selectedYear === "all-time"
+                ? records.allTime
+                : records.byYear[selectedYear];
+
+
+        if (!selectedRecords) {
+            return;
+        }
+
+
+        // ----------------------------------------------------
+        // Most awards
+        // ----------------------------------------------------
+
+        const maxAwards =
+            Math.max(
+                ...Object.values(selectedRecords)
+                    .map(
+                        owner =>
+                            owner.awards
+                    )
+            );
+
+
+        const awardWinners =
+            Object.entries(selectedRecords)
+                .filter(
+                    ([, owner]) =>
+                        owner.awards === maxAwards
+                )
+                .map(
+                    ([owner]) =>
+                        owner
+                );
+
+
+        // ----------------------------------------------------
+        // Most money
+        // ----------------------------------------------------
+
+        const maxMoney =
+            Math.max(
+                ...Object.values(selectedRecords)
+                    .map(
+                        owner =>
+                            owner.money
+                    )
+            );
+
+
+        const moneyWinners =
+            Object.entries(selectedRecords)
+                .filter(
+                    ([, owner]) =>
+                        owner.money === maxMoney
+                )
+                .map(
+                    ([owner]) =>
+                        owner
+                );
+
+
+        // ----------------------------------------------------
+        // Update cards
+        // ----------------------------------------------------
+
+        mostAwardsValue.textContent =
+            maxAwards;
+
+        mostAwardsOwner.textContent =
+            awardWinners.join(", ");
+
+
+        mostMoneyValue.textContent =
+            `$${maxMoney.toFixed(2)}`;
+
+        mostMoneyOwner.textContent =
+            moneyWinners.join(", ");
+
+    }
+
+
+    // ========================================================
+    // Dropdown
+    // ========================================================
+
+    yearSelect.addEventListener(
+        "change",
+        renderRecords
+    );
+
+
+    // Initial display
+    renderRecords();
 
 }
 
