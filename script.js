@@ -1,510 +1,567 @@
 //#######Homepage Functions#######
-//Creates current standings table for home page
+
+
+// ============================================================
+// STANDINGS
+// ============================================================
+
 async function createHomepageStandingsTable() {
-  const homepageStandingsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json");
-  const json = await homepageStandingsRes.json();
-  
-  const tableContainer = document.querySelector('div.div-wbdw-home-standings');
-  
-  // Create the table element
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-home-standings');
 
-  // Create the table header
-  const tableHeader = document.createElement('thead');
-  const headerRow = document.createElement('tr');
-  headerRow.innerHTML = `
-    <th>Place</th>
-    <th>Owner</th>
-    <th>Team Name</th>
-    <th>Record</th>
-    <th>Agg.*</th>
-    <th>Points</th>
-  `;
-  tableHeader.appendChild(headerRow);
-  table.appendChild(tableHeader);
-
-  // Create the table body
-  const tableBody = document.createElement('tbody');
-
-  // Iterate through the JSON array
-  json.forEach(item => {
-    const row = document.createElement('tr');
-    
-    // Access properties of each object
-    const place = item.place;
-    const owner = item.owner;
-    const teamName = item.team_name;
-    const record = item.record;
-    const points = item.points;
-    const aggRec = item.agg_record
-
-    // Create table cells and populate with data
-    const placeCell = document.createElement('td');
-    placeCell.textContent = place;
-    row.appendChild(placeCell);
-
-    const ownerCell = document.createElement('td');
-    ownerCell.textContent = owner;
-    row.appendChild(ownerCell);
-
-    const teamNameCell = document.createElement('td');
-    teamNameCell.textContent = teamName;
-    row.appendChild(teamNameCell);
-
-    const recordCell = document.createElement('td');
-    recordCell.textContent = record;
-    row.appendChild(recordCell);
-
-    const aggRecordCell = document.createElement('td');
-    aggRecordCell.textContent = aggRec;
-    row.appendChild(aggRecordCell);
-
-    const pointsCell = document.createElement('td');
-    pointsCell.textContent = points;
-    row.appendChild(pointsCell);
-
-    // Append the row to the table body
-    tableBody.appendChild(row);
-  });
-
-  // Append the table body to the table
-  table.appendChild(tableBody);
-
-  // Append the table to the table container
-  tableContainer.appendChild(table);
-
-  const noteRow = document.createElement('tr');
-  const noteCell = document.createElement('td');
-  noteCell.colSpan = 6; // Span all columns
-  noteCell.textContent = '* Aggregate Record is a team\'s record if they played all other teams every week';
-  noteCell.style.fontStyle = 'italic';
-  noteRow.appendChild(noteCell);
-  tableBody.appendChild(noteRow);
-  table.appendChild(tableBody);
-
-  const scrollWrapper = document.createElement('div');
-  scrollWrapper.classList.add('table-scroll-wrapper');
-  scrollWrapper.appendChild(table);
-  tableContainer.appendChild(scrollWrapper);
-}
-
-
-//Creates draft pick order table for home page
-async function createCurrentDraftPickOrderTable() {
-  const currentDraftPickOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
-  const json = await currentDraftPickOrderRes.json();
-     
-  let tableContainer = document.querySelector('div.div-wbdw-home-draft-pick-order') || 
-                       document.querySelector('div.div-wbdw-home-draft-pick-order-post-season')
-
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-draft-pick-order');
-
-  const tableHeader = document.createElement('thead');
-  const headerRow = document.createElement('tr');
-  headerRow.innerHTML = `
-    <th>Draft Pick</th>
-    <th>Owner</th>
-    <th>Team Name</th>
-    <th>Points incl. Bench</th>
-  `;
-  tableHeader.appendChild(headerRow);
-  table.appendChild(tableHeader);
-
-  // Create the table body
-  const tableBody = document.createElement('tbody');
-
-  // Iterate through the JSON array
-  json.forEach((item, index) => {
-    const row = document.createElement('tr');
-    
-    // Access properties of each object
-    const pick = item.pick;
-    const owner = item.owner;
-    const teamName = item.team_name;
-    const points = item.points;
-
-    // Create table cells and populate with data
-    const pickCell = document.createElement('td');
-    pickCell.textContent = pick;
-    row.appendChild(pickCell);
-
-    const ownerCell = document.createElement('td');
-    ownerCell.textContent = owner;
-    row.appendChild(ownerCell);
-
-    const teamNameCell = document.createElement('td');
-    teamNameCell.textContent = teamName;
-    row.appendChild(teamNameCell);
-    
-    const pointsCell = document.createElement('td');
-    pointsCell.textContent = points;
-    row.appendChild(pointsCell);
-
-    tableBody.appendChild(row);
-  });
-  
-  const noteRow = document.createElement('tr');
-  const noteCell = document.createElement('td');
-  noteCell.colSpan = 4; // Span all columns
-  noteCell.textContent = '* indicates confirmed draft order';
-  noteCell.style.fontStyle = 'italic';
-  noteRow.appendChild(noteCell);
-  tableBody.appendChild(noteRow);
-  table.appendChild(tableBody);
-
-  const scrollWrapper = document.createElement('div');
-  scrollWrapper.classList.add('table-scroll-wrapper');
-  scrollWrapper.appendChild(table);
-  tableContainer.appendChild(scrollWrapper);
-}
-
-
-// Create draft board for homepage
-async function createDraftBoard() {
-  // Fetch projected draft pick order
-  const draftOrderRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json");
-  const draftOrderJson = await draftOrderRes.json();
-
-  // Fetch draft pick ownership info
-  const ownerDraftPicksRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json");
-  const ownerDraftPicksJson = await ownerDraftPicksRes.json();
-
-  // ------------------------------------------------------------
-  // Determine the closest/upcoming draft year
-  // ------------------------------------------------------------
-  const draftYear = Math.min(...ownerDraftPicksJson.map(p => Number(p.year)));
-
-  // ------------------------------------------------------------
-  // Helper: get original owner from a pick string
-  //
-  // "TBD"                  -> null
-  // "TBD (Chad Hill)"      -> "Chad Hill"
-  // ------------------------------------------------------------
-  const getOriginalOwnerFromPick = pickStr => {
-    const match = pickStr.match(/\(([^)]+)\)/);
-    return match ? match[1].trim() : null;
-  };
-
-  // ------------------------------------------------------------
-  // Find the current owner of an original owner's pick
-  // for a specific year and round.
-  //
-  // If the original owner still owns their pick:
-  //   owner = originalOwner
-  //   pick = "TBD"
-  //
-  // If it was traded:
-  //   owner = current owner
-  //   pick = "TBD (Original Owner)"
-  // ------------------------------------------------------------
-  const getCurrentPickOwner = (originalOwner, round) => {
-    const picks = ownerDraftPicksJson.filter(
-      p =>
-        Number(p.year) === draftYear &&
-        Number(p.round) === round
-    );
-
-    // First look for a traded pick that originally belonged
-    // to this projected owner.
-    const tradedPick = picks.find(
-      p => getOriginalOwnerFromPick(p.pick) === originalOwner
-    );
-
-    if (tradedPick) {
-      return tradedPick.owner;
-    }
-
-    // If there is no traded version, the original owner
-    // still owns their own pick.
-    const originalPick = picks.find(
-      p =>
-        p.owner === originalOwner &&
-        !getOriginalOwnerFromPick(p.pick)
-    );
-
-    if (originalPick) {
-      return originalPick.owner;
-    }
-
-    // Fallback — this should only happen if the pick is missing
-    // from the ownership JSON.
-    return originalOwner;
-  };
-
-  // ------------------------------------------------------------
-  // Table container
-  // ------------------------------------------------------------
-  const tableContainer = document.querySelector(
-    "div.div-wbdw-home-draft-board"
+  const response = await fetch(
+    "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/homepage_current_standings_table.json"
   );
 
+  const json = await response.json();
+
+  const tableContainer =
+    document.querySelector(".wbdw-home-standings-table-wrapper");
+
   if (!tableContainer) {
-    console.error(
-      "Draft board container not found: .div-wbdw-home-draft-board"
-    );
     return;
   }
 
-  // Clear existing board in case function is called more than once
   tableContainer.innerHTML = "";
 
-  // ------------------------------------------------------------
-  // Create table
-  // ------------------------------------------------------------
   const table = document.createElement("table");
-  table.classList.add("table-wbdw-draft-board");
 
-  // ------------------------------------------------------------
-  // Header row = projected draft order
-  // ------------------------------------------------------------
-  const headerRow = document.createElement("tr");
+  table.classList.add(
+    "wbdw-home-standings-table"
+  );
 
-  // Blank first column
-  const blankHeader = document.createElement("th");
-  blankHeader.textContent = "";
-  headerRow.appendChild(blankHeader);
+  table.innerHTML = `
+    <thead>
+      <tr>
+        <th>Place</th>
+        <th>Owner</th>
+        <th>Team Name</th>
+        <th>Record</th>
+        <th>Agg.*</th>
+        <th>Points</th>
+      </tr>
+    </thead>
 
-  draftOrderJson.forEach(item => {
-    const th = document.createElement("th");
+    <tbody></tbody>
+  `;
 
-    th.textContent = `${item.pick} (${item.owner})`;
+  const tableBody =
+    table.querySelector("tbody");
 
-    headerRow.appendChild(th);
+
+  json.forEach(item => {
+
+    const row =
+      document.createElement("tr");
+
+
+    const placeCell =
+      document.createElement("td");
+
+    placeCell.textContent =
+      item.place;
+
+
+    const ownerCell =
+      document.createElement("td");
+
+    ownerCell.textContent =
+      item.owner;
+
+
+    const teamNameCell =
+      document.createElement("td");
+
+    teamNameCell.textContent =
+      item.team_name;
+
+
+    const recordCell =
+      document.createElement("td");
+
+    recordCell.textContent =
+      item.record;
+
+
+    const aggRecordCell =
+      document.createElement("td");
+
+    aggRecordCell.textContent =
+      item.agg_record;
+
+
+    const pointsCell =
+      document.createElement("td");
+
+    pointsCell.textContent =
+      item.points;
+
+
+    row.append(
+      placeCell,
+      ownerCell,
+      teamNameCell,
+      recordCell,
+      aggRecordCell,
+      pointsCell
+    );
+
+
+    tableBody.appendChild(row);
+
   });
 
-  table.appendChild(headerRow);
 
-  // ------------------------------------------------------------
-  // Rows for rounds 1–4
-  // ------------------------------------------------------------
-  for (let round = 1; round <= 4; round++) {
-    const row = document.createElement("tr");
+  const noteRow =
+    document.createElement("tr");
 
-    // Round label
-    const roundCell = document.createElement("td");
-    roundCell.textContent = `Round ${round}`;
-    row.appendChild(roundCell);
+  const noteCell =
+    document.createElement("td");
 
-    // Each column represents an original/projected draft slot
-    draftOrderJson.forEach((projPick, colIndex) => {
-      const originalOwner = projPick.owner;
+  noteCell.colSpan = 6;
 
-      // Find who currently owns this particular original pick
-      const currentOwner = getCurrentPickOwner(
-        originalOwner,
-        round
-      );
+  noteCell.textContent =
+    "* Aggregate Record is a team's record if they played all other teams every week";
 
-      const cell = document.createElement("td");
+  noteCell.style.fontStyle =
+    "italic";
 
-      cell.textContent =
-        `${round}.${String(colIndex + 1).padStart(2, "0")} - ${currentOwner}`;
+  noteRow.appendChild(noteCell);
 
-      row.appendChild(cell);
-    });
+  tableBody.appendChild(noteRow);
 
-    table.appendChild(row);
+
+  tableContainer.appendChild(table);
+
+}
+
+
+
+// ============================================================
+// DRAFT BOARD
+// ============================================================
+
+async function createDraftBoard() {
+
+  const draftOrderRes =
+    await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json"
+    );
+
+  const draftOrderJson =
+    await draftOrderRes.json();
+
+
+  const ownerDraftPicksRes =
+    await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json"
+    );
+
+  const ownerDraftPicksJson =
+    await ownerDraftPicksRes.json();
+
+
+  const draftYear =
+    Math.min(
+      ...ownerDraftPicksJson.map(
+        p => Number(p.year)
+      )
+    );
+
+
+  function getOriginalOwnerFromPick(pickStr) {
+
+    const match =
+      pickStr.match(/\(([^)]+)\)/);
+
+    return match
+      ? match[1].trim()
+      : null;
+
   }
 
-  // ------------------------------------------------------------
-  // Add year label
-  // ------------------------------------------------------------
-  const yearLabel = document.createElement("div");
-  yearLabel.classList.add("draft-board-year");
-  yearLabel.textContent = `${draftYear} Draft`;
 
-  // ------------------------------------------------------------
-  // Scroll wrapper
-  // ------------------------------------------------------------
-  const scrollWrapper = document.createElement("div");
-  scrollWrapper.classList.add("table-scroll-wrapper");
-  scrollWrapper.appendChild(table);
+  function getCurrentPickOwner(
+    originalOwner,
+    round
+  ) {
 
-  tableContainer.appendChild(yearLabel);
-  tableContainer.appendChild(scrollWrapper);
-}
+    const picks =
+      ownerDraftPicksJson.filter(
+        p =>
+          Number(p.year) === draftYear &&
+          Number(p.round) === round
+      );
 
 
-//Creates dynasty power rankings for home page
-async function createPowerRankingsDynasty() {
-  const powerRankingsDynastyRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json");
-  const json = await powerRankingsDynastyRes.json();
+    const tradedPick =
+      picks.find(
+        p =>
+          getOriginalOwnerFromPick(
+            p.pick
+          ) === originalOwner
+      );
 
-  json.sort((a, b) => b['Overall Value'] - a['Overall Value']);    
-  const owners = json.map(item => item.Owner);
-  const draftCapitalValues = json.map(item => item['Draft Capital Value']);
-  const qbValues = json.map(item => item['QB Value']);
-  const rbValues = json.map(item => item['RB Value']);
-  const wrValues = json.map(item => item['WR Value']);
-  const teValues = json.map(item => item['TE Value']);
 
-  // Create a bar chart
-  var ctx = document.getElementById('canvas-wbdw-power-rankings-dynasty').getContext('2d');
-  var myChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: owners,
-      datasets: [
-        {
-          label: 'QB Value',
-          data: qbValues,
-          backgroundColor: 'rgba(255, 99, 132, 0.2)', // Bar color for QB Value
-          borderColor: 'rgba(255, 99, 132, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'RB Value',
-          data: rbValues,
-          backgroundColor: 'rgba(255, 205, 86, 0.2)', // Bar color for RB Value
-          borderColor: 'rgba(255, 205, 86, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'WR Value',
-          data: wrValues,
-          backgroundColor: 'rgba(54, 162, 235, 0.2)', // Bar color for WR Value
-          borderColor: 'rgba(54, 162, 235, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'TE Value',
-          data: teValues,
-          backgroundColor: 'rgba(153, 102, 255, 0.2)', // Bar color for TE Value
-          borderColor: 'rgba(153, 102, 255, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'Draft Capital Value',
-          data: draftCapitalValues,
-          backgroundColor: 'rgba(75, 192, 192, 0.2)', // Bar color for Draft Capital Value
-          borderColor: 'rgba(75, 192, 192, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-      ]
-    },
-    options: {
-      plugins: {
-        legend: {
-          display: true,
-          labels: {
-            color: 'white', // Set the legend text color to white
-          },
-        },
-      },
-      scales: {
-        x: {
-          stacked: true, //enable stacking for X-axis
-          ticks: {
-            color: 'white', // Set the y-axis text color to white
-            autoSkip: false, // Disable auto-skipping of ticks
-          maxRotation: 90, // Adjust the rotation angle if needed
-          },
-        },
-        y: {
-          beginAtZero: true,
-          stacked: true,
-          ticks: {
-            color: 'white', // Set the y-axis text color to white
-          },
-          // Optionally, you can add more Y-axis scale configuration here
-        }
-      }
+    if (tradedPick) {
+
+      return tradedPick.owner;
+
     }
-  });
-}
 
 
-//Create Current season power rankings for home page
-async function createPowerRankingsSeason() {
-  const powerRankingsSeasonRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json");
-  const json = await powerRankingsSeasonRes.json();
-  
-  // Sort the JSON data by the total value
-  json.sort((a, b) => b.projected_points - a.projected_points); // Sort in descending order
+    const originalPick =
+      picks.find(
+        p =>
+          p.owner === originalOwner &&
+          !getOriginalOwnerFromPick(
+            p.pick
+          )
+      );
 
-  const owners = json.map(item => item.Owner); 
-  const qbValue = json.map(item => item.qb_proj);
-  const rbValue = json.map(item => item.rb_proj);
-  const wrValue = json.map(item => item.wr_proj);
-  const teValue = json.map(item => item.te_proj);
-  const flexValue = json.map(item => item.flex_proj);
 
-  // Create a bar chart
-  var ctx = document.getElementById('canvas-wbdw-power-rankings-season').getContext('2d');
-  var myChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-      labels: owners,
-      datasets: [
-        {
-          label: 'QB Projection',
-          data: qbValue,
-          backgroundColor: 'rgba(255, 99, 132, 0.2)', // Bar color for QB Value
-          borderColor: 'rgba(255, 99, 132, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'RB Projection',
-          data: rbValue,
-          backgroundColor: 'rgba(255, 205, 86, 0.2)', // Bar color for RB Value
-          borderColor: 'rgba(255, 205, 86, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'WR Projections',
-          data: wrValue,
-          backgroundColor: 'rgba(54, 162, 235, 0.2)', // Bar color for WR Value
-          borderColor: 'rgba(54, 162, 235, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'TE Projection',
-          data: teValue,
-          backgroundColor: 'rgba(153, 102, 255, 0.2)', // Bar color for TE Value
-          borderColor: 'rgba(153, 102, 255, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-        {
-          label: 'Flex Projections',
-          data: flexValue,
-          backgroundColor: 'rgba(75, 192, 192, 0.2)', // Bar color for Draft Capital Value
-          borderColor: 'rgba(75, 192, 192, 1)', // Border color
-          borderWidth: 1 // Border width
-        },
-      ]
-    },
-    options: {
-      plugins: {
-        legend: {
-          display: true,
-          labels: {
-            color: 'white', // Set the legend text color to white
-          },
-        },
-      },
-      scales: {
-        x: {
-          stacked: true, //enable stacking for X-axis
-          ticks: {
-            color: 'white', // Set the y-axis text color to white
-            autoSkip: false, // Disable auto-skipping of ticks
-          maxRotation: 90, // Adjust the rotation angle if needed
-          },
-        },
-        y: {
-          beginAtZero: true,
-          stacked: true,
-          ticks: {
-            color: 'white', // Set the y-axis text color to white
-          },
-          // Optionally, you can add more Y-axis scale configuration here
-        }
-      }
+    if (originalPick) {
+
+      return originalPick.owner;
+
     }
-  });
+
+
+    return originalOwner;
+
+  }
+
+
+  const container =
+    document.querySelector(
+      ".wbdw-home-draft-order-grid"
+    );
+
+
+  if (!container) {
+
+    console.error(
+      "Draft order container not found."
+    );
+
+    return;
+
+  }
+
+
+  container.innerHTML = "";
+
+
+  const yearLabel =
+    document.createElement("div");
+
+  yearLabel.className =
+    "draft-board-year";
+
+  yearLabel.textContent =
+    `${draftYear} Draft`;
+
+
+  container.appendChild(
+    yearLabel
+  );
+
+
+  const table =
+    document.createElement("table");
+
+  table.classList.add(
+    "table-wbdw-draft-board"
+  );
+
+
+  const headerRow =
+    document.createElement("tr");
+
+
+  const blankHeader =
+    document.createElement("th");
+
+  blankHeader.textContent = "";
+
+  headerRow.appendChild(
+    blankHeader
+  );
+
+
+  draftOrderJson.forEach(
+    item => {
+
+      const th =
+        document.createElement("th");
+
+      th.textContent =
+        `${item.pick} (${item.owner})`;
+
+      headerRow.appendChild(th);
+
+    }
+  );
+
+
+  table.appendChild(
+    headerRow
+  );
+
+
+  for (
+    let round = 1;
+    round <= 4;
+    round++
+  ) {
+
+    const row =
+      document.createElement("tr");
+
+
+    const roundCell =
+      document.createElement("td");
+
+    roundCell.textContent =
+      `Round ${round}`;
+
+    row.appendChild(
+      roundCell
+    );
+
+
+    draftOrderJson.forEach(
+      (projPick, colIndex) => {
+
+        const originalOwner =
+          projPick.owner;
+
+
+        const currentOwner =
+          getCurrentPickOwner(
+            originalOwner,
+            round
+          );
+
+
+        const cell =
+          document.createElement("td");
+
+
+        cell.textContent =
+          `${round}.${String(
+            colIndex + 1
+          ).padStart(2, "0")} - ${currentOwner}`;
+
+
+        row.appendChild(cell);
+
+      }
+    );
+
+
+    table.appendChild(row);
+
+  }
+
+
+  const wrapper =
+    document.createElement("div");
+
+  wrapper.className =
+    "table-scroll-wrapper";
+
+  wrapper.appendChild(table);
+
+
+  container.appendChild(wrapper);
+
 }
+
+
+
+// ============================================================
+// POWER RANKINGS
+// ============================================================
+
+async function createPowerRankings() {
+
+  const response =
+    await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json"
+    );
+
+  const json =
+    await response.json();
+
+
+  const container =
+    document.querySelector(
+      ".wbdw-home-power-rankings-list"
+    );
+
+
+  if (!container) {
+
+    return;
+
+  }
+
+
+  container.innerHTML = "";
+
+
+  function renderDynasty() {
+
+    const sorted =
+      [...json].sort(
+        (a, b) =>
+          b["Overall Value"] -
+          a["Overall Value"]
+      );
+
+
+    sorted.forEach(
+      (item, index) => {
+
+        const row =
+          document.createElement("div");
+
+        row.className =
+          "wbdw-power-ranking-row";
+
+
+        row.innerHTML = `
+
+          <div class="wbdw-power-ranking-place">
+            ${index + 1}
+          </div>
+
+          <div class="wbdw-power-ranking-owner">
+            ${item.Owner}
+          </div>
+
+          <div class="wbdw-power-ranking-value">
+            ${Number(
+              item["Overall Value"]
+            ).toFixed(1)}
+          </div>
+
+        `;
+
+
+        container.appendChild(row);
+
+      }
+    );
+
+  }
+
+
+  function renderSeason() {
+
+    const sorted =
+      [...json].sort(
+        (a, b) =>
+          b.projected_points -
+          a.projected_points
+      );
+
+
+    sorted.forEach(
+      (item, index) => {
+
+        const row =
+          document.createElement("div");
+
+        row.className =
+          "wbdw-power-ranking-row";
+
+
+        row.innerHTML = `
+
+          <div class="wbdw-power-ranking-place">
+            ${index + 1}
+          </div>
+
+          <div class="wbdw-power-ranking-owner">
+            ${item.Owner}
+          </div>
+
+          <div class="wbdw-power-ranking-value">
+            ${Number(
+              item.projected_points
+            ).toFixed(2)}
+          </div>
+
+        `;
+
+
+        container.appendChild(row);
+
+      }
+    );
+
+  }
+
+
+  function setRanking(type) {
+
+    container.innerHTML = "";
+
+
+    if (type === "dynasty") {
+
+      renderDynasty();
+
+    }
+
+    else {
+
+      renderSeason();
+
+    }
+
+
+    document
+      .querySelectorAll(
+        ".wbdw-home-tab"
+      )
+      .forEach(button => {
+
+        button.classList.toggle(
+          "is-active",
+          button.dataset.ranking === type
+        );
+
+      });
+
+  }
+
+
+  document
+    .querySelectorAll(
+      ".wbdw-home-tab"
+    )
+    .forEach(button => {
+
+      button.addEventListener(
+        "click",
+        () => {
+
+          setRanking(
+            button.dataset.ranking
+          );
+
+        }
+      );
+
+    });
+
+
+  setRanking("dynasty");
+
+}
+
+
 //#######End Homepage Functions#######
 
 
