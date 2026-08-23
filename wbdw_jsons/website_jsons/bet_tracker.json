@@ -279,9 +279,9 @@
     "maker": "Nick Leffell",
     "bet": "Nick Janowicz loses 8% or more of his bodyweight and Jon Knicely loses less than 8% of his bodyweight as of 24 May 2026, 193.8 and 200.2 respectively",
     "taker": "Nick Janowicz",
-    "stake": 25,
+    "stake": 20,
     "odds": 250,
-    "payout": 62.5,
+    "payout": 50,
     "status": "Settled",
     "winner": "Nick Leffell"
   },
