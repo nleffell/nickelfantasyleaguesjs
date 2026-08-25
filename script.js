@@ -3164,14 +3164,10 @@ async function create_eligible_keepers() {
 
 
         // ---------------------------------------------
-        // Sort Owner → Keeper Round → Player
+        // Sort Keeper Round → Player
         // ---------------------------------------------
 
         players.sort((a, b) => {
-
-            if (a.owner !== b.owner) {
-                return a.owner.localeCompare(b.owner);
-            }
 
             if (a.keeper_round !== b.keeper_round) {
                 return a.keeper_round - b.keeper_round;
