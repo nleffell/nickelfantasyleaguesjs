@@ -1728,10 +1728,10 @@
             }
         }
     },
-    "2025": {
+    "2026": {
         "1": {
-            "11563": {
-                "player_name": "Bo Nix",
+            "11564": {
+                "player_name": "Drake Maye",
                 "position": "QB",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -1739,17 +1739,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "11628": {
-                "player_name": "Marvin Harrison",
-                "position": "WR",
-                "draft_round": 1,
-                "keeper_round": 0,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "11638": {
-                "player_name": "Ricky Pearsall",
+            "11618": {
+                "player_name": "Jalen McMillan",
                 "position": "WR",
                 "draft_round": 14,
                 "keeper_round": 13,
@@ -1757,8 +1748,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "11834": {
-                "player_name": "Devaughn Vele",
+            "11646": {
+                "player_name": "Jalen Coker",
                 "position": "WR",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -1766,35 +1757,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "2359": {
-                "player_name": "Ameer Abdullah",
-                "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "3214": {
-                "player_name": "Hunter Henry",
-                "position": "TE",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "5850": {
-                "player_name": "Josh Jacobs",
-                "position": "RB",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "6845": {
-                "player_name": "Zack Moss",
+            "11655": {
+                "player_name": "Tyrone Tracy",
                 "position": "RB",
                 "draft_round": 10,
                 "keeper_round": 9,
@@ -1802,53 +1766,44 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "7526": {
-                "player_name": "Jaylen Waddle",
+            "1479": {
+                "player_name": "Keenan Allen",
                 "position": "WR",
-                "draft_round": 3,
-                "keeper_round": 2,
+                "draft_round": 10,
+                "keeper_round": 9,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "7571": {
-                "player_name": "Rashod Bateman",
-                "position": "WR",
-                "draft_round": 14,
-                "keeper_round": 13,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "8112": {
-                "player_name": "Drake London",
-                "position": "WR",
-                "draft_round": 3,
-                "keeper_round": 2,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "8138": {
-                "player_name": "James Cook",
-                "position": "RB",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Janowicz"
-            },
-            "8210": {
-                "player_name": "Chig Okonkwo",
+            "4217": {
+                "player_name": "George Kittle",
                 "position": "TE",
-                "draft_round": "FA",
-                "keeper_round": 10,
+                "draft_round": 5,
+                "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "9221": {
-                "player_name": "Jahmyr Gibbs",
+            "5892": {
+                "player_name": "David Montgomery",
+                "position": "RB",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Janowicz"
+            },
+            "6801": {
+                "player_name": "Tee Higgins",
+                "position": "WR",
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Janowicz"
+            },
+            "6813": {
+                "player_name": "Jonathan Taylor",
                 "position": "RB",
                 "draft_round": 1,
                 "keeper_round": 0,
@@ -1856,22 +1811,58 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "9757": {
-                "player_name": "Kendre Miller",
+            "7525": {
+                "player_name": "DeVonta Smith",
+                "position": "WR",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Janowicz"
+            },
+            "8112": {
+                "player_name": "Drake London",
+                "position": "WR",
+                "draft_round": 2,
+                "keeper_round": 1,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Janowicz"
+            },
+            "8132": {
+                "player_name": "Tyler Allgeier",
                 "position": "RB",
+                "draft_round": 11,
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Janowicz"
+            },
+            "9504": {
+                "player_name": "Kayshon Boutte",
+                "position": "WR",
                 "draft_round": "FA",
                 "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Janowicz"
+            },
+            "9756": {
+                "player_name": "Jordan Addison",
+                "position": "WR",
+                "draft_round": 7,
+                "keeper_round": 6,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             }
         },
         "2": {
-            "10235": {
-                "player_name": "Roschon Johnson",
-                "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
+            "11563": {
+                "player_name": "Bo Nix",
+                "position": "QB",
+                "draft_round": 10,
+                "keeper_round": 9,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
@@ -1885,53 +1876,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "11618": {
-                "player_name": "Jalen McMillan",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
-            "11632": {
-                "player_name": "Malik Nabers",
-                "position": "WR",
-                "draft_round": 3,
-                "keeper_round": 2,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
             "11635": {
                 "player_name": "Ladd McConkey",
-                "position": "WR",
-                "draft_round": 5,
-                "keeper_round": 4,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
-            "11637": {
-                "player_name": "Keon Coleman",
-                "position": "WR",
-                "draft_round": 6,
-                "keeper_round": 5,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
-            "5846": {
-                "player_name": "DK Metcalf",
-                "position": "WR",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
-            "6801": {
-                "player_name": "Tee Higgins",
                 "position": "WR",
                 "draft_round": 4,
                 "keeper_round": 3,
@@ -1939,62 +1885,134 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "7021": {
-                "player_name": "Rico Dowdle",
+            "12474": {
+                "player_name": "Woody Marks",
                 "position": "RB",
-                "draft_round": 9,
-                "keeper_round": 8,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
-            "7594": {
-                "player_name": "Chuba Hubbard",
-                "position": "RB",
-                "draft_round": 8,
-                "keeper_round": 7,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jon Knicely"
-            },
-            "8110": {
-                "player_name": "Jake Ferguson",
-                "position": "TE",
                 "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "8143": {
-                "player_name": "Jerome Ford",
-                "position": "RB",
-                "draft_round": 8,
-                "keeper_round": 7,
+            "12518": {
+                "player_name": "Tyler Warren",
+                "position": "TE",
+                "draft_round": 5,
+                "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "8183": {
-                "player_name": "Brock Purdy",
-                "position": "QB",
+            "12519": {
+                "player_name": "Luther Burden",
+                "position": "WR",
                 "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "9509": {
-                "player_name": "Bijan Robinson",
+            "12540": {
+                "player_name": "Chimere Dike",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "2216": {
+                "player_name": "Mike Evans",
+                "position": "WR",
+                "draft_round": 2,
+                "keeper_round": 1,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "4034": {
+                "player_name": "Christian McCaffrey",
                 "position": "RB",
                 "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
+            },
+            "4177": {
+                "player_name": "Mack Hollins",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "4199": {
+                "player_name": "Aaron Jones",
+                "position": "RB",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "5846": {
+                "player_name": "DK Metcalf",
+                "position": "WR",
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "6797": {
+                "player_name": "Justin Herbert",
+                "position": "QB",
+                "draft_round": 13,
+                "keeper_round": 12,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "6803": {
+                "player_name": "Brandon Aiyuk",
+                "position": "WR",
+                "draft_round": 9,
+                "keeper_round": 8,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
+            },
+            "8136": {
+                "player_name": "Rachaad White",
+                "position": "RB",
+                "draft_round": 11,
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jon Knicely"
             }
         },
         "3": {
+            "11571": {
+                "player_name": "Isaiah Davis",
+                "position": "RB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Leffell"
+            },
+            "11586": {
+                "player_name": "Blake Corum",
+                "position": "RB",
+                "draft_round": 13,
+                "keeper_round": 12,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Leffell"
+            },
             "11589": {
                 "player_name": "Trey Benson",
                 "position": "RB",
@@ -2004,47 +2022,38 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "2133": {
-                "player_name": "Davante Adams",
-                "position": "WR",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "4039": {
-                "player_name": "Cooper Kupp",
-                "position": "WR",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "4892": {
-                "player_name": "Baker Mayfield",
-                "position": "QB",
+            "11643": {
+                "player_name": "Jaylen Wright",
+                "position": "RB",
                 "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "5844": {
-                "player_name": "T.J. Hockenson",
-                "position": "TE",
-                "draft_round": 8,
-                "keeper_round": 7,
+            "12469": {
+                "player_name": "Dylan Sampson",
+                "position": "RB",
+                "draft_round": 12,
+                "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "5848": {
-                "player_name": "Marquise Brown",
+            "4381": {
+                "player_name": "Taysom Hill",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Leffell"
+            },
+            "5859": {
+                "player_name": "A.J. Brown",
                 "position": "WR",
-                "draft_round": 6,
-                "keeper_round": 5,
+                "draft_round": 2,
+                "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
@@ -2058,398 +2067,32 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "7049": {
-                "player_name": "Jauan Jennings",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "7543": {
-                "player_name": "Travis Etienne",
-                "position": "RB",
-                "draft_round": 11,
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "7547": {
-                "player_name": "Amon-Ra St. Brown",
-                "position": "WR",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "7553": {
-                "player_name": "Kyle Pitts",
-                "position": "TE",
-                "draft_round": 6,
-                "keeper_round": 5,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "7607": {
-                "player_name": "Michael Carter",
-                "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "7611": {
-                "player_name": "Rhamondre Stevenson",
-                "position": "RB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            },
-            "8137": {
-                "player_name": "George Pickens",
-                "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Nick Leffell"
-            }
-        },
-        "4": {
-            "11583": {
-                "player_name": "Jonathon Brooks",
-                "position": "RB",
-                "draft_round": 6,
-                "keeper_round": 5,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "11604": {
-                "player_name": "Brock Bowers",
-                "position": "TE",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "11631": {
-                "player_name": "Brian Thomas",
-                "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "2749": {
-                "player_name": "Raheem Mostert",
-                "position": "RB",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "4066": {
-                "player_name": "Evan Engram",
-                "position": "TE",
-                "draft_round": 6,
-                "keeper_round": 5,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "421": {
-                "player_name": "Matthew Stafford",
+            "6904": {
+                "player_name": "Jalen Hurts",
                 "position": "QB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "5849": {
-                "player_name": "Kyler Murray",
-                "position": "QB",
-                "draft_round": 11,
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "5872": {
-                "player_name": "Deebo Samuel",
-                "position": "WR",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "5937": {
-                "player_name": "Diontae Johnson",
-                "position": "WR",
-                "draft_round": 5,
-                "keeper_round": 4,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "5967": {
-                "player_name": "Tony Pollard",
-                "position": "RB",
-                "draft_round": 8,
-                "keeper_round": 7,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "6149": {
-                "player_name": "Darius Slayton",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "7608": {
-                "player_name": "Khalil Herbert",
-                "position": "RB",
-                "draft_round": 14,
-                "keeper_round": 13,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "8132": {
-                "player_name": "Tyler Allgeier",
-                "position": "RB",
-                "draft_round": 12,
-                "keeper_round": 11,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            },
-            "9486": {
-                "player_name": "Dontayvion Wicks",
-                "position": "WR",
-                "draft_round": 12,
-                "keeper_round": 11,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Chad Hill"
-            }
-        },
-        "5": {
-            "10236": {
-                "player_name": "Dalton Kincaid",
-                "position": "TE",
-                "draft_round": 8,
-                "keeper_round": 7,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "11586": {
-                "player_name": "Blake Corum",
-                "position": "RB",
-                "draft_round": 9,
-                "keeper_round": 8,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "11643": {
-                "player_name": "Jaylen Wright",
-                "position": "RB",
-                "draft_round": 9,
-                "keeper_round": 8,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "1339": {
-                "player_name": "Zach Ertz",
-                "position": "TE",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "3321": {
-                "player_name": "Tyreek Hill",
-                "position": "WR",
-                "draft_round": 1,
-                "keeper_round": 0,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "4981": {
-                "player_name": "Calvin Ridley",
-                "position": "WR",
-                "draft_round": 5,
-                "keeper_round": 4,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "4983": {
-                "player_name": "DJ Moore",
-                "position": "WR",
                 "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
+                "owner": "Nick Leffell"
             },
-            "4984": {
-                "player_name": "Josh Allen",
-                "position": "QB",
+            "8138": {
+                "player_name": "James Cook",
+                "position": "RB",
                 "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
+                "owner": "Nick Leffell"
             },
-            "6819": {
-                "player_name": "Michael Pittman",
+            "8142": {
+                "player_name": "Alec Pierce",
                 "position": "WR",
-                "draft_round": 4,
-                "keeper_round": 3,
+                "draft_round": "FA",
+                "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "7528": {
-                "player_name": "Najee Harris",
-                "position": "RB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "8144": {
-                "player_name": "Chris Olave",
-                "position": "WR",
-                "draft_round": 5,
-                "keeper_round": 4,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "8150": {
-                "player_name": "Kyren Williams",
-                "position": "RB",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "9226": {
-                "player_name": "De'Von Achane",
-                "position": "RB",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "9488": {
-                "player_name": "Jaxon Smith-Njigba",
-                "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            },
-            "9500": {
-                "player_name": "Josh Downs",
-                "position": "WR",
-                "draft_round": 13,
-                "keeper_round": 12,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brian Fuquay"
-            }
-        },
-        "6": {
-            "11576": {
-                "player_name": "Braelon Allen",
-                "position": "RB",
-                "draft_round": 14,
-                "keeper_round": 13,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "2216": {
-                "player_name": "Mike Evans",
-                "position": "WR",
-                "draft_round": 3,
-                "keeper_round": 2,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "4137": {
-                "player_name": "James Conner",
-                "position": "RB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "5022": {
-                "player_name": "Dallas Goedert",
-                "position": "TE",
-                "draft_round": 8,
-                "keeper_round": 7,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "6786": {
-                "player_name": "CeeDee Lamb",
-                "position": "WR",
-                "draft_round": 1,
-                "keeper_round": 0,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "6797": {
-                "player_name": "Justin Herbert",
-                "position": "QB",
-                "draft_round": 13,
-                "keeper_round": 12,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "7090": {
-                "player_name": "Darnell Mooney",
-                "position": "WR",
-                "draft_round": 13,
-                "keeper_round": 12,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
+                "owner": "Nick Leffell"
             },
             "8155": {
                 "player_name": "Breece Hall",
@@ -2458,43 +2101,153 @@
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Tyler Smith"
+                "owner": "Nick Leffell"
             },
-            "9224": {
-                "player_name": "Chase Brown",
+            "8205": {
+                "player_name": "Isiah Pacheco",
                 "position": "RB",
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Leffell"
+            },
+            "9509": {
+                "player_name": "Bijan Robinson",
+                "position": "RB",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Leffell"
+            },
+            "9997": {
+                "player_name": "Zay Flowers",
+                "position": "WR",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Nick Leffell"
+            }
+        },
+        "4": {
+            "11604": {
+                "player_name": "Brock Bowers",
+                "position": "TE",
                 "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Tyler Smith"
+                "owner": "Chad Hill"
             },
-            "9484": {
-                "player_name": "Tucker Kraft",
+            "11625": {
+                "player_name": "Adonai Mitchell",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "11631": {
+                "player_name": "Brian Thomas",
+                "position": "WR",
+                "draft_round": 6,
+                "keeper_round": 5,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "12490": {
+                "player_name": "Bhayshul Tuten",
+                "position": "RB",
+                "draft_round": 12,
+                "keeper_round": 11,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "12508": {
+                "player_name": "Jaxson Dart",
+                "position": "QB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "12526": {
+                "player_name": "Tetairoa McMillan",
+                "position": "WR",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "12527": {
+                "player_name": "Ashton Jeanty",
+                "position": "RB",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "4035": {
+                "player_name": "Alvin Kamara",
+                "position": "RB",
+                "draft_round": 2,
+                "keeper_round": 1,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "4943": {
+                "player_name": "Sam Darnold",
+                "position": "QB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "7002": {
+                "player_name": "Juwan Johnson",
                 "position": "TE",
                 "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Tyler Smith"
+                "owner": "Chad Hill"
             },
-            "9493": {
-                "player_name": "Puka Nacua",
-                "position": "WR",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Smith"
-            },
-            "9753": {
-                "player_name": "Zach Charbonnet",
+            "7021": {
+                "player_name": "Rico Dowdle",
                 "position": "RB",
-                "draft_round": 11,
-                "keeper_round": 10,
+                "draft_round": 13,
+                "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Tyler Smith"
+                "owner": "Chad Hill"
+            },
+            "7526": {
+                "player_name": "Jaylen Waddle",
+                "position": "WR",
+                "draft_round": 5,
+                "keeper_round": 4,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
+            },
+            "9500": {
+                "player_name": "Josh Downs",
+                "position": "WR",
+                "draft_round": 12,
+                "keeper_round": 11,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Chad Hill"
             },
             "9754": {
                 "player_name": "Quentin Johnston",
@@ -2503,13 +2256,278 @@
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
-                "owner": "Tyler Smith"
+                "owner": "Chad Hill"
+            }
+        },
+        "5": {
+            "11620": {
+                "player_name": "Rome Odunze",
+                "position": "WR",
+                "draft_round": 5,
+                "keeper_round": 4,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
             },
-            "9758": {
-                "player_name": "C.J. Stroud",
+            "12481": {
+                "player_name": "Cam Skattebo",
+                "position": "RB",
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "12493": {
+                "player_name": "Oronde Gadsden",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "2133": {
+                "player_name": "Davante Adams",
+                "position": "WR",
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "3163": {
+                "player_name": "Jared Goff",
                 "position": "QB",
+                "draft_round": 14,
+                "keeper_round": 13,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "4892": {
+                "player_name": "Baker Mayfield",
+                "position": "QB",
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "4983": {
+                "player_name": "DJ Moore",
+                "position": "WR",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "5022": {
+                "player_name": "Dallas Goedert",
+                "position": "TE",
+                "draft_round": 14,
+                "keeper_round": 13,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "6786": {
+                "player_name": "CeeDee Lamb",
+                "position": "WR",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "7547": {
+                "player_name": "Amon-Ra St. Brown",
+                "position": "WR",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "8150": {
+                "player_name": "Kyren Williams",
+                "position": "RB",
                 "draft_round": 9,
                 "keeper_round": 8,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "8408": {
+                "player_name": "Jordan Mason",
+                "position": "RB",
+                "draft_round": 6,
+                "keeper_round": 5,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "9226": {
+                "player_name": "De'Von Achane",
+                "position": "RB",
+                "draft_round": 9,
+                "keeper_round": 8,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "9480": {
+                "player_name": "Brenton Strange",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            },
+            "9487": {
+                "player_name": "Parker Washington",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brian Fuquay"
+            }
+        },
+        "6": {
+            "12533": {
+                "player_name": "Jacory Croskey-Merritt",
+                "position": "RB",
+                "draft_round": 8,
+                "keeper_round": 7,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "12534": {
+                "player_name": "Kyle Monangai",
+                "position": "RB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "4984": {
+                "player_name": "Josh Allen",
+                "position": "QB",
+                "draft_round": 2,
+                "keeper_round": 1,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "5012": {
+                "player_name": "Mark Andrews",
+                "position": "TE",
+                "draft_round": 7,
+                "keeper_round": 6,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "6790": {
+                "player_name": "D'Andre Swift",
+                "position": "RB",
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "6865": {
+                "player_name": "Colby Parkinson",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "7543": {
+                "player_name": "Travis Etienne",
+                "position": "RB",
+                "draft_round": 6,
+                "keeper_round": 5,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "7564": {
+                "player_name": "Ja'Marr Chase",
+                "position": "WR",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "7607": {
+                "player_name": "Michael Carter",
+                "position": "RB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "8121": {
+                "player_name": "Romeo Doubs",
+                "position": "WR",
+                "draft_round": 13,
+                "keeper_round": 12,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "8126": {
+                "player_name": "Wan'Dale Robinson",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "9224": {
+                "player_name": "Chase Brown",
+                "position": "RB",
+                "draft_round": 5,
+                "keeper_round": 4,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "9484": {
+                "player_name": "Tucker Kraft",
+                "position": "TE",
+                "draft_round": 7,
+                "keeper_round": 6,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "9493": {
+                "player_name": "Puka Nacua",
+                "position": "WR",
+                "draft_round": 9,
+                "keeper_round": 8,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Smith"
+            },
+            "9508": {
+                "player_name": "Tyjae Spears",
+                "position": "RB",
+                "draft_round": 14,
+                "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
@@ -2519,32 +2537,32 @@
             "11584": {
                 "player_name": "Bucky Irving",
                 "position": "RB",
-                "draft_round": 12,
-                "keeper_round": 11,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Lucas Janowicz"
-            },
-            "11620": {
-                "player_name": "Rome Odunze",
-                "position": "WR",
-                "draft_round": 5,
-                "keeper_round": 4,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Lucas Janowicz"
-            },
-            "11651": {
-                "player_name": "Isaac Guerendo",
-                "position": "RB",
-                "draft_round": "FA",
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "2309": {
-                "player_name": "Amari Cooper",
+            "11628": {
+                "player_name": "Marvin Harrison",
+                "position": "WR",
+                "draft_round": 2,
+                "keeper_round": 1,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Lucas Janowicz"
+            },
+            "12484": {
+                "player_name": "Jayden Higgins",
+                "position": "WR",
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Lucas Janowicz"
+            },
+            "12501": {
+                "player_name": "Matthew Golden",
                 "position": "WR",
                 "draft_round": 3,
                 "keeper_round": 2,
@@ -2552,44 +2570,44 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "3286": {
-                "player_name": "Demarcus Robinson",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
+            "12517": {
+                "player_name": "Colston Loveland",
+                "position": "TE",
+                "draft_round": 8,
+                "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "4035": {
-                "player_name": "Alvin Kamara",
+            "4033": {
+                "player_name": "David Njoku",
+                "position": "TE",
+                "draft_round": 8,
+                "keeper_round": 7,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Lucas Janowicz"
+            },
+            "4039": {
+                "player_name": "Cooper Kupp",
+                "position": "WR",
+                "draft_round": 6,
+                "keeper_round": 5,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Lucas Janowicz"
+            },
+            "4147": {
+                "player_name": "Samaje Perine",
                 "position": "RB",
-                "draft_round": 2,
-                "keeper_round": 1,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Lucas Janowicz"
-            },
-            "4943": {
-                "player_name": "Sam Darnold",
-                "position": "QB",
                 "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "5927": {
-                "player_name": "Terry McLaurin",
-                "position": "WR",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Lucas Janowicz"
-            },
-            "6813": {
-                "player_name": "Jonathan Taylor",
+            "5850": {
+                "player_name": "Josh Jacobs",
                 "position": "RB",
                 "draft_round": 1,
                 "keeper_round": 0,
@@ -2597,29 +2615,20 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "7496": {
-                "player_name": "Nick Westbrook-Ikhine",
-                "position": "WR",
+            "5870": {
+                "player_name": "Daniel Jones",
+                "position": "QB",
                 "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "8111": {
-                "player_name": "Cade Otton",
-                "position": "TE",
+            "7567": {
+                "player_name": "Kenny Gainwell",
+                "position": "RB",
                 "draft_round": "FA",
                 "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Lucas Janowicz"
-            },
-            "8134": {
-                "player_name": "Khalil Shakir",
-                "position": "WR",
-                "draft_round": 8,
-                "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
@@ -2627,25 +2636,34 @@
             "8151": {
                 "player_name": "Kenneth Walker",
                 "position": "RB",
-                "draft_round": 6,
-                "keeper_round": 5,
+                "draft_round": 5,
+                "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "9229": {
-                "player_name": "Anthony Richardson",
+            "8183": {
+                "player_name": "Brock Purdy",
                 "position": "QB",
                 "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
+            },
+            "8676": {
+                "player_name": "Rashid Shaheed",
+                "position": "WR",
+                "draft_round": 9,
+                "keeper_round": 8,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Lucas Janowicz"
             }
         },
         "8": {
-            "10444": {
-                "player_name": "Cedric Tillman",
+            "10232": {
+                "player_name": "Michael Wilson",
                 "position": "WR",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -2653,8 +2671,26 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "11655": {
-                "player_name": "Tyrone Tracy",
+            "10236": {
+                "player_name": "Dalton Kincaid",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Thomas Kessler"
+            },
+            "11583": {
+                "player_name": "Jonathon Brooks",
+                "position": "RB",
+                "draft_round": 14,
+                "keeper_round": 13,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Thomas Kessler"
+            },
+            "11588": {
+                "player_name": "Jawhar Jordan",
                 "position": "RB",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -2662,20 +2698,11 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "1426": {
-                "player_name": "DeAndre Hopkins",
-                "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Thomas Kessler"
-            },
-            "2197": {
-                "player_name": "Brandin Cooks",
-                "position": "WR",
-                "draft_round": 11,
-                "keeper_round": 10,
+            "3294": {
+                "player_name": "Dak Prescott",
+                "position": "QB",
+                "draft_round": 9,
+                "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
@@ -2683,8 +2710,8 @@
             "4866": {
                 "player_name": "Saquon Barkley",
                 "position": "RB",
-                "draft_round": 2,
-                "keeper_round": 1,
+                "draft_round": 1,
+                "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
@@ -2692,17 +2719,8 @@
             "4881": {
                 "player_name": "Lamar Jackson",
                 "position": "QB",
-                "draft_round": 3,
-                "keeper_round": 2,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Thomas Kessler"
-            },
-            "5012": {
-                "player_name": "Mark Andrews",
-                "position": "TE",
-                "draft_round": 4,
-                "keeper_round": 3,
+                "draft_round": 2,
+                "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
@@ -2710,26 +2728,35 @@
             "5045": {
                 "player_name": "Courtland Sutton",
                 "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
+                "draft_round": 6,
+                "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "5859": {
-                "player_name": "A.J. Brown",
-                "position": "WR",
-                "draft_round": 1,
-                "keeper_round": 0,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Thomas Kessler"
-            },
-            "6963": {
-                "player_name": "Patrick Taylor",
+            "5967": {
+                "player_name": "Tony Pollard",
                 "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Thomas Kessler"
+            },
+            "6819": {
+                "player_name": "Michael Pittman",
+                "position": "WR",
+                "draft_round": 8,
+                "keeper_round": 7,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Thomas Kessler"
+            },
+            "7553": {
+                "player_name": "Kyle Pitts",
+                "position": "TE",
+                "draft_round": 12,
+                "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
@@ -2737,35 +2764,17 @@
             "7569": {
                 "player_name": "Nico Collins",
                 "position": "WR",
-                "draft_round": 12,
-                "keeper_round": 11,
+                "draft_round": 11,
+                "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "7588": {
-                "player_name": "Javonte Williams",
+            "7611": {
+                "player_name": "Rhamondre Stevenson",
                 "position": "RB",
-                "draft_round": 6,
-                "keeper_round": 5,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Thomas Kessler"
-            },
-            "7600": {
-                "player_name": "Pat Freiermuth",
-                "position": "TE",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Thomas Kessler"
-            },
-            "8154": {
-                "player_name": "Brian Robinson",
-                "position": "RB",
-                "draft_round": 6,
-                "keeper_round": 5,
+                "draft_round": 9,
+                "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
@@ -2778,29 +2787,110 @@
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
+            },
+            "9221": {
+                "player_name": "Jahmyr Gibbs",
+                "position": "RB",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Thomas Kessler"
             }
         },
         "9": {
             "10859": {
                 "player_name": "Sam LaPorta",
                 "position": "TE",
-                "draft_round": 11,
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "11435": {
+                "player_name": "Emanuel Wilson",
+                "position": "RB",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "1466": {
-                "player_name": "Travis Kelce",
-                "position": "TE",
+            "11565": {
+                "player_name": "J.J. McCarthy",
+                "position": "QB",
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "12485": {
+                "player_name": "Tez Johnson",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "12489": {
+                "player_name": "RJ Harvey",
+                "position": "RB",
                 "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "1479": {
-                "player_name": "Keenan Allen",
+            "12507": {
+                "player_name": "Omarion Hampton",
+                "position": "RB",
+                "draft_round": 2,
+                "keeper_round": 1,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "3198": {
+                "player_name": "Derrick Henry",
+                "position": "RB",
+                "draft_round": 1,
+                "keeper_round": 0,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "4046": {
+                "player_name": "Patrick Mahomes",
+                "position": "QB",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "4988": {
+                "player_name": "Nick Chubb",
+                "position": "RB",
+                "draft_round": 8,
+                "keeper_round": 7,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "5001": {
+                "player_name": "Dalton Schultz",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Matt Brady"
+            },
+            "5872": {
+                "player_name": "Deebo Samuel",
                 "position": "WR",
                 "draft_round": 5,
                 "keeper_round": 4,
@@ -2808,83 +2898,20 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "2374": {
-                "player_name": "Tyler Lockett",
-                "position": "WR",
-                "draft_round": 9,
-                "keeper_round": 8,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "3163": {
-                "player_name": "Jared Goff",
-                "position": "QB",
-                "draft_round": 12,
-                "keeper_round": 11,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "4199": {
-                "player_name": "Aaron Jones",
-                "position": "RB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "4454": {
-                "player_name": "Kendrick Bourne",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "5248": {
-                "player_name": "Gus Edwards",
-                "position": "RB",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "5987": {
-                "player_name": "Alexander Mattison",
-                "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
             "6783": {
                 "player_name": "Jerry Jeudy",
                 "position": "WR",
-                "draft_round": 12,
-                "keeper_round": 11,
+                "draft_round": 11,
+                "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "6945": {
-                "player_name": "Antonio Gibson",
-                "position": "RB",
-                "draft_round": 14,
-                "keeper_round": 13,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "7670": {
-                "player_name": "Joshua Palmer",
+            "7049": {
+                "player_name": "Jauan Jennings",
                 "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
+                "draft_round": 11,
+                "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
@@ -2892,28 +2919,37 @@
             "8148": {
                 "player_name": "Jameson Williams",
                 "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Matt Brady"
-            },
-            "9508": {
-                "player_name": "Tyjae Spears",
-                "position": "RB",
-                "draft_round": 10,
-                "keeper_round": 9,
+                "draft_round": 6,
+                "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             }
         },
         "10": {
+            "10213": {
+                "player_name": "Tre Tucker",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
+            "10219": {
+                "player_name": "Chris Rodriguez",
+                "position": "RB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
             "10222": {
                 "player_name": "Jayden Reed",
                 "position": "WR",
-                "draft_round": 9,
-                "keeper_round": 8,
+                "draft_round": 8,
+                "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
@@ -2921,7 +2957,16 @@
             "11566": {
                 "player_name": "Jayden Daniels",
                 "position": "QB",
-                "draft_round": 11,
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
+            "11610": {
+                "player_name": "Malik Washington",
+                "position": "WR",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -2930,77 +2975,68 @@
             "11624": {
                 "player_name": "Xavier Worthy",
                 "position": "WR",
-                "draft_round": 5,
-                "keeper_round": 4,
+                "draft_round": 4,
+                "keeper_round": 3,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "1373": {
-                "player_name": "Geno Smith",
-                "position": "QB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "1689": {
-                "player_name": "Adam Thielen",
-                "position": "WR",
-                "draft_round": 14,
-                "keeper_round": 13,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "4098": {
-                "player_name": "Kareem Hunt",
-                "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "4217": {
-                "player_name": "George Kittle",
+            "12506": {
+                "player_name": "Harold Fannin",
                 "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
+            "12512": {
+                "player_name": "Quinshon Judkins",
+                "position": "RB",
                 "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "4381": {
-                "player_name": "Taysom Hill",
+            "12514": {
+                "player_name": "Emeka Egbuka",
+                "position": "WR",
+                "draft_round": 5,
+                "keeper_round": 4,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
+            "1466": {
+                "player_name": "Travis Kelce",
                 "position": "TE",
+                "draft_round": 7,
+                "keeper_round": 6,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
+            "2449": {
+                "player_name": "Stefon Diggs",
+                "position": "WR",
+                "draft_round": 7,
+                "keeper_round": 6,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Tyler Goodman"
+            },
+            "7523": {
+                "player_name": "Trevor Lawrence",
+                "position": "QB",
                 "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "5086": {
-                "player_name": "Marquez Valdes-Scantling",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "5096": {
-                "player_name": "Ray-Ray McCloud",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "5995": {
-                "player_name": "Justice Hill",
+            "8122": {
+                "player_name": "Zonovan Knight",
                 "position": "RB",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -3011,26 +3047,8 @@
             "8130": {
                 "player_name": "Trey McBride",
                 "position": "TE",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "8205": {
-                "player_name": "Isiah Pacheco",
-                "position": "RB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Tyler Goodman"
-            },
-            "9502": {
-                "player_name": "Tank Dell",
-                "position": "WR",
-                "draft_round": 10,
-                "keeper_round": 9,
+                "draft_round": 9,
+                "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
@@ -3040,104 +3058,14 @@
             "10229": {
                 "player_name": "Rashee Rice",
                 "position": "WR",
-                "draft_round": 10,
-                "keeper_round": 9,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "11626": {
-                "player_name": "Xavier Legette",
-                "position": "WR",
-                "draft_round": 12,
-                "keeper_round": 11,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "3200": {
-                "player_name": "Sterling Shepard",
-                "position": "WR",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "4018": {
-                "player_name": "Joe Mixon",
-                "position": "RB",
-                "draft_round": 3,
-                "keeper_round": 2,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "6770": {
-                "player_name": "Joe Burrow",
-                "position": "QB",
-                "draft_round": 5,
-                "keeper_round": 4,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "6804": {
-                "player_name": "Jordan Love",
-                "position": "QB",
                 "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "6806": {
-                "player_name": "J.K. Dobbins",
-                "position": "RB",
-                "draft_round": 11,
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "6826": {
-                "player_name": "Cole Kmet",
-                "position": "TE",
-                "draft_round": 13,
-                "keeper_round": 12,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "6865": {
-                "player_name": "Colby Parkinson",
-                "position": "TE",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "7564": {
-                "player_name": "Ja'Marr Chase",
-                "position": "WR",
-                "draft_round": 1,
-                "keeper_round": 0,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "8121": {
-                "player_name": "Romeo Doubs",
-                "position": "WR",
-                "draft_round": 7,
-                "keeper_round": 6,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Brad Lowe"
-            },
-            "8136": {
-                "player_name": "Rachaad White",
+            "12529": {
+                "player_name": "TreVeyon Henderson",
                 "position": "RB",
                 "draft_round": 2,
                 "keeper_round": 1,
@@ -3145,8 +3073,53 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "9225": {
-                "player_name": "Tank Bigsby",
+            "1339": {
+                "player_name": "Zach Ertz",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "3214": {
+                "player_name": "Hunter Henry",
+                "position": "TE",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "4037": {
+                "player_name": "Chris Godwin",
+                "position": "WR",
+                "draft_round": 8,
+                "keeper_round": 7,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "421": {
+                "player_name": "Matthew Stafford",
+                "position": "QB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "5927": {
+                "player_name": "Terry McLaurin",
+                "position": "WR",
+                "draft_round": 3,
+                "keeper_round": 2,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "6039": {
+                "player_name": "Ty Johnson",
                 "position": "RB",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -3154,8 +3127,44 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "9756": {
-                "player_name": "Jordan Addison",
+            "6770": {
+                "player_name": "Joe Burrow",
+                "position": "QB",
+                "draft_round": 4,
+                "keeper_round": 3,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "6806": {
+                "player_name": "J.K. Dobbins",
+                "position": "RB",
+                "draft_round": 10,
+                "keeper_round": 9,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "7090": {
+                "player_name": "Darnell Mooney",
+                "position": "WR",
+                "draft_round": 11,
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "8125": {
+                "player_name": "Calvin Austin",
+                "position": "WR",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "8137": {
+                "player_name": "George Pickens",
                 "position": "WR",
                 "draft_round": 6,
                 "keeper_round": 5,
@@ -3163,19 +3172,37 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "9997": {
-                "player_name": "Zay Flowers",
+            "8144": {
+                "player_name": "Chris Olave",
                 "position": "WR",
-                "draft_round": 4,
-                "keeper_round": 3,
+                "draft_round": 5,
+                "keeper_round": 4,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Brad Lowe"
+            },
+            "9753": {
+                "player_name": "Zach Charbonnet",
+                "position": "RB",
+                "draft_round": 6,
+                "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             }
         },
         "12": {
-            "11646": {
-                "player_name": "Jalen Coker",
+            "11199": {
+                "player_name": "Emari Demercado",
+                "position": "RB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "11627": {
+                "player_name": "Troy Franklin",
                 "position": "WR",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -3183,8 +3210,26 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "19": {
-                "player_name": "Joe Flacco",
+            "11638": {
+                "player_name": "Ricky Pearsall",
+                "position": "WR",
+                "draft_round": 13,
+                "keeper_round": 12,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "11647": {
+                "player_name": "Kimani Vidal",
+                "position": "RB",
+                "draft_round": "FA",
+                "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "3257": {
+                "player_name": "Jacoby Brissett",
                 "position": "QB",
                 "draft_round": "FA",
                 "keeper_round": 10,
@@ -3192,89 +3237,26 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "3198": {
-                "player_name": "Derrick Henry",
+            "4018": {
+                "player_name": "Joe Mixon",
                 "position": "RB",
-                "draft_round": 1,
-                "keeper_round": 0,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "4033": {
-                "player_name": "David Njoku",
-                "position": "TE",
-                "draft_round": 8,
-                "keeper_round": 7,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "4144": {
-                "player_name": "Jonnu Smith",
-                "position": "TE",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "5892": {
-                "player_name": "David Montgomery",
-                "position": "RB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "5947": {
-                "player_name": "Jakobi Meyers",
-                "position": "WR",
                 "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "6790": {
-                "player_name": "D'Andre Swift",
+            "4098": {
+                "player_name": "Kareem Hunt",
                 "position": "RB",
-                "draft_round": 5,
-                "keeper_round": 4,
+                "draft_round": 13,
+                "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "6904": {
-                "player_name": "Jalen Hurts",
-                "position": "QB",
-                "draft_round": 4,
-                "keeper_round": 3,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "7525": {
-                "player_name": "DeVonta Smith",
-                "position": "WR",
-                "draft_round": 3,
-                "keeper_round": 2,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "8146": {
-                "player_name": "Garrett Wilson",
-                "position": "WR",
-                "draft_round": 6,
-                "keeper_round": 5,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "8167": {
-                "player_name": "Christian Watson",
+            "4950": {
+                "player_name": "Christian Kirk",
                 "position": "WR",
                 "draft_round": 11,
                 "keeper_round": 10,
@@ -3282,29 +3264,65 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "8408": {
-                "player_name": "Jordan Mason",
-                "position": "RB",
-                "draft_round": "FA",
-                "keeper_round": 10,
-                "years_kept": [],
-                "kept_consecutively": 0,
-                "owner": "Jake Currie"
-            },
-            "9480": {
-                "player_name": "Brenton Strange",
+            "5844": {
+                "player_name": "T.J. Hockenson",
                 "position": "TE",
-                "draft_round": "FA",
-                "keeper_round": 10,
+                "draft_round": 6,
+                "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "9501": {
-                "player_name": "DeMario Douglas",
+            "5947": {
+                "player_name": "Jakobi Meyers",
+                "position": "WR",
+                "draft_round": 8,
+                "keeper_round": 7,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "7588": {
+                "player_name": "Javonte Williams",
+                "position": "RB",
+                "draft_round": 7,
+                "keeper_round": 6,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "8110": {
+                "player_name": "Jake Ferguson",
+                "position": "TE",
+                "draft_round": 14,
+                "keeper_round": 13,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "8134": {
+                "player_name": "Khalil Shakir",
+                "position": "WR",
+                "draft_round": 7,
+                "keeper_round": 6,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "8167": {
+                "player_name": "Christian Watson",
                 "position": "WR",
                 "draft_round": "FA",
                 "keeper_round": 10,
+                "years_kept": [],
+                "kept_consecutively": 0,
+                "owner": "Jake Currie"
+            },
+            "9488": {
+                "player_name": "Jaxon Smith-Njigba",
+                "position": "WR",
+                "draft_round": 6,
+                "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
