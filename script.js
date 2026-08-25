@@ -3135,6 +3135,7 @@ async function create_eligible_keepers() {
         const response = await fetch(jsonUrl);
         const data = await response.json();
 
+
         // ---------------------------------------------
         // Get the most recent year
         // ---------------------------------------------
@@ -3144,19 +3145,16 @@ async function create_eligible_keepers() {
 
 
         // ---------------------------------------------
-        // Create sortable player array
+        // Create player array
         // ---------------------------------------------
 
         const players = [];
 
         Object.values(yearData).forEach(roster => {
 
-            Object.entries(roster).forEach(([playerName, player]) => {
+            Object.values(roster).forEach(player => {
 
-                players.push({
-                    playerName: playerName,
-                    ...player
-                });
+                players.push(player);
 
             });
 
@@ -3173,7 +3171,9 @@ async function create_eligible_keepers() {
                 return a.keeper_round - b.keeper_round;
             }
 
-            return a.playerName.localeCompare(b.playerName);
+            return (a.player_name || "").localeCompare(
+                b.player_name || ""
+            );
 
         });
 
@@ -3257,13 +3257,13 @@ async function create_eligible_keepers() {
                     statusClass = "ineligible";
 
                 }
-                else if (player.years_kept_consecutively >= 3) {
+                else if (player.kept_consecutively >= 3) {
 
                     statusText = "Max Years Reached";
                     statusClass = "ineligible";
 
                 }
-                else if (player.years_kept_consecutively === 2) {
+                else if (player.kept_consecutively === 2) {
 
                     statusText = "Final Year";
                     statusClass = "warning";
@@ -3302,7 +3302,7 @@ async function create_eligible_keepers() {
                         </div>
 
                         <div class="player-cell player-name">
-                            ${player.playerName}
+                            ${player.player_name || "—"}
                         </div>
 
                         <div class="position-cell">
@@ -3322,7 +3322,7 @@ async function create_eligible_keepers() {
 
                         <div class="years-cell">
                             <strong>Years</strong>
-                            <span>${player.years_kept_consecutively}</span>
+                            <span>${player.kept_consecutively}</span>
                         </div>
 
                         <div class="status-cell">
@@ -3347,7 +3347,7 @@ async function create_eligible_keepers() {
 
                     row.innerHTML = `
                         <div class="player-cell player-name">
-                            ${player.playerName}
+                            ${player.player_name || "—"}
                         </div>
 
                         <div class="position-cell">
@@ -3367,7 +3367,7 @@ async function create_eligible_keepers() {
 
                         <div class="years-cell">
                             <strong>Years</strong>
-                            <span>${player.years_kept_consecutively}</span>
+                            <span>${player.kept_consecutively}</span>
                         </div>
 
                         <div class="status-cell">
