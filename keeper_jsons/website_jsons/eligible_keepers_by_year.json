@@ -4,7 +4,7 @@
             "1426": {
                 "player_name": "Deandre Hopkins",
                 "position": "WR",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -13,7 +13,7 @@
             "2449": {
                 "player_name": "Stefon Diggs",
                 "position": "WR",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [
                     2021
@@ -24,7 +24,7 @@
             "4035": {
                 "player_name": "Alvin Kamara",
                 "position": "RB",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -33,7 +33,7 @@
             "4199": {
                 "player_name": "Aaron Jones",
                 "position": "RB",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [
                     2021
@@ -44,7 +44,7 @@
             "4981": {
                 "player_name": "Calvin Ridley",
                 "position": "WR",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [
                     2021,
@@ -56,7 +56,7 @@
             "6804": {
                 "player_name": "Jordan Love",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -65,7 +65,7 @@
             "7526": {
                 "player_name": "Jaylen Waddle",
                 "position": "WR",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [
                     2022,
@@ -77,7 +77,7 @@
             "8112": {
                 "player_name": "Drake London",
                 "position": "WR",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -86,7 +86,7 @@
             "8130": {
                 "player_name": "Trey Mcbride",
                 "position": "TE",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -95,7 +95,7 @@
             "8131": {
                 "player_name": "Isaiah Likely",
                 "position": "TE",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -104,7 +104,7 @@
             "8143": {
                 "player_name": "Jerome Ford",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -113,7 +113,7 @@
             "9221": {
                 "player_name": "Jahmyr Gibbs",
                 "position": "RB",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -122,7 +122,7 @@
             "CHI": {
                 "player_name": "CHI",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -131,7 +131,7 @@
             "LV": {
                 "player_name": "LV",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -142,7 +142,7 @@
             "1479": {
                 "player_name": "Keenan Allen",
                 "position": "WR",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [
                     2021
@@ -153,7 +153,7 @@
             "5001": {
                 "player_name": "Dalton Schultz",
                 "position": "TE",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [
                     2022
@@ -164,7 +164,7 @@
             "5849": {
                 "player_name": "Kyler Murray",
                 "position": "QB",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -173,7 +173,7 @@
             "6130": {
                 "player_name": "Devin Singletary",
                 "position": "RB",
-                "draft_pick": 14,
+                "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -182,7 +182,7 @@
             "6801": {
                 "player_name": "Tee Higgins",
                 "position": "WR",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [
                     2021,
@@ -195,7 +195,7 @@
             "7525": {
                 "player_name": "Devonta Smith",
                 "position": "WR",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2023
@@ -206,7 +206,7 @@
             "7567": {
                 "player_name": "Kenny Gainwell",
                 "position": "RB",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -215,7 +215,7 @@
             "8110": {
                 "player_name": "Jake Ferguson",
                 "position": "TE",
-                "draft_pick": 14,
+                "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -224,7 +224,7 @@
             "8138": {
                 "player_name": "James Cook",
                 "position": "RB",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -233,7 +233,7 @@
             "9500": {
                 "player_name": "Josh Downs",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -242,7 +242,7 @@
             "9509": {
                 "player_name": "Bijan Robinson",
                 "position": "RB",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -251,7 +251,7 @@
             "9511": {
                 "player_name": "Keaton Mitchell",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -260,7 +260,7 @@
             "9997": {
                 "player_name": "Zay Flowers",
                 "position": "WR",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -269,7 +269,7 @@
             "NO": {
                 "player_name": "NO",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -278,7 +278,7 @@
             "NYJ": {
                 "player_name": "NYJ",
                 "position": "DEF",
-                "draft_pick": 13,
+                "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -289,7 +289,7 @@
             "10859": {
                 "player_name": "Sam Laporta",
                 "position": "TE",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -298,7 +298,7 @@
             "3164": {
                 "player_name": "Ezekiel Elliott",
                 "position": "RB",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -307,7 +307,7 @@
             "5045": {
                 "player_name": "Courtland Sutton",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -316,7 +316,7 @@
             "5947": {
                 "player_name": "Jakobi Meyers",
                 "position": "WR",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -325,7 +325,7 @@
             "5987": {
                 "player_name": "Alexander Mattison",
                 "position": "RB",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [
                     2022,
@@ -337,7 +337,7 @@
             "6770": {
                 "player_name": "Joe Burrow",
                 "position": "QB",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [
                     2021,
@@ -350,7 +350,7 @@
             "6820": {
                 "player_name": "Clyde Edwardshelaire",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -359,7 +359,7 @@
             "7547": {
                 "player_name": "Amonra St Brown",
                 "position": "WR",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [
                     2022,
@@ -371,7 +371,7 @@
             "7611": {
                 "player_name": "Rhamondre Stevenson",
                 "position": "RB",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [
                     2023
@@ -382,7 +382,7 @@
             "8121": {
                 "player_name": "Romeo Doubs",
                 "position": "WR",
-                "draft_pick": 14,
+                "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -391,7 +391,7 @@
             "8144": {
                 "player_name": "Chris Olave",
                 "position": "WR",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [
                     2023
@@ -402,7 +402,7 @@
             "8162": {
                 "player_name": "Sam Howell",
                 "position": "QB",
-                "draft_pick": 14,
+                "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -411,7 +411,7 @@
             "8230": {
                 "player_name": "Ty Chandler",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -420,7 +420,7 @@
             "9224": {
                 "player_name": "Chase Brown",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -429,7 +429,7 @@
             "MIA": {
                 "player_name": "MIA",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -440,7 +440,7 @@
             "1166": {
                 "player_name": "Kirk Cousins",
                 "position": "QB",
-                "draft_pick": 13,
+                "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -449,7 +449,7 @@
             "2028": {
                 "player_name": "Derek Carr",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -458,7 +458,7 @@
             "2133": {
                 "player_name": "Davante Adams",
                 "position": "WR",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -467,7 +467,7 @@
             "2749": {
                 "player_name": "Raheem Mostert",
                 "position": "RB",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -476,7 +476,7 @@
             "4039": {
                 "player_name": "Cooper Kupp",
                 "position": "WR",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [
                     2022,
@@ -488,7 +488,7 @@
             "4080": {
                 "player_name": "Zay Jones",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -497,7 +497,7 @@
             "4082": {
                 "player_name": "Curtis Samuel",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [
                     2021
@@ -508,7 +508,7 @@
             "4111": {
                 "player_name": "Donta Foreman",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -517,7 +517,7 @@
             "421": {
                 "player_name": "Matthew Stafford",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -526,7 +526,7 @@
             "4217": {
                 "player_name": "George Kittle",
                 "position": "TE",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2021
@@ -537,7 +537,7 @@
             "5967": {
                 "player_name": "Tony Pollard",
                 "position": "RB",
-                "draft_pick": 9,
+                "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [
                     2022,
@@ -549,7 +549,7 @@
             "6111": {
                 "player_name": "Jake Browning",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -558,7 +558,7 @@
             "7594": {
                 "player_name": "Chuba Hubbard",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -567,7 +567,7 @@
             "8154": {
                 "player_name": "Brian Robinson",
                 "position": "RB",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -576,7 +576,7 @@
             "GB": {
                 "player_name": "GB",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -587,7 +587,7 @@
             "10235": {
                 "player_name": "Roschon Johnson",
                 "position": "RB",
-                "draft_pick": 13,
+                "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -596,7 +596,7 @@
             "10236": {
                 "player_name": "Dalton Kincaid",
                 "position": "TE",
-                "draft_pick": 9,
+                "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -605,7 +605,7 @@
             "2309": {
                 "player_name": "Amari Cooper",
                 "position": "WR",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -614,7 +614,7 @@
             "4037": {
                 "player_name": "Chris Godwin",
                 "position": "WR",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -623,7 +623,7 @@
             "4663": {
                 "player_name": "Austin Ekeler",
                 "position": "RB",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [
                     2021
@@ -634,7 +634,7 @@
             "5844": {
                 "player_name": "Tj Hockenson",
                 "position": "TE",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2021,
@@ -646,7 +646,7 @@
             "7523": {
                 "player_name": "Trevor Lawrence",
                 "position": "QB",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -655,7 +655,7 @@
             "7588": {
                 "player_name": "Javonte Williams",
                 "position": "RB",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [
                     2022
@@ -666,7 +666,7 @@
             "7596": {
                 "player_name": "Elijah Moore",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [
                     2022
@@ -677,7 +677,7 @@
             "8119": {
                 "player_name": "Jahan Dotson",
                 "position": "WR",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [
                     2023
@@ -688,7 +688,7 @@
             "8150": {
                 "player_name": "Kyren Williams",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -697,7 +697,7 @@
             "8183": {
                 "player_name": "Brock Purdy",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -706,7 +706,7 @@
             "9226": {
                 "player_name": "Devon Achane",
                 "position": "RB",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -715,7 +715,7 @@
             "9502": {
                 "player_name": "Tank Dell",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -724,7 +724,7 @@
             "CLE": {
                 "player_name": "CLE",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -735,7 +735,7 @@
             "2216": {
                 "player_name": "Mike Evans",
                 "position": "WR",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -744,7 +744,7 @@
             "4018": {
                 "player_name": "Joe Mixon",
                 "position": "RB",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -753,7 +753,7 @@
             "4098": {
                 "player_name": "Kareem Hunt",
                 "position": "RB",
-                "draft_pick": 14,
+                "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -762,7 +762,7 @@
             "4381": {
                 "player_name": "Taysom Hill",
                 "position": "TE",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -771,7 +771,7 @@
             "4866": {
                 "player_name": "Saquon Barkley",
                 "position": "RB",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -780,7 +780,7 @@
             "5846": {
                 "player_name": "Dk Metcalf",
                 "position": "WR",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -789,7 +789,7 @@
             "6794": {
                 "player_name": "Justin Jefferson",
                 "position": "WR",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2021,
@@ -802,7 +802,7 @@
             "6943": {
                 "player_name": "Gabe Davis",
                 "position": "WR",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -811,7 +811,7 @@
             "7553": {
                 "player_name": "Kyle Pitts",
                 "position": "TE",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -820,7 +820,7 @@
             "7591": {
                 "player_name": "Justin Fields",
                 "position": "QB",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [
                     2023
@@ -831,7 +831,7 @@
             "8155": {
                 "player_name": "Breece Hall",
                 "position": "RB",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -840,7 +840,7 @@
             "9493": {
                 "player_name": "Puka Nacua",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -849,7 +849,7 @@
             "9758": {
                 "player_name": "Cj Stroud",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -858,7 +858,7 @@
             "KC": {
                 "player_name": "KC",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -869,7 +869,7 @@
             "3271": {
                 "player_name": "Tyler Higbee",
                 "position": "TE",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -878,7 +878,7 @@
             "4034": {
                 "player_name": "Christian Mccaffrey",
                 "position": "RB",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -887,7 +887,7 @@
             "4066": {
                 "player_name": "Evan Engram",
                 "position": "TE",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -896,7 +896,7 @@
             "4892": {
                 "player_name": "Baker Mayfield",
                 "position": "QB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -905,7 +905,7 @@
             "4950": {
                 "player_name": "Christian Kirk",
                 "position": "WR",
-                "draft_pick": 9,
+                "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [
                     2023
@@ -916,7 +916,7 @@
             "5046": {
                 "player_name": "Royce Freeman",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -925,7 +925,7 @@
             "5937": {
                 "player_name": "Diontae Johnson",
                 "position": "WR",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -934,7 +934,7 @@
             "6803": {
                 "player_name": "Brandon Aiyuk",
                 "position": "WR",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [
                     2021
@@ -945,7 +945,7 @@
             "6819": {
                 "player_name": "Michael Pittman",
                 "position": "WR",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [
                     2021,
@@ -957,7 +957,7 @@
             "7090": {
                 "player_name": "Darnell Mooney",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [
                     2022
@@ -968,7 +968,7 @@
             "8129": {
                 "player_name": "Dameon Pierce",
                 "position": "RB",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -977,7 +977,7 @@
             "8136": {
                 "player_name": "Rachaad White",
                 "position": "RB",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [
                     2023
@@ -988,7 +988,7 @@
             "8151": {
                 "player_name": "Kenneth Walker",
                 "position": "RB",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [
                     2023
@@ -999,7 +999,7 @@
             "9229": {
                 "player_name": "Anthony Richardson",
                 "position": "QB",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1008,7 +1008,7 @@
             "HOU": {
                 "player_name": "HOU",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1019,7 +1019,7 @@
             "3294": {
                 "player_name": "Dak Prescott",
                 "position": "QB",
-                "draft_pick": 9,
+                "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1028,7 +1028,7 @@
             "3321": {
                 "player_name": "Tyreek Hill",
                 "position": "WR",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1037,7 +1037,7 @@
             "4033": {
                 "player_name": "David Njoku",
                 "position": "TE",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1046,7 +1046,7 @@
             "6768": {
                 "player_name": "Tua Tagovailoa",
                 "position": "QB",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1055,7 +1055,7 @@
             "7066": {
                 "player_name": "Kj Osborn",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1064,7 +1064,7 @@
             "7543": {
                 "player_name": "Travis Etienne",
                 "position": "RB",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [
                     2022,
@@ -1076,7 +1076,7 @@
             "7569": {
                 "player_name": "Nico Collins",
                 "position": "WR",
-                "draft_pick": 13,
+                "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [
                     2023
@@ -1087,7 +1087,7 @@
             "7608": {
                 "player_name": "Khalil Herbert",
                 "position": "RB",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [
                     2023
@@ -1098,7 +1098,7 @@
             "8137": {
                 "player_name": "George Pickens",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [
                     2023
@@ -1109,7 +1109,7 @@
             "8139": {
                 "player_name": "Zamir White",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1118,7 +1118,7 @@
             "8205": {
                 "player_name": "Isiah Pacheco",
                 "position": "RB",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1127,7 +1127,7 @@
             "9753": {
                 "player_name": "Zach Charbonnet",
                 "position": "RB",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1136,7 +1136,7 @@
             "9756": {
                 "player_name": "Jordan Addison",
                 "position": "WR",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1145,7 +1145,7 @@
             "BUF": {
                 "player_name": "BUF",
                 "position": "DEF",
-                "draft_pick": 13,
+                "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1156,7 +1156,7 @@
             "1689": {
                 "player_name": "Adam Thielen",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1165,7 +1165,7 @@
             "2161": {
                 "player_name": "Jerick Mckinnon",
                 "position": "RB",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1174,7 +1174,7 @@
             "3163": {
                 "player_name": "Jared Goff",
                 "position": "QB",
-                "draft_pick": 13,
+                "draft_round": 13,
                 "keeper_round": 12,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1183,7 +1183,7 @@
             "3198": {
                 "player_name": "Derrick Henry",
                 "position": "RB",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1192,7 +1192,7 @@
             "4046": {
                 "player_name": "Patrick Mahomes",
                 "position": "QB",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [
                     2021,
@@ -1204,7 +1204,7 @@
             "4089": {
                 "player_name": "Gerald Everett",
                 "position": "TE",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1213,7 +1213,7 @@
             "4983": {
                 "player_name": "Dj Moore",
                 "position": "WR",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1222,7 +1222,7 @@
             "5848": {
                 "player_name": "Hollywood Brown",
                 "position": "WR",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1231,7 +1231,7 @@
             "6813": {
                 "player_name": "Jonathan Taylor",
                 "position": "RB",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [
                     2021,
@@ -1243,7 +1243,7 @@
             "6828": {
                 "player_name": "Aj Dillon",
                 "position": "RB",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [
                     2022
@@ -1254,7 +1254,7 @@
             "8148": {
                 "player_name": "Jameson Williams",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1263,7 +1263,7 @@
             "8167": {
                 "player_name": "Christian Watson",
                 "position": "WR",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [
                     2023
@@ -1274,7 +1274,7 @@
             "9508": {
                 "player_name": "Tyjae Spears",
                 "position": "RB",
-                "draft_pick": 12,
+                "draft_round": 12,
                 "keeper_round": 11,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1283,7 +1283,7 @@
             "JAX": {
                 "player_name": "JAX",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1294,7 +1294,7 @@
             "10222": {
                 "player_name": "Jayden Reed",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1303,7 +1303,7 @@
             "1466": {
                 "player_name": "Travis Kelce",
                 "position": "TE",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1312,7 +1312,7 @@
             "2078": {
                 "player_name": "Odell Beckham",
                 "position": "WR",
-                "draft_pick": 8,
+                "draft_round": 8,
                 "keeper_round": 7,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1321,7 +1321,7 @@
             "4137": {
                 "player_name": "James Conner",
                 "position": "RB",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [
                     2022
@@ -1332,7 +1332,7 @@
             "4881": {
                 "player_name": "Lamar Jackson",
                 "position": "QB",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [
                     2021,
@@ -1344,7 +1344,7 @@
             "5859": {
                 "player_name": "Aj Brown",
                 "position": "WR",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [
                     2021,
@@ -1356,7 +1356,7 @@
             "5927": {
                 "player_name": "Terry Mclaurin",
                 "position": "WR",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [
                     2021,
@@ -1368,7 +1368,7 @@
             "6786": {
                 "player_name": "Ceedee Lamb",
                 "position": "WR",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [
                     2021,
@@ -1381,7 +1381,7 @@
             "6790": {
                 "player_name": "Dandre Swift",
                 "position": "RB",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [
                     2021,
@@ -1393,7 +1393,7 @@
             "6806": {
                 "player_name": "Jk Dobbins",
                 "position": "RB",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2022,
@@ -1405,7 +1405,7 @@
             "8228": {
                 "player_name": "Jaylen Warren",
                 "position": "RB",
-                "draft_pick": 10,
+                "draft_round": 10,
                 "keeper_round": 9,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1414,7 +1414,7 @@
             "9754": {
                 "player_name": "Quentin Johnston",
                 "position": "WR",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1423,7 +1423,7 @@
             "DEN": {
                 "player_name": "DEN",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1432,7 +1432,7 @@
             "LAC": {
                 "player_name": "LAC",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1443,7 +1443,7 @@
             "10229": {
                 "player_name": "Rashee Rice",
                 "position": "WR",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1452,7 +1452,7 @@
             "2197": {
                 "player_name": "Brandin Cooks",
                 "position": "WR",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1461,7 +1461,7 @@
             "2505": {
                 "player_name": "Darren Waller",
                 "position": "TE",
-                "draft_pick": 4,
+                "draft_round": 4,
                 "keeper_round": 3,
                 "years_kept": [
                     2021,
@@ -1473,7 +1473,7 @@
             "4984": {
                 "player_name": "Josh Allen",
                 "position": "QB",
-                "draft_pick": 9,
+                "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [
                     2021,
@@ -1486,7 +1486,7 @@
             "5850": {
                 "player_name": "Josh Jacobs",
                 "position": "RB",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1495,7 +1495,7 @@
             "5872": {
                 "player_name": "Deebo Samuel",
                 "position": "WR",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [
                     2022,
@@ -1507,7 +1507,7 @@
             "5892": {
                 "player_name": "David Montgomery",
                 "position": "RB",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2021
@@ -1518,7 +1518,7 @@
             "6826": {
                 "player_name": "Cole Kmet",
                 "position": "TE",
-                "draft_pick": 14,
+                "draft_round": 14,
                 "keeper_round": 13,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1527,7 +1527,7 @@
             "6945": {
                 "player_name": "Antonio Gibson",
                 "position": "RB",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [
                     2021,
@@ -1539,7 +1539,7 @@
             "7564": {
                 "player_name": "Jamarr Chase",
                 "position": "WR",
-                "draft_pick": 1,
+                "draft_round": 1,
                 "keeper_round": 0,
                 "years_kept": [
                     2022,
@@ -1551,7 +1551,7 @@
             "8676": {
                 "player_name": "Rashid Shaheed",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1560,7 +1560,7 @@
             "9488": {
                 "player_name": "Jaxon Smithnjigba",
                 "position": "WR",
-                "draft_pick": 6,
+                "draft_round": 6,
                 "keeper_round": 5,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1569,7 +1569,7 @@
             "9501": {
                 "player_name": "Demario Douglas",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1578,7 +1578,7 @@
             "LAR": {
                 "player_name": "LAR",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1589,7 +1589,7 @@
             "2374": {
                 "player_name": "Tyler Lockett",
                 "position": "WR",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2021
@@ -1600,7 +1600,7 @@
             "3199": {
                 "player_name": "Michael Thomas",
                 "position": "WR",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1609,7 +1609,7 @@
             "3225": {
                 "player_name": "Tyler Boyd",
                 "position": "WR",
-                "draft_pick": 11,
+                "draft_round": 11,
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1618,7 +1618,7 @@
             "4234": {
                 "player_name": "Noah Brown",
                 "position": "WR",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1627,7 +1627,7 @@
             "5022": {
                 "player_name": "Dallas Goedert",
                 "position": "TE",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1636,7 +1636,7 @@
             "5248": {
                 "player_name": "Gus Edwards",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [
                     2021
@@ -1647,7 +1647,7 @@
             "6783": {
                 "player_name": "Jerry Jeudy",
                 "position": "WR",
-                "draft_pick": 3,
+                "draft_round": 3,
                 "keeper_round": 2,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1656,7 +1656,7 @@
             "6845": {
                 "player_name": "Zack Moss",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1665,7 +1665,7 @@
             "6904": {
                 "player_name": "Jalen Hurts",
                 "position": "QB",
-                "draft_pick": 5,
+                "draft_round": 5,
                 "keeper_round": 4,
                 "years_kept": [
                     2023
@@ -1676,7 +1676,7 @@
             "7528": {
                 "player_name": "Najee Harris",
                 "position": "RB",
-                "draft_pick": 2,
+                "draft_round": 2,
                 "keeper_round": 1,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1685,7 +1685,7 @@
             "7607": {
                 "player_name": "Michael Carter",
                 "position": "RB",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1694,7 +1694,7 @@
             "8111": {
                 "player_name": "Cade Otton",
                 "position": "TE",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1703,7 +1703,7 @@
             "8146": {
                 "player_name": "Garrett Wilson",
                 "position": "WR",
-                "draft_pick": 7,
+                "draft_round": 7,
                 "keeper_round": 6,
                 "years_kept": [
                     2023
@@ -1714,7 +1714,7 @@
             "SF": {
                 "player_name": "SF",
                 "position": "DEF",
-                "draft_pick": 9,
+                "draft_round": 9,
                 "keeper_round": 8,
                 "years_kept": [],
                 "kept_consecutively": 0,
@@ -1723,7 +1723,7 @@
             "TB": {
                 "player_name": "TB",
                 "position": "DEF",
-                "draft_pick": "FA",
+                "draft_round": "FA",
                 "keeper_round": 10,
                 "years_kept": [],
                 "kept_consecutively": 0,
