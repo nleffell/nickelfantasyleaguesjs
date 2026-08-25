@@ -1,8 +1,8 @@
 {
     "2024": {
         "1": {
-            "Deandre Hopkins": {
-                "player_id": "1426",
+            "1426": {
+                "player_name": "Deandre Hopkins",
                 "position": "WR",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -10,8 +10,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Stefon Diggs": {
-                "player_id": "2449",
+            "2449": {
+                "player_name": "Stefon Diggs",
                 "position": "WR",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -21,8 +21,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Alvin Kamara": {
-                "player_id": "4035",
+            "4035": {
+                "player_name": "Alvin Kamara",
                 "position": "RB",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -30,8 +30,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Aaron Jones": {
-                "player_id": "4199",
+            "4199": {
+                "player_name": "Aaron Jones",
                 "position": "RB",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -41,8 +41,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Calvin Ridley": {
-                "player_id": "4981",
+            "4981": {
+                "player_name": "Calvin Ridley",
                 "position": "WR",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -53,8 +53,8 @@
                 "kept_consecutively": 1,
                 "owner": "Nick Janowicz"
             },
-            "Jordan Love": {
-                "player_id": "6804",
+            "6804": {
+                "player_name": "Jordan Love",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -62,8 +62,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Jaylen Waddle": {
-                "player_id": "7526",
+            "7526": {
+                "player_name": "Jaylen Waddle",
                 "position": "WR",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -74,8 +74,8 @@
                 "kept_consecutively": 2,
                 "owner": "Nick Janowicz"
             },
-            "Drake London": {
-                "player_id": "8112",
+            "8112": {
+                "player_name": "Drake London",
                 "position": "WR",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -83,8 +83,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Trey Mcbride": {
-                "player_id": "8130",
+            "8130": {
+                "player_name": "Trey Mcbride",
                 "position": "TE",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -92,8 +92,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Isaiah Likely": {
-                "player_id": "8131",
+            "8131": {
+                "player_name": "Isaiah Likely",
                 "position": "TE",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -101,8 +101,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Jerome Ford": {
-                "player_id": "8143",
+            "8143": {
+                "player_name": "Jerome Ford",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -110,8 +110,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Janowicz"
             },
-            "Jahmyr Gibbs": {
-                "player_id": "9221",
+            "9221": {
+                "player_name": "Jahmyr Gibbs",
                 "position": "RB",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -120,7 +120,7 @@
                 "owner": "Nick Janowicz"
             },
             "CHI": {
-                "player_id": "CHI",
+                "player_name": "CHI",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -129,7 +129,7 @@
                 "owner": "Nick Janowicz"
             },
             "LV": {
-                "player_id": "LV",
+                "player_name": "LV",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -139,8 +139,8 @@
             }
         },
         "2": {
-            "Keenan Allen": {
-                "player_id": "1479",
+            "1479": {
+                "player_name": "Keenan Allen",
                 "position": "WR",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -150,8 +150,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Dalton Schultz": {
-                "player_id": "5001",
+            "5001": {
+                "player_name": "Dalton Schultz",
                 "position": "TE",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -161,8 +161,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Kyler Murray": {
-                "player_id": "5849",
+            "5849": {
+                "player_name": "Kyler Murray",
                 "position": "QB",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -170,8 +170,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Devin Singletary": {
-                "player_id": "6130",
+            "6130": {
+                "player_name": "Devin Singletary",
                 "position": "RB",
                 "draft_pick": 14,
                 "keeper_round": 13,
@@ -179,8 +179,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Tee Higgins": {
-                "player_id": "6801",
+            "6801": {
+                "player_name": "Tee Higgins",
                 "position": "WR",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -192,8 +192,8 @@
                 "kept_consecutively": 3,
                 "owner": "Jon Knicely"
             },
-            "Devonta Smith": {
-                "player_id": "7525",
+            "7525": {
+                "player_name": "Devonta Smith",
                 "position": "WR",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -203,8 +203,8 @@
                 "kept_consecutively": 1,
                 "owner": "Jon Knicely"
             },
-            "Kenny Gainwell": {
-                "player_id": "7567",
+            "7567": {
+                "player_name": "Kenny Gainwell",
                 "position": "RB",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -212,8 +212,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Jake Ferguson": {
-                "player_id": "8110",
+            "8110": {
+                "player_name": "Jake Ferguson",
                 "position": "TE",
                 "draft_pick": 14,
                 "keeper_round": 13,
@@ -221,8 +221,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "James Cook": {
-                "player_id": "8138",
+            "8138": {
+                "player_name": "James Cook",
                 "position": "RB",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -230,8 +230,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Josh Downs": {
-                "player_id": "9500",
+            "9500": {
+                "player_name": "Josh Downs",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -239,8 +239,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Bijan Robinson": {
-                "player_id": "9509",
+            "9509": {
+                "player_name": "Bijan Robinson",
                 "position": "RB",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -248,8 +248,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Keaton Mitchell": {
-                "player_id": "9511",
+            "9511": {
+                "player_name": "Keaton Mitchell",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -257,8 +257,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jon Knicely"
             },
-            "Zay Flowers": {
-                "player_id": "9997",
+            "9997": {
+                "player_name": "Zay Flowers",
                 "position": "WR",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -267,7 +267,7 @@
                 "owner": "Jon Knicely"
             },
             "NO": {
-                "player_id": "NO",
+                "player_name": "NO",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -276,7 +276,7 @@
                 "owner": "Jon Knicely"
             },
             "NYJ": {
-                "player_id": "NYJ",
+                "player_name": "NYJ",
                 "position": "DEF",
                 "draft_pick": 13,
                 "keeper_round": 12,
@@ -286,8 +286,8 @@
             }
         },
         "3": {
-            "Sam Laporta": {
-                "player_id": "10859",
+            "10859": {
+                "player_name": "Sam Laporta",
                 "position": "TE",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -295,8 +295,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Ezekiel Elliott": {
-                "player_id": "3164",
+            "3164": {
+                "player_name": "Ezekiel Elliott",
                 "position": "RB",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -304,8 +304,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Courtland Sutton": {
-                "player_id": "5045",
+            "5045": {
+                "player_name": "Courtland Sutton",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -313,8 +313,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Jakobi Meyers": {
-                "player_id": "5947",
+            "5947": {
+                "player_name": "Jakobi Meyers",
                 "position": "WR",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -322,8 +322,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Alexander Mattison": {
-                "player_id": "5987",
+            "5987": {
+                "player_name": "Alexander Mattison",
                 "position": "RB",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -334,8 +334,8 @@
                 "kept_consecutively": 2,
                 "owner": "Nick Leffell"
             },
-            "Joe Burrow": {
-                "player_id": "6770",
+            "6770": {
+                "player_name": "Joe Burrow",
                 "position": "QB",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -347,8 +347,8 @@
                 "kept_consecutively": 3,
                 "owner": "Nick Leffell"
             },
-            "Clyde Edwardshelaire": {
-                "player_id": "6820",
+            "6820": {
+                "player_name": "Clyde Edwardshelaire",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -356,8 +356,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Amonra St Brown": {
-                "player_id": "7547",
+            "7547": {
+                "player_name": "Amonra St Brown",
                 "position": "WR",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -368,8 +368,8 @@
                 "kept_consecutively": 2,
                 "owner": "Nick Leffell"
             },
-            "Rhamondre Stevenson": {
-                "player_id": "7611",
+            "7611": {
+                "player_name": "Rhamondre Stevenson",
                 "position": "RB",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -379,8 +379,8 @@
                 "kept_consecutively": 1,
                 "owner": "Nick Leffell"
             },
-            "Romeo Doubs": {
-                "player_id": "8121",
+            "8121": {
+                "player_name": "Romeo Doubs",
                 "position": "WR",
                 "draft_pick": 14,
                 "keeper_round": 13,
@@ -388,8 +388,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Chris Olave": {
-                "player_id": "8144",
+            "8144": {
+                "player_name": "Chris Olave",
                 "position": "WR",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -399,8 +399,8 @@
                 "kept_consecutively": 1,
                 "owner": "Nick Leffell"
             },
-            "Sam Howell": {
-                "player_id": "8162",
+            "8162": {
+                "player_name": "Sam Howell",
                 "position": "QB",
                 "draft_pick": 14,
                 "keeper_round": 13,
@@ -408,8 +408,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Ty Chandler": {
-                "player_id": "8230",
+            "8230": {
+                "player_name": "Ty Chandler",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -417,8 +417,8 @@
                 "kept_consecutively": 0,
                 "owner": "Nick Leffell"
             },
-            "Chase Brown": {
-                "player_id": "9224",
+            "9224": {
+                "player_name": "Chase Brown",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -427,7 +427,7 @@
                 "owner": "Nick Leffell"
             },
             "MIA": {
-                "player_id": "MIA",
+                "player_name": "MIA",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -437,8 +437,8 @@
             }
         },
         "4": {
-            "Kirk Cousins": {
-                "player_id": "1166",
+            "1166": {
+                "player_name": "Kirk Cousins",
                 "position": "QB",
                 "draft_pick": 13,
                 "keeper_round": 12,
@@ -446,8 +446,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Derek Carr": {
-                "player_id": "2028",
+            "2028": {
+                "player_name": "Derek Carr",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -455,8 +455,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Davante Adams": {
-                "player_id": "2133",
+            "2133": {
+                "player_name": "Davante Adams",
                 "position": "WR",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -464,8 +464,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Raheem Mostert": {
-                "player_id": "2749",
+            "2749": {
+                "player_name": "Raheem Mostert",
                 "position": "RB",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -473,8 +473,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Cooper Kupp": {
-                "player_id": "4039",
+            "4039": {
+                "player_name": "Cooper Kupp",
                 "position": "WR",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -485,8 +485,8 @@
                 "kept_consecutively": 2,
                 "owner": "Chad Hill"
             },
-            "Zay Jones": {
-                "player_id": "4080",
+            "4080": {
+                "player_name": "Zay Jones",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -494,8 +494,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Curtis Samuel": {
-                "player_id": "4082",
+            "4082": {
+                "player_name": "Curtis Samuel",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -505,8 +505,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Donta Foreman": {
-                "player_id": "4111",
+            "4111": {
+                "player_name": "Donta Foreman",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -514,8 +514,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Matthew Stafford": {
-                "player_id": "421",
+            "421": {
+                "player_name": "Matthew Stafford",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -523,8 +523,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "George Kittle": {
-                "player_id": "4217",
+            "4217": {
+                "player_name": "George Kittle",
                 "position": "TE",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -534,8 +534,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Tony Pollard": {
-                "player_id": "5967",
+            "5967": {
+                "player_name": "Tony Pollard",
                 "position": "RB",
                 "draft_pick": 9,
                 "keeper_round": 8,
@@ -546,8 +546,8 @@
                 "kept_consecutively": 2,
                 "owner": "Chad Hill"
             },
-            "Jake Browning": {
-                "player_id": "6111",
+            "6111": {
+                "player_name": "Jake Browning",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -555,8 +555,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Chuba Hubbard": {
-                "player_id": "7594",
+            "7594": {
+                "player_name": "Chuba Hubbard",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -564,8 +564,8 @@
                 "kept_consecutively": 0,
                 "owner": "Chad Hill"
             },
-            "Brian Robinson": {
-                "player_id": "8154",
+            "8154": {
+                "player_name": "Brian Robinson",
                 "position": "RB",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -574,7 +574,7 @@
                 "owner": "Chad Hill"
             },
             "GB": {
-                "player_id": "GB",
+                "player_name": "GB",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -584,8 +584,8 @@
             }
         },
         "5": {
-            "Roschon Johnson": {
-                "player_id": "10235",
+            "10235": {
+                "player_name": "Roschon Johnson",
                 "position": "RB",
                 "draft_pick": 13,
                 "keeper_round": 12,
@@ -593,8 +593,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Dalton Kincaid": {
-                "player_id": "10236",
+            "10236": {
+                "player_name": "Dalton Kincaid",
                 "position": "TE",
                 "draft_pick": 9,
                 "keeper_round": 8,
@@ -602,8 +602,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Amari Cooper": {
-                "player_id": "2309",
+            "2309": {
+                "player_name": "Amari Cooper",
                 "position": "WR",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -611,8 +611,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Chris Godwin": {
-                "player_id": "4037",
+            "4037": {
+                "player_name": "Chris Godwin",
                 "position": "WR",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -620,8 +620,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Austin Ekeler": {
-                "player_id": "4663",
+            "4663": {
+                "player_name": "Austin Ekeler",
                 "position": "RB",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -631,8 +631,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Tj Hockenson": {
-                "player_id": "5844",
+            "5844": {
+                "player_name": "Tj Hockenson",
                 "position": "TE",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -643,8 +643,8 @@
                 "kept_consecutively": 1,
                 "owner": "Brian Fuquay"
             },
-            "Trevor Lawrence": {
-                "player_id": "7523",
+            "7523": {
+                "player_name": "Trevor Lawrence",
                 "position": "QB",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -652,8 +652,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Javonte Williams": {
-                "player_id": "7588",
+            "7588": {
+                "player_name": "Javonte Williams",
                 "position": "RB",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -663,8 +663,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Elijah Moore": {
-                "player_id": "7596",
+            "7596": {
+                "player_name": "Elijah Moore",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -674,8 +674,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Jahan Dotson": {
-                "player_id": "8119",
+            "8119": {
+                "player_name": "Jahan Dotson",
                 "position": "WR",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -685,8 +685,8 @@
                 "kept_consecutively": 1,
                 "owner": "Brian Fuquay"
             },
-            "Kyren Williams": {
-                "player_id": "8150",
+            "8150": {
+                "player_name": "Kyren Williams",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -694,8 +694,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Brock Purdy": {
-                "player_id": "8183",
+            "8183": {
+                "player_name": "Brock Purdy",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -703,8 +703,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Devon Achane": {
-                "player_id": "9226",
+            "9226": {
+                "player_name": "Devon Achane",
                 "position": "RB",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -712,8 +712,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brian Fuquay"
             },
-            "Tank Dell": {
-                "player_id": "9502",
+            "9502": {
+                "player_name": "Tank Dell",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -722,7 +722,7 @@
                 "owner": "Brian Fuquay"
             },
             "CLE": {
-                "player_id": "CLE",
+                "player_name": "CLE",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -732,8 +732,8 @@
             }
         },
         "6": {
-            "Mike Evans": {
-                "player_id": "2216",
+            "2216": {
+                "player_name": "Mike Evans",
                 "position": "WR",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -741,8 +741,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Joe Mixon": {
-                "player_id": "4018",
+            "4018": {
+                "player_name": "Joe Mixon",
                 "position": "RB",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -750,8 +750,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Kareem Hunt": {
-                "player_id": "4098",
+            "4098": {
+                "player_name": "Kareem Hunt",
                 "position": "RB",
                 "draft_pick": 14,
                 "keeper_round": 13,
@@ -759,8 +759,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Taysom Hill": {
-                "player_id": "4381",
+            "4381": {
+                "player_name": "Taysom Hill",
                 "position": "TE",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -768,8 +768,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Saquon Barkley": {
-                "player_id": "4866",
+            "4866": {
+                "player_name": "Saquon Barkley",
                 "position": "RB",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -777,8 +777,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Dk Metcalf": {
-                "player_id": "5846",
+            "5846": {
+                "player_name": "Dk Metcalf",
                 "position": "WR",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -786,8 +786,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Justin Jefferson": {
-                "player_id": "6794",
+            "6794": {
+                "player_name": "Justin Jefferson",
                 "position": "WR",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -799,8 +799,8 @@
                 "kept_consecutively": 3,
                 "owner": "Tyler Smith"
             },
-            "Gabe Davis": {
-                "player_id": "6943",
+            "6943": {
+                "player_name": "Gabe Davis",
                 "position": "WR",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -808,8 +808,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Kyle Pitts": {
-                "player_id": "7553",
+            "7553": {
+                "player_name": "Kyle Pitts",
                 "position": "TE",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -817,8 +817,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Justin Fields": {
-                "player_id": "7591",
+            "7591": {
+                "player_name": "Justin Fields",
                 "position": "QB",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -828,8 +828,8 @@
                 "kept_consecutively": 1,
                 "owner": "Tyler Smith"
             },
-            "Breece Hall": {
-                "player_id": "8155",
+            "8155": {
+                "player_name": "Breece Hall",
                 "position": "RB",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -837,8 +837,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Puka Nacua": {
-                "player_id": "9493",
+            "9493": {
+                "player_name": "Puka Nacua",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -846,8 +846,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Smith"
             },
-            "Cj Stroud": {
-                "player_id": "9758",
+            "9758": {
+                "player_name": "Cj Stroud",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -856,7 +856,7 @@
                 "owner": "Tyler Smith"
             },
             "KC": {
-                "player_id": "KC",
+                "player_name": "KC",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -866,8 +866,8 @@
             }
         },
         "7": {
-            "Tyler Higbee": {
-                "player_id": "3271",
+            "3271": {
+                "player_name": "Tyler Higbee",
                 "position": "TE",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -875,8 +875,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Christian Mccaffrey": {
-                "player_id": "4034",
+            "4034": {
+                "player_name": "Christian Mccaffrey",
                 "position": "RB",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -884,8 +884,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Evan Engram": {
-                "player_id": "4066",
+            "4066": {
+                "player_name": "Evan Engram",
                 "position": "TE",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -893,8 +893,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Baker Mayfield": {
-                "player_id": "4892",
+            "4892": {
+                "player_name": "Baker Mayfield",
                 "position": "QB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -902,8 +902,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Christian Kirk": {
-                "player_id": "4950",
+            "4950": {
+                "player_name": "Christian Kirk",
                 "position": "WR",
                 "draft_pick": 9,
                 "keeper_round": 8,
@@ -913,8 +913,8 @@
                 "kept_consecutively": 1,
                 "owner": "Lucas Janowicz"
             },
-            "Royce Freeman": {
-                "player_id": "5046",
+            "5046": {
+                "player_name": "Royce Freeman",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -922,8 +922,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Diontae Johnson": {
-                "player_id": "5937",
+            "5937": {
+                "player_name": "Diontae Johnson",
                 "position": "WR",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -931,8 +931,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Brandon Aiyuk": {
-                "player_id": "6803",
+            "6803": {
+                "player_name": "Brandon Aiyuk",
                 "position": "WR",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -942,8 +942,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Michael Pittman": {
-                "player_id": "6819",
+            "6819": {
+                "player_name": "Michael Pittman",
                 "position": "WR",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -954,8 +954,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Darnell Mooney": {
-                "player_id": "7090",
+            "7090": {
+                "player_name": "Darnell Mooney",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -965,8 +965,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Dameon Pierce": {
-                "player_id": "8129",
+            "8129": {
+                "player_name": "Dameon Pierce",
                 "position": "RB",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -974,8 +974,8 @@
                 "kept_consecutively": 0,
                 "owner": "Lucas Janowicz"
             },
-            "Rachaad White": {
-                "player_id": "8136",
+            "8136": {
+                "player_name": "Rachaad White",
                 "position": "RB",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -985,8 +985,8 @@
                 "kept_consecutively": 1,
                 "owner": "Lucas Janowicz"
             },
-            "Kenneth Walker": {
-                "player_id": "8151",
+            "8151": {
+                "player_name": "Kenneth Walker",
                 "position": "RB",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -996,8 +996,8 @@
                 "kept_consecutively": 1,
                 "owner": "Lucas Janowicz"
             },
-            "Anthony Richardson": {
-                "player_id": "9229",
+            "9229": {
+                "player_name": "Anthony Richardson",
                 "position": "QB",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -1006,7 +1006,7 @@
                 "owner": "Lucas Janowicz"
             },
             "HOU": {
-                "player_id": "HOU",
+                "player_name": "HOU",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1016,8 +1016,8 @@
             }
         },
         "8": {
-            "Dak Prescott": {
-                "player_id": "3294",
+            "3294": {
+                "player_name": "Dak Prescott",
                 "position": "QB",
                 "draft_pick": 9,
                 "keeper_round": 8,
@@ -1025,8 +1025,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Tyreek Hill": {
-                "player_id": "3321",
+            "3321": {
+                "player_name": "Tyreek Hill",
                 "position": "WR",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -1034,8 +1034,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "David Njoku": {
-                "player_id": "4033",
+            "4033": {
+                "player_name": "David Njoku",
                 "position": "TE",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -1043,8 +1043,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Tua Tagovailoa": {
-                "player_id": "6768",
+            "6768": {
+                "player_name": "Tua Tagovailoa",
                 "position": "QB",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -1052,8 +1052,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Kj Osborn": {
-                "player_id": "7066",
+            "7066": {
+                "player_name": "Kj Osborn",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1061,8 +1061,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Travis Etienne": {
-                "player_id": "7543",
+            "7543": {
+                "player_name": "Travis Etienne",
                 "position": "RB",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -1073,8 +1073,8 @@
                 "kept_consecutively": 2,
                 "owner": "Thomas Kessler"
             },
-            "Nico Collins": {
-                "player_id": "7569",
+            "7569": {
+                "player_name": "Nico Collins",
                 "position": "WR",
                 "draft_pick": 13,
                 "keeper_round": 12,
@@ -1084,8 +1084,8 @@
                 "kept_consecutively": 1,
                 "owner": "Thomas Kessler"
             },
-            "Khalil Herbert": {
-                "player_id": "7608",
+            "7608": {
+                "player_name": "Khalil Herbert",
                 "position": "RB",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -1095,8 +1095,8 @@
                 "kept_consecutively": 1,
                 "owner": "Thomas Kessler"
             },
-            "George Pickens": {
-                "player_id": "8137",
+            "8137": {
+                "player_name": "George Pickens",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -1106,8 +1106,8 @@
                 "kept_consecutively": 1,
                 "owner": "Thomas Kessler"
             },
-            "Zamir White": {
-                "player_id": "8139",
+            "8139": {
+                "player_name": "Zamir White",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1115,8 +1115,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Isiah Pacheco": {
-                "player_id": "8205",
+            "8205": {
+                "player_name": "Isiah Pacheco",
                 "position": "RB",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -1124,8 +1124,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Zach Charbonnet": {
-                "player_id": "9753",
+            "9753": {
+                "player_name": "Zach Charbonnet",
                 "position": "RB",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -1133,8 +1133,8 @@
                 "kept_consecutively": 0,
                 "owner": "Thomas Kessler"
             },
-            "Jordan Addison": {
-                "player_id": "9756",
+            "9756": {
+                "player_name": "Jordan Addison",
                 "position": "WR",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -1143,7 +1143,7 @@
                 "owner": "Thomas Kessler"
             },
             "BUF": {
-                "player_id": "BUF",
+                "player_name": "BUF",
                 "position": "DEF",
                 "draft_pick": 13,
                 "keeper_round": 12,
@@ -1153,8 +1153,8 @@
             }
         },
         "9": {
-            "Adam Thielen": {
-                "player_id": "1689",
+            "1689": {
+                "player_name": "Adam Thielen",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -1162,8 +1162,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Jerick Mckinnon": {
-                "player_id": "2161",
+            "2161": {
+                "player_name": "Jerick Mckinnon",
                 "position": "RB",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -1171,8 +1171,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Jared Goff": {
-                "player_id": "3163",
+            "3163": {
+                "player_name": "Jared Goff",
                 "position": "QB",
                 "draft_pick": 13,
                 "keeper_round": 12,
@@ -1180,8 +1180,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Derrick Henry": {
-                "player_id": "3198",
+            "3198": {
+                "player_name": "Derrick Henry",
                 "position": "RB",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -1189,8 +1189,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Patrick Mahomes": {
-                "player_id": "4046",
+            "4046": {
+                "player_name": "Patrick Mahomes",
                 "position": "QB",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -1201,8 +1201,8 @@
                 "kept_consecutively": 1,
                 "owner": "Matt Brady"
             },
-            "Gerald Everett": {
-                "player_id": "4089",
+            "4089": {
+                "player_name": "Gerald Everett",
                 "position": "TE",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1210,8 +1210,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Dj Moore": {
-                "player_id": "4983",
+            "4983": {
+                "player_name": "Dj Moore",
                 "position": "WR",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -1219,8 +1219,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Hollywood Brown": {
-                "player_id": "5848",
+            "5848": {
+                "player_name": "Hollywood Brown",
                 "position": "WR",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -1228,8 +1228,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Jonathan Taylor": {
-                "player_id": "6813",
+            "6813": {
+                "player_name": "Jonathan Taylor",
                 "position": "RB",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -1240,8 +1240,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Aj Dillon": {
-                "player_id": "6828",
+            "6828": {
+                "player_name": "Aj Dillon",
                 "position": "RB",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -1251,8 +1251,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Jameson Williams": {
-                "player_id": "8148",
+            "8148": {
+                "player_name": "Jameson Williams",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -1260,8 +1260,8 @@
                 "kept_consecutively": 0,
                 "owner": "Matt Brady"
             },
-            "Christian Watson": {
-                "player_id": "8167",
+            "8167": {
+                "player_name": "Christian Watson",
                 "position": "WR",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -1271,8 +1271,8 @@
                 "kept_consecutively": 1,
                 "owner": "Matt Brady"
             },
-            "Tyjae Spears": {
-                "player_id": "9508",
+            "9508": {
+                "player_name": "Tyjae Spears",
                 "position": "RB",
                 "draft_pick": 12,
                 "keeper_round": 11,
@@ -1281,7 +1281,7 @@
                 "owner": "Matt Brady"
             },
             "JAX": {
-                "player_id": "JAX",
+                "player_name": "JAX",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1291,8 +1291,8 @@
             }
         },
         "10": {
-            "Jayden Reed": {
-                "player_id": "10222",
+            "10222": {
+                "player_name": "Jayden Reed",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1300,8 +1300,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Travis Kelce": {
-                "player_id": "1466",
+            "1466": {
+                "player_name": "Travis Kelce",
                 "position": "TE",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -1309,8 +1309,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Odell Beckham": {
-                "player_id": "2078",
+            "2078": {
+                "player_name": "Odell Beckham",
                 "position": "WR",
                 "draft_pick": 8,
                 "keeper_round": 7,
@@ -1318,8 +1318,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "James Conner": {
-                "player_id": "4137",
+            "4137": {
+                "player_name": "James Conner",
                 "position": "RB",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -1329,8 +1329,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Lamar Jackson": {
-                "player_id": "4881",
+            "4881": {
+                "player_name": "Lamar Jackson",
                 "position": "QB",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -1341,8 +1341,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Aj Brown": {
-                "player_id": "5859",
+            "5859": {
+                "player_name": "Aj Brown",
                 "position": "WR",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -1353,8 +1353,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Terry Mclaurin": {
-                "player_id": "5927",
+            "5927": {
+                "player_name": "Terry Mclaurin",
                 "position": "WR",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -1365,8 +1365,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Ceedee Lamb": {
-                "player_id": "6786",
+            "6786": {
+                "player_name": "Ceedee Lamb",
                 "position": "WR",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -1378,8 +1378,8 @@
                 "kept_consecutively": 3,
                 "owner": "Tyler Goodman"
             },
-            "Dandre Swift": {
-                "player_id": "6790",
+            "6790": {
+                "player_name": "Dandre Swift",
                 "position": "RB",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -1390,8 +1390,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Jk Dobbins": {
-                "player_id": "6806",
+            "6806": {
+                "player_name": "Jk Dobbins",
                 "position": "RB",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -1402,8 +1402,8 @@
                 "kept_consecutively": 2,
                 "owner": "Tyler Goodman"
             },
-            "Jaylen Warren": {
-                "player_id": "8228",
+            "8228": {
+                "player_name": "Jaylen Warren",
                 "position": "RB",
                 "draft_pick": 10,
                 "keeper_round": 9,
@@ -1411,8 +1411,8 @@
                 "kept_consecutively": 0,
                 "owner": "Tyler Goodman"
             },
-            "Quentin Johnston": {
-                "player_id": "9754",
+            "9754": {
+                "player_name": "Quentin Johnston",
                 "position": "WR",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -1421,7 +1421,7 @@
                 "owner": "Tyler Goodman"
             },
             "DEN": {
-                "player_id": "DEN",
+                "player_name": "DEN",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1430,7 +1430,7 @@
                 "owner": "Tyler Goodman"
             },
             "LAC": {
-                "player_id": "LAC",
+                "player_name": "LAC",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1440,8 +1440,8 @@
             }
         },
         "11": {
-            "Rashee Rice": {
-                "player_id": "10229",
+            "10229": {
+                "player_name": "Rashee Rice",
                 "position": "WR",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -1449,8 +1449,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Brandin Cooks": {
-                "player_id": "2197",
+            "2197": {
+                "player_name": "Brandin Cooks",
                 "position": "WR",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -1458,8 +1458,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Darren Waller": {
-                "player_id": "2505",
+            "2505": {
+                "player_name": "Darren Waller",
                 "position": "TE",
                 "draft_pick": 4,
                 "keeper_round": 3,
@@ -1470,8 +1470,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Josh Allen": {
-                "player_id": "4984",
+            "4984": {
+                "player_name": "Josh Allen",
                 "position": "QB",
                 "draft_pick": 9,
                 "keeper_round": 8,
@@ -1483,8 +1483,8 @@
                 "kept_consecutively": 3,
                 "owner": "Brad Lowe"
             },
-            "Josh Jacobs": {
-                "player_id": "5850",
+            "5850": {
+                "player_name": "Josh Jacobs",
                 "position": "RB",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -1492,8 +1492,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Deebo Samuel": {
-                "player_id": "5872",
+            "5872": {
+                "player_name": "Deebo Samuel",
                 "position": "WR",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -1504,8 +1504,8 @@
                 "kept_consecutively": 2,
                 "owner": "Brad Lowe"
             },
-            "David Montgomery": {
-                "player_id": "5892",
+            "5892": {
+                "player_name": "David Montgomery",
                 "position": "RB",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -1515,8 +1515,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Cole Kmet": {
-                "player_id": "6826",
+            "6826": {
+                "player_name": "Cole Kmet",
                 "position": "TE",
                 "draft_pick": 14,
                 "keeper_round": 13,
@@ -1524,8 +1524,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Antonio Gibson": {
-                "player_id": "6945",
+            "6945": {
+                "player_name": "Antonio Gibson",
                 "position": "RB",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -1536,8 +1536,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Jamarr Chase": {
-                "player_id": "7564",
+            "7564": {
+                "player_name": "Jamarr Chase",
                 "position": "WR",
                 "draft_pick": 1,
                 "keeper_round": 0,
@@ -1548,8 +1548,8 @@
                 "kept_consecutively": 2,
                 "owner": "Brad Lowe"
             },
-            "Rashid Shaheed": {
-                "player_id": "8676",
+            "8676": {
+                "player_name": "Rashid Shaheed",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1557,8 +1557,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Jaxon Smithnjigba": {
-                "player_id": "9488",
+            "9488": {
+                "player_name": "Jaxon Smithnjigba",
                 "position": "WR",
                 "draft_pick": 6,
                 "keeper_round": 5,
@@ -1566,8 +1566,8 @@
                 "kept_consecutively": 0,
                 "owner": "Brad Lowe"
             },
-            "Demario Douglas": {
-                "player_id": "9501",
+            "9501": {
+                "player_name": "Demario Douglas",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1576,7 +1576,7 @@
                 "owner": "Brad Lowe"
             },
             "LAR": {
-                "player_id": "LAR",
+                "player_name": "LAR",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1586,8 +1586,8 @@
             }
         },
         "12": {
-            "Tyler Lockett": {
-                "player_id": "2374",
+            "2374": {
+                "player_name": "Tyler Lockett",
                 "position": "WR",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -1597,8 +1597,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Michael Thomas": {
-                "player_id": "3199",
+            "3199": {
+                "player_name": "Michael Thomas",
                 "position": "WR",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -1606,8 +1606,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Tyler Boyd": {
-                "player_id": "3225",
+            "3225": {
+                "player_name": "Tyler Boyd",
                 "position": "WR",
                 "draft_pick": 11,
                 "keeper_round": 10,
@@ -1615,8 +1615,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Noah Brown": {
-                "player_id": "4234",
+            "4234": {
+                "player_name": "Noah Brown",
                 "position": "WR",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1624,8 +1624,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Dallas Goedert": {
-                "player_id": "5022",
+            "5022": {
+                "player_name": "Dallas Goedert",
                 "position": "TE",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -1633,8 +1633,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Gus Edwards": {
-                "player_id": "5248",
+            "5248": {
+                "player_name": "Gus Edwards",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1644,8 +1644,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Jerry Jeudy": {
-                "player_id": "6783",
+            "6783": {
+                "player_name": "Jerry Jeudy",
                 "position": "WR",
                 "draft_pick": 3,
                 "keeper_round": 2,
@@ -1653,8 +1653,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Zack Moss": {
-                "player_id": "6845",
+            "6845": {
+                "player_name": "Zack Moss",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1662,8 +1662,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Jalen Hurts": {
-                "player_id": "6904",
+            "6904": {
+                "player_name": "Jalen Hurts",
                 "position": "QB",
                 "draft_pick": 5,
                 "keeper_round": 4,
@@ -1673,8 +1673,8 @@
                 "kept_consecutively": 1,
                 "owner": "Jake Currie"
             },
-            "Najee Harris": {
-                "player_id": "7528",
+            "7528": {
+                "player_name": "Najee Harris",
                 "position": "RB",
                 "draft_pick": 2,
                 "keeper_round": 1,
@@ -1682,8 +1682,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Michael Carter": {
-                "player_id": "7607",
+            "7607": {
+                "player_name": "Michael Carter",
                 "position": "RB",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1691,8 +1691,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Cade Otton": {
-                "player_id": "8111",
+            "8111": {
+                "player_name": "Cade Otton",
                 "position": "TE",
                 "draft_pick": "FA",
                 "keeper_round": 10,
@@ -1700,8 +1700,8 @@
                 "kept_consecutively": 0,
                 "owner": "Jake Currie"
             },
-            "Garrett Wilson": {
-                "player_id": "8146",
+            "8146": {
+                "player_name": "Garrett Wilson",
                 "position": "WR",
                 "draft_pick": 7,
                 "keeper_round": 6,
@@ -1712,7 +1712,7 @@
                 "owner": "Jake Currie"
             },
             "SF": {
-                "player_id": "SF",
+                "player_name": "SF",
                 "position": "DEF",
                 "draft_pick": 9,
                 "keeper_round": 8,
@@ -1721,7 +1721,7 @@
                 "owner": "Jake Currie"
             },
             "TB": {
-                "player_id": "TB",
+                "player_name": "TB",
                 "position": "DEF",
                 "draft_pick": "FA",
                 "keeper_round": 10,
