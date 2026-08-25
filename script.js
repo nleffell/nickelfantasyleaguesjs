@@ -3219,14 +3219,14 @@ async function create_eligible_keepers() {
             if (selectedOwner === "all") {
 
                 keeperHeader.style.gridTemplateColumns =
-                    "1.5fr 4fr 0.75fr 1fr 1fr 2fr";
+                    "1.5fr 4fr 0.75fr 1fr 1fr 1fr 2fr";
 
                 keeperHeader.children[0].style.display = "";
 
             } else {
 
                 keeperHeader.style.gridTemplateColumns =
-                    "4fr 0.75fr 1fr 1fr 2fr";
+                    "4fr 0.75fr 1fr 1fr 1fr 2fr";
 
                 keeperHeader.children[0].style.display = "none";
 
@@ -3297,7 +3297,7 @@ async function create_eligible_keepers() {
                 if (selectedOwner === "all") {
 
                     row.style.gridTemplateColumns =
-                        "1.5fr 4fr 0.75fr 1fr 1fr 2fr";
+                        "1.5fr 4fr 0.75fr 1fr 1fr 1fr 2fr";
 
                     row.innerHTML = `
                         <div class="owner-cell">
@@ -3314,8 +3314,13 @@ async function create_eligible_keepers() {
                             <span>${player.position}</span>
                         </div>
 
-                        <div class="round-cell">
-                            <strong>Round</strong>
+                        <div class="draft-round-cell">
+                            <strong>Draft Rd.</strong>
+                            <span>${player.draft_round}</span>
+                        </div>
+
+                        <div class="keeper-round-cell">
+                            <strong>Keeper Rd.</strong>
                             <span>${player.keeper_round}</span>
                         </div>
 
@@ -3342,7 +3347,7 @@ async function create_eligible_keepers() {
                 else {
 
                     row.style.gridTemplateColumns =
-                        "4fr 0.75fr 1fr 1fr 2fr";
+                        "4fr 0.75fr 1fr 1fr 1fr 2fr";
 
                     row.innerHTML = `
                         <div class="player-cell player-name">
@@ -3354,8 +3359,13 @@ async function create_eligible_keepers() {
                             <span>${player.position}</span>
                         </div>
 
-                        <div class="round-cell">
-                            <strong>Round</strong>
+                        <div class="draft-round-cell">
+                            <strong>Draft Rd.</strong>
+                            <span>${player.draft_round}</span>
+                        </div>
+
+                        <div class="keeper-round-cell">
+                            <strong>Keeper Rd.</strong>
                             <span>${player.keeper_round}</span>
                         </div>
 
