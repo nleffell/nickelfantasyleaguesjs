@@ -35,10 +35,10 @@
         "TE Starter Rank": 9,
         "FLEX Starter Rank": 10,
         "Backup QB Rank": 4,
-        "projected_points": 2791.7,
+        "projected_points": 2792.2,
         "qb_proj": 289.0,
         "rb_proj": 707.0,
-        "wr_proj": 629.1,
+        "wr_proj": 629.6,
         "te_proj": 217.0,
         "flex_proj": 949.6
     },
@@ -78,11 +78,11 @@
         "TE Starter Rank": 11,
         "FLEX Starter Rank": 12,
         "Backup QB Rank": 12,
-        "projected_points": 2157.9,
+        "projected_points": 2157.8,
         "qb_proj": 306.0,
         "rb_proj": 480.5,
         "wr_proj": 548.3,
-        "te_proj": 141.7,
+        "te_proj": 141.6,
         "flex_proj": 681.4
     },
     {
@@ -121,12 +121,12 @@
         "TE Starter Rank": 2,
         "FLEX Starter Rank": 8,
         "Backup QB Rank": 10,
-        "projected_points": 2577.3,
+        "projected_points": 2573.7000000000003,
         "qb_proj": 299.6,
-        "rb_proj": 533.9,
-        "wr_proj": 635.9000000000001,
+        "rb_proj": 532.7,
+        "wr_proj": 634.7,
         "te_proj": 287.0,
-        "flex_proj": 820.9
+        "flex_proj": 819.7
     },
     {
         "Team": "Darts Inside",
@@ -207,12 +207,12 @@
         "TE Starter Rank": 8,
         "FLEX Starter Rank": 11,
         "Backup QB Rank": 6,
-        "projected_points": 2621.1,
+        "projected_points": 2620.9,
         "qb_proj": 313.4,
         "rb_proj": 553.8,
-        "wr_proj": 715.1,
+        "wr_proj": 715.0,
         "te_proj": 177.9,
-        "flex_proj": 860.9000000000001
+        "flex_proj": 860.8
     },
     {
         "Team": "I\u2019m All En",
@@ -250,12 +250,12 @@
         "TE Starter Rank": 3,
         "FLEX Starter Rank": 9,
         "Backup QB Rank": 1,
-        "projected_points": 2713.8,
+        "projected_points": 2715.4,
         "qb_proj": 374.0,
-        "rb_proj": 452.9,
+        "rb_proj": 456.7,
         "wr_proj": 782.8,
         "te_proj": 223.1,
-        "flex_proj": 881.0
+        "flex_proj": 878.8
     },
     {
         "Team": "Shough Around Find Out",
@@ -293,12 +293,12 @@
         "TE Starter Rank": 7,
         "FLEX Starter Rank": 5,
         "Backup QB Rank": 8,
-        "projected_points": 2786.8,
+        "projected_points": 2788.8,
         "qb_proj": 325.1,
         "rb_proj": 678.9,
         "wr_proj": 676.9,
-        "te_proj": 178.0,
-        "flex_proj": 927.9
+        "te_proj": 179.0,
+        "flex_proj": 928.9
     },
     {
         "Team": "Team Name Redacted",
@@ -336,9 +336,9 @@
         "TE Starter Rank": 12,
         "FLEX Starter Rank": 4,
         "Backup QB Rank": 3,
-        "projected_points": 2094.2,
+        "projected_points": 2092.4,
         "qb_proj": 323.0,
-        "rb_proj": 193.4,
+        "rb_proj": 191.6,
         "wr_proj": 710.7,
         "te_proj": 156.4,
         "flex_proj": 710.7
@@ -465,12 +465,12 @@
         "TE Starter Rank": 6,
         "FLEX Starter Rank": 1,
         "Backup QB Rank": 5,
-        "projected_points": 3070.2,
+        "projected_points": 3071.2,
         "qb_proj": 337.9,
         "rb_proj": 724.0,
         "wr_proj": 758.3000000000001,
         "te_proj": 238.0,
-        "flex_proj": 1012.0
+        "flex_proj": 1013.0
     },
     {
         "Team": "Good Morning Ladies",
@@ -508,11 +508,11 @@
         "TE Starter Rank": 10,
         "FLEX Starter Rank": 2,
         "Backup QB Rank": 2,
-        "projected_points": 2909.7,
+        "projected_points": 2896.9,
         "qb_proj": 335.8,
-        "rb_proj": 572.5,
+        "rb_proj": 566.0999999999999,
         "wr_proj": 856.0,
         "te_proj": 200.6,
-        "flex_proj": 944.8
+        "flex_proj": 938.4
     }
 ]
