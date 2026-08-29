@@ -3426,6 +3426,7 @@ async function createEligibleKeepers() {
 async function createRankingsKeepersRemovedTable() {
 
     const tableBody = document.getElementById("kl-rankings-table-body");
+    const downloadButton = document.getElementById("kl-rankings-download-csv");
 
     if (!tableBody) return;
 
@@ -3433,6 +3434,7 @@ async function createRankingsKeepersRemovedTable() {
 
         const response = await fetch(
             "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/rankings_keepers_removed.json",
+            { cache: "no-store" }
         );
 
         if (!response.ok) {
@@ -3447,6 +3449,10 @@ async function createRankingsKeepersRemovedTable() {
         if (!rankings) {
             throw new Error(`No rankings found for ${currentYear}`);
         }
+
+        /* ===========================
+           CREATE TABLE
+        =========================== */
 
         tableBody.innerHTML = "";
 
@@ -3498,19 +3504,113 @@ async function createRankingsKeepersRemovedTable() {
 
         });
 
+
+        /* ===========================
+           CSV DOWNLOAD
+        =========================== */
+
+        if (downloadButton) {
+
+            downloadButton.addEventListener("click", () => {
+
+                const headers = [
+                    "Rank",
+                    "Player",
+                    "Pos Rank",
+                    "Tier",
+                    "Team",
+                    "Pos",
+                    "Bye",
+                    "ECR",
+                    "Min",
+                    "Max",
+                    "Avg",
+                    "Std"
+                ];
+
+                const rows = rankings.map(player => [
+
+                    player.rank_keepers_removed ?? "",
+                    player.player_name ?? "",
+                    player.pos_rank_keepers_removed ?? "",
+                    player.tier ?? "",
+                    player.team ?? "",
+                    player.position ?? "",
+                    player.bye_week ?? "",
+                    player.rank_ecr ?? "",
+                    player.rank_min ?? "",
+                    player.rank_max ?? "",
+                    player.rank_avg ?? "",
+                    player.rank_std ?? ""
+
+                ]);
+
+
+                const csvRows = [
+                    headers,
+                    ...rows
+                ];
+
+
+                const csvContent = csvRows
+                    .map(row =>
+                        row.map(value => {
+
+                            const stringValue = String(value);
+
+                            return `"${stringValue.replace(/"/g, '""')}"`;
+
+                        }).join(",")
+                    )
+                    .join("\n");
+
+
+                const blob = new Blob(
+                    [csvContent],
+                    {
+                        type: "text/csv;charset=utf-8;"
+                    }
+                );
+
+
+                const url = URL.createObjectURL(blob);
+
+                const link = document.createElement("a");
+
+                link.href = url;
+                link.download = `keeper_rankings_${currentYear}.csv`;
+
+                document.body.appendChild(link);
+
+                link.click();
+
+                document.body.removeChild(link);
+
+                URL.revokeObjectURL(url);
+
+            });
+
+        }
+
+
     } catch (error) {
 
-        console.error("Error loading keeper rankings:", error);
+        console.error(
+            "Error loading keeper rankings:",
+            error
+        );
 
         tableBody.innerHTML = `
             <tr>
-                <td colspan="12" style="text-align:center; padding:20px;">
+                <td colspan="12"
+                    style="text-align:center; padding:20px;">
                     Unable to load keeper rankings.
                 </td>
             </tr>
         `;
 
     }
+
 }
 
 //########END KEEPER LEAGUE FUNCTIONS#######
