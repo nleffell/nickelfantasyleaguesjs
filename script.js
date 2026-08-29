@@ -2385,12 +2385,10 @@ async function createPreseasonChampionshipOdds() {
 
 
     // --------------------------------------------------------
-    // Apply 15% vig
+    // Calculate odds for a market
     //
-    // We first normalize the probabilities so they represent
-    // 100% of the actual outcomes.
-    //
-    // Then we create a sportsbook market totaling 115%.
+    // Includes 0% teams so they receive +2000.
+    // 15% vig is applied after normalizing probabilities.
     // --------------------------------------------------------
 
     function calculateMarketOdds(rows, probabilityKey) {
@@ -2403,7 +2401,7 @@ async function createPreseasonChampionshipOdds() {
         }))
         .filter(item =>
           Number.isFinite(item.probability) &&
-          item.probability > 0
+          item.probability >= 0
         );
 
 
@@ -2418,8 +2416,8 @@ async function createPreseasonChampionshipOdds() {
       if (totalProbability <= 0) {
         return rows.map(row => ({
           row,
-          odds: "—",
-          probability: NaN
+          odds: "+2000",
+          probability: 0
         }));
       }
 
@@ -2448,6 +2446,7 @@ async function createPreseasonChampionshipOdds() {
       });
 
     }
+
 
 
     // --------------------------------------------------------
