@@ -3432,8 +3432,7 @@ async function createRankingsKeepersRemovedTable() {
     try {
 
         const response = await fetch(
-            "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/rankings_keepers_removed.json",
-            { cache: "no-store" }
+            "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/rankings_keepers_removed.json",
         );
 
         if (!response.ok) {
