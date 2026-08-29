@@ -2344,7 +2344,7 @@ async function createPreseasonChampionshipOdds() {
 
     function probabilityToAmerican(probability) {
 
-      // 0% (or invalid) gets the maximum positive odds
+      // 0% or invalid = maximum positive odds
       if (
         !Number.isFinite(probability) ||
         probability <= 0
@@ -2352,6 +2352,10 @@ async function createPreseasonChampionshipOdds() {
         return "+2000";
       }
 
+      // 100% or greater = maximum negative odds
+      if (probability >= 1) {
+        return "-2000";
+      }
 
       let odds;
 
@@ -2371,27 +2375,20 @@ async function createPreseasonChampionshipOdds() {
 
       }
 
-
-      // Round to nearest whole number
       odds = Math.round(odds);
 
-
-      // Cap negative odds at -2000
       if (odds < -2000) {
         odds = -2000;
       }
 
-      // Cap positive odds at +2000
       if (odds > 2000) {
         odds = 2000;
       }
-
 
       return odds > 0
         ? `+${odds}`
         : `${odds}`;
     }
-
 
 
 
