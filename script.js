@@ -2544,7 +2544,11 @@ async function createPreseasonChampionshipOdds() {
               String(b.roster_id)
           )?.probability ?? 0;
 
-        return bProbability - aProbability;
+        if (bProbability !== aProbability) {
+          return bProbability - aProbability;
+        }
+
+        return Number(a.worst_record_pct) - Number(b.worst_record_pct);
 
       });
 
