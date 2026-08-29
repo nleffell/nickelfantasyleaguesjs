@@ -2258,21 +2258,8 @@ function formatMoney(value) {
 }
 
 
-function formatOdds(odds) {
-  const number = Number(odds);
-
-  if (!Number.isFinite(number)) {
-    return "—";
-  }
-
-  return number > 0
-    ? `+${number}`
-    : `${number}`;
-}
-
-
 // ------------------------------------------------------------
-// Preseason Championship Odds
+// Preseason Championship / Playoff Odds
 // ------------------------------------------------------------
 
 async function createPreseasonChampionshipOdds() {
@@ -2286,9 +2273,19 @@ async function createPreseasonChampionshipOdds() {
 
   try {
 
+    // --------------------------------------------------------
+    // Fetch Dynasty Daddy playoff odds
+    // --------------------------------------------------------
+
     const response = await fetch(
       "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_odds.json"
     );
+
+    if (!response.ok) {
+      throw new Error(
+        `Playoff odds request failed: ${response.status}`
+      );
+    }
 
     const json = await response.json();
 
@@ -2297,56 +2294,253 @@ async function createPreseasonChampionshipOdds() {
     // Find latest year
     // --------------------------------------------------------
 
-    const latestYear = Math.max(
-      ...json.map(item => Number(item.year))
-    );
+    const years =
+      Object.keys(json)
+        .map(Number)
+        .filter(Number.isFinite);
+
+    const latestYear =
+      Math.max(...years);
+
+    const yearData =
+      json[String(latestYear)];
+
+    if (!yearData) {
+      throw new Error(
+        `No playoff odds found for ${latestYear}.`
+      );
+    }
 
 
     // --------------------------------------------------------
-    // Filter championship preseason odds
+    // Use "week_0" as latest_week becuase we only display preseason values on website for now
     // --------------------------------------------------------
 
-    const data = json.filter(item =>
-      Number(item.year) === latestYear &&
-      item.season === "preseason" &&
-      item.type === "championship"
-    );
+    const latestWeek = "week_0";
 
 
     // --------------------------------------------------------
-    // Calculate implied probability
+    // Get team data
     // --------------------------------------------------------
 
-    const rows = data
-      .map(item => {
+    const data =
+      Object.values(yearData[latestWeek] || {});
 
-        const odds = Number(item.championship_odds);
 
-        let probability;
+    if (data.length === 0) {
+      throw new Error(
+        `No team data found for ${latestYear} ${latestWeek}.`
+      );
+    }
 
-        if (odds > 0) {
-          probability =
-            100 / (odds + 100);
-        }
-        else {
-          probability =
-            (-odds) / ((-odds) + 100);
-        }
+
+    // --------------------------------------------------------
+    // American odds helper
+    //
+    // Takes a probability expressed as a decimal:
+    // 0.25 = 25%
+    // --------------------------------------------------------
+
+    function probabilityToAmerican(probability) {
+
+      if (
+        !Number.isFinite(probability) ||
+        probability <= 0 ||
+        probability >= 1
+      ) {
+        return "—";
+      }
+
+      let odds;
+
+      if (probability > 0.5) {
+
+        odds =
+          -100 *
+          probability /
+          (1 - probability);
+
+      } else {
+
+        odds =
+          100 *
+          (1 - probability) /
+          probability;
+
+      }
+
+      // Round to nearest whole number
+      odds = Math.round(odds);
+
+      return odds > 0
+        ? `+${odds}`
+        : `${odds}`;
+    }
+
+
+    // --------------------------------------------------------
+    // Apply 15% vig
+    //
+    // We first normalize the probabilities so they represent
+    // 100% of the actual outcomes.
+    //
+    // Then we create a sportsbook market totaling 115%.
+    // --------------------------------------------------------
+
+    function calculateMarketOdds(rows, probabilityKey) {
+
+      const probabilities =
+        rows.map(row => ({
+          row,
+          probability:
+            Number(row[probabilityKey]) / 100
+        }))
+        .filter(item =>
+          Number.isFinite(item.probability) &&
+          item.probability > 0
+        );
+
+
+      const totalProbability =
+        probabilities.reduce(
+          (sum, item) =>
+            sum + item.probability,
+          0
+        );
+
+
+      if (totalProbability <= 0) {
+        return rows.map(row => ({
+          row,
+          odds: "—",
+          probability: NaN
+        }));
+      }
+
+
+      return probabilities.map(item => {
+
+        // Normalize to true 100% probability
+        const normalizedProbability =
+          item.probability /
+          totalProbability;
+
+        // Add 15% vig
+        const marketProbability =
+          normalizedProbability * 1.15;
 
         return {
-          name: item.owner,
-          odds,
-          probability
+          row: item.row,
+          odds:
+            probabilityToAmerican(
+              marketProbability
+            ),
+          probability:
+            marketProbability
         };
 
-      })
-      .filter(item =>
-        Number.isFinite(item.probability)
-      )
-      .sort(
-        (a, b) =>
-          b.probability - a.probability
+      });
+
+    }
+
+
+    // --------------------------------------------------------
+    // Calculate odds for every market
+    // --------------------------------------------------------
+
+    const championshipOdds =
+      calculateMarketOdds(
+        data,
+        "win_finals_pct"
       );
+
+    const playoffsOdds =
+      calculateMarketOdds(
+        data,
+        "make_playoffs_pct"
+      );
+
+    const byeOdds =
+      calculateMarketOdds(
+        data,
+        "first_round_bye_pct"
+      );
+
+    const bestRecordOdds =
+      calculateMarketOdds(
+        data,
+        "best_record_pct"
+      );
+
+    const worstRecordOdds =
+      calculateMarketOdds(
+        data,
+        "worst_record_pct"
+      );
+
+
+    // --------------------------------------------------------
+    // Convert results to lookup tables by roster ID
+    // --------------------------------------------------------
+
+    function createOddsLookup(results) {
+
+      const lookup = {};
+
+      results.forEach(item => {
+
+        const rosterId =
+          String(item.row.roster_id);
+
+        lookup[rosterId] =
+          item.odds;
+
+      });
+
+      return lookup;
+    }
+
+
+    const championshipLookup =
+      createOddsLookup(championshipOdds);
+
+    const playoffsLookup =
+      createOddsLookup(playoffsOdds);
+
+    const byeLookup =
+      createOddsLookup(byeOdds);
+
+    const bestRecordLookup =
+      createOddsLookup(bestRecordOdds);
+
+    const worstRecordLookup =
+      createOddsLookup(worstRecordOdds);
+
+
+    // --------------------------------------------------------
+    // Sort teams by championship probability
+    // --------------------------------------------------------
+
+    const sortedData =
+      [...data].sort((a, b) => {
+
+        const aProbability =
+          championshipOdds.find(
+            item =>
+              String(item.row.roster_id) ===
+              String(a.roster_id)
+          )?.probability ?? 0;
+
+        const bProbability =
+          championshipOdds.find(
+            item =>
+              String(item.row.roster_id) ===
+              String(b.roster_id)
+          )?.probability ?? 0;
+
+        return bProbability - aProbability;
+
+      });
 
 
     // --------------------------------------------------------
@@ -2356,7 +2550,51 @@ async function createPreseasonChampionshipOdds() {
     container.innerHTML = "";
 
 
-    rows.forEach(item => {
+    sortedData.forEach(item => {
+
+      const rosterId =
+        String(item.roster_id);
+
+
+      const projectedWins =
+        Number(item.projected_wins);
+
+      const projectedLosses =
+        Number(item.projected_losses);
+
+      const medianWins =
+        Number(item.median_wins);
+
+      const medianLosses =
+        Number(item.median_losses);
+
+
+      // ------------------------------------------------------
+      // Projected record
+      //
+      // Example:
+      // 20-8
+      //
+      // This uses projected wins + median wins and
+      // projected losses + median losses.
+      // ------------------------------------------------------
+
+      const totalWins =
+        projectedWins + medianWins;
+
+      const totalLosses =
+        projectedLosses + medianLosses;
+
+      const projectedRecord =
+        Number.isFinite(totalWins) &&
+        Number.isFinite(totalLosses)
+          ? `${totalWins}-${totalLosses}`
+          : "—";
+
+
+      // ------------------------------------------------------
+      // Create card
+      // ------------------------------------------------------
 
       const card =
         document.createElement("div");
@@ -2368,22 +2606,52 @@ async function createPreseasonChampionshipOdds() {
       card.innerHTML = `
 
         <span class="wbdw-bet-odds-owner">
-            ${item.name}
+          ${item.owner}
         </span>
 
-        <span class="wbdw-bet-odds-value">
-            ${formatOdds(item.odds)}
-        </span>
+        <div class="wbdw-bet-odds-row">
+          <span>Win Championship</span>
+          <strong>
+            ${championshipLookup[rosterId] ?? "—"}
+          </strong>
+        </div>
 
-        <span class="wbdw-bet-odds-label">
-            Championship Odds
-        </span>
+        <div class="wbdw-bet-odds-row">
+          <span>Make Playoffs</span>
+          <strong>
+            ${playoffsLookup[rosterId] ?? "—"}
+          </strong>
+        </div>
 
-        <span class="wbdw-bet-odds-stake">
-            $10 BET WINS $${(10 * item.odds / 100).toFixed(2)}
-        </span>
+        <div class="wbdw-bet-odds-row">
+          <span>First Round Bye</span>
+          <strong>
+            ${byeLookup[rosterId] ?? "—"}
+          </strong>
+        </div>
 
-    `;
+        <div class="wbdw-bet-odds-row">
+          <span>Best Record</span>
+          <strong>
+            ${bestRecordLookup[rosterId] ?? "—"}
+          </strong>
+        </div>
+
+        <div class="wbdw-bet-odds-row">
+          <span>Worst Record</span>
+          <strong>
+            ${worstRecordLookup[rosterId] ?? "—"}
+          </strong>
+        </div>
+
+        <div class="wbdw-bet-odds-row">
+          <span>Projected Record</span>
+          <strong>
+            ${projectedRecord}
+          </strong>
+        </div>
+
+      `;
 
       container.appendChild(card);
 
