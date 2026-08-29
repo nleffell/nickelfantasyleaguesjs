@@ -3122,7 +3122,7 @@ async function createOwnerStats() {
 
 
 //########KEEPER LEAGUE FUNCTIONS#######
-async function create_eligible_keepers() {
+async function createEligibleKeepers() {
 
     const jsonUrl = "https://scripts.nickelfantasyleagues.com/keeper_jsons/website_jsons/eligible_keepers_by_year.json";
 
@@ -3422,6 +3422,97 @@ async function create_eligible_keepers() {
 
 }
 
+
+async function createRankingsKeepersRemovedTable() {
+
+    const tableBody = document.getElementById("kl-rankings-table-body");
+
+    if (!tableBody) return;
+
+    try {
+
+        const response = await fetch(
+            "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/rankings_keepers_removed.json",
+            { cache: "no-store" }
+        );
+
+        if (!response.ok) {
+            throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        const data = await response.json();
+
+        const currentYear = new Date().getFullYear();
+        const rankings = data[String(currentYear)];
+
+        if (!rankings) {
+            throw new Error(`No rankings found for ${currentYear}`);
+        }
+
+        tableBody.innerHTML = "";
+
+        rankings.forEach(player => {
+
+            const row = document.createElement("tr");
+
+            row.innerHTML = `
+                <td>${player.rank_keepers_removed ?? ""}</td>
+
+                <td>${player.player_name ?? ""}</td>
+
+                <td>${player.pos_rank_keepers_removed ?? ""}</td>
+
+                <td>${player.tier ?? ""}</td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.team ?? ""}
+                </td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.position ?? ""}
+                </td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.bye_week ?? ""}
+                </td>
+
+                <td>${player.rank_ecr ?? ""}</td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.rank_min ?? ""}
+                </td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.rank_max ?? ""}
+                </td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.rank_avg ?? ""}
+                </td>
+
+                <td class="kl-rankings-desktop-only">
+                    ${player.rank_std ?? ""}
+                </td>
+            `;
+
+            tableBody.appendChild(row);
+
+        });
+
+    } catch (error) {
+
+        console.error("Error loading keeper rankings:", error);
+
+        tableBody.innerHTML = `
+            <tr>
+                <td colspan="12" style="text-align:center; padding:20px;">
+                    Unable to load keeper rankings.
+                </td>
+            </tr>
+        `;
+
+    }
+}
 
 //########END KEEPER LEAGUE FUNCTIONS#######
 
