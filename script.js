@@ -2387,58 +2387,50 @@ async function createPreseasonChampionshipOdds() {
     // --------------------------------------------------------
     // Calculate odds for a market
     //
-    // Includes 0% teams so they receive +2000.
-    // 15% vig is applied after normalizing probabilities.
+    // Converts the Dynasty Daddy percentage directly to American odds and applies a 15% vig.
+    //
+    // 0% = +2000
+    // Maximum positive odds = +2000
     // --------------------------------------------------------
 
     function calculateMarketOdds(rows, probabilityKey) {
 
-      const probabilities =
-        rows.map(row => ({
-          row,
-          probability:
-            Number(row[probabilityKey]) / 100
-        }))
-        .filter(item =>
-          Number.isFinite(item.probability) &&
-          item.probability >= 0
-        );
+      return rows.map(row => {
+
+        const rawProbability =
+          Number(row[probabilityKey]);
+
+        // Invalid or 0% values
+        if (
+          !Number.isFinite(rawProbability) ||
+          rawProbability <= 0
+        ) {
+          return {
+            row,
+            odds: "+2000",
+            probability: 0
+          };
+        }
 
 
-      const totalProbability =
-        probabilities.reduce(
-          (sum, item) =>
-            sum + item.probability,
-          0
-        );
+        // Convert percentage to decimal
+        const probability =
+          rawProbability / 100;
 
 
-      if (totalProbability <= 0) {
-        return rows.map(row => ({
-          row,
-          odds: "+2000",
-          probability: 0
-        }));
-      }
-
-
-      return probabilities.map(item => {
-
-        // Normalize to true 100% probability
-        const normalizedProbability =
-          item.probability /
-          totalProbability;
-
-        // Add 15% vig
+        // Apply 15% vig
         const marketProbability =
-          normalizedProbability * 1.15;
+          probability * 1.15;
+
 
         return {
-          row: item.row,
+          row,
+
           odds:
             probabilityToAmerican(
               marketProbability
             ),
+
           probability:
             marketProbability
         };
@@ -2446,6 +2438,7 @@ async function createPreseasonChampionshipOdds() {
       });
 
     }
+
 
 
 
