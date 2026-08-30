@@ -35,10 +35,10 @@
         "TE Starter Rank": 9,
         "FLEX Starter Rank": 11,
         "Backup QB Rank": 3,
-        "projected_points": 2791.7,
+        "projected_points": 2792.2,
         "qb_proj": 289.0,
         "rb_proj": 707.0,
-        "wr_proj": 629.1,
+        "wr_proj": 629.6,
         "te_proj": 217.0,
         "flex_proj": 949.6
     },
@@ -78,12 +78,12 @@
         "TE Starter Rank": 11,
         "FLEX Starter Rank": 12,
         "Backup QB Rank": 12,
-        "projected_points": 2231.7,
+        "projected_points": 2229.4,
         "qb_proj": 306.0,
-        "rb_proj": 518.0999999999999,
+        "rb_proj": 516.9,
         "wr_proj": 547.0,
-        "te_proj": 141.6,
-        "flex_proj": 719.0
+        "te_proj": 141.7,
+        "flex_proj": 717.8
     },
     {
         "Team": "Teamy McTeamface",
@@ -164,12 +164,12 @@
         "TE Starter Rank": 5,
         "FLEX Starter Rank": 6,
         "Backup QB Rank": 9,
-        "projected_points": 2207.1,
+        "projected_points": 2209.1,
         "qb_proj": 311.7,
         "rb_proj": 440.7,
         "wr_proj": 558.9,
-        "te_proj": 208.6,
-        "flex_proj": 687.2
+        "te_proj": 209.6,
+        "flex_proj": 688.2
     },
     {
         "Team": "Damn She Purdy",
@@ -207,12 +207,12 @@
         "TE Starter Rank": 8,
         "FLEX Starter Rank": 10,
         "Backup QB Rank": 6,
-        "projected_points": 2621.1,
+        "projected_points": 2619.1,
         "qb_proj": 313.4,
-        "rb_proj": 553.8,
+        "rb_proj": 552.8,
         "wr_proj": 715.1,
         "te_proj": 177.9,
-        "flex_proj": 860.9000000000001
+        "flex_proj": 859.9000000000001
     },
     {
         "Team": "Team Name Redacted",
@@ -465,12 +465,12 @@
         "TE Starter Rank": 6,
         "FLEX Starter Rank": 1,
         "Backup QB Rank": 5,
-        "projected_points": 3064.2,
+        "projected_points": 3063.2,
         "qb_proj": 337.9,
         "rb_proj": 721.0,
         "wr_proj": 758.3000000000001,
         "te_proj": 238.0,
-        "flex_proj": 1009.0
+        "flex_proj": 1008.0
     },
     {
         "Team": "Good Morning Ladies",
@@ -508,11 +508,11 @@
         "TE Starter Rank": 10,
         "FLEX Starter Rank": 3,
         "Backup QB Rank": 2,
-        "projected_points": 2907.7,
+        "projected_points": 2907.5,
         "qb_proj": 335.8,
-        "rb_proj": 571.5,
+        "rb_proj": 571.4,
         "wr_proj": 856.0,
         "te_proj": 200.6,
-        "flex_proj": 943.8
+        "flex_proj": 943.7
     }
 ]
