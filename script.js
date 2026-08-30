@@ -172,6 +172,15 @@ async function createDraftBoard() {
   const ownerDraftPicksJson =
     await ownerDraftPicksRes.json();
 
+  const ownerDraftPicks =
+    Object.entries(ownerDraftPicksJson).flatMap(
+      ([owner, picks]) =>
+        picks.map(pick => ({
+          owner,
+          ...pick
+        }))
+    );
+
 
   // ----------------------------------------------------------
   // Determine upcoming draft year
@@ -179,7 +188,7 @@ async function createDraftBoard() {
 
   const draftYear =
     Math.min(
-      ...ownerDraftPicksJson.map(
+      ...ownerDraftPicks.map(
         p => Number(p.year)
       )
     );
@@ -210,7 +219,7 @@ async function createDraftBoard() {
     (originalOwner, round) => {
 
       const picks =
-        ownerDraftPicksJson.filter(
+        ownerDraftPicks.filter(
           p =>
             Number(p.year) === draftYear &&
             Number(p.round) === round
@@ -2138,6 +2147,13 @@ async function createOwnerDraftPicksTable(owner) {
     const json =
       await response.json();
 
+    const ownerData =
+      (json[owner] || [])
+        .sort(
+          (a, b) =>
+            Number(a.year) - Number(b.year) ||
+            Number(a.round) - Number(b.round)
+        );
 
     const tableBody =
       document.getElementById(
@@ -2152,25 +2168,9 @@ async function createOwnerDraftPicksTable(owner) {
       return;
     }
 
-
     tableBody.innerHTML = "";
 
-
-    const ownerData =
-      json
-        .filter(
-          item =>
-            item.owner === owner
-        )
-        .sort(
-          (a, b) =>
-            Number(a.year) - Number(b.year) ||
-            Number(a.round) - Number(b.round)
-        );
-
-
     let previousYear = null;
-
 
     ownerData.forEach(item => {
 
