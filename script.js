@@ -2283,19 +2283,14 @@ async function createOwnerRosterTable(owner) {
 
     tableBody.innerHTML = "";
 
-
-    const ownerData =
-      json
-        .filter(
-          item =>
-            item.owner === owner
-        )
-        .sort(
-          (a, b) =>
-            Number(a.fp_rank) -
-            Number(b.fp_rank)
-        );
-
+    const ownerData = json[owner] || []; 
+    
+    // Sort by FantasyPros rank 
+    ownerData.sort( 
+      (a, b) => 
+        Number(a.fp_rank) - 
+        Number(b.fp_rank) 
+    );
 
     ownerData.forEach(item => {
 
