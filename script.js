@@ -1977,7 +1977,7 @@ async function createOwnerRecords(owner) {
 
 
     const ownerData =
-      statsJson.find(
+      Object.values(statsJson).find(
         item =>
           item.owner === owner
       );
@@ -2453,22 +2453,23 @@ async function createOwnerSeasonHistoryTable(owner) {
       return;
     }
 
-
     tableBody.innerHTML = "";
 
-
     const ownerData =
-      json
-        .filter(
-          item =>
-            item.owner === owner
+      Object.entries(json)
+        .flatMap(([year, teams]) =>
+          Object.values(teams)
+            .filter(item => item.owner === owner)
+            .map(item => ({
+              ...item,
+              year
+            }))
         )
         .sort(
           (a, b) =>
             Number(b.year) -
             Number(a.year)
         );
-
 
     ownerData.forEach(item => {
 
@@ -3605,7 +3606,10 @@ async function createOwnerStats() {
             "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json"
         );
 
-        const data = await response.json();
+        const data =
+          Object.values(
+              await response.json()
+          );
 
 
         // --------------------------------------------------------
