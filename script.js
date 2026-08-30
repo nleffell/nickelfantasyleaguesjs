@@ -1952,287 +1952,623 @@ async function createTradeCountTable() {
 
 
 //#######Individual Owner Pages Functions#######
-//Create individual owner record information table
+// ============================================================
+// INDIVIDUAL OWNER RECORDS
+// ============================================================
 async function createOwnerRecords(owner) {
-  const statsRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json");
-  const json = await statsRes.json();
 
-  // Filter data for the owner
-  var ownerData = json.filter(function(item) {
-      return item.owner === `${owner}`;
-  });
+  try {
 
-  // Fetch power rankings
-  const prRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json");
-  const prJson = await prRes.json();
+    const statsRes = await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_aggregate_records.json"
+    );
 
-  //helper function
-  function ordinalSuffix(n) {
-    const s = ["th", "st", "nd", "rd"];
-    const v = n % 100;
-    return n + (s[(v - 20) % 10] || s[v] || s[0]);
+    const statsJson =
+      await statsRes.json();
+
+
+    const ownerData =
+      statsJson.find(
+        item =>
+          item.owner === owner
+      );
+
+
+    if (!ownerData) {
+      console.error(
+        `No owner record data found for ${owner}.`
+      );
+      return;
+    }
+
+
+    // --------------------------------------------------------
+    // Power rankings
+    // --------------------------------------------------------
+
+    const prRes = await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/power_rankings.json"
+    );
+
+    const prJson =
+      await prRes.json();
+
+
+    function ordinalSuffix(n) {
+
+      const s =
+        ["th", "st", "nd", "rd"];
+
+      const v =
+        n % 100;
+
+      return (
+        n +
+        (s[(v - 20) % 10] ||
+         s[v] ||
+         s[0])
+      );
+
+    }
+
+
+    // Dynasty ranking
+
+    const sortedDynasty =
+      [...prJson].sort(
+        (a, b) =>
+          b["Overall Value"] -
+          a["Overall Value"]
+      );
+
+
+    const dynastyIndex =
+      sortedDynasty.findIndex(
+        item =>
+          item.Owner === owner
+      );
+
+
+    const dynastyPowerRank =
+      dynastyIndex >= 0
+        ? ordinalSuffix(dynastyIndex + 1)
+        : "N/A";
+
+
+    // Current season ranking
+
+    const sortedSeason =
+      [...prJson].sort(
+        (a, b) =>
+          b.projected_points -
+          a.projected_points
+      );
+
+
+    const seasonIndex =
+      sortedSeason.findIndex(
+        item =>
+          item.Owner === owner
+      );
+
+
+    const seasonPowerRank =
+      seasonIndex >= 0
+        ? ordinalSuffix(seasonIndex + 1)
+        : "N/A";
+
+
+    // --------------------------------------------------------
+    // Populate cards
+    // --------------------------------------------------------
+
+    const values = {
+
+      "wbdw-owner-average-finish":
+        `${ownerData.avg_finish} (${ownerData.avg_finish_place})`,
+
+      "wbdw-owner-regular-record":
+        `${ownerData.reg_record} (${ownerData.reg_place})`,
+
+      "wbdw-owner-aggregate-record":
+        `${ownerData.agg_record} (${ownerData.agg_place})`,
+
+      "wbdw-owner-dynasty-ranking":
+        dynastyPowerRank,
+
+      "wbdw-owner-season-ranking":
+        seasonPowerRank,
+
+      "wbdw-owner-playoff-appearances":
+        `${ownerData.playoff_appearances}/${ownerData.seasons} (${ownerData.playoffs_pct_place})`,
+
+      "wbdw-owner-playoff-wins":
+        `${ownerData.playoff_wins} (${ownerData.playoff_wins_place})`,
+
+      "wbdw-owner-league-loser":
+        `${ownerData.league_loser_count}${
+          ownerData.league_loser_count_place
+            ? ` (${ownerData.league_loser_count_place})`
+            : ""
+        }`
+
+    };
+
+
+    Object.entries(values).forEach(
+      ([id, value]) => {
+
+        const element =
+          document.getElementById(id);
+
+        if (element) {
+          element.textContent = value;
+        }
+
+      }
+    );
+
   }
-  
-  const sortedDynasty = [...prJson].sort((a, b) => b['Overall Value'] - a['Overall Value']); // Sort all owners by Dynasty value
-  const dynastyIndex = sortedDynasty.findIndex(item => item.Owner === `${owner}`);
-  const dynastyPowerRank = dynastyIndex >= 0 ? ordinalSuffix(dynastyIndex + 1) : "N/A";
 
-  const sortedSeason = [...prJson].sort((a, b) => b.projected_points - a.projected_points); // Sort all owners by remaining projected points
-  const seasonIndex = sortedSeason.findIndex(item => item.Owner === `${owner}`); 
-  const seasonPowerRank = seasonIndex >= 0 ? ordinalSuffix(seasonIndex + 1) : "N/A";
-  
-  // Create an HTML representation for the filtered data
-  var htmlText = "<p>"
-  htmlText +=  ownerData[0]['avg_finish'] + " (" + ownerData[0]['avg_finish_place'] + ")\n\n";
-  htmlText +=  ownerData[0]['reg_record'] + " (" + ownerData[0]['reg_place'] + ")\n\n";
-  htmlText +=  ownerData[0]['agg_record'] + " (" + ownerData[0]['agg_place'] + ")\n\n";
-  htmlText +=  dynastyPowerRank + "\n\n";
-  htmlText +=  seasonPowerRank + "\n\n";
-  htmlText +=  ownerData[0]['playoff_appearances'] + "/" + ownerData[0]['seasons'] + " (" + ownerData[0]['playoffs_pct_place'] + ")\n\n";
-  htmlText +=  ownerData[0]['playoff_wins'] + " (" + ownerData[0]['playoff_wins_place'] + ")\n\n";
-  htmlText += ownerData[0]['league_loser_count'];
-  if (ownerData[0]['league_loser_count_place'] !== '') {
-    htmlText += " (" + ownerData[0]['league_loser_count_place'] + ")";
+  catch (error) {
+
+    console.error(
+      `Error loading owner records for ${owner}:`,
+      error
+    );
+
   }
-  
-  htmlText += "</p>";
 
-  // Display the HTML text on the page
-  document.getElementById("text-wbdw-owners-statistics-right").innerHTML = htmlText;
 }
 
 
 //Create individual owner draft picks table
+// ============================================================
+// INDIVIDUAL OWNER DRAFT PICKS
+// ============================================================
 async function createOwnerDraftPicksTable(owner) {
-  const ownerDraftPicksRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json");
-  const json = await ownerDraftPicksRes.json();
 
-  var ownerData = json.filter(function (item) {
-    return item.owner === `${owner}`;
-  });
-  
-  let tableContainer = document.querySelector('div.div-wbdw-owners-draft-picks');
+  try {
 
-  // Create the table element
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-owners-draft-picks');
-  
-  // Create the table header
-  const tableHeader = document.createElement('thead');
-  const headerRow = document.createElement('tr');
-  headerRow.innerHTML = `
-    <th>Year</th>
-    <th>Round</th>
-    <th>Pick</th>
-  `;
-  tableHeader.appendChild(headerRow);
-  table.appendChild(tableHeader);
+    const response =
+      await fetch(
+        "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json"
+      );
 
-  // Create the table body
-  const tableBody = document.createElement('tbody');
+    const json =
+      await response.json();
 
-  // Keep track of the previous year
-  let previousYear = null;
-  
-  // Iterate through the JSON array
-  ownerData.forEach(item => {
-    const row = document.createElement('tr');
 
-    // Access properties of each object
-    const year = item.year;
-    const round = item.round;
-    const pick = item.pick;
-    
-    // Check if the year has changed
-    if (previousYear !== null && year !== previousYear) {
-        row.classList.add('year-split-row'); // Add the class to the row
+    const tableBody =
+      document.getElementById(
+        "wbdw-owner-draft-picks-body"
+      );
+
+
+    if (!tableBody) {
+      console.error(
+        "Owner draft picks table body not found."
+      );
+      return;
     }
-    previousYear = year; // Update the previous year
 
-    // Create table cells and populate with data
-    const yearCell = document.createElement('td');
-    yearCell.textContent = year;
-    row.appendChild(yearCell);
 
-    const roundCell = document.createElement('td');
-    roundCell.textContent = round;
-    row.appendChild(roundCell);
+    tableBody.innerHTML = "";
 
-    const pickCell = document.createElement('td');
-    pickCell.textContent = pick;
-    row.appendChild(pickCell);
 
-    // Append the row to the table body
-    tableBody.appendChild(row);
-  });
+    const ownerData =
+      json
+        .filter(
+          item =>
+            item.owner === owner
+        )
+        .sort(
+          (a, b) =>
+            Number(a.year) - Number(b.year) ||
+            Number(a.round) - Number(b.round)
+        );
 
-  // Append the table body to the table
-  table.appendChild(tableBody);
 
-  // Append the table to the table container
-  tableContainer.appendChild(table);
+    let previousYear = null;
+
+
+    ownerData.forEach(item => {
+
+      const row =
+        document.createElement("tr");
+
+
+      if (
+        previousYear !== null &&
+        Number(item.year) !== previousYear
+      ) {
+        row.classList.add(
+          "year-split-row"
+        );
+      }
+
+
+      previousYear =
+        Number(item.year);
+
+
+      const yearCell =
+        document.createElement("td");
+
+      yearCell.textContent =
+        item.year;
+
+
+      const roundCell =
+        document.createElement("td");
+
+      roundCell.textContent =
+        item.round;
+
+
+      const pickCell =
+        document.createElement("td");
+
+      pickCell.textContent =
+        item.pick;
+
+
+      row.append(
+        yearCell,
+        roundCell,
+        pickCell
+      );
+
+
+      tableBody.appendChild(row);
+
+    });
+
+
+    if (ownerData.length === 0) {
+
+      const row =
+        document.createElement("tr");
+
+      const cell =
+        document.createElement("td");
+
+      cell.colSpan = 3;
+
+      cell.textContent =
+        "No future draft picks";
+
+      row.appendChild(cell);
+
+      tableBody.appendChild(row);
+
+    }
+
+  }
+
+  catch (error) {
+
+    console.error(
+      `Error loading draft picks for ${owner}:`,
+      error
+    );
+
+  }
+
 }
+
 
 
 //Create table of individual rosters for each owner
+// ============================================================
+// INDIVIDUAL OWNER ROSTER
+// ============================================================
 async function createOwnerRosterTable(owner) {
-  const ownersRosterRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json");
-  const json = await ownersRosterRes.json();
 
-  var ownerData = json.filter(function (item) {
-    return item.owner === `${owner}`;
-  });
-  
-  // Sort the ownerData array in reverse chronological order based on the 'year' property
-  ownerData.sort((a, b) => a.fp_rank - b.fp_rank);
+  try {
 
-  const tableContainer = document.querySelector('div.div-wbdw-owners-roster');
+    const response =
+      await fetch(
+        "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_rosters.json"
+      );
 
-  // Create the table element
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-owners-roster');
-  
-  // Create the table header
-  const tableHeader = document.createElement('thead');
-  const headerRow = document.createElement('tr');
-  headerRow.innerHTML = `
-    <th>Player</th>
-    <th>Pos</th>
-    <th>Tm</th>
-    <th>Age</th>
-    <th>Rnk</th>
-    <th>Pos Rnk</th>
-  `;
-  tableHeader.appendChild(headerRow);
-  table.appendChild(tableHeader);
+    const json =
+      await response.json();
 
-  // Create the table body
-  const tableBody = document.createElement('tbody');
 
-  // Iterate through the JSON array
-  ownerData.forEach(item => {
-    const row = document.createElement('tr');
+    const tableBody =
+      document.getElementById(
+        "wbdw-owner-roster-body"
+      );
 
-    // Access properties of each object
-    const player = item.name;
-    const roto = item.roto_link;
-    const pos = item.position;
-    const team = item.team;
-    const age = item.age;
-    const rnk = item.fp_rank;
-    const posrnk = item.fp_pos_rank;
 
-    // Create table cells and populate with data
-    const playerRotoCell = document.createElement('td');
-    const rotoLink = document.createElement('a'); // Create the <a> element
-    rotoLink.id = 'roster-link'; // Set the id attribute
-    rotoLink.textContent = player; // Set the content of the <a> element to the value of player
-    rotoLink.href = roto; // Set the href attribute to make it a clickable link
-    rotoLink.target = '_blank'; // Set the target attribute to make it open in a new tab
-    playerRotoCell.appendChild(rotoLink); // Append the <a> element to the espnCell
-    row.appendChild(playerRotoCell);
+    if (!tableBody) {
+      console.error(
+        "Owner roster table body not found."
+      );
+      return;
+    }
 
-    const posCell = document.createElement('td');
-    posCell.textContent = pos;
-    row.appendChild(posCell);
 
-    const teamCell = document.createElement('td');
-    teamCell.textContent = team;
-    row.appendChild(teamCell);
+    tableBody.innerHTML = "";
 
-    const ageCell = document.createElement('td');
-    ageCell.textContent = age;
-    row.appendChild(ageCell);
 
-    const rnkCell = document.createElement('td');
-    rnkCell.textContent = rnk;
-    row.appendChild(rnkCell);
+    const ownerData =
+      json
+        .filter(
+          item =>
+            item.owner === owner
+        )
+        .sort(
+          (a, b) =>
+            Number(a.fp_rank) -
+            Number(b.fp_rank)
+        );
 
-    const posRnkCell = document.createElement('td');
-    posRnkCell.textContent = posrnk;
-    row.appendChild(posRnkCell);
 
-    // Append the row to the table body
-    tableBody.appendChild(row);
-  });
+    ownerData.forEach(item => {
 
-  // Append the table body to the table
-  table.appendChild(tableBody);
+      const row =
+        document.createElement("tr");
 
-  // Append the table to the table container
-  tableContainer.appendChild(table);
+
+      // Player
+
+      const playerCell =
+        document.createElement("td");
+
+
+      const playerLink =
+        document.createElement("a");
+
+
+      playerLink.textContent =
+        item.name;
+
+
+      playerLink.href =
+        item.roto_link || "#";
+
+
+      playerLink.target =
+        "_blank";
+
+
+      playerLink.rel =
+        "noopener noreferrer";
+
+
+      playerCell.appendChild(
+        playerLink
+      );
+
+
+      // Position
+
+      const positionCell =
+        document.createElement("td");
+
+      positionCell.textContent =
+        item.position;
+
+
+      // Team
+
+      const teamCell =
+        document.createElement("td");
+
+      teamCell.textContent =
+        item.team;
+
+
+      // Age
+
+      const ageCell =
+        document.createElement("td");
+
+      ageCell.textContent =
+        item.age;
+
+
+      // Overall rank
+
+      const rankCell =
+        document.createElement("td");
+
+      rankCell.textContent =
+        item.fp_rank;
+
+
+      // Position rank
+
+      const positionRankCell =
+        document.createElement("td");
+
+      positionRankCell.textContent =
+        item.fp_pos_rank;
+
+
+      row.append(
+        playerCell,
+        positionCell,
+        teamCell,
+        ageCell,
+        rankCell,
+        positionRankCell
+      );
+
+
+      tableBody.appendChild(row);
+
+    });
+
+
+    if (ownerData.length === 0) {
+
+      const row =
+        document.createElement("tr");
+
+      const cell =
+        document.createElement("td");
+
+      cell.colSpan = 6;
+
+      cell.textContent =
+        "No roster data available";
+
+      row.appendChild(cell);
+
+      tableBody.appendChild(row);
+
+    }
+
+  }
+
+  catch (error) {
+
+    console.error(
+      `Error loading roster for ${owner}:`,
+      error
+    );
+
+  }
+
 }
 
 
+
 //Create season history table for individual owner pages
+// ============================================================
+// INDIVIDUAL OWNER SEASON HISTORY
+// ============================================================
 async function createOwnerSeasonHistoryTable(owner) {
-  const ownerSeasonHistoryRes = await fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json");
-  const json = await ownerSeasonHistoryRes.json();
 
-  var ownerData = json.filter(function (item) {
-    return item.owner === `${owner}`;
-  });
-  
-  // Sort the ownerData array in reverse chronological order based on the 'year' property
-  ownerData.sort((a, b) => b.year - a.year);
+  try {
 
-  const tableContainer = document.querySelector('div.div-wbdw-owners-season-history');
+    const response =
+      await fetch(
+        "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_season_history.json"
+      );
 
-  // Create the table element
-  const table = document.createElement('table');
-  table.classList.add('table-wbdw-owners-season-history');
-  
-  // Create the table header
-  const tableHeader = document.createElement('thead');
-  const headerRow = document.createElement('tr');
-  headerRow.innerHTML = `
-    <th>Year</th>
-    <th>Team</th>
-    <th>Record</th>
-    <th>Finish</th>
-  `;
-  tableHeader.appendChild(headerRow);
-  table.appendChild(tableHeader);
+    const json =
+      await response.json();
 
-  // Create the table body
-  const tableBody = document.createElement('tbody');
 
-  // Iterate through the JSON array
-  ownerData.forEach(item => {
-    const row = document.createElement('tr');
+    const tableBody =
+      document.getElementById(
+        "wbdw-owner-season-history-body"
+      );
 
-    // Access properties of each object
-    const year = item.year;
-    const team = item.team;
-    const record = item.reg_record;
-    const finish = item.finish;
 
-    // Create table cells and populate with data
-    const yearCell = document.createElement('td');
-    yearCell.textContent = year;
-    row.appendChild(yearCell);
+    if (!tableBody) {
+      console.error(
+        "Owner season history table body not found."
+      );
+      return;
+    }
 
-    const teamCell = document.createElement('td');
-    teamCell.textContent = team;
-    row.appendChild(teamCell);
 
-    const recordCell = document.createElement('td');
-    recordCell.textContent = record;
-    row.appendChild(recordCell);
+    tableBody.innerHTML = "";
 
-    const finishCell = document.createElement('td');
-    finishCell.textContent = finish;
-    row.appendChild(finishCell);
 
-    // Append the row to the table body
-    tableBody.appendChild(row);
-  });
+    const ownerData =
+      json
+        .filter(
+          item =>
+            item.owner === owner
+        )
+        .sort(
+          (a, b) =>
+            Number(b.year) -
+            Number(a.year)
+        );
 
-  // Append the table body to the table
-  table.appendChild(tableBody);
 
-  // Append the table to the table container
-  tableContainer.appendChild(table);
+    ownerData.forEach(item => {
+
+      const row =
+        document.createElement("tr");
+
+
+      // Year
+
+      const yearCell =
+        document.createElement("td");
+
+      yearCell.textContent =
+        item.year;
+
+
+      // Team
+
+      const teamCell =
+        document.createElement("td");
+
+      teamCell.textContent =
+        item.team;
+
+
+      // Record
+
+      const recordCell =
+        document.createElement("td");
+
+      recordCell.textContent =
+        item.reg_record;
+
+
+      // Finish
+
+      const finishCell =
+        document.createElement("td");
+
+      finishCell.textContent =
+        item.finish;
+
+
+      row.append(
+        yearCell,
+        teamCell,
+        recordCell,
+        finishCell
+      );
+
+
+      tableBody.appendChild(row);
+
+    });
+
+
+    if (ownerData.length === 0) {
+
+      const row =
+        document.createElement("tr");
+
+      const cell =
+        document.createElement("td");
+
+      cell.colSpan = 4;
+
+      cell.textContent =
+        "No season history available";
+
+      row.appendChild(cell);
+
+      tableBody.appendChild(row);
+
+    }
+
+  }
+
+  catch (error) {
+
+    console.error(
+      `Error loading season history for ${owner}:`,
+      error
+    );
+
+  }
+
 }
 //#######End Individual Owner Pages Functions#######
 
