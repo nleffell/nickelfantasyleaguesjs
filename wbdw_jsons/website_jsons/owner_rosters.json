@@ -883,7 +883,7 @@
         {
             "name": "Kaleb Johnson",
             "position": "RB",
-            "team": "PIT",
+            "team": "GB",
             "starter": "no",
             "age": 23,
             "sleeper_rank": 173,
@@ -989,6 +989,18 @@
             "fp_pos_rank": 138
         },
         {
+            "name": "Kyle McCord",
+            "position": "QB",
+            "team": "MIA",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 608,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/kyle-mccord-18498/",
+            "fp_rank": 542,
+            "fp_pos_rank": 80
+        },
+        {
             "name": "Ja'seem Reed",
             "position": "WR",
             "team": "CAR",
@@ -997,18 +1009,6 @@
             "sleeper_rank": 665,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jaseem-reed-19049/",
-            "fp_rank": "NR",
-            "fp_pos_rank": "NR"
-        },
-        {
-            "name": "Montorie Foster",
-            "position": "WR",
-            "team": "SEA",
-            "starter": "no",
-            "age": 25,
-            "sleeper_rank": 647,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/montorie-foster-19119/",
             "fp_rank": "NR",
             "fp_pos_rank": "NR"
         }
@@ -1943,6 +1943,18 @@
             "fp_pos_rank": 40
         },
         {
+            "name": "Sean Tucker",
+            "position": "RB",
+            "team": "TB",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 155,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/sean-tucker-16728/",
+            "fp_rank": 313,
+            "fp_pos_rank": 69
+        },
+        {
             "name": "Emanuel Wilson",
             "position": "RB",
             "team": "SEA",
@@ -1967,40 +1979,16 @@
             "fp_pos_rank": 117
         },
         {
-            "name": "Jarquez Hunter",
-            "position": "RB",
-            "team": "MIA",
+            "name": "Jalon Daniels",
+            "position": "QB",
+            "team": "TB",
             "starter": "no",
             "age": 23,
-            "sleeper_rank": 191,
+            "sleeper_rank": 625,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jarquez-hunter-18523/",
-            "fp_rank": 371,
-            "fp_pos_rank": 82
-        },
-        {
-            "name": "Tyren Montgomery",
-            "position": "WR",
-            "team": "TEN",
-            "starter": "no",
-            "age": 25,
-            "sleeper_rank": 667,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/tyren-montgomery-19602/",
-            "fp_rank": 446,
-            "fp_pos_rank": 142
-        },
-        {
-            "name": "Dohnte Meyers",
-            "position": "WR",
-            "team": "CIN",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 628,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/dohnte-meyers-19247/",
-            "fp_rank": "NR",
-            "fp_pos_rank": "NR"
+            "roto_link": "https://www.rotowire.com/football/player/jalon-daniels-19292/",
+            "fp_rank": 533,
+            "fp_pos_rank": 79
         },
         {
             "name": "Camden Brown",
@@ -2011,6 +1999,18 @@
             "sleeper_rank": 608,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/camden-brown-19989/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
+        },
+        {
+            "name": "Dohnte Meyers",
+            "position": "WR",
+            "team": "CIN",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 628,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/dohnte-meyers-19247/",
             "fp_rank": "NR",
             "fp_pos_rank": "NR"
         },
@@ -2257,18 +2257,6 @@
             "fp_pos_rank": 48
         },
         {
-            "name": "Ben Sinnott",
-            "position": "TE",
-            "team": "WAS",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 672,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/ben-sinnott-17833/",
-            "fp_rank": 349,
-            "fp_pos_rank": 46
-        },
-        {
             "name": "Malik Benson",
             "position": "WR",
             "team": "LV",
@@ -2319,7 +2307,7 @@
         {
             "name": "Jam Miller",
             "position": "RB",
-            "team": "NE",
+            "team": "FA",
             "starter": "no",
             "age": "Not Available",
             "sleeper_rank": 679,
@@ -2349,6 +2337,18 @@
             "sleeper_rank": 688,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jack-strand-19642/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
+        },
+        {
+            "name": "Jacob Saylors",
+            "position": "RB",
+            "team": "DET",
+            "starter": "no",
+            "age": 25,
+            "sleeper_rank": 675,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jacob-saylors-17584/",
             "fp_rank": "NR",
             "fp_pos_rank": "NR"
         }
