@@ -2517,6 +2517,15 @@ async function createOwnerSeasonHistoryTable(owner) {
         item.reg_record;
 
 
+      // Points
+
+      const pointsCell =
+        document.createElement("td");
+
+      pointsCell.textContent =
+        item.points_scored;
+
+
       // Finish
 
       const finishCell =
@@ -2530,6 +2539,7 @@ async function createOwnerSeasonHistoryTable(owner) {
         yearCell,
         teamCell,
         recordCell,
+        pointsCell,
         finishCell
       );
 
