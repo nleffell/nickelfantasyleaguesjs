@@ -2160,7 +2160,6 @@ async function createOwnerDraftPicksTable(owner) {
         "wbdw-owner-draft-picks-body"
       );
 
-
     if (!tableBody) {
       console.error(
         "Owner draft picks table body not found."
@@ -2177,7 +2176,6 @@ async function createOwnerDraftPicksTable(owner) {
       const row =
         document.createElement("tr");
 
-
       if (
         previousYear !== null &&
         Number(item.year) !== previousYear
@@ -2187,10 +2185,8 @@ async function createOwnerDraftPicksTable(owner) {
         );
       }
 
-
       previousYear =
         Number(item.year);
-
 
       const yearCell =
         document.createElement("td");
@@ -2198,13 +2194,11 @@ async function createOwnerDraftPicksTable(owner) {
       yearCell.textContent =
         item.year;
 
-
       const roundCell =
         document.createElement("td");
 
       roundCell.textContent =
         item.round;
-
 
       const pickCell =
         document.createElement("td");
@@ -2212,18 +2206,15 @@ async function createOwnerDraftPicksTable(owner) {
       pickCell.textContent =
         item.pick;
 
-
       row.append(
         yearCell,
         roundCell,
         pickCell
       );
 
-
       tableBody.appendChild(row);
 
     });
-
 
     if (ownerData.length === 0) {
 
