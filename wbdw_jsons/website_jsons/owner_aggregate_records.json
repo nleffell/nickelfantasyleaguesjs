@@ -13,7 +13,7 @@
             "1",
             "TBD"
         ],
-        "championships": 0,
+        "championships": 1,
         "league_loser_count": 0,
         "avg_finish": 2.7,
         "reg_win_pct": 0.679,
@@ -51,7 +51,7 @@
         "agg_place": "11th",
         "playoff_wins_place": "T-7th",
         "playoffs_pct_place": "T-10th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "",
         "avg_finish_place": "T-10th"
     },
@@ -79,7 +79,7 @@
         "agg_place": "3rd",
         "playoff_wins_place": "5th",
         "playoffs_pct_place": "T-4th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "",
         "avg_finish_place": "5th"
     },
@@ -97,7 +97,7 @@
             "5",
             "TBD"
         ],
-        "championships": 0,
+        "championships": 1,
         "league_loser_count": 0,
         "avg_finish": 3.0,
         "reg_win_pct": 0.702,
@@ -135,7 +135,7 @@
         "agg_place": "12th",
         "playoff_wins_place": "T-7th",
         "playoffs_pct_place": "T-10th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "",
         "avg_finish_place": "T-10th"
     },
@@ -163,7 +163,7 @@
         "agg_place": "9th",
         "playoff_wins_place": "6th",
         "playoffs_pct_place": "T-7th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "T-1st",
         "avg_finish_place": "7th"
     },
@@ -181,7 +181,7 @@
             "NP",
             "TBD"
         ],
-        "championships": 0,
+        "championships": 1,
         "league_loser_count": 0,
         "avg_finish": 4.2,
         "reg_win_pct": 0.583,
@@ -219,7 +219,7 @@
         "agg_place": "8th",
         "playoff_wins_place": "T-7th",
         "playoffs_pct_place": "T-4th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "T-1st",
         "avg_finish_place": "6th"
     },
@@ -247,7 +247,7 @@
         "agg_place": "10th",
         "playoff_wins_place": "T-7th",
         "playoffs_pct_place": "T-10th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "",
         "avg_finish_place": "T-10th"
     },
@@ -275,7 +275,7 @@
         "agg_place": "5th",
         "playoff_wins_place": "4th",
         "playoffs_pct_place": "T-1st",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "",
         "avg_finish_place": "3rd"
     },
@@ -303,7 +303,7 @@
         "agg_place": "7th",
         "playoff_wins_place": "T-7th",
         "playoffs_pct_place": "T-7th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "T-1st",
         "avg_finish_place": "9th"
     },
@@ -331,7 +331,7 @@
         "agg_place": "6th",
         "playoff_wins_place": "T-7th",
         "playoffs_pct_place": "T-7th",
-        "championships_place": "T-1st",
+        "championships_place": "T-4th",
         "league_loser_count_place": "",
         "avg_finish_place": "8th"
     }
