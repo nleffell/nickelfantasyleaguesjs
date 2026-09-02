@@ -153,149 +153,393 @@ async function createHomepageStandingsTable() {
 // DRAFT BOARD
 // ============================================================
 
-function createDraftBoard() {
-    const container = document.querySelector(".div-wbdw-draft-pick-order");
+async function createDraftBoard() {
 
-    if (!container) return;
+  const draftOrderRes =
+    await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json"
+    );
 
-    fetch("https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/current_draft_pick_order.json", {
-        cache: "no-store"
-    })
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error: ${response.status}`);
-            }
-            return response.json();
-        })
-        .then(data => {
-            container.innerHTML = "";
+  const draftOrderJson =
+    await draftOrderRes.json();
 
-            const table = document.createElement("table");
-            table.className = "wbdw-draft-pick-order-table";
 
-            // Find the current draft year
-            const years = Object.keys(data);
-            const draftYear = years[years.length - 1];
-            const draftData = data[draftYear];
+  const ownerDraftPicksRes =
+    await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json"
+    );
 
-            // Get the owners in projected draft order
-            const owners = Object.values(draftData);
+  const ownerDraftPicksJson =
+    await ownerDraftPicksRes.json();
 
-            // -------------------------
-            // Header
-            // -------------------------
-            const thead = document.createElement("thead");
-            const headerRow = document.createElement("tr");
+  const ownerDraftPicks =
+    Object.entries(ownerDraftPicksJson).flatMap(
+      ([owner, picks]) =>
+        picks.map(pick => ({
+          owner,
+          ...pick
+        }))
+    );
 
-            // Blank corner cell
-            const blankHeader = document.createElement("th");
-            blankHeader.textContent = "";
-            headerRow.appendChild(blankHeader);
 
-            owners.forEach((owner, index) => {
-                const th = document.createElement("th");
+  // ----------------------------------------------------------
+  // Determine upcoming draft year
+  // ----------------------------------------------------------
 
-                th.textContent = `${index + 1}st (${owner})`
-                    .replace("1st", "1st")
-                    .replace("2st", "2nd")
-                    .replace("3st", "3rd")
-                    .replace("4st", "4th")
-                    .replace("5st", "5th")
-                    .replace("6st", "6th")
-                    .replace("7st", "7th")
-                    .replace("8st", "8th")
-                    .replace("9st", "9th")
-                    .replace("10st", "10th")
-                    .replace("11st", "11th")
-                    .replace("12st", "12th");
+  const draftYear =
+    Math.min(
+      ...ownerDraftPicks.map(
+        p => Number(p.year)
+      )
+    );
 
-                th.dataset.owner = owner;
-                th.classList.add("draft-owner-header");
 
-                headerRow.appendChild(th);
-            });
+  // ----------------------------------------------------------
+  // Get original owner from pick string
+  // ----------------------------------------------------------
 
-            thead.appendChild(headerRow);
-            table.appendChild(thead);
+  const getOriginalOwnerFromPick =
+    pickStr => {
 
-            // -------------------------
-            // Body
-            // -------------------------
-            const tbody = document.createElement("tbody");
+      const match =
+        pickStr.match(/\(([^)]+)\)/);
 
-            for (let round = 1; round <= 4; round++) {
-                const row = document.createElement("tr");
+      return match
+        ? match[1].trim()
+        : null;
 
-                const roundCell = document.createElement("th");
-                roundCell.textContent = `Round ${round}`;
-                row.appendChild(roundCell);
+    };
 
-                owners.forEach((owner, index) => {
-                    const pickCell = document.createElement("td");
 
-                    const pickNumber = `${round}.${String(index + 1).padStart(2, "0")}`;
+  // ----------------------------------------------------------
+  // Determine current owner of a pick
+  // ----------------------------------------------------------
 
-                    pickCell.textContent = `${pickNumber} - ${owner}`;
-                    pickCell.dataset.owner = owner;
-                    pickCell.classList.add("draft-pick-cell");
+  const getCurrentPickOwner =
+    (originalOwner, round) => {
 
-                    row.appendChild(pickCell);
-                });
+      const picks =
+        ownerDraftPicks.filter(
+          p =>
+            Number(p.year) === draftYear &&
+            Number(p.round) === round
+        );
 
-                tbody.appendChild(row);
-            }
 
-            table.appendChild(tbody);
-            container.appendChild(table);
+      const tradedPick =
+        picks.find(
+          p =>
+            getOriginalOwnerFromPick(
+              p.pick
+            ) === originalOwner
+        );
 
-            // -------------------------
-            // Owner highlighting
-            // -------------------------
-            const ownerHeaders = table.querySelectorAll(".draft-owner-header");
-            const pickCells = table.querySelectorAll(".draft-pick-cell");
 
-            ownerHeaders.forEach(header => {
-                header.addEventListener("mouseenter", () => {
-                    const owner = header.dataset.owner;
+      if (tradedPick) {
+        return tradedPick.owner;
+      }
 
-                    ownerHeaders.forEach(otherHeader => {
-                        otherHeader.classList.toggle(
-                            "owner-highlight",
-                            otherHeader.dataset.owner === owner
-                        );
-                    });
 
-                    pickCells.forEach(cell => {
-                        cell.classList.toggle(
-                            "owner-highlight",
-                            cell.dataset.owner === owner
-                        );
+      const originalPick =
+        picks.find(
+          p =>
+            p.owner === originalOwner &&
+            !getOriginalOwnerFromPick(
+              p.pick
+            )
+        );
 
-                        cell.classList.toggle(
-                            "owner-dim",
-                            cell.dataset.owner !== owner
-                        );
-                    });
-                });
 
-                header.addEventListener("mouseleave", () => {
-                    ownerHeaders.forEach(otherHeader => {
-                        otherHeader.classList.remove("owner-highlight");
-                    });
+      if (originalPick) {
+        return originalPick.owner;
+      }
 
-                    pickCells.forEach(cell => {
-                        cell.classList.remove(
-                            "owner-highlight",
-                            "owner-dim"
-                        );
-                    });
-                });
-            });
-        })
-        .catch(error => {
-            console.error("Error loading current draft pick order:", error);
-            container.innerHTML = "<p>Error loading draft pick order.</p>";
+
+      return originalOwner;
+
+    };
+
+
+  // ----------------------------------------------------------
+  // Find container
+  // ----------------------------------------------------------
+
+  const tableContainer =
+    document.querySelector(
+      ".wbdw-home-draft-order-grid"
+    );
+
+
+  if (!tableContainer) {
+
+    console.error(
+      "Draft board container not found."
+    );
+
+    return;
+
+  }
+
+
+  tableContainer.innerHTML = "";
+
+
+  // ----------------------------------------------------------
+  // Year label
+  // ----------------------------------------------------------
+
+  const yearLabel =
+    document.createElement("div");
+
+  yearLabel.className =
+    "draft-board-year";
+
+  yearLabel.textContent =
+    `${draftYear} Draft`;
+
+
+  tableContainer.appendChild(
+    yearLabel
+  );
+
+
+  // ----------------------------------------------------------
+  // Create table
+  // ----------------------------------------------------------
+
+  const table =
+    document.createElement("table");
+
+  table.classList.add(
+    "table-wbdw-draft-board"
+  );
+
+
+  // ----------------------------------------------------------
+  // Header
+  // ----------------------------------------------------------
+
+  const headerRow =
+    document.createElement("tr");
+
+
+  const blankHeader =
+    document.createElement("th");
+
+  blankHeader.textContent = "";
+
+  headerRow.appendChild(
+    blankHeader
+  );
+
+
+  draftOrderJson.forEach(item => {
+
+    const th =
+      document.createElement("th");
+
+    th.textContent =
+      `${item.pick} (${item.owner})`;
+
+    // Store owner for highlighting
+    th.dataset.owner =
+      item.owner;
+
+    th.classList.add(
+      "draft-owner-header"
+    );
+
+    headerRow.appendChild(th);
+
+  });
+
+
+  table.appendChild(
+    headerRow
+  );
+
+
+  // ----------------------------------------------------------
+  // Rounds 1–4
+  // ----------------------------------------------------------
+
+  for (
+    let round = 1;
+    round <= 4;
+    round++
+  ) {
+
+    const row =
+      document.createElement("tr");
+
+
+    const roundCell =
+      document.createElement("td");
+
+    roundCell.textContent =
+      `Round ${round}`;
+
+    row.appendChild(
+      roundCell
+    );
+
+
+    draftOrderJson.forEach(
+      (projPick, colIndex) => {
+
+        const originalOwner =
+          projPick.owner;
+
+
+        const currentOwner =
+          getCurrentPickOwner(
+            originalOwner,
+            round
+          );
+
+
+        const cell =
+          document.createElement("td");
+
+
+        cell.textContent =
+          `${round}.${String(
+            colIndex + 1
+          ).padStart(2, "0")} - ${currentOwner}`;
+
+        // Store actual current owner for highlighting
+        cell.dataset.owner =
+          currentOwner;
+
+        cell.classList.add(
+          "draft-pick-cell"
+        );
+
+
+        row.appendChild(
+          cell
+        );
+
+      }
+    );
+
+
+    table.appendChild(row);
+
+  }
+
+
+  // ----------------------------------------------------------
+  // Owner highlighting
+  // ----------------------------------------------------------
+
+  const ownerHeaders =
+    table.querySelectorAll(
+      ".draft-owner-header"
+    );
+
+  const pickCells =
+    table.querySelectorAll(
+      ".draft-pick-cell"
+    );
+
+
+  ownerHeaders.forEach(header => {
+
+    header.addEventListener(
+      "mouseenter",
+      () => {
+
+        const owner =
+          header.dataset.owner;
+
+
+        // Highlight selected owner's header
+        ownerHeaders.forEach(
+          otherHeader => {
+
+            otherHeader.classList.toggle(
+              "owner-highlight",
+              otherHeader.dataset.owner === owner
+            );
+
+          }
+        );
+
+
+        // Highlight selected owner's picks
+        pickCells.forEach(cell => {
+
+          const isOwner =
+            cell.dataset.owner === owner;
+
+
+          cell.classList.toggle(
+            "owner-highlight",
+            isOwner
+          );
+
+
+          cell.classList.toggle(
+            "owner-dim",
+            !isOwner
+          );
+
         });
+
+      }
+    );
+
+
+    header.addEventListener(
+      "mouseleave",
+      () => {
+
+        ownerHeaders.forEach(
+          otherHeader => {
+
+            otherHeader.classList.remove(
+              "owner-highlight"
+            );
+
+          }
+        );
+
+
+        pickCells.forEach(cell => {
+
+          cell.classList.remove(
+            "owner-highlight",
+            "owner-dim"
+          );
+
+        });
+
+      }
+    );
+
+  });
+
+
+  // ----------------------------------------------------------
+  // Scroll wrapper
+  // ----------------------------------------------------------
+
+  const scrollWrapper =
+    document.createElement("div");
+
+  scrollWrapper.className =
+    "table-scroll-wrapper";
+
+  scrollWrapper.appendChild(
+    table
+  );
+
+
+  tableContainer.appendChild(
+    scrollWrapper
+  );
+
 }
 
 
