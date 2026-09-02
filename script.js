@@ -2363,6 +2363,97 @@ async function createOwnerDraftPicksTable(owner) {
 
 
 
+// ============================================================
+// WHO OWNS MY PICKS TABLE
+// ============================================================
+async function createWhoOwnsMyPicks(ownerName) {
+  try {
+    const response = await fetch(
+      "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/owner_draft_picks.json",
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) {
+      throw new Error(`HTTP error: ${response.status}`);
+    }
+
+    const ownerDraftPicks = await response.json();
+
+    const tableBody = document.getElementById(
+      "wbdw-owner-pick-ownership-body"
+    );
+
+    if (!tableBody) {
+      console.error(
+        "Could not find #wbdw-owner-pick-ownership-body"
+      );
+      return;
+    }
+
+    tableBody.innerHTML = "";
+
+    const myPicks = [];
+
+    // Go through every owner's list
+    for (const [currentOwner, picks] of Object.entries(ownerDraftPicks)) {
+      for (const pick of picks) {
+
+        // If there is a name in parentheses, that is
+        // the original owner of the pick.
+        const match = pick.pick.match(/\(([^)]+)\)/);
+
+        const originalOwner = match
+          ? match[1]
+          : currentOwner;
+
+        // We only care about picks originally belonging
+        // to the owner whose page we're displaying.
+        if (originalOwner === ownerName) {
+          myPicks.push({
+            year: pick.year,
+            round: pick.round,
+            currentOwner: currentOwner
+          });
+        }
+      }
+    }
+
+    // Sort chronologically by year, then round
+    myPicks.sort((a, b) => {
+      if (a.year !== b.year) {
+        return a.year - b.year;
+      }
+
+      return a.round - b.round;
+    });
+
+    // Create rows
+    myPicks.forEach((pick) => {
+      const row = document.createElement("div");
+      row.className = "wbdw-owner-pick-ownership-row";
+
+      const year = document.createElement("div");
+      year.textContent = pick.year;
+
+      const round = document.createElement("div");
+      round.textContent = pick.round;
+
+      const currentOwner = document.createElement("div");
+      currentOwner.textContent = pick.currentOwner;
+
+      row.appendChild(year);
+      row.appendChild(round);
+      row.appendChild(currentOwner);
+
+      tableBody.appendChild(row);
+    });
+
+  } catch (error) {
+    console.error("Error loading pick ownership:", error);
+  }
+}
+
+
 //Create table of individual rosters for each owner
 // ============================================================
 // INDIVIDUAL OWNER ROSTER
