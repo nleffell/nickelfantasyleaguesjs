@@ -35,12 +35,12 @@
         "TE Starter Rank": 8,
         "FLEX Starter Rank": 11,
         "Backup QB Rank": 3,
-        "projected_points": 2781.4,
+        "projected_points": 2785.4,
         "qb_proj": 289.0,
-        "rb_proj": 695.0,
+        "rb_proj": 697.0,
         "wr_proj": 649.2,
         "te_proj": 213.0,
-        "flex_proj": 935.2
+        "flex_proj": 937.2
     },
     {
         "Team": "Russini\u2019s Receipts",
@@ -121,12 +121,12 @@
         "TE Starter Rank": 2,
         "FLEX Starter Rank": 8,
         "Backup QB Rank": 10,
-        "projected_points": 2487.9,
+        "projected_points": 2490.3,
         "qb_proj": 299.6,
-        "rb_proj": 493.79999999999995,
+        "rb_proj": 495.0,
         "wr_proj": 646.6,
         "te_proj": 276.0,
-        "flex_proj": 771.9
+        "flex_proj": 773.1
     },
     {
         "Team": "Darts Inside",
@@ -164,12 +164,12 @@
         "TE Starter Rank": 4,
         "FLEX Starter Rank": 6,
         "Backup QB Rank": 9,
-        "projected_points": 2158.9,
+        "projected_points": 2159.1,
         "qb_proj": 311.7,
         "rb_proj": 426.2,
-        "wr_proj": 565.7,
+        "wr_proj": 565.8,
         "te_proj": 204.0,
-        "flex_proj": 651.3
+        "flex_proj": 651.4
     },
     {
         "Team": "Damn She Purdy",
@@ -217,11 +217,11 @@
     {
         "Team": "I\u2019m All En",
         "Owner": "TJ Pickeral",
-        "Overall Value": 44980.25,
+        "Overall Value": 44979.75,
         "Starter Value": 34482.75,
         "QB Value": 9221.25,
-        "RB Value": 5370.0,
-        "WR Value": 18428.0,
+        "RB Value": 5375.5,
+        "WR Value": 18422.0,
         "TE Value": 4470.75,
         "Draft Capital Value": 7490.25,
         "QB Starter Value": 7632.5,
@@ -232,8 +232,8 @@
         "Average Age": 26.7,
         "Starter Average Age": 26.6,
         "QB Average Age": 27.3,
-        "RB Average Age": 26.1,
-        "WR Average Age": 27.4,
+        "RB Average Age": 26.0,
+        "WR Average Age": 27.5,
         "TE Average Age": 26.4,
         "Top Valued Draft Pick": "2027 1st",
         "Backup QB Value": 7632.5,
@@ -293,9 +293,9 @@
         "TE Starter Rank": 12,
         "FLEX Starter Rank": 4,
         "Backup QB Rank": 4,
-        "projected_points": 2194.9,
+        "projected_points": 2193.0,
         "qb_proj": 285.4,
-        "rb_proj": 326.0,
+        "rb_proj": 324.1,
         "wr_proj": 717.5,
         "te_proj": 148.5,
         "flex_proj": 717.5
@@ -379,9 +379,9 @@
         "TE Starter Rank": 5,
         "FLEX Starter Rank": 3,
         "Backup QB Rank": 7,
-        "projected_points": 2691.7,
+        "projected_points": 2677.1,
         "qb_proj": 301.8,
-        "rb_proj": 509.8,
+        "rb_proj": 495.2,
         "wr_proj": 802.5,
         "te_proj": 221.0,
         "flex_proj": 856.5999999999999
@@ -422,12 +422,12 @@
         "TE Starter Rank": 1,
         "FLEX Starter Rank": 7,
         "Backup QB Rank": 11,
-        "projected_points": 2948.0,
+        "projected_points": 2949.0,
         "qb_proj": 314.5,
-        "rb_proj": 696.5,
-        "wr_proj": 731.0,
+        "rb_proj": 698.5,
+        "wr_proj": 729.0,
         "te_proj": 225.5,
-        "flex_proj": 980.5
+        "flex_proj": 981.5
     },
     {
         "Team": "Anyone Want Bijan?",
@@ -465,12 +465,12 @@
         "TE Starter Rank": 6,
         "FLEX Starter Rank": 1,
         "Backup QB Rank": 5,
-        "projected_points": 3079.2,
+        "projected_points": 3081.2,
         "qb_proj": 337.9,
-        "rb_proj": 720.0,
+        "rb_proj": 721.0,
         "wr_proj": 770.7,
         "te_proj": 235.6,
-        "flex_proj": 1015.0
+        "flex_proj": 1016.0
     },
     {
         "Team": "Good Morning Ladies",
