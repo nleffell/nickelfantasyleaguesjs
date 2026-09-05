@@ -4,9 +4,9 @@
     "maker": "Chad Hill",
     "bet": "Chad Hill to NOT finish last in the 2026 WBDW regular season standings.",
     "taker": "Nick Leffell",
-    "stake": 20,
-    "odds": 150,
-    "payout": 30,
+    "stake": 30,
+    "odds": -150,
+    "payout": 20,
     "status": "Pending",
     "winner": null
   },
