@@ -121,9 +121,9 @@
         "TE Starter Rank": 2,
         "FLEX Starter Rank": 8,
         "Backup QB Rank": 10,
-        "projected_points": 2490.3,
+        "projected_points": 2491.3,
         "qb_proj": 299.6,
-        "rb_proj": 495.0,
+        "rb_proj": 496.0,
         "wr_proj": 646.6,
         "te_proj": 276.0,
         "flex_proj": 773.1
@@ -207,12 +207,12 @@
         "TE Starter Rank": 9,
         "FLEX Starter Rank": 10,
         "Backup QB Rank": 6,
-        "projected_points": 2526.4,
+        "projected_points": 2512.4,
         "qb_proj": 313.4,
-        "rb_proj": 487.1,
+        "rb_proj": 480.1,
         "wr_proj": 745.2,
         "te_proj": 176.8,
-        "flex_proj": 803.9000000000001
+        "flex_proj": 796.9000000000001
     },
     {
         "Team": "I\u2019m All En",
@@ -465,12 +465,12 @@
         "TE Starter Rank": 6,
         "FLEX Starter Rank": 1,
         "Backup QB Rank": 5,
-        "projected_points": 3081.2,
+        "projected_points": 3093.2,
         "qb_proj": 337.9,
-        "rb_proj": 721.0,
+        "rb_proj": 727.0,
         "wr_proj": 770.7,
         "te_proj": 235.6,
-        "flex_proj": 1016.0
+        "flex_proj": 1022.0
     },
     {
         "Team": "Good Morning Ladies",
