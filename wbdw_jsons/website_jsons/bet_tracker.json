@@ -367,9 +367,9 @@
     "maker": "Nick Leffell",
     "bet": "James Madison makes the 2025 College Football Playoff.",
     "taker": "Chad Hill",
-    "stake": 50,
+    "stake": 25,
     "odds": 200,
-    "payout": 100,
+    "payout": 50,
     "status": "Settled",
     "winner": "Nick Leffell"
   },
