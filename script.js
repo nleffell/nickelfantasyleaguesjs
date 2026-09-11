@@ -3440,11 +3440,11 @@ async function createBetTracker() {
         row.appendChild(takerCell);
 
 
-        // Taker Potential Payout
-        const takerPayoutCell =
+        // Maker Potential Payout
+        const makerPayoutCell =
             document.createElement("td");
 
-        takerPayoutCell.textContent =
+        makerPayoutCell.textContent =
             formatMoney(bet.payout);
 
         if (bet.status === "Settled") {
@@ -3570,48 +3570,42 @@ async function createBetTracker() {
           // --------------------------------------------------
           // Maker wins
           //
-          // Maker gets stake
-          // Taker loses stake
+          // Maker gets payout
+          // Taker loses payout
           // --------------------------------------------------
 
-          if (
-            bet.winner === maker
-          ) {
+          if (bet.winner === maker) {
 
             records[maker].wins += 1;
 
             records[maker].net +=
-              stake;
+              payout;
 
             records[taker].losses += 1;
 
             records[taker].net -=
-              stake;
-
+              payout;
           }
 
 
           // --------------------------------------------------
           // Taker wins
           //
-          // Taker gets payout
-          // Maker loses payout
+          // Taker gets stake
+          // Maker loses stake
           // --------------------------------------------------
 
-          else if (
-            bet.winner === taker
-          ) {
+          else if (bet.winner === taker) {
 
             records[taker].wins += 1;
 
             records[taker].net +=
-              payout;
+              stake;
 
             records[maker].losses += 1;
 
             records[maker].net -=
-              payout;
-
+              stake;
           }
 
         });
