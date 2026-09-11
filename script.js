@@ -3403,7 +3403,7 @@ async function createBetTracker() {
             document.createElement("td");
 
         makerPayoutCell.textContent =
-            formatMoney(bet.stake);
+            formatMoney(bet.payout);
 
         if (bet.status === "Settled") {
 
@@ -3440,12 +3440,12 @@ async function createBetTracker() {
         row.appendChild(takerCell);
 
 
-        // Maker Potential Payout
-        const makerPayoutCell =
+        // Taker Potential Payout
+        const takerPayoutCell =
             document.createElement("td");
 
-        makerPayoutCell.textContent =
-            formatMoney(bet.payout);
+        takerPayoutCell.textContent =
+            formatMoney(bet.stake);
 
         if (bet.status === "Settled") {
 
