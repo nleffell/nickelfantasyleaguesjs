@@ -7,11 +7,6 @@
         },
         {
             "year": 2029,
-            "round": 1,
-            "pick": "TBD"
-        },
-        {
-            "year": 2029,
             "round": 2,
             "pick": "TBD"
         },
@@ -22,8 +17,18 @@
         },
         {
             "year": 2029,
+            "round": 3,
+            "pick": "TBD (Nick Leffell)"
+        },
+        {
+            "year": 2029,
             "round": 4,
             "pick": "TBD"
+        },
+        {
+            "year": 2029,
+            "round": 4,
+            "pick": "TBD (Nick Leffell)"
         },
         {
             "year": 2029,
@@ -162,6 +167,11 @@
         {
             "year": 2029,
             "round": 1,
+            "pick": "TBD (Nick Janowicz)"
+        },
+        {
+            "year": 2029,
+            "round": 1,
             "pick": "TBD (Tyler Smith)"
         },
         {
@@ -173,16 +183,6 @@
             "year": 2029,
             "round": 2,
             "pick": "TBD (Tyler Smith)"
-        },
-        {
-            "year": 2029,
-            "round": 3,
-            "pick": "TBD"
-        },
-        {
-            "year": 2029,
-            "round": 4,
-            "pick": "TBD"
         }
     ],
     "Chad Hill": [
