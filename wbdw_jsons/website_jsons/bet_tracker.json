@@ -1,12 +1,23 @@
 [
   {
+    "date": "2026-09-12",
+    "maker": "Jon Knicely",
+    "bet": "Jon Knicely to make the playoffs in 2026.",
+    "taker": "Nick Leffell",
+    "stake": 30,
+    "odds": 156,
+    "payout": 47,
+    "status": "Pending",
+    "winner": null
+  },
+  {
     "date": "2026-09-11",
     "maker": "Nick Janowicz",
     "bet": "Jon Knicely to make the playoffs in 2026.",
     "taker": "Nick Leffell",
     "stake": 20,
     "odds": 156,
-    "payout": 36,
+    "payout": 31,
     "status": "Pending",
     "winner": null
   },
