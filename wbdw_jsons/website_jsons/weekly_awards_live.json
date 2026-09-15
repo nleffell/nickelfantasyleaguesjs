@@ -1,0 +1,110 @@
+[
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 209,
+        "receiving_yards": 488,
+        "rushing_yards": 220,
+        "total_yards": 917,
+        "yet_to_play": 0,
+        "in_play": 1
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 178,
+        "receiving_yards": 540,
+        "rushing_yards": 195,
+        "total_yards": 913,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 203,
+        "receiving_yards": 242,
+        "rushing_yards": 435,
+        "total_yards": 880,
+        "yet_to_play": 0,
+        "in_play": 1
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 155,
+        "receiving_yards": 387,
+        "rushing_yards": 323,
+        "total_yards": 865,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 334,
+        "receiving_yards": 334,
+        "rushing_yards": 174,
+        "total_yards": 842,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 361,
+        "receiving_yards": 254,
+        "rushing_yards": 172,
+        "total_yards": 787,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 216,
+        "receiving_yards": 382,
+        "rushing_yards": 161,
+        "total_yards": 759,
+        "yet_to_play": 0,
+        "in_play": 1
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 230,
+        "receiving_yards": 268,
+        "rushing_yards": 251,
+        "total_yards": 749,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 175,
+        "receiving_yards": 308,
+        "rushing_yards": 263,
+        "total_yards": 746,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 164,
+        "receiving_yards": 288,
+        "rushing_yards": 280,
+        "total_yards": 732,
+        "yet_to_play": 0,
+        "in_play": 2
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 269,
+        "receiving_yards": 226,
+        "rushing_yards": 193,
+        "total_yards": 688,
+        "yet_to_play": 0,
+        "in_play": 0
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 254,
+        "receiving_yards": 217,
+        "rushing_yards": 60,
+        "total_yards": 531,
+        "yet_to_play": 0,
+        "in_play": 0
+    }
+]
