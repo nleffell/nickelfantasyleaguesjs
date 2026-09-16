@@ -5,7 +5,8 @@
         "team_name": "Good Morning Ladies",
         "record": "2-0",
         "points": "164",
-        "agg_record": "11-0-0"
+        "agg_record": "11-0-0",
+        "max_points_for": 183.46
     },
     {
         "place": "2nd",
@@ -13,7 +14,8 @@
         "team_name": "no team name",
         "record": "2-0",
         "points": "158",
-        "agg_record": "10-1-0"
+        "agg_record": "10-1-0",
+        "max_points_for": 194.9
     },
     {
         "place": "3rd",
@@ -21,7 +23,8 @@
         "team_name": "Ron Mexico ",
         "record": "2-0",
         "points": "157",
-        "agg_record": "9-2-0"
+        "agg_record": "9-2-0",
+        "max_points_for": 184.56
     },
     {
         "place": "4th",
@@ -29,7 +32,8 @@
         "team_name": "I\u2019m All En",
         "record": "2-0",
         "points": "153",
-        "agg_record": "8-3-0"
+        "agg_record": "8-3-0",
+        "max_points_for": 175.36
     },
     {
         "place": "5th",
@@ -37,7 +41,8 @@
         "team_name": "Grandpa and the Gang",
         "record": "2-0",
         "points": "150",
-        "agg_record": "7-4-0"
+        "agg_record": "7-4-0",
+        "max_points_for": 176.58
     },
     {
         "place": "6th",
@@ -45,7 +50,8 @@
         "team_name": "Anyone Want Bijan?",
         "record": "1-1",
         "points": "150",
-        "agg_record": "6-5-0"
+        "agg_record": "6-5-0",
+        "max_points_for": 152.02
     },
     {
         "place": "7th",
@@ -53,7 +59,8 @@
         "team_name": "Russini\u2019s Receipts",
         "record": "1-1",
         "points": "121",
-        "agg_record": "3-8-0"
+        "agg_record": "3-8-0",
+        "max_points_for": 134.74
     },
     {
         "place": "8th",
@@ -61,7 +68,8 @@
         "team_name": "Shough Around Find Out",
         "record": "0-2",
         "points": "125",
-        "agg_record": "5-6-0"
+        "agg_record": "5-6-0",
+        "max_points_for": 189.4
     },
     {
         "place": "9th",
@@ -69,7 +77,8 @@
         "team_name": "Teamy McTeamface",
         "record": "0-2",
         "points": "121",
-        "agg_record": "4-7-0"
+        "agg_record": "4-7-0",
+        "max_points_for": 137.7
     },
     {
         "place": "10th",
@@ -77,7 +86,8 @@
         "team_name": "Damn She Purdy",
         "record": "0-2",
         "points": "114",
-        "agg_record": "2-9-0"
+        "agg_record": "2-9-0",
+        "max_points_for": 140.26
     },
     {
         "place": "11th",
@@ -85,7 +95,8 @@
         "team_name": "Darts Inside",
         "record": "0-2",
         "points": "113",
-        "agg_record": "1-10-0"
+        "agg_record": "1-10-0",
+        "max_points_for": 135.7
     },
     {
         "place": "12th",
@@ -93,6 +104,7 @@
         "team_name": "Team Name Redacted",
         "record": "0-2",
         "points": "61",
-        "agg_record": "0-11-0"
+        "agg_record": "0-11-0",
+        "max_points_for": 100.06
     }
 ]
