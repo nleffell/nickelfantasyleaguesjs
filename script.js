@@ -45,6 +45,7 @@ async function createHomepageStandingsTable() {
         <th>Record</th>
         <th>Agg.*</th>
         <th>Points</th>
+        <th>Max Points</th>
       </tr>
     </thead>
 
@@ -104,13 +105,21 @@ async function createHomepageStandingsTable() {
       item.points;
 
 
+    const maxPointsCell =
+      document.createElement("td");
+
+    maxPointsCell.textContent =
+      item.max_points_for;
+
+
     row.append(
       placeCell,
       ownerCell,
       teamNameCell,
       recordCell,
       aggRecordCell,
-      pointsCell
+      pointsCell,
+      maxPointsCell
     );
 
 
@@ -127,7 +136,7 @@ async function createHomepageStandingsTable() {
     document.createElement("td");
 
 
-  noteCell.colSpan = 6;
+  noteCell.colSpan = 7;
 
 
   noteCell.textContent =
