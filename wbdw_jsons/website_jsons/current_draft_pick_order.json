@@ -43,32 +43,32 @@
     },
     {
         "pick": "8th",
-        "owner": "TJ Pickeral",
-        "team": "I\u2019m All En",
-        "max_possible_points": 175.36
-    },
-    {
-        "pick": "9th",
         "owner": "Tyler Smith",
         "team": "Grandpa and the Gang",
         "max_possible_points": 176.58
     },
     {
-        "pick": "10th",
-        "owner": "Victor Dankens",
-        "team": "Good Morning Ladies",
-        "max_possible_points": 183.46
+        "pick": "9th",
+        "owner": "TJ Pickeral",
+        "team": "I\u2019m All En",
+        "max_possible_points": 175.36
     },
     {
-        "pick": "11th",
+        "pick": "10th",
         "owner": "Kyle Nester",
         "team": "Ron Mexico ",
         "max_possible_points": 184.56
     },
     {
-        "pick": "12th",
+        "pick": "11th",
         "owner": "Ryan Shannon",
         "team": "no team name",
         "max_possible_points": 194.9
+    },
+    {
+        "pick": "12th",
+        "owner": "Victor Dankens",
+        "team": "Good Morning Ladies",
+        "max_possible_points": 183.46
     }
 ]
