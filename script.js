@@ -2,6 +2,182 @@
 
 
 // ============================================================
+// LIVE WEEKLY AWARD TRACKER
+// ============================================================
+async function createWeeklyLiveYardageTable() {
+
+    try {
+
+        const response = await fetch(
+            "https://scripts.nickelfantasyleagues.com/wbdw_jsons/website_jsons/weekly_awards_live.json",
+            { cache: "no-store" }
+        );
+
+        if (!response.ok) {
+            throw new Error(`HTTP error: ${response.status}`);
+        }
+
+        const data = await response.json();
+
+
+        const tableWrapper = document.querySelector(
+            ".wbdw-home-weekly-live-table-wrapper"
+        );
+
+        if (!tableWrapper) {
+            return;
+        }
+
+
+        /* Clear existing content */
+
+        tableWrapper.innerHTML = "";
+
+
+        /* Create table */
+
+        const table = document.createElement("table");
+
+        table.className = "table-wbdw-home-weekly-live";
+
+
+        /* Create table header */
+
+        const thead = document.createElement("thead");
+
+        const headerRow = document.createElement("tr");
+
+
+        const headers = [
+            "Owner",
+            "Passing Yards",
+            "Receiving Yards",
+            "Rushing Yards",
+            "Total Yards",
+            "Yet to Play",
+            "In Play"
+        ];
+
+
+        headers.forEach(header => {
+
+            const th = document.createElement("th");
+
+            th.textContent = header;
+
+            headerRow.appendChild(th);
+
+        });
+
+
+        thead.appendChild(headerRow);
+
+        table.appendChild(thead);
+
+
+        /* Create table body */
+
+        const tbody = document.createElement("tbody");
+
+
+        data.forEach(team => {
+
+            const row = document.createElement("tr");
+
+
+            /* Owner */
+
+            const ownerCell = document.createElement("td");
+
+            ownerCell.textContent = team.owner ?? "";
+
+            row.appendChild(ownerCell);
+
+
+            /* Passing Yards */
+
+            const passingCell = document.createElement("td");
+
+            passingCell.textContent = team.passing_yards ?? 0;
+
+            row.appendChild(passingCell);
+
+
+            /* Receiving Yards */
+
+            const receivingCell = document.createElement("td");
+
+            receivingCell.textContent = team.receiving_yards ?? 0;
+
+            row.appendChild(receivingCell);
+
+
+            /* Rushing Yards */
+
+            const rushingCell = document.createElement("td");
+
+            rushingCell.textContent = team.rushing_yards ?? 0;
+
+            row.appendChild(rushingCell);
+
+
+            /* Total Yards */
+
+            const totalCell = document.createElement("td");
+
+            totalCell.textContent = team.total_yards ?? 0;
+
+            row.appendChild(totalCell);
+
+
+            /* Yet to Play */
+
+            const yetToPlayCell = document.createElement("td");
+
+            yetToPlayCell.textContent =
+                Array.isArray(team.yet_to_play)
+                    ? team.yet_to_play.join(", ")
+                    : "";
+
+            row.appendChild(yetToPlayCell);
+
+
+            /* In Play */
+
+            const inPlayCell = document.createElement("td");
+
+            inPlayCell.textContent =
+                Array.isArray(team.in_play)
+                    ? team.in_play.join(", ")
+                    : "";
+
+            row.appendChild(inPlayCell);
+
+
+            tbody.appendChild(row);
+
+        });
+
+
+        table.appendChild(tbody);
+
+        tableWrapper.appendChild(table);
+
+
+    } catch (error) {
+
+        console.error(
+            "Error loading weekly live yardage table:",
+            error
+        );
+
+    }
+
+}
+
+
+
+// ============================================================
 // CURRENT STANDINGS
 // ============================================================
 
