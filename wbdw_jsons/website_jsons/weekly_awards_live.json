@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 200,
-        "receiving_yards": 284,
-        "rushing_yards": 134,
-        "total_yards": 618,
+        "passing_yards": 227,
+        "receiving_yards": 305,
+        "rushing_yards": 137,
+        "total_yards": 669,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -20,10 +20,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 207,
-        "receiving_yards": 306,
+        "passing_yards": 214,
+        "receiving_yards": 319,
         "rushing_yards": 42,
-        "total_yards": 555,
+        "total_yards": 575,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -42,8 +42,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 84,
         "receiving_yards": 185,
-        "rushing_yards": 260,
-        "total_yards": 529,
+        "rushing_yards": 264,
+        "total_yards": 533,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -61,10 +61,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 167,
-        "receiving_yards": 80,
-        "rushing_yards": 206,
-        "total_yards": 453,
+        "passing_yards": 180,
+        "receiving_yards": 90,
+        "rushing_yards": 207,
+        "total_yards": 477,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -83,8 +83,8 @@
         "owner": "Chad Hill",
         "passing_yards": 275,
         "receiving_yards": 133,
-        "rushing_yards": 40,
-        "total_yards": 448,
+        "rushing_yards": 41,
+        "total_yards": 449,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -103,9 +103,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 53,
-        "rushing_yards": 132,
-        "total_yards": 433,
+        "receiving_yards": 59,
+        "rushing_yards": 131,
+        "total_yards": 438,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -185,8 +185,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 20,
-        "rushing_yards": 108,
-        "total_yards": 128,
+        "rushing_yards": 110,
+        "total_yards": 130,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
