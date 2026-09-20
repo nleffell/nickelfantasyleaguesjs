@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 38,
-        "rushing_yards": 94,
-        "total_yards": 380,
+        "rushing_yards": 99,
+        "total_yards": 385,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -20,10 +20,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 55,
+        "passing_yards": 57,
         "receiving_yards": 180,
         "rushing_yards": 9,
-        "total_yards": 244,
+        "total_yards": 246,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -60,9 +60,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 44,
-        "receiving_yards": 4,
+        "receiving_yards": 18,
         "rushing_yards": 138,
-        "total_yards": 186,
+        "total_yards": 200,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -78,11 +78,32 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 11,
+        "receiving_yards": 18,
+        "rushing_yards": 120,
+        "total_yards": 149,
+        "yet_to_play": [
+            "Marvin Harrison"
+        ],
+        "in_play": [
+            "Caleb Williams",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jalen Coker",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Dallas Goedert",
+            "Kalif Raymond",
+            "TreVeyon Henderson"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 46,
-        "receiving_yards": 61,
+        "receiving_yards": 68,
         "rushing_yards": 7,
-        "total_yards": 114,
+        "total_yards": 121,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -101,9 +122,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 73,
+        "receiving_yards": 77,
         "rushing_yards": 3,
-        "total_yards": 76,
+        "total_yards": 80,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -119,32 +140,31 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 7,
-        "receiving_yards": 18,
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 22,
         "rushing_yards": 30,
-        "total_yards": 55,
+        "total_yards": 52,
         "yet_to_play": [
-            "Marvin Harrison"
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Davante Adams",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jakobi Meyers",
+            "Travis Kelce"
         ],
         "in_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jalen Coker",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Dallas Goedert",
-            "Kalif Raymond",
-            "TreVeyon Henderson"
+            "Derrick Henry",
+            "Tony Pollard"
         ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 9,
         "receiving_yards": 31,
-        "rushing_yards": 0,
-        "total_yards": 40,
+        "rushing_yards": 5,
+        "total_yards": 45,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -158,26 +178,6 @@
             "Garrett Wilson",
             "Ja'Marr Chase",
             "Mark Andrews"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 20,
-        "rushing_yards": 10,
-        "total_yards": 30,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Davante Adams",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jakobi Meyers",
-            "Travis Kelce"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "Tony Pollard"
         ]
     },
     {
@@ -204,9 +204,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 11,
-        "rushing_yards": -1,
-        "total_yards": 10,
+        "receiving_yards": 12,
+        "rushing_yards": 4,
+        "total_yards": 16,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
