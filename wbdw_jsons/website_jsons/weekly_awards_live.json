@@ -2,22 +2,21 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 353,
-        "receiving_yards": 496,
+        "receiving_yards": 502,
         "rushing_yards": 153,
-        "total_yards": 1002,
+        "total_yards": 1008,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Chris Godwin"
+            "Jaxon Smith-Njigba"
         ]
     },
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
         "receiving_yards": 429,
-        "rushing_yards": 225,
-        "total_yards": 889,
+        "rushing_yards": 224,
+        "total_yards": 888,
         "yet_to_play": [],
         "in_play": [
             "De'Von Achane",
@@ -36,7 +35,6 @@
             "Alec Pierce"
         ],
         "in_play": [
-            "Baker Mayfield",
             "Jaylen Waddle",
             "Mike Evans",
             "Terry McLaurin"
@@ -50,7 +48,6 @@
         "total_yards": 681,
         "yet_to_play": [],
         "in_play": [
-            "Quinshon Judkins",
             "Stefon Diggs",
             "CeeDee Lamb",
             "Deebo Samuel",
@@ -65,7 +62,6 @@
         "total_yards": 677,
         "yet_to_play": [],
         "in_play": [
-            "Bucky Irving",
             "Marvin Harrison"
         ]
     },
@@ -108,22 +104,20 @@
         "in_play": [
             "Omarion Hampton",
             "Parker Washington",
-            "Harold Fannin",
             "Tre Tucker"
         ]
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 172,
+        "passing_yards": 190,
         "receiving_yards": 232,
         "rushing_yards": 94,
-        "total_yards": 498,
+        "total_yards": 516,
         "yet_to_play": [
             "Cam Skattebo"
         ],
         "in_play": [
             "Dak Prescott",
-            "KC Concepcion",
             "Quentin Johnston",
             "Jake Ferguson",
             "Malik Washington",
@@ -151,9 +145,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 99,
+        "receiving_yards": 109,
         "rushing_yards": 223,
-        "total_yards": 418,
+        "total_yards": 428,
         "yet_to_play": [
             "Davante Adams",
             "Isaiah Likely",
@@ -169,15 +163,14 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 207,
-        "receiving_yards": 95,
+        "receiving_yards": 107,
         "rushing_yards": 27,
-        "total_yards": 329,
+        "total_yards": 341,
         "yet_to_play": [
             "Malik Nabers"
         ],
         "in_play": [
             "George Pickens",
-            "Emeka Egbuka",
             "Michael Mayer",
             "Antonio Williams",
             "Chris Bell"
