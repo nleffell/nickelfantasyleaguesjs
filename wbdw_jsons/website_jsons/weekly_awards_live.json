@@ -14,9 +14,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 419,
-        "rushing_yards": 114,
-        "total_yards": 768,
+        "receiving_yards": 416,
+        "rushing_yards": 141,
+        "total_yards": 792,
         "yet_to_play": [],
         "in_play": [
             "De'Von Achane",
@@ -46,9 +46,7 @@
             "Josh Downs",
             "Kenneth Walker"
         ],
-        "in_play": [
-            "Tucker Kraft"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -67,13 +65,12 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 287,
-        "receiving_yards": 227,
+        "receiving_yards": 233,
         "rushing_yards": 66,
-        "total_yards": 580,
+        "total_yards": 586,
         "yet_to_play": [],
         "in_play": [
             "Jeremiyah Love",
-            "Adonai Mitchell",
             "Demarcus Robinson",
             "George Holani"
         ]
@@ -90,7 +87,6 @@
         ],
         "in_play": [
             "Jaylen Waddle",
-            "Garrett Wilson",
             "Mike Evans",
             "Terry McLaurin"
         ]
@@ -98,15 +94,14 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 101,
-        "receiving_yards": 154,
+        "receiving_yards": 171,
         "rushing_yards": 90,
-        "total_yards": 345,
+        "total_yards": 362,
         "yet_to_play": [
             "Cam Skattebo"
         ],
         "in_play": [
             "Dak Prescott",
-            "Breece Hall",
             "Quentin Johnston",
             "Jake Ferguson",
             "Malik Washington",
@@ -116,9 +111,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 237,
+        "receiving_yards": 269,
         "rushing_yards": 62,
-        "total_yards": 299,
+        "total_yards": 331,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -139,7 +134,6 @@
             "Malik Nabers"
         ],
         "in_play": [
-            "Braelon Allen",
             "George Pickens",
             "Michael Mayer",
             "Antonio Williams",
@@ -150,8 +144,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 29,
         "receiving_yards": 190,
-        "rushing_yards": 17,
-        "total_yards": 236,
+        "rushing_yards": 16,
+        "total_yards": 235,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
@@ -160,8 +154,6 @@
             "Justin Herbert",
             "Ashton Jeanty",
             "Jadarian Price",
-            "Matthew Golden",
-            "Christian Watson",
             "Ladd McConkey",
             "Caleb Douglas"
         ]
