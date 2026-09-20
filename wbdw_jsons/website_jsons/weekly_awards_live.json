@@ -21,10 +21,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 118,
-        "receiving_yards": 214,
-        "rushing_yards": 85,
-        "total_yards": 417,
+        "passing_yards": 152,
+        "receiving_yards": 213,
+        "rushing_yards": 88,
+        "total_yards": 453,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -58,6 +58,27 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 53,
+        "receiving_yards": 130,
+        "rushing_yards": 182,
+        "total_yards": 365,
+        "yet_to_play": [
+            "Marvin Harrison"
+        ],
+        "in_play": [
+            "Caleb Williams",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jalen Coker",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Dallas Goedert",
+            "Kalif Raymond",
+            "TreVeyon Henderson"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 141,
         "receiving_yards": 34,
@@ -75,27 +96,6 @@
             "Tucker Kraft",
             "Chase Brown",
             "Saquon Barkley"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 54,
-        "receiving_yards": 130,
-        "rushing_yards": 165,
-        "total_yards": 349,
-        "yet_to_play": [
-            "Marvin Harrison"
-        ],
-        "in_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jalen Coker",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Dallas Goedert",
-            "Kalif Raymond",
-            "TreVeyon Henderson"
         ]
     },
     {
@@ -123,8 +123,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 35,
         "receiving_yards": 87,
-        "rushing_yards": 34,
-        "total_yards": 156,
+        "rushing_yards": 40,
+        "total_yards": 162,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -164,9 +164,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 117,
+        "receiving_yards": 130,
         "rushing_yards": 5,
-        "total_yards": 122,
+        "total_yards": 135,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -185,8 +185,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 23,
-        "rushing_yards": 66,
-        "total_yards": 89,
+        "rushing_yards": 70,
+        "total_yards": 93,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
