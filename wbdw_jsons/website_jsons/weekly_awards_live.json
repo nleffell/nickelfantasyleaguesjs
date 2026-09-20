@@ -21,9 +21,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 138,
-        "receiving_yards": 226,
-        "rushing_yards": 268,
-        "total_yards": 632,
+        "receiving_yards": 227,
+        "rushing_yards": 273,
+        "total_yards": 638,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -42,9 +42,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 214,
-        "receiving_yards": 369,
+        "receiving_yards": 375,
         "rushing_yards": 46,
-        "total_yards": 629,
+        "total_yards": 635,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -80,11 +80,30 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 248,
+        "receiving_yards": 114,
+        "rushing_yards": 138,
+        "total_yards": 500,
+        "yet_to_play": [
+            "Stefon Diggs",
+            "CeeDee Lamb",
+            "Deebo Samuel",
+            "Jacory Croskey-Merritt"
+        ],
+        "in_play": [
+            "Quinshon Judkins",
+            "David Montgomery",
+            "Colston Loveland",
+            "Jaylen Warren"
+        ]
+    },
+    {
         "owner": "Chad Hill",
-        "passing_yards": 274,
-        "receiving_yards": 133,
+        "passing_yards": 287,
+        "receiving_yards": 153,
         "rushing_yards": 59,
-        "total_yards": 466,
+        "total_yards": 499,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -101,30 +120,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 248,
-        "receiving_yards": 79,
-        "rushing_yards": 138,
-        "total_yards": 465,
-        "yet_to_play": [
-            "Stefon Diggs",
-            "CeeDee Lamb",
-            "Deebo Samuel",
-            "Jacory Croskey-Merritt"
-        ],
-        "in_play": [
-            "Quinshon Judkins",
-            "David Montgomery",
-            "Colston Loveland",
-            "Jaylen Warren"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 164,
-        "receiving_yards": 152,
+        "receiving_yards": 157,
         "rushing_yards": 98,
-        "total_yards": 414,
+        "total_yards": 419,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 202,
+        "passing_yards": 207,
         "receiving_yards": 44,
         "rushing_yards": 28,
-        "total_yards": 274,
+        "total_yards": 279,
         "yet_to_play": [
             "George Pickens",
             "Malik Nabers",
