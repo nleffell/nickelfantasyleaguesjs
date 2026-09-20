@@ -25,6 +25,20 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 248,
+        "receiving_yards": 260,
+        "rushing_yards": 168,
+        "total_yards": 676,
+        "yet_to_play": [],
+        "in_play": [
+            "Stefon Diggs",
+            "CeeDee Lamb",
+            "Deebo Samuel",
+            "Jacory Croskey-Merritt"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 138,
         "receiving_yards": 227,
@@ -33,20 +47,6 @@
         "yet_to_play": [],
         "in_play": [
             "Marvin Harrison"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 248,
-        "receiving_yards": 239,
-        "rushing_yards": 168,
-        "total_yards": 655,
-        "yet_to_play": [],
-        "in_play": [
-            "Stefon Diggs",
-            "CeeDee Lamb",
-            "Deebo Samuel",
-            "Jacory Croskey-Merritt"
         ]
     },
     {
@@ -78,9 +78,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 311,
+        "receiving_yards": 328,
         "rushing_yards": 98,
-        "total_yards": 585,
+        "total_yards": 602,
         "yet_to_play": [
             "Kyren Williams",
             "Alec Pierce"
@@ -94,9 +94,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 437,
+        "receiving_yards": 446,
         "rushing_yards": 130,
-        "total_yards": 567,
+        "total_yards": 576,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -128,8 +128,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 145,
         "receiving_yards": 220,
-        "rushing_yards": 48,
-        "total_yards": 413,
+        "rushing_yards": 61,
+        "total_yards": 426,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
@@ -146,8 +146,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 96,
         "receiving_yards": 73,
-        "rushing_yards": 218,
-        "total_yards": 387,
+        "rushing_yards": 222,
+        "total_yards": 391,
         "yet_to_play": [
             "Davante Adams",
             "Isaiah Likely",
