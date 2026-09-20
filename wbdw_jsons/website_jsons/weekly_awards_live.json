@@ -6,9 +6,7 @@
         "rushing_yards": 170,
         "total_yards": 1062,
         "yet_to_play": [],
-        "in_play": [
-            "Javonte Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -26,11 +24,7 @@
         "rushing_yards": 190,
         "total_yards": 790,
         "yet_to_play": [],
-        "in_play": [
-            "Stefon Diggs",
-            "CeeDee Lamb",
-            "Jacory Croskey-Merritt"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -42,9 +36,7 @@
             "Kyren Williams",
             "Alec Pierce"
         ],
-        "in_play": [
-            "Terry McLaurin"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -73,10 +65,7 @@
         "yet_to_play": [
             "Cam Skattebo"
         ],
-        "in_play": [
-            "Dak Prescott",
-            "Jake Ferguson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -126,9 +115,7 @@
             "Isaiah Likely",
             "Travis Kelce"
         ],
-        "in_play": [
-            "Jayden Daniels"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -139,9 +126,6 @@
         "yet_to_play": [
             "Malik Nabers"
         ],
-        "in_play": [
-            "George Pickens",
-            "Antonio Williams"
-        ]
+        "in_play": []
     }
 ]
