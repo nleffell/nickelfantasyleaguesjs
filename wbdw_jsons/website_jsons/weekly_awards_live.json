@@ -14,9 +14,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 416,
-        "rushing_yards": 152,
-        "total_yards": 803,
+        "receiving_yards": 423,
+        "rushing_yards": 153,
+        "total_yards": 811,
         "yet_to_play": [],
         "in_play": [
             "De'Von Achane",
@@ -49,6 +49,20 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 248,
+        "receiving_yards": 212,
+        "rushing_yards": 150,
+        "total_yards": 610,
+        "yet_to_play": [],
+        "in_play": [
+            "Stefon Diggs",
+            "CeeDee Lamb",
+            "Deebo Samuel",
+            "Jacory Croskey-Merritt"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 287,
         "receiving_yards": 234,
@@ -62,25 +76,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 248,
-        "receiving_yards": 212,
-        "rushing_yards": 142,
-        "total_yards": 602,
-        "yet_to_play": [],
-        "in_play": [
-            "Stefon Diggs",
-            "CeeDee Lamb",
-            "Deebo Samuel",
-            "Jacory Croskey-Merritt"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 225,
+        "receiving_yards": 274,
         "rushing_yards": 98,
-        "total_yards": 499,
+        "total_yards": 548,
         "yet_to_play": [
             "Kyren Williams",
             "Alec Pierce"
@@ -95,8 +95,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 322,
-        "rushing_yards": 64,
-        "total_yards": 386,
+        "rushing_yards": 69,
+        "total_yards": 391,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -110,9 +110,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 101,
-        "receiving_yards": 176,
+        "receiving_yards": 178,
         "rushing_yards": 90,
-        "total_yards": 367,
+        "total_yards": 369,
         "yet_to_play": [
             "Cam Skattebo"
         ],
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 53,
+        "passing_yards": 52,
         "receiving_yards": 55,
-        "rushing_yards": 144,
-        "total_yards": 252,
+        "rushing_yards": 162,
+        "total_yards": 269,
         "yet_to_play": [
             "Davante Adams",
             "Isaiah Likely",
