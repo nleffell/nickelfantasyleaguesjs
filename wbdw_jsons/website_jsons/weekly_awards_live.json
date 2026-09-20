@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 227,
-        "receiving_yards": 305,
-        "rushing_yards": 137,
-        "total_yards": 669,
+        "receiving_yards": 341,
+        "rushing_yards": 140,
+        "total_yards": 708,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -16,6 +16,27 @@
             "D'Andre Swift",
             "Kayshon Boutte",
             "Chris Godwin"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 138,
+        "receiving_yards": 185,
+        "rushing_yards": 264,
+        "total_yards": 587,
+        "yet_to_play": [
+            "Marvin Harrison"
+        ],
+        "in_play": [
+            "Caleb Williams",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jalen Coker",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Dallas Goedert",
+            "Kalif Raymond",
+            "TreVeyon Henderson"
         ]
     },
     {
@@ -39,32 +60,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 84,
-        "receiving_yards": 185,
-        "rushing_yards": 264,
-        "total_yards": 533,
-        "yet_to_play": [
-            "Marvin Harrison"
-        ],
-        "in_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jalen Coker",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Dallas Goedert",
-            "Kalif Raymond",
-            "TreVeyon Henderson"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 180,
-        "receiving_yards": 90,
-        "rushing_yards": 207,
-        "total_yards": 477,
+        "passing_yards": 203,
+        "receiving_yards": 105,
+        "rushing_yards": 212,
+        "total_yards": 520,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -81,9 +81,9 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 275,
+        "passing_yards": 274,
         "receiving_yards": 133,
-        "rushing_yards": 41,
+        "rushing_yards": 42,
         "total_yards": 449,
         "yet_to_play": [
             "Jeremiyah Love",
@@ -103,9 +103,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 59,
-        "rushing_yards": 131,
-        "total_yards": 438,
+        "receiving_yards": 72,
+        "rushing_yards": 128,
+        "total_yards": 448,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -164,9 +164,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 155,
+        "receiving_yards": 162,
         "rushing_yards": 43,
-        "total_yards": 198,
+        "total_yards": 205,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -179,6 +179,27 @@
             "Carnell Tate",
             "Devaughn Vele",
             "Harold Fannin"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 94,
+        "rushing_yards": 71,
+        "total_yards": 165,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Quentin Johnston",
+            "Jake Ferguson",
+            "Cam Skattebo",
+            "Malik Washington",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Breece Hall",
+            "KC Concepcion",
+            "Jaylin Noel"
         ]
     },
     {
@@ -202,32 +223,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 51,
-        "rushing_yards": 68,
-        "total_yards": 119,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Quentin Johnston",
-            "Jake Ferguson",
-            "Cam Skattebo",
-            "Malik Washington",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Breece Hall",
-            "KC Concepcion",
-            "Jaylin Noel"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 109,
+        "receiving_yards": 124,
         "rushing_yards": 0,
-        "total_yards": 109,
+        "total_yards": 124,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
