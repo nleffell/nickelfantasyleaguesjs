@@ -3,8 +3,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 182,
         "receiving_yards": 231,
-        "rushing_yards": 88,
-        "total_yards": 501,
+        "rushing_yards": 100,
+        "total_yards": 513,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -21,9 +21,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 171,
-        "receiving_yards": 275,
+        "receiving_yards": 306,
         "rushing_yards": 30,
-        "total_yards": 476,
+        "total_yards": 507,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -58,11 +58,31 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 154,
+        "receiving_yards": 63,
+        "rushing_yards": 185,
+        "total_yards": 402,
+        "yet_to_play": [
+            "Jonathan Taylor",
+            "Josh Downs",
+            "Kenneth Walker"
+        ],
+        "in_play": [
+            "Jalen Hurts",
+            "Drake London",
+            "Rome Odunze",
+            "Tucker Kraft",
+            "Chase Brown",
+            "Saquon Barkley"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 60,
-        "receiving_yards": 140,
+        "receiving_yards": 143,
         "rushing_yards": 194,
-        "total_yards": 394,
+        "total_yards": 397,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -79,31 +99,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 141,
-        "receiving_yards": 63,
-        "rushing_yards": 185,
-        "total_yards": 389,
-        "yet_to_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Kenneth Walker"
-        ],
-        "in_play": [
-            "Jalen Hurts",
-            "Drake London",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "Chase Brown",
-            "Saquon Barkley"
-        ]
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 139,
-        "receiving_yards": 131,
+        "passing_yards": 204,
+        "receiving_yards": 132,
         "rushing_yards": 20,
-        "total_yards": 290,
+        "total_yards": 356,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -143,9 +143,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 129,
-        "receiving_yards": 20,
-        "rushing_yards": 28,
-        "total_yards": 177,
+        "receiving_yards": 27,
+        "rushing_yards": 27,
+        "total_yards": 183,
         "yet_to_play": [
             "George Pickens",
             "Malik Nabers",
