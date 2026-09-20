@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 227,
-        "receiving_yards": 355,
+        "passing_yards": 258,
+        "receiving_yards": 356,
         "rushing_yards": 140,
-        "total_yards": 722,
+        "total_yards": 754,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -21,9 +21,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 138,
-        "receiving_yards": 208,
-        "rushing_yards": 263,
-        "total_yards": 609,
+        "receiving_yards": 226,
+        "rushing_yards": 268,
+        "total_yards": 632,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -42,9 +42,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 214,
-        "receiving_yards": 319,
+        "receiving_yards": 369,
         "rushing_yards": 46,
-        "total_yards": 579,
+        "total_yards": 629,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -83,8 +83,8 @@
         "owner": "Chad Hill",
         "passing_yards": 274,
         "receiving_yards": 133,
-        "rushing_yards": 42,
-        "total_yards": 449,
+        "rushing_yards": 59,
+        "total_yards": 466,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -103,9 +103,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 73,
-        "rushing_yards": 127,
-        "total_yards": 448,
+        "receiving_yards": 79,
+        "rushing_yards": 138,
+        "total_yards": 465,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -121,10 +121,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 161,
+        "passing_yards": 164,
         "receiving_yards": 152,
         "rushing_yards": 98,
-        "total_yards": 411,
+        "total_yards": 414,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -164,9 +164,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 167,
+        "receiving_yards": 179,
         "rushing_yards": 47,
-        "total_yards": 214,
+        "total_yards": 226,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -184,9 +184,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 94,
-        "rushing_yards": 71,
-        "total_yards": 165,
+        "receiving_yards": 125,
+        "rushing_yards": 72,
+        "total_yards": 197,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
