@@ -19,6 +19,26 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 235,
+        "receiving_yards": 379,
+        "rushing_yards": 59,
+        "total_yards": 673,
+        "yet_to_play": [
+            "De'Von Achane",
+            "J.K. Dobbins",
+            "Bhayshul Tuten"
+        ],
+        "in_play": [
+            "Lamar Jackson",
+            "Travis Etienne",
+            "Justin Jefferson",
+            "DeVonta Smith",
+            "Juwan Johnson",
+            "DK Metcalf"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 138,
         "receiving_yards": 227,
@@ -40,31 +60,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 214,
-        "receiving_yards": 375,
-        "rushing_yards": 46,
-        "total_yards": 635,
-        "yet_to_play": [
-            "De'Von Achane",
-            "J.K. Dobbins",
-            "Bhayshul Tuten"
-        ],
-        "in_play": [
-            "Lamar Jackson",
-            "Travis Etienne",
-            "Justin Jefferson",
-            "DeVonta Smith",
-            "Juwan Johnson",
-            "DK Metcalf"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 203,
+        "passing_yards": 207,
         "receiving_yards": 105,
-        "rushing_yards": 217,
-        "total_yards": 525,
+        "rushing_yards": 232,
+        "total_yards": 544,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -77,6 +77,27 @@
             "Tucker Kraft",
             "Chase Brown",
             "Saquon Barkley"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 287,
+        "receiving_yards": 161,
+        "rushing_yards": 59,
+        "total_yards": 507,
+        "yet_to_play": [
+            "Jeremiyah Love",
+            "Demarcus Robinson",
+            "George Holani"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Chuba Hubbard",
+            "Luther Burden",
+            "Adonai Mitchell",
+            "Dontayvion Wicks",
+            "T.J. Hockenson",
+            "DeMario Douglas"
         ]
     },
     {
@@ -99,32 +120,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 287,
-        "receiving_yards": 152,
-        "rushing_yards": 59,
-        "total_yards": 498,
-        "yet_to_play": [
-            "Jeremiyah Love",
-            "Demarcus Robinson",
-            "George Holani"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Chuba Hubbard",
-            "Luther Burden",
-            "Adonai Mitchell",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "DeMario Douglas"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
-        "passing_yards": 164,
-        "receiving_yards": 157,
+        "passing_yards": 168,
+        "receiving_yards": 171,
         "rushing_yards": 98,
-        "total_yards": 419,
+        "total_yards": 437,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -185,8 +185,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 125,
-        "rushing_yards": 73,
-        "total_yards": 198,
+        "rushing_yards": 75,
+        "total_yards": 200,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
@@ -200,6 +200,27 @@
             "Breece Hall",
             "KC Concepcion",
             "Jaylin Noel"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 167,
+        "rushing_yards": 0,
+        "total_yards": 167,
+        "yet_to_play": [
+            "Justin Herbert",
+            "Ashton Jeanty",
+            "Jadarian Price",
+            "Rashee Rice",
+            "Tyler Warren",
+            "Ladd McConkey",
+            "Caleb Douglas"
+        ],
+        "in_play": [
+            "Matthew Golden",
+            "Christian Watson",
+            "Chris Olave"
         ]
     },
     {
@@ -220,27 +241,6 @@
         "in_play": [
             "Derrick Henry",
             "Tony Pollard"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 146,
-        "rushing_yards": 0,
-        "total_yards": 146,
-        "yet_to_play": [
-            "Justin Herbert",
-            "Ashton Jeanty",
-            "Jadarian Price",
-            "Rashee Rice",
-            "Tyler Warren",
-            "Ladd McConkey",
-            "Caleb Douglas"
-        ],
-        "in_play": [
-            "Matthew Golden",
-            "Christian Watson",
-            "Chris Olave"
         ]
     }
 ]
