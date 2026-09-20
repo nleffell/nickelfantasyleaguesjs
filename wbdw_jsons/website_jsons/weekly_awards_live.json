@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 282,
+        "passing_yards": 290,
         "receiving_yards": 364,
         "rushing_yards": 140,
-        "total_yards": 786,
+        "total_yards": 794,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -39,8 +39,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 138,
         "receiving_yards": 227,
-        "rushing_yards": 304,
-        "total_yards": 669,
+        "rushing_yards": 303,
+        "total_yards": 668,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -60,8 +60,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 264,
         "receiving_yards": 126,
-        "rushing_yards": 236,
-        "total_yards": 626,
+        "rushing_yards": 237,
+        "total_yards": 627,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -160,9 +160,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 193,
+        "receiving_yards": 208,
         "rushing_yards": 47,
-        "total_yards": 240,
+        "total_yards": 255,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
