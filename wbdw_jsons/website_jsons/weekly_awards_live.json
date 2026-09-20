@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 353,
-        "receiving_yards": 372,
-        "rushing_yards": 140,
-        "total_yards": 865,
+        "receiving_yards": 454,
+        "rushing_yards": 142,
+        "total_yards": 949,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -14,9 +14,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 413,
-        "rushing_yards": 97,
-        "total_yards": 745,
+        "receiving_yards": 419,
+        "rushing_yards": 105,
+        "total_yards": 759,
         "yet_to_play": [],
         "in_play": [
             "De'Von Achane",
@@ -53,9 +53,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 287,
-        "receiving_yards": 218,
-        "rushing_yards": 59,
-        "total_yards": 564,
+        "receiving_yards": 227,
+        "rushing_yards": 62,
+        "total_yards": 576,
         "yet_to_play": [
             "Jeremiyah Love",
             "George Holani"
@@ -68,9 +68,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 131,
+        "receiving_yards": 159,
         "rushing_yards": 143,
-        "total_yards": 522,
+        "total_yards": 550,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -83,9 +83,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 192,
+        "receiving_yards": 191,
         "rushing_yards": 98,
-        "total_yards": 466,
+        "total_yards": 465,
         "yet_to_play": [
             "Kyren Williams",
             "Terry McLaurin",
@@ -132,10 +132,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 27,
+        "passing_yards": 53,
         "receiving_yards": 141,
-        "rushing_yards": 79,
-        "total_yards": 247,
+        "rushing_yards": 90,
+        "total_yards": 284,
         "yet_to_play": [
             "Dak Prescott",
             "Jake Ferguson",
@@ -151,9 +151,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 29,
-        "receiving_yards": 177,
+        "receiving_yards": 191,
         "rushing_yards": 16,
-        "total_yards": 222,
+        "total_yards": 236,
         "yet_to_play": [
             "Jadarian Price",
             "Rashee Rice",
