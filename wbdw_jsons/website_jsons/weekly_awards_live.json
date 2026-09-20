@@ -36,6 +36,19 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 287,
+        "receiving_yards": 270,
+        "rushing_yards": 82,
+        "total_yards": 639,
+        "yet_to_play": [],
+        "in_play": [
+            "Jeremiyah Love",
+            "Demarcus Robinson",
+            "George Holani"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 264,
         "receiving_yards": 126,
@@ -49,24 +62,11 @@
         "in_play": []
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 287,
-        "receiving_yards": 250,
-        "rushing_yards": 82,
-        "total_yards": 619,
-        "yet_to_play": [],
-        "in_play": [
-            "Jeremiyah Love",
-            "Demarcus Robinson",
-            "George Holani"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 212,
-        "rushing_yards": 159,
-        "total_yards": 619,
+        "rushing_yards": 158,
+        "total_yards": 618,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -78,9 +78,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 274,
+        "receiving_yards": 295,
         "rushing_yards": 98,
-        "total_yards": 548,
+        "total_yards": 569,
         "yet_to_play": [
             "Kyren Williams",
             "Alec Pierce"
@@ -109,10 +109,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 101,
-        "receiving_yards": 176,
+        "passing_yards": 148,
+        "receiving_yards": 187,
         "rushing_yards": 90,
-        "total_yards": 367,
+        "total_yards": 425,
         "yet_to_play": [
             "Cam Skattebo"
         ],
@@ -125,11 +125,27 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 207,
+        "receiving_yards": 85,
+        "rushing_yards": 27,
+        "total_yards": 319,
+        "yet_to_play": [
+            "Malik Nabers"
+        ],
+        "in_play": [
+            "George Pickens",
+            "Michael Mayer",
+            "Antonio Williams",
+            "Chris Bell"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 66,
         "receiving_yards": 209,
-        "rushing_yards": 16,
-        "total_yards": 291,
+        "rushing_yards": 37,
+        "total_yards": 312,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
@@ -143,27 +159,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 207,
-        "receiving_yards": 56,
-        "rushing_yards": 27,
-        "total_yards": 290,
-        "yet_to_play": [
-            "Malik Nabers"
-        ],
-        "in_play": [
-            "George Pickens",
-            "Michael Mayer",
-            "Antonio Williams",
-            "Chris Bell"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 65,
         "receiving_yards": 55,
-        "rushing_yards": 166,
-        "total_yards": 286,
+        "rushing_yards": 168,
+        "total_yards": 288,
         "yet_to_play": [
             "Davante Adams",
             "Isaiah Likely",
