@@ -15,8 +15,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 235,
         "receiving_yards": 429,
-        "rushing_yards": 168,
-        "total_yards": 832,
+        "rushing_yards": 203,
+        "total_yards": 867,
         "yet_to_play": [],
         "in_play": [
             "De'Von Achane",
@@ -36,6 +36,20 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 248,
+        "receiving_yards": 231,
+        "rushing_yards": 168,
+        "total_yards": 647,
+        "yet_to_play": [],
+        "in_play": [
+            "Stefon Diggs",
+            "CeeDee Lamb",
+            "Deebo Samuel",
+            "Jacory Croskey-Merritt"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 287,
         "receiving_yards": 268,
@@ -46,20 +60,6 @@
             "Jeremiyah Love",
             "Demarcus Robinson",
             "George Holani"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 248,
-        "receiving_yards": 221,
-        "rushing_yards": 164,
-        "total_yards": 633,
-        "yet_to_play": [],
-        "in_play": [
-            "Stefon Diggs",
-            "CeeDee Lamb",
-            "Deebo Samuel",
-            "Jacory Croskey-Merritt"
         ]
     },
     {
@@ -94,9 +94,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 416,
+        "receiving_yards": 434,
         "rushing_yards": 117,
-        "total_yards": 533,
+        "total_yards": 551,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -110,8 +110,8 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 155,
-        "receiving_yards": 214,
-        "rushing_yards": 95,
+        "receiving_yards": 215,
+        "rushing_yards": 94,
         "total_yards": 464,
         "yet_to_play": [
             "Cam Skattebo"
@@ -125,29 +125,11 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 79,
-        "receiving_yards": 216,
-        "rushing_yards": 45,
-        "total_yards": 340,
-        "yet_to_play": [
-            "Rashee Rice",
-            "Tyler Warren"
-        ],
-        "in_play": [
-            "Justin Herbert",
-            "Ashton Jeanty",
-            "Jadarian Price",
-            "Ladd McConkey",
-            "Caleb Douglas"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
-        "passing_yards": 78,
+        "passing_yards": 88,
         "receiving_yards": 55,
-        "rushing_yards": 198,
-        "total_yards": 331,
+        "rushing_yards": 212,
+        "total_yards": 355,
         "yet_to_play": [
             "Davante Adams",
             "Isaiah Likely",
@@ -158,6 +140,24 @@
             "Christian McCaffrey",
             "Courtland Sutton",
             "Jakobi Meyers"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 79,
+        "receiving_yards": 217,
+        "rushing_yards": 45,
+        "total_yards": 341,
+        "yet_to_play": [
+            "Rashee Rice",
+            "Tyler Warren"
+        ],
+        "in_play": [
+            "Justin Herbert",
+            "Ashton Jeanty",
+            "Jadarian Price",
+            "Ladd McConkey",
+            "Caleb Douglas"
         ]
     },
     {
