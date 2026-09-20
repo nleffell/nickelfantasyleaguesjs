@@ -25,6 +25,22 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 182,
+        "receiving_yards": 432,
+        "rushing_yards": 101,
+        "total_yards": 715,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Alec Pierce"
+        ],
+        "in_play": [
+            "Jaylen Waddle",
+            "Mike Evans",
+            "Terry McLaurin"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 268,
@@ -36,22 +52,6 @@
             "CeeDee Lamb",
             "Deebo Samuel",
             "Jacory Croskey-Merritt"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 182,
-        "receiving_yards": 403,
-        "rushing_yards": 101,
-        "total_yards": 686,
-        "yet_to_play": [
-            "Kyren Williams",
-            "Alec Pierce"
-        ],
-        "in_play": [
-            "Jaylen Waddle",
-            "Mike Evans",
-            "Terry McLaurin"
         ]
     },
     {
@@ -95,8 +95,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 446,
-        "rushing_yards": 142,
-        "total_yards": 588,
+        "rushing_yards": 141,
+        "total_yards": 587,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -109,10 +109,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 202,
+        "passing_yards": 207,
         "receiving_yards": 252,
-        "rushing_yards": 101,
-        "total_yards": 555,
+        "rushing_yards": 107,
+        "total_yards": 566,
         "yet_to_play": [
             "Cam Skattebo"
         ],
