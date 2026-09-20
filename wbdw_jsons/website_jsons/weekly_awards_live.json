@@ -1,10 +1,10 @@
 [
     {
         "owner": "Victor Dankens",
-        "passing_yards": 204,
+        "passing_yards": 210,
         "receiving_yards": 306,
         "rushing_yards": 34,
-        "total_yards": 544,
+        "total_yards": 550,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -42,8 +42,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 68,
         "receiving_yards": 148,
-        "rushing_yards": 219,
-        "total_yards": 435,
+        "rushing_yards": 242,
+        "total_yards": 458,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -83,8 +83,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 53,
-        "rushing_yards": 113,
-        "total_yards": 414,
+        "rushing_yards": 121,
+        "total_yards": 422,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -101,9 +101,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 204,
-        "receiving_yards": 132,
+        "receiving_yards": 133,
         "rushing_yards": 20,
-        "total_yards": 356,
+        "total_yards": 357,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -121,10 +121,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 75,
-        "receiving_yards": 108,
-        "rushing_yards": 75,
-        "total_yards": 258,
+        "passing_yards": 80,
+        "receiving_yards": 125,
+        "rushing_yards": 73,
+        "total_yards": 278,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 129,
-        "receiving_yards": 27,
+        "passing_yards": 134,
+        "receiving_yards": 32,
         "rushing_yards": 26,
-        "total_yards": 182,
+        "total_yards": 192,
         "yet_to_play": [
             "George Pickens",
             "Malik Nabers",
@@ -185,8 +185,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 23,
-        "rushing_yards": 81,
-        "total_yards": 104,
+        "rushing_yards": 85,
+        "total_yards": 108,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -226,8 +226,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 34,
-        "rushing_yards": 22,
-        "total_yards": 56,
+        "rushing_yards": 19,
+        "total_yards": 53,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
