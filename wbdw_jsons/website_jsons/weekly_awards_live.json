@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 297,
+        "passing_yards": 352,
         "receiving_yards": 364,
         "rushing_yards": 140,
-        "total_yards": 801,
+        "total_yards": 856,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -19,8 +19,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 235,
         "receiving_yards": 413,
-        "rushing_yards": 63,
-        "total_yards": 711,
+        "rushing_yards": 66,
+        "total_yards": 714,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -133,9 +133,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 208,
-        "rushing_yards": 52,
-        "total_yards": 260,
+        "receiving_yards": 213,
+        "rushing_yards": 59,
+        "total_yards": 272,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -149,8 +149,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 132,
-        "rushing_yards": 78,
-        "total_yards": 210,
+        "rushing_yards": 79,
+        "total_yards": 211,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
@@ -168,8 +168,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 16,
         "receiving_yards": 167,
-        "rushing_yards": 0,
-        "total_yards": 183,
+        "rushing_yards": 2,
+        "total_yards": 185,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
