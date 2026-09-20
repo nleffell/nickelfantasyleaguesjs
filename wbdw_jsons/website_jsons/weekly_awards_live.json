@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 353,
-        "receiving_yards": 472,
+        "receiving_yards": 471,
         "rushing_yards": 147,
-        "total_yards": 972,
+        "total_yards": 971,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams",
@@ -38,9 +38,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 287,
-        "receiving_yards": 269,
+        "receiving_yards": 268,
         "rushing_yards": 85,
-        "total_yards": 641,
+        "total_yards": 640,
         "yet_to_play": [],
         "in_play": [
             "Jeremiyah Love",
@@ -52,8 +52,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 221,
-        "rushing_yards": 162,
-        "total_yards": 631,
+        "rushing_yards": 164,
+        "total_yards": 633,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -110,9 +110,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 155,
-        "receiving_yards": 210,
-        "rushing_yards": 94,
-        "total_yards": 459,
+        "receiving_yards": 214,
+        "rushing_yards": 95,
+        "total_yards": 464,
         "yet_to_play": [
             "Cam Skattebo"
         ],
@@ -143,6 +143,24 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 78,
+        "receiving_yards": 55,
+        "rushing_yards": 198,
+        "total_yards": 331,
+        "yet_to_play": [
+            "Davante Adams",
+            "Isaiah Likely",
+            "Travis Kelce"
+        ],
+        "in_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Courtland Sutton",
+            "Jakobi Meyers"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 207,
         "receiving_yards": 87,
@@ -156,24 +174,6 @@
             "Michael Mayer",
             "Antonio Williams",
             "Chris Bell"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 69,
-        "receiving_yards": 55,
-        "rushing_yards": 189,
-        "total_yards": 313,
-        "yet_to_play": [
-            "Davante Adams",
-            "Isaiah Likely",
-            "Travis Kelce"
-        ],
-        "in_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Courtland Sutton",
-            "Jakobi Meyers"
         ]
     }
 ]
