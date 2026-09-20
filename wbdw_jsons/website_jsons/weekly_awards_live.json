@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 41,
-        "rushing_yards": 101,
-        "total_yards": 390,
+        "receiving_yards": 45,
+        "rushing_yards": 102,
+        "total_yards": 395,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -16,6 +16,26 @@
             "David Montgomery",
             "Colston Loveland",
             "Jaylen Warren"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 126,
+        "receiving_yards": 208,
+        "rushing_yards": 9,
+        "total_yards": 343,
+        "yet_to_play": [
+            "De'Von Achane",
+            "J.K. Dobbins",
+            "Bhayshul Tuten"
+        ],
+        "in_play": [
+            "Lamar Jackson",
+            "Travis Etienne",
+            "Justin Jefferson",
+            "DeVonta Smith",
+            "Juwan Johnson",
+            "DK Metcalf"
         ]
     },
     {
@@ -35,26 +55,6 @@
             "D'Andre Swift",
             "Kayshon Boutte",
             "Chris Godwin"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 57,
-        "receiving_yards": 208,
-        "rushing_yards": 9,
-        "total_yards": 274,
-        "yet_to_play": [
-            "De'Von Achane",
-            "J.K. Dobbins",
-            "Bhayshul Tuten"
-        ],
-        "in_play": [
-            "Lamar Jackson",
-            "Travis Etienne",
-            "Justin Jefferson",
-            "DeVonta Smith",
-            "Juwan Johnson",
-            "DK Metcalf"
         ]
     },
     {
@@ -123,8 +123,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 88,
-        "rushing_yards": 3,
-        "total_yards": 91,
+        "rushing_yards": 5,
+        "total_yards": 93,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -137,6 +137,26 @@
             "Carnell Tate",
             "Devaughn Vele",
             "Harold Fannin"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 22,
+        "rushing_yards": 48,
+        "total_yards": 70,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Davante Adams",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jakobi Meyers",
+            "Travis Kelce"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "Tony Pollard"
         ]
     },
     {
@@ -158,26 +178,6 @@
             "Garrett Wilson",
             "Ja'Marr Chase",
             "Mark Andrews"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 22,
-        "rushing_yards": 35,
-        "total_yards": 57,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Davante Adams",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jakobi Meyers",
-            "Travis Kelce"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "Tony Pollard"
         ]
     },
     {
