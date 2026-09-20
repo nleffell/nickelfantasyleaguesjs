@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 182,
-        "receiving_yards": 231,
-        "rushing_yards": 100,
-        "total_yards": 513,
+        "receiving_yards": 253,
+        "rushing_yards": 105,
+        "total_yards": 540,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -20,10 +20,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 171,
+        "passing_yards": 179,
         "receiving_yards": 306,
         "rushing_yards": 30,
-        "total_yards": 507,
+        "total_yards": 515,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -58,31 +58,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 154,
-        "receiving_yards": 63,
-        "rushing_yards": 185,
-        "total_yards": 402,
-        "yet_to_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Kenneth Walker"
-        ],
-        "in_play": [
-            "Jalen Hurts",
-            "Drake London",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "Chase Brown",
-            "Saquon Barkley"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 60,
         "receiving_yards": 143,
-        "rushing_yards": 194,
-        "total_yards": 397,
+        "rushing_yards": 200,
+        "total_yards": 403,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -96,6 +76,26 @@
             "Dallas Goedert",
             "Kalif Raymond",
             "TreVeyon Henderson"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 154,
+        "receiving_yards": 58,
+        "rushing_yards": 185,
+        "total_yards": 397,
+        "yet_to_play": [
+            "Jonathan Taylor",
+            "Josh Downs",
+            "Kenneth Walker"
+        ],
+        "in_play": [
+            "Jalen Hurts",
+            "Drake London",
+            "Rome Odunze",
+            "Tucker Kraft",
+            "Chase Brown",
+            "Saquon Barkley"
         ]
     },
     {
@@ -121,10 +121,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 45,
-        "receiving_yards": 93,
+        "passing_yards": 67,
+        "receiving_yards": 101,
         "rushing_yards": 61,
-        "total_yards": 199,
+        "total_yards": 229,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -164,9 +164,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 130,
-        "rushing_yards": 5,
-        "total_yards": 135,
+        "receiving_yards": 135,
+        "rushing_yards": 36,
+        "total_yards": 171,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -185,8 +185,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 23,
-        "rushing_yards": 70,
-        "total_yards": 93,
+        "rushing_yards": 77,
+        "total_yards": 100,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
