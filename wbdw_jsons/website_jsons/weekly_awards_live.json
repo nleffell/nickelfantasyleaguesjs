@@ -1,10 +1,29 @@
 [
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 200,
+        "receiving_yards": 233,
+        "rushing_yards": 118,
+        "total_yards": 551,
+        "yet_to_play": [
+            "Javonte Williams",
+            "Jaxon Smith-Njigba"
+        ],
+        "in_play": [
+            "C.J. Stroud",
+            "Tetairoa McMillan",
+            "Pat Freiermuth",
+            "D'Andre Swift",
+            "Kayshon Boutte",
+            "Chris Godwin"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
-        "passing_yards": 210,
+        "passing_yards": 209,
         "receiving_yards": 306,
         "rushing_yards": 34,
-        "total_yards": 550,
+        "total_yards": 549,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -20,30 +39,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 182,
-        "receiving_yards": 255,
-        "rushing_yards": 104,
-        "total_yards": 541,
-        "yet_to_play": [
-            "Javonte Williams",
-            "Jaxon Smith-Njigba"
-        ],
-        "in_play": [
-            "C.J. Stroud",
-            "Tetairoa McMillan",
-            "Pat Freiermuth",
-            "D'Andre Swift",
-            "Kayshon Boutte",
-            "Chris Godwin"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
-        "passing_yards": 68,
-        "receiving_yards": 156,
-        "rushing_yards": 246,
-        "total_yards": 470,
+        "passing_yards": 75,
+        "receiving_yards": 174,
+        "rushing_yards": 256,
+        "total_yards": 505,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -100,9 +100,9 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 212,
+        "passing_yards": 201,
         "receiving_yards": 133,
-        "rushing_yards": 20,
+        "rushing_yards": 31,
         "total_yards": 365,
         "yet_to_play": [
             "Jeremiyah Love",
@@ -184,9 +184,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 23,
-        "rushing_yards": 85,
-        "total_yards": 108,
+        "receiving_yards": 22,
+        "rushing_yards": 90,
+        "total_yards": 112,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -199,6 +199,27 @@
         "in_play": [
             "Derrick Henry",
             "Tony Pollard"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 47,
+        "rushing_yards": 52,
+        "total_yards": 99,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Quentin Johnston",
+            "Jake Ferguson",
+            "Cam Skattebo",
+            "Malik Washington",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Breece Hall",
+            "KC Concepcion",
+            "Jaylin Noel"
         ]
     },
     {
@@ -220,27 +241,6 @@
             "Matthew Golden",
             "Christian Watson",
             "Chris Olave"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 44,
-        "rushing_yards": 19,
-        "total_yards": 63,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Quentin Johnston",
-            "Jake Ferguson",
-            "Cam Skattebo",
-            "Malik Washington",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Breece Hall",
-            "KC Concepcion",
-            "Jaylin Noel"
         ]
     }
 ]
