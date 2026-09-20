@@ -3,12 +3,11 @@
         "owner": "Kyle Nester",
         "passing_yards": 353,
         "receiving_yards": 539,
-        "rushing_yards": 169,
-        "total_yards": 1061,
+        "rushing_yards": 170,
+        "total_yards": 1062,
         "yet_to_play": [],
         "in_play": [
-            "Javonte Williams",
-            "Jaxon Smith-Njigba"
+            "Javonte Williams"
         ]
     },
     {
@@ -54,9 +53,7 @@
         "rushing_yards": 312,
         "total_yards": 677,
         "yet_to_play": [],
-        "in_play": [
-            "Marvin Harrison"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -65,10 +62,7 @@
         "rushing_yards": 101,
         "total_yards": 658,
         "yet_to_play": [],
-        "in_play": [
-            "Jeremiyah Love",
-            "George Holani"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -81,8 +75,7 @@
         ],
         "in_play": [
             "Dak Prescott",
-            "Jake Ferguson",
-            "Trey McBride"
+            "Jake Ferguson"
         ]
     },
     {
@@ -120,9 +113,7 @@
             "Rashee Rice",
             "Tyler Warren"
         ],
-        "in_play": [
-            "Jadarian Price"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
