@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 353,
-        "receiving_yards": 502,
+        "receiving_yards": 517,
         "rushing_yards": 153,
-        "total_yards": 1008,
+        "total_yards": 1023,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams",
@@ -15,8 +15,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 235,
         "receiving_yards": 429,
-        "rushing_yards": 232,
-        "total_yards": 896,
+        "rushing_yards": 231,
+        "total_yards": 895,
         "yet_to_play": [],
         "in_play": [
             "De'Von Achane",
@@ -28,8 +28,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 268,
-        "rushing_yards": 182,
-        "total_yards": 698,
+        "rushing_yards": 190,
+        "total_yards": 706,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -111,8 +111,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 202,
         "receiving_yards": 252,
-        "rushing_yards": 94,
-        "total_yards": 548,
+        "rushing_yards": 101,
+        "total_yards": 555,
         "yet_to_play": [
             "Cam Skattebo"
         ],
@@ -126,10 +126,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 180,
+        "passing_yards": 188,
         "receiving_yards": 247,
-        "rushing_yards": 90,
-        "total_yards": 517,
+        "rushing_yards": 91,
+        "total_yards": 526,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
