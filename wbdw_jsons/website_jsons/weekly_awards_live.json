@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 353,
-        "receiving_yards": 535,
+        "receiving_yards": 539,
         "rushing_yards": 153,
-        "total_yards": 1041,
+        "total_yards": 1045,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams",
@@ -43,9 +43,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 268,
+        "receiving_yards": 273,
         "rushing_yards": 190,
-        "total_yards": 706,
+        "total_yards": 711,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -128,8 +128,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 192,
         "receiving_yards": 262,
-        "rushing_yards": 96,
-        "total_yards": 550,
+        "rushing_yards": 102,
+        "total_yards": 556,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
@@ -163,9 +163,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 207,
-        "receiving_yards": 107,
+        "receiving_yards": 126,
         "rushing_yards": 27,
-        "total_yards": 341,
+        "total_yards": 360,
         "yet_to_play": [
             "Malik Nabers"
         ],
