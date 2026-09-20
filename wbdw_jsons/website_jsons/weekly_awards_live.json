@@ -69,8 +69,8 @@
         "owner": "Chad Hill",
         "passing_yards": 287,
         "receiving_yards": 270,
-        "rushing_yards": 85,
-        "total_yards": 642,
+        "rushing_yards": 88,
+        "total_yards": 645,
         "yet_to_play": [],
         "in_play": [
             "Jeremiyah Love",
@@ -95,8 +95,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 446,
-        "rushing_yards": 130,
-        "total_yards": 576,
+        "rushing_yards": 139,
+        "total_yards": 585,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -109,10 +109,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 190,
-        "receiving_yards": 232,
+        "passing_yards": 202,
+        "receiving_yards": 252,
         "rushing_yards": 94,
-        "total_yards": 516,
+        "total_yards": 548,
         "yet_to_play": [
             "Cam Skattebo"
         ],
@@ -126,10 +126,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 153,
-        "receiving_yards": 227,
+        "passing_yards": 180,
+        "receiving_yards": 239,
         "rushing_yards": 82,
-        "total_yards": 462,
+        "total_yards": 501,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
