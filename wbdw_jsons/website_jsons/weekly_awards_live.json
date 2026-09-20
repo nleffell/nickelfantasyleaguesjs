@@ -65,8 +65,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 212,
-        "rushing_yards": 158,
-        "total_yards": 618,
+        "rushing_yards": 162,
+        "total_yards": 622,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -95,8 +95,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 340,
-        "rushing_yards": 92,
-        "total_yards": 432,
+        "rushing_yards": 100,
+        "total_yards": 440,
         "yet_to_play": [
             "Jaxson Dart",
             "Blake Corum"
@@ -109,10 +109,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 148,
+        "passing_yards": 150,
         "receiving_yards": 187,
         "rushing_yards": 90,
-        "total_yards": 425,
+        "total_yards": 427,
         "yet_to_play": [
             "Cam Skattebo"
         ],
@@ -127,9 +127,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 207,
-        "receiving_yards": 85,
+        "receiving_yards": 87,
         "rushing_yards": 27,
-        "total_yards": 319,
+        "total_yards": 321,
         "yet_to_play": [
             "Malik Nabers"
         ],
@@ -144,8 +144,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 66,
         "receiving_yards": 209,
-        "rushing_yards": 37,
-        "total_yards": 312,
+        "rushing_yards": 36,
+        "total_yards": 311,
         "yet_to_play": [
             "Rashee Rice",
             "Tyler Warren"
