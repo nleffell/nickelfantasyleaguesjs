@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 267,
-        "receiving_yards": 356,
+        "passing_yards": 282,
+        "receiving_yards": 364,
         "rushing_yards": 140,
-        "total_yards": 763,
+        "total_yards": 786,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -21,20 +21,17 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 379,
+        "receiving_yards": 413,
         "rushing_yards": 59,
-        "total_yards": 673,
+        "total_yards": 707,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
             "Bhayshul Tuten"
         ],
         "in_play": [
-            "Lamar Jackson",
-            "Travis Etienne",
             "Justin Jefferson",
             "DeVonta Smith",
-            "Juwan Johnson",
             "DK Metcalf"
         ]
     },
@@ -42,8 +39,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 138,
         "receiving_yards": 227,
-        "rushing_yards": 292,
-        "total_yards": 657,
+        "rushing_yards": 304,
+        "total_yards": 669,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -61,10 +58,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 207,
-        "receiving_yards": 105,
-        "rushing_yards": 232,
-        "total_yards": 544,
+        "passing_yards": 264,
+        "receiving_yards": 126,
+        "rushing_yards": 236,
+        "total_yards": 626,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -82,9 +79,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 287,
-        "receiving_yards": 161,
+        "receiving_yards": 218,
         "rushing_yards": 59,
-        "total_yards": 507,
+        "total_yards": 564,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -121,10 +118,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 168,
+        "passing_yards": 176,
         "receiving_yards": 171,
         "rushing_yards": 98,
-        "total_yards": 437,
+        "total_yards": 445,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -136,8 +133,7 @@
             "Baker Mayfield",
             "Bijan Robinson",
             "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews"
+            "Ja'Marr Chase"
         ]
     },
     {
@@ -177,7 +173,6 @@
         "in_play": [
             "Kyle Monangai",
             "Carnell Tate",
-            "Devaughn Vele",
             "Harold Fannin"
         ]
     },
@@ -185,8 +180,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 125,
-        "rushing_yards": 75,
-        "total_yards": 200,
+        "rushing_yards": 78,
+        "total_yards": 203,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
@@ -219,8 +214,7 @@
         ],
         "in_play": [
             "Matthew Golden",
-            "Christian Watson",
-            "Chris Olave"
+            "Christian Watson"
         ]
     },
     {
@@ -239,7 +233,6 @@
             "Travis Kelce"
         ],
         "in_play": [
-            "Derrick Henry",
             "Tony Pollard"
         ]
     }
