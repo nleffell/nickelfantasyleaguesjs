@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 38,
-        "rushing_yards": 99,
-        "total_yards": 385,
+        "rushing_yards": 103,
+        "total_yards": 389,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -21,9 +21,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 57,
-        "receiving_yards": 180,
+        "receiving_yards": 190,
         "rushing_yards": 9,
-        "total_yards": 246,
+        "total_yards": 256,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -39,30 +39,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 128,
-        "rushing_yards": 74,
-        "total_yards": 202,
-        "yet_to_play": [
-            "Javonte Williams",
-            "Jaxon Smith-Njigba"
-        ],
-        "in_play": [
-            "C.J. Stroud",
-            "Tetairoa McMillan",
-            "Pat Freiermuth",
-            "D'Andre Swift",
-            "Kayshon Boutte",
-            "Chris Godwin"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 44,
-        "receiving_yards": 18,
-        "rushing_yards": 138,
-        "total_yards": 200,
+        "passing_yards": 61,
+        "receiving_yards": 24,
+        "rushing_yards": 153,
+        "total_yards": 238,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -78,11 +59,30 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 136,
+        "rushing_yards": 74,
+        "total_yards": 210,
+        "yet_to_play": [
+            "Javonte Williams",
+            "Jaxon Smith-Njigba"
+        ],
+        "in_play": [
+            "C.J. Stroud",
+            "Tetairoa McMillan",
+            "Pat Freiermuth",
+            "D'Andre Swift",
+            "Kayshon Boutte",
+            "Chris Godwin"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 11,
-        "receiving_yards": 18,
-        "rushing_yards": 120,
-        "total_yards": 149,
+        "receiving_yards": 22,
+        "rushing_yards": 128,
+        "total_yards": 161,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 46,
+        "passing_yards": 45,
         "receiving_yards": 68,
         "rushing_yards": 7,
-        "total_yards": 121,
+        "total_yards": 120,
         "yet_to_play": [
             "Jeremiyah Love",
             "Demarcus Robinson",
@@ -161,10 +161,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 9,
-        "receiving_yards": 31,
+        "passing_yards": 13,
+        "receiving_yards": 33,
         "rushing_yards": 5,
-        "total_yards": 45,
+        "total_yards": 51,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -182,10 +182,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 14,
+        "passing_yards": 29,
         "receiving_yards": 0,
         "rushing_yards": 8,
-        "total_yards": 22,
+        "total_yards": 37,
         "yet_to_play": [
             "George Pickens",
             "Malik Nabers",
@@ -204,9 +204,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 12,
-        "rushing_yards": 4,
-        "total_yards": 16,
+        "receiving_yards": 24,
+        "rushing_yards": 7,
+        "total_yards": 31,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
@@ -225,9 +225,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 0,
+        "receiving_yards": 20,
         "rushing_yards": 0,
-        "total_yards": 0,
+        "total_yards": 20,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
