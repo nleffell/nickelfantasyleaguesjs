@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
-        "receiving_yards": 38,
-        "rushing_yards": 103,
-        "total_yards": 389,
+        "receiving_yards": 41,
+        "rushing_yards": 101,
+        "total_yards": 390,
         "yet_to_play": [
             "Stefon Diggs",
             "CeeDee Lamb",
@@ -21,9 +21,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 57,
-        "receiving_yards": 190,
+        "receiving_yards": 198,
         "rushing_yards": 9,
-        "total_yards": 256,
+        "total_yards": 264,
         "yet_to_play": [
             "De'Von Achane",
             "J.K. Dobbins",
@@ -40,10 +40,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 61,
+        "passing_yards": 83,
         "receiving_yards": 24,
         "rushing_yards": 153,
-        "total_yards": 238,
+        "total_yards": 260,
         "yet_to_play": [
             "Jonathan Taylor",
             "Josh Downs",
@@ -60,10 +60,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 0,
+        "passing_yards": 7,
         "receiving_yards": 136,
         "rushing_yards": 74,
-        "total_yards": 210,
+        "total_yards": 217,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba"
@@ -79,10 +79,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 11,
-        "receiving_yards": 22,
-        "rushing_yards": 128,
-        "total_yards": 161,
+        "passing_yards": 14,
+        "receiving_yards": 21,
+        "rushing_yards": 133,
+        "total_yards": 168,
         "yet_to_play": [
             "Marvin Harrison"
         ],
@@ -122,9 +122,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 77,
+        "receiving_yards": 88,
         "rushing_yards": 3,
-        "total_yards": 80,
+        "total_yards": 91,
         "yet_to_play": [
             "Jaxson Dart",
             "Omarion Hampton",
@@ -137,6 +137,27 @@
             "Carnell Tate",
             "Devaughn Vele",
             "Harold Fannin"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 12,
+        "receiving_yards": 33,
+        "rushing_yards": 10,
+        "total_yards": 55,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Jaylen Waddle",
+            "Mike Evans",
+            "Terry McLaurin",
+            "Alec Pierce"
+        ],
+        "in_play": [
+            "Baker Mayfield",
+            "Bijan Robinson",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews"
         ]
     },
     {
@@ -160,32 +181,11 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 13,
-        "receiving_yards": 33,
-        "rushing_yards": 5,
-        "total_yards": 51,
-        "yet_to_play": [
-            "Kyren Williams",
-            "Jaylen Waddle",
-            "Mike Evans",
-            "Terry McLaurin",
-            "Alec Pierce"
-        ],
-        "in_play": [
-            "Baker Mayfield",
-            "Bijan Robinson",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 29,
         "receiving_yards": 0,
-        "rushing_yards": 8,
-        "total_yards": 37,
+        "rushing_yards": 13,
+        "total_yards": 42,
         "yet_to_play": [
             "George Pickens",
             "Malik Nabers",
@@ -205,8 +205,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 24,
-        "rushing_yards": 7,
-        "total_yards": 31,
+        "rushing_yards": 9,
+        "total_yards": 33,
         "yet_to_play": [
             "Dak Prescott",
             "Quentin Johnston",
@@ -225,9 +225,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 20,
+        "receiving_yards": 21,
         "rushing_yards": 0,
-        "total_yards": 20,
+        "total_yards": 21,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
