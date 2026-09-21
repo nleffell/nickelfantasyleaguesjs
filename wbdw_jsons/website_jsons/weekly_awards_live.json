@@ -29,14 +29,15 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
-        "receiving_yards": 432,
+        "receiving_yards": 443,
         "rushing_yards": 101,
-        "total_yards": 715,
+        "total_yards": 726,
         "yet_to_play": [
-            "Kyren Williams",
-            "Alec Pierce"
+            "Kyren Williams"
         ],
-        "in_play": []
+        "in_play": [
+            "Alec Pierce"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -71,14 +72,14 @@
         "owner": "Brian Fuquay",
         "passing_yards": 264,
         "receiving_yards": 126,
-        "rushing_yards": 243,
-        "total_yards": 633,
-        "yet_to_play": [
+        "rushing_yards": 260,
+        "total_yards": 650,
+        "yet_to_play": [],
+        "in_play": [
             "Jonathan Taylor",
             "Josh Downs",
             "Kenneth Walker"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -96,13 +97,13 @@
         "owner": "Ryan Shannon",
         "passing_yards": 192,
         "receiving_yards": 262,
-        "rushing_yards": 102,
-        "total_yards": 556,
-        "yet_to_play": [
+        "rushing_yards": 105,
+        "total_yards": 559,
+        "yet_to_play": [],
+        "in_play": [
             "Rashee Rice",
             "Tyler Warren"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Tyler Smith",
@@ -112,10 +113,11 @@
         "total_yards": 435,
         "yet_to_play": [
             "Davante Adams",
-            "Isaiah Likely",
-            "Travis Kelce"
+            "Isaiah Likely"
         ],
-        "in_play": []
+        "in_play": [
+            "Travis Kelce"
+        ]
     },
     {
         "owner": "Nick Leffell",
