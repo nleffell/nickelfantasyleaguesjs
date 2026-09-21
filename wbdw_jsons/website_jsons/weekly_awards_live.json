@@ -27,6 +27,19 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 264,
+        "receiving_yards": 161,
+        "rushing_yards": 303,
+        "total_yards": 728,
+        "yet_to_play": [],
+        "in_play": [
+            "Jonathan Taylor",
+            "Josh Downs",
+            "Kenneth Walker"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 443,
@@ -37,19 +50,6 @@
         ],
         "in_play": [
             "Alec Pierce"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 264,
-        "receiving_yards": 151,
-        "rushing_yards": 303,
-        "total_yards": 718,
-        "yet_to_play": [],
-        "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Kenneth Walker"
         ]
     },
     {
