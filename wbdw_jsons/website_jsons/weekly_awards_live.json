@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 264,
         "receiving_yards": 137,
-        "rushing_yards": 284,
-        "total_yards": 685,
+        "rushing_yards": 287,
+        "total_yards": 688,
         "yet_to_play": [],
         "in_play": [
             "Jonathan Taylor",
@@ -108,9 +108,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 116,
+        "receiving_yards": 129,
         "rushing_yards": 223,
-        "total_yards": 435,
+        "total_yards": 448,
         "yet_to_play": [
             "Davante Adams",
             "Isaiah Likely"
