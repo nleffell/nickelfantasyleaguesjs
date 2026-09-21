@@ -18,6 +18,19 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 264,
+        "receiving_yards": 188,
+        "rushing_yards": 351,
+        "total_yards": 803,
+        "yet_to_play": [],
+        "in_play": [
+            "Jonathan Taylor",
+            "Josh Downs",
+            "Kenneth Walker"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 352,
@@ -25,19 +38,6 @@
         "total_yards": 790,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 264,
-        "receiving_yards": 181,
-        "rushing_yards": 326,
-        "total_yards": 771,
-        "yet_to_play": [],
-        "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Kenneth Walker"
-        ]
     },
     {
         "owner": "Nick Janowicz",
