@@ -30,8 +30,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 264,
         "receiving_yards": 161,
-        "rushing_yards": 303,
-        "total_yards": 728,
+        "rushing_yards": 318,
+        "total_yards": 743,
         "yet_to_play": [],
         "in_play": [
             "Jonathan Taylor",
@@ -84,9 +84,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 192,
-        "receiving_yards": 304,
+        "receiving_yards": 320,
         "rushing_yards": 105,
-        "total_yards": 601,
+        "total_yards": 617,
         "yet_to_play": [],
         "in_play": [
             "Rashee Rice",
