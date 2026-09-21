@@ -15,11 +15,7 @@
         "rushing_yards": 447,
         "total_yards": 1010,
         "yet_to_play": [],
-        "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Kenneth Walker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -48,9 +44,7 @@
         "yet_to_play": [
             "Kyren Williams"
         ],
-        "in_play": [
-            "Alec Pierce"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -68,10 +62,7 @@
         "rushing_yards": 105,
         "total_yards": 663,
         "yet_to_play": [],
-        "in_play": [
-            "Rashee Rice",
-            "Tyler Warren"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -115,9 +106,7 @@
             "Davante Adams",
             "Isaiah Likely"
         ],
-        "in_play": [
-            "Travis Kelce"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
