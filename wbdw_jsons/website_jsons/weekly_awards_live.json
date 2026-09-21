@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 264,
         "receiving_yards": 151,
-        "rushing_yards": 302,
-        "total_yards": 717,
+        "rushing_yards": 303,
+        "total_yards": 718,
         "yet_to_play": [],
         "in_play": [
             "Jonathan Taylor",
@@ -82,6 +82,18 @@
         "in_play": []
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 192,
+        "receiving_yards": 296,
+        "rushing_yards": 105,
+        "total_yards": 593,
+        "yet_to_play": [],
+        "in_play": [
+            "Rashee Rice",
+            "Tyler Warren"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 446,
@@ -92,18 +104,6 @@
             "Blake Corum"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 192,
-        "receiving_yards": 266,
-        "rushing_yards": 105,
-        "total_yards": 563,
-        "yet_to_play": [],
-        "in_play": [
-            "Rashee Rice",
-            "Tyler Warren"
-        ]
     },
     {
         "owner": "Tyler Smith",
