@@ -59,8 +59,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 279,
         "receiving_yards": 261,
-        "rushing_yards": 130,
-        "total_yards": 670,
+        "rushing_yards": 131,
+        "total_yards": 671,
         "yet_to_play": [],
         "in_play": [
             "Cam Skattebo"
@@ -88,8 +88,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 20,
         "receiving_yards": 446,
-        "rushing_yards": 159,
-        "total_yards": 625,
+        "rushing_yards": 160,
+        "total_yards": 626,
         "yet_to_play": [],
         "in_play": [
             "Jaxson Dart",
@@ -99,9 +99,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 272,
+        "receiving_yards": 271,
         "rushing_yards": 223,
-        "total_yards": 591,
+        "total_yards": 590,
         "yet_to_play": [],
         "in_play": [
             "Davante Adams",
