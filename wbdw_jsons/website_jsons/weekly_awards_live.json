@@ -47,6 +47,17 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 279,
+        "receiving_yards": 280,
+        "rushing_yards": 134,
+        "total_yards": 693,
+        "yet_to_play": [],
+        "in_play": [
+            "Cam Skattebo"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 138,
         "receiving_yards": 227,
@@ -54,17 +65,6 @@
         "total_yards": 677,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 279,
-        "receiving_yards": 261,
-        "rushing_yards": 134,
-        "total_yards": 674,
-        "yet_to_play": [],
-        "in_play": [
-            "Cam Skattebo"
-        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -100,8 +100,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 20,
         "receiving_yards": 446,
-        "rushing_yards": 160,
-        "total_yards": 626,
+        "rushing_yards": 165,
+        "total_yards": 631,
         "yet_to_play": [],
         "in_play": [
             "Jaxson Dart",
