@@ -41,10 +41,10 @@
         "receiving_yards": 443,
         "rushing_yards": 101,
         "total_yards": 726,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Kyren Williams"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -67,13 +67,13 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 279,
-        "receiving_yards": 259,
+        "receiving_yards": 261,
         "rushing_yards": 123,
-        "total_yards": 661,
-        "yet_to_play": [
+        "total_yards": 663,
+        "yet_to_play": [],
+        "in_play": [
             "Cam Skattebo"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -86,27 +86,27 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 5,
+        "passing_yards": 20,
         "receiving_yards": 446,
         "rushing_yards": 141,
-        "total_yards": 592,
-        "yet_to_play": [
+        "total_yards": 607,
+        "yet_to_play": [],
+        "in_play": [
             "Jaxson Dart",
             "Blake Corum"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 222,
+        "receiving_yards": 221,
         "rushing_yards": 223,
-        "total_yards": 541,
-        "yet_to_play": [
+        "total_yards": 540,
+        "yet_to_play": [],
+        "in_play": [
             "Davante Adams",
             "Isaiah Likely"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -114,9 +114,9 @@
         "receiving_yards": 131,
         "rushing_yards": 27,
         "total_yards": 365,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Malik Nabers"
-        ],
-        "in_play": []
+        ]
     }
 ]
