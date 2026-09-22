@@ -88,8 +88,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 20,
         "receiving_yards": 446,
-        "rushing_yards": 144,
-        "total_yards": 610,
+        "rushing_yards": 159,
+        "total_yards": 625,
         "yet_to_play": [],
         "in_play": [
             "Jaxson Dart",
@@ -99,9 +99,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 221,
+        "receiving_yards": 272,
         "rushing_yards": 223,
-        "total_yards": 540,
+        "total_yards": 591,
         "yet_to_play": [],
         "in_play": [
             "Davante Adams",
