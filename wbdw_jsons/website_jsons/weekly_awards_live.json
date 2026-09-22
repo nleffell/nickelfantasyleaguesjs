@@ -30,8 +30,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 455,
-        "rushing_yards": 176,
-        "total_yards": 813,
+        "rushing_yards": 179,
+        "total_yards": 816,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -79,6 +79,18 @@
         "in_play": []
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 20,
+        "receiving_yards": 459,
+        "rushing_yards": 189,
+        "total_yards": 668,
+        "yet_to_play": [],
+        "in_play": [
+            "Jaxson Dart",
+            "Blake Corum"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 192,
         "receiving_yards": 366,
@@ -95,18 +107,6 @@
         "total_yards": 658,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 20,
-        "receiving_yards": 446,
-        "rushing_yards": 188,
-        "total_yards": 654,
-        "yet_to_play": [],
-        "in_play": [
-            "Jaxson Dart",
-            "Blake Corum"
-        ]
     },
     {
         "owner": "Nick Leffell",
