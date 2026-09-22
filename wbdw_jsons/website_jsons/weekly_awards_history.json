@@ -176,6 +176,13 @@
                 "value": 966.0,
                 "amount": 50
             }
+        },
+        "2": {
+            "most combined yards": {
+                "owner": "Kyle Nester",
+                "value": 1062.0,
+                "amount": 50
+            }
         }
     }
 }
