@@ -38,9 +38,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
-        "receiving_yards": 445,
-        "rushing_yards": 104,
-        "total_yards": 731,
+        "receiving_yards": 455,
+        "rushing_yards": 108,
+        "total_yards": 745,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -85,6 +85,18 @@
         "in_play": []
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 96,
+        "receiving_yards": 339,
+        "rushing_yards": 223,
+        "total_yards": 658,
+        "yet_to_play": [],
+        "in_play": [
+            "Davante Adams",
+            "Isaiah Likely"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 20,
         "receiving_yards": 446,
@@ -94,18 +106,6 @@
         "in_play": [
             "Jaxson Dart",
             "Blake Corum"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 96,
-        "receiving_yards": 275,
-        "rushing_yards": 223,
-        "total_yards": 594,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Isaiah Likely"
         ]
     },
     {
