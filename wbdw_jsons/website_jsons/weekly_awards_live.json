@@ -76,6 +76,18 @@
         "in_play": []
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 96,
+        "receiving_yards": 344,
+        "rushing_yards": 223,
+        "total_yards": 663,
+        "yet_to_play": [],
+        "in_play": [
+            "Davante Adams",
+            "Isaiah Likely"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 287,
         "receiving_yards": 270,
@@ -83,18 +95,6 @@
         "total_yards": 658,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 96,
-        "receiving_yards": 339,
-        "rushing_yards": 223,
-        "total_yards": 658,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Isaiah Likely"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
