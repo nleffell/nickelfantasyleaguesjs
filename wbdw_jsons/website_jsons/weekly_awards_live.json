@@ -39,8 +39,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 455,
-        "rushing_yards": 126,
-        "total_yards": 763,
+        "rushing_yards": 151,
+        "total_yards": 788,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -49,9 +49,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 384,
+        "receiving_yards": 434,
         "rushing_yards": 223,
-        "total_yards": 703,
+        "total_yards": 753,
         "yet_to_play": [],
         "in_play": [
             "Davante Adams",
