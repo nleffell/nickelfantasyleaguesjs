@@ -49,9 +49,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 96,
-        "receiving_yards": 385,
+        "receiving_yards": 384,
         "rushing_yards": 223,
-        "total_yards": 704,
+        "total_yards": 703,
         "yet_to_play": [],
         "in_play": [
             "Davante Adams",
@@ -61,9 +61,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 279,
-        "receiving_yards": 280,
+        "receiving_yards": 278,
         "rushing_yards": 140,
-        "total_yards": 699,
+        "total_yards": 697,
         "yet_to_play": [],
         "in_play": [
             "Cam Skattebo"
