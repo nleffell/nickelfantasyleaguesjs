@@ -30,8 +30,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 455,
-        "rushing_yards": 179,
-        "total_yards": 816,
+        "rushing_yards": 185,
+        "total_yards": 822,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -70,6 +70,18 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 20,
+        "receiving_yards": 459,
+        "rushing_yards": 220,
+        "total_yards": 699,
+        "yet_to_play": [],
+        "in_play": [
+            "Jaxson Dart",
+            "Blake Corum"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 138,
         "receiving_yards": 227,
@@ -77,18 +89,6 @@
         "total_yards": 677,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 20,
-        "receiving_yards": 459,
-        "rushing_yards": 189,
-        "total_yards": 668,
-        "yet_to_play": [],
-        "in_play": [
-            "Jaxson Dart",
-            "Blake Corum"
-        ]
     },
     {
         "owner": "Ryan Shannon",
