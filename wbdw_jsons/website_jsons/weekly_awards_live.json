@@ -39,8 +39,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 455,
-        "rushing_yards": 113,
-        "total_yards": 750,
+        "rushing_yards": 126,
+        "total_yards": 763,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -55,6 +55,18 @@
         "yet_to_play": [],
         "in_play": [
             "Cam Skattebo"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 96,
+        "receiving_yards": 371,
+        "rushing_yards": 223,
+        "total_yards": 690,
+        "yet_to_play": [],
+        "in_play": [
+            "Davante Adams",
+            "Isaiah Likely"
         ]
     },
     {
@@ -74,18 +86,6 @@
         "total_yards": 663,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 96,
-        "receiving_yards": 344,
-        "rushing_yards": 223,
-        "total_yards": 663,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Isaiah Likely"
-        ]
     },
     {
         "owner": "Chad Hill",
