@@ -27,6 +27,17 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 182,
+        "receiving_yards": 455,
+        "rushing_yards": 176,
+        "total_yards": 813,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 248,
         "receiving_yards": 352,
@@ -34,17 +45,6 @@
         "total_yards": 790,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 182,
-        "receiving_yards": 455,
-        "rushing_yards": 151,
-        "total_yards": 788,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams"
-        ]
     },
     {
         "owner": "Tyler Smith",
