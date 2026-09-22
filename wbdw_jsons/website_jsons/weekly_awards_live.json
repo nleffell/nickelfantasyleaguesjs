@@ -56,6 +56,17 @@
         "in_play": []
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 279,
+        "receiving_yards": 261,
+        "rushing_yards": 131,
+        "total_yards": 671,
+        "yet_to_play": [],
+        "in_play": [
+            "Cam Skattebo"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 192,
         "receiving_yards": 366,
@@ -63,17 +74,6 @@
         "total_yards": 663,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 279,
-        "receiving_yards": 261,
-        "rushing_yards": 123,
-        "total_yards": 663,
-        "yet_to_play": [],
-        "in_play": [
-            "Cam Skattebo"
-        ]
     },
     {
         "owner": "Chad Hill",
