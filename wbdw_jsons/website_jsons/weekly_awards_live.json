@@ -33,9 +33,7 @@
         "rushing_yards": 186,
         "total_yards": 823,
         "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -53,10 +51,7 @@
         "rushing_yards": 223,
         "total_yards": 764,
         "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Isaiah Likely"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -65,9 +60,7 @@
         "rushing_yards": 152,
         "total_yards": 709,
         "yet_to_play": [],
-        "in_play": [
-            "Cam Skattebo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -76,10 +69,7 @@
         "rushing_yards": 220,
         "total_yards": 699,
         "yet_to_play": [],
-        "in_play": [
-            "Jaxson Dart",
-            "Blake Corum"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -115,8 +105,6 @@
         "rushing_yards": 27,
         "total_yards": 366,
         "yet_to_play": [],
-        "in_play": [
-            "Malik Nabers"
-        ]
+        "in_play": []
     }
 ]
