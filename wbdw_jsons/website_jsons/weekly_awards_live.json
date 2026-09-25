@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
-        "receiving_yards": 17,
-        "rushing_yards": 143,
-        "total_yards": 160,
+        "receiving_yards": 19,
+        "rushing_yards": 155,
+        "total_yards": 174,
         "yet_to_play": [
             "Trevor Lawrence",
             "Kyren Williams",
@@ -65,9 +65,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 77,
+        "receiving_yards": 93,
         "rushing_yards": 0,
-        "total_yards": 77,
+        "total_yards": 93,
         "yet_to_play": [
             "Jalen Hurts",
             "Jonathan Taylor",
