@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 0,
         "receiving_yards": 19,
-        "rushing_yards": 170,
-        "total_yards": 189,
+        "rushing_yards": 169,
+        "total_yards": 188,
         "yet_to_play": [
             "Trevor Lawrence",
             "Kyren Williams",
@@ -18,6 +18,27 @@
         ],
         "in_play": [
             "Bijan Robinson"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 177,
+        "rushing_yards": 5,
+        "total_yards": 182,
+        "yet_to_play": [
+            "Jalen Hurts",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "Rome Odunze",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Drake London",
+            "Tucker Kraft"
         ]
     },
     {
@@ -39,27 +60,6 @@
         ],
         "in_play": [
             "Jordan Love"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 161,
-        "rushing_yards": 5,
-        "total_yards": 166,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "Rome Odunze",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Drake London",
-            "Tucker Kraft"
         ]
     },
     {
