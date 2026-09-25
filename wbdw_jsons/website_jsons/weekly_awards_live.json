@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 137,
+        "receiving_yards": 0,
+        "rushing_yards": 0,
+        "total_yards": 137,
+        "yet_to_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore",
+            "Courtland Sutton",
+            "Travis Kelce",
+            "Tony Pollard",
+            "Rashod Bateman",
+            "Isaiah Likely"
+        ],
+        "in_play": [
+            "Jordan Love"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
         "receiving_yards": 17,
@@ -21,24 +42,24 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 96,
-        "receiving_yards": 0,
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 91,
         "rushing_yards": 0,
-        "total_yards": 96,
+        "total_yards": 91,
         "yet_to_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore",
-            "Courtland Sutton",
-            "Travis Kelce",
-            "Tony Pollard",
-            "Rashod Bateman",
-            "Isaiah Likely"
+            "Justin Herbert",
+            "Ashton Jeanty",
+            "Jadarian Price",
+            "Rashee Rice",
+            "Tyler Warren",
+            "Ladd McConkey",
+            "Dalton Kincaid",
+            "Chris Olave"
         ],
         "in_play": [
-            "Jordan Love"
+            "Matthew Golden",
+            "Christian Watson"
         ]
     },
     {
@@ -63,24 +84,24 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
+        "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 57,
-        "rushing_yards": 0,
-        "total_yards": 57,
+        "receiving_yards": 0,
+        "rushing_yards": 6,
+        "total_yards": 6,
         "yet_to_play": [
-            "Justin Herbert",
-            "Ashton Jeanty",
-            "Jadarian Price",
-            "Rashee Rice",
-            "Tyler Warren",
-            "Ladd McConkey",
-            "Dalton Kincaid",
-            "Chris Olave"
+            "Bryce Young",
+            "Jeremiyah Love",
+            "Chuba Hubbard",
+            "Luther Burden",
+            "Adonai Mitchell",
+            "Dontayvion Wicks",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Mike Washington"
         ],
         "in_play": [
-            "Matthew Golden",
-            "Christian Watson"
+            "Kaleb Johnson"
         ]
     },
     {
@@ -102,27 +123,6 @@
         ],
         "in_play": [
             "Kyle Pitts"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 5,
-        "total_yards": 5,
-        "yet_to_play": [
-            "Bryce Young",
-            "Jeremiyah Love",
-            "Chuba Hubbard",
-            "Luther Burden",
-            "Adonai Mitchell",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Mike Washington"
-        ],
-        "in_play": [
-            "Kaleb Johnson"
         ]
     },
     {
