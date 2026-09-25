@@ -125,6 +125,27 @@
         "in_play": []
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 0,
+        "total_yards": 0,
+        "yet_to_play": [
+            "Bryce Young",
+            "Jeremiyah Love",
+            "Chuba Hubbard",
+            "Luther Burden",
+            "Adonai Mitchell",
+            "Dontayvion Wicks",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Mike Washington"
+        ],
+        "in_play": [
+            "Kaleb Johnson"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -223,26 +244,5 @@
             "TreVeyon Henderson"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": -1,
-        "total_yards": -1,
-        "yet_to_play": [
-            "Bryce Young",
-            "Jeremiyah Love",
-            "Chuba Hubbard",
-            "Luther Burden",
-            "Adonai Mitchell",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Mike Washington"
-        ],
-        "in_play": [
-            "Kaleb Johnson"
-        ]
     }
 ]
