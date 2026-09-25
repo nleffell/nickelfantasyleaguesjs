@@ -22,10 +22,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 154,
+        "passing_yards": 172,
         "receiving_yards": 0,
         "rushing_yards": 0,
-        "total_yards": 154,
+        "total_yards": 172,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -39,6 +39,27 @@
         ],
         "in_play": [
             "Jordan Love"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 93,
+        "rushing_yards": 6,
+        "total_yards": 99,
+        "yet_to_play": [
+            "Jalen Hurts",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "Rome Odunze",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Drake London",
+            "Tucker Kraft"
         ]
     },
     {
@@ -63,32 +84,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 93,
-        "rushing_yards": 0,
-        "total_yards": 93,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "Rome Odunze",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Drake London",
-            "Tucker Kraft"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 0,
+        "receiving_yards": 10,
         "rushing_yards": 6,
-        "total_yards": 6,
+        "total_yards": 16,
         "yet_to_play": [
             "Bryce Young",
             "Jeremiyah Love",
