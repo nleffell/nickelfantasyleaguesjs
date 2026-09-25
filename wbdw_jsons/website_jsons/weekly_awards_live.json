@@ -1,5 +1,65 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 17,
+        "rushing_yards": 4,
+        "total_yards": 21,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Bijan Robinson",
+            "Kyren Williams",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews",
+            "Mike Evans",
+            "Terry McLaurin",
+            "Jaylen Waddle"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 7,
+        "rushing_yards": 0,
+        "total_yards": 7,
+        "yet_to_play": [
+            "Jalen Hurts",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Drake London",
+            "Josh Downs",
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 7,
+        "receiving_yards": 0,
+        "rushing_yards": 0,
+        "total_yards": 7,
+        "yet_to_play": [
+            "Jordan Love",
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore",
+            "Courtland Sutton",
+            "Travis Kelce",
+            "Tony Pollard",
+            "Rashod Bateman",
+            "Isaiah Likely"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -100,46 +160,6 @@
         "in_play": []
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Drake London",
-            "Josh Downs",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Kyren Williams",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews",
-            "Mike Evans",
-            "Terry McLaurin",
-            "Jaylen Waddle"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -216,26 +236,6 @@
             "Kalif Raymond",
             "Marvin Harrison",
             "TreVeyon Henderson"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Jordan Love",
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore",
-            "Courtland Sutton",
-            "Travis Kelce",
-            "Tony Pollard",
-            "Rashod Bateman",
-            "Isaiah Likely"
         ],
         "in_play": []
     }
