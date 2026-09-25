@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 17,
+        "rushing_yards": 73,
+        "total_yards": 90,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Kyren Williams",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews",
+            "Mike Evans",
+            "Terry McLaurin",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Bijan Robinson"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 82,
         "receiving_yards": 0,
@@ -39,27 +60,6 @@
         "in_play": [
             "Matthew Golden",
             "Christian Watson"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 17,
-        "rushing_yards": 13,
-        "total_yards": 30,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Kyren Williams",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews",
-            "Mike Evans",
-            "Terry McLaurin",
-            "Jaylen Waddle"
-        ],
-        "in_play": [
-            "Bijan Robinson"
         ]
     },
     {
