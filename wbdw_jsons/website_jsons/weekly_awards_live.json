@@ -16,9 +16,7 @@
             "Rashod Bateman",
             "Isaiah Likely"
         ],
-        "in_play": [
-            "Jordan Love"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -36,10 +34,7 @@
             "Chase Brown",
             "Saquon Barkley"
         ],
-        "in_play": [
-            "Drake London",
-            "Tucker Kraft"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -58,9 +53,7 @@
             "Terry McLaurin",
             "Jaylen Waddle"
         ],
-        "in_play": [
-            "Bijan Robinson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -78,10 +71,7 @@
             "Dalton Kincaid",
             "Chris Olave"
         ],
-        "in_play": [
-            "Matthew Golden",
-            "Christian Watson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -100,9 +90,7 @@
             "Alvin Kamara",
             "Mike Washington"
         ],
-        "in_play": [
-            "Kaleb Johnson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -121,9 +109,7 @@
             "Michael Mayer",
             "Antonio Williams"
         ],
-        "in_play": [
-            "Kyle Pitts"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
