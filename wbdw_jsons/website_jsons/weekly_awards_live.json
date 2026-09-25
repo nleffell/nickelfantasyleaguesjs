@@ -1,10 +1,10 @@
 [
     {
         "owner": "Tyler Smith",
-        "passing_yards": 278,
+        "passing_yards": 312,
         "receiving_yards": 0,
         "rushing_yards": 0,
-        "total_yards": 278,
+        "total_yards": 312,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -65,9 +65,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 176,
+        "receiving_yards": 196,
         "rushing_yards": 0,
-        "total_yards": 176,
+        "total_yards": 196,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
