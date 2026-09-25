@@ -42,6 +42,27 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 61,
+        "rushing_yards": 0,
+        "total_yards": 61,
+        "yet_to_play": [
+            "Jalen Hurts",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "Rome Odunze",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Drake London",
+            "Tucker Kraft"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 49,
@@ -60,27 +81,6 @@
         "in_play": [
             "Matthew Golden",
             "Christian Watson"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 41,
-        "rushing_yards": 0,
-        "total_yards": 41,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "Rome Odunze",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Drake London",
-            "Tucker Kraft"
         ]
     },
     {
@@ -105,6 +105,27 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 5,
+        "total_yards": 5,
+        "yet_to_play": [
+            "Bryce Young",
+            "Jeremiyah Love",
+            "Chuba Hubbard",
+            "Luther Burden",
+            "Adonai Mitchell",
+            "Dontayvion Wicks",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Mike Washington"
+        ],
+        "in_play": [
+            "Kaleb Johnson"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -123,27 +144,6 @@
             "DK Metcalf"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Bryce Young",
-            "Jeremiyah Love",
-            "Chuba Hubbard",
-            "Luther Burden",
-            "Adonai Mitchell",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Mike Washington"
-        ],
-        "in_play": [
-            "Kaleb Johnson"
-        ]
     },
     {
         "owner": "TJ Pickeral",
