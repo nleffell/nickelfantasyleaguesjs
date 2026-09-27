@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
-        "receiving_yards": 524,
+        "receiving_yards": 535,
         "rushing_yards": 64,
-        "total_yards": 814,
+        "total_yards": 825,
         "yet_to_play": [],
         "in_play": [
             "Ashton Jeanty",
@@ -57,8 +57,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 312,
         "receiving_yards": 245,
-        "rushing_yards": 219,
-        "total_yards": 776,
+        "rushing_yards": 217,
+        "total_yards": 774,
         "yet_to_play": [
             "Davante Adams",
             "Courtland Sutton"
@@ -72,9 +72,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 266,
-        "receiving_yards": 322,
-        "rushing_yards": 122,
-        "total_yards": 710,
+        "receiving_yards": 344,
+        "rushing_yards": 125,
+        "total_yards": 735,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -133,9 +133,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 156,
-        "receiving_yards": 307,
+        "receiving_yards": 314,
         "rushing_yards": 126,
-        "total_yards": 589,
+        "total_yards": 596,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
