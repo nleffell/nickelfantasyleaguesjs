@@ -42,8 +42,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 357,
-        "rushing_yards": 162,
-        "total_yards": 700,
+        "rushing_yards": 161,
+        "total_yards": 699,
         "yet_to_play": [
             "D'Andre Swift"
         ],
@@ -101,8 +101,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 170,
         "receiving_yards": 314,
-        "rushing_yards": 82,
-        "total_yards": 566,
+        "rushing_yards": 88,
+        "total_yards": 572,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -159,9 +159,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 58,
-        "receiving_yards": 134,
-        "rushing_yards": 139,
-        "total_yards": 331,
+        "receiving_yards": 148,
+        "rushing_yards": 143,
+        "total_yards": 349,
         "yet_to_play": [
             "DeVonta Smith"
         ],
