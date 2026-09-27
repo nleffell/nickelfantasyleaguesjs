@@ -14,7 +14,7 @@
             "Travis Kelce",
             "Tony Pollard",
             "Rashod Bateman",
-            "Isaiah Likely"
+            "Dalton Schultz"
         ],
         "in_play": []
     },
@@ -45,12 +45,12 @@
         "yet_to_play": [
             "Trevor Lawrence",
             "Kyren Williams",
-            "Nico Collins",
+            "Terry McLaurin",
             "Garrett Wilson",
             "Ja'Marr Chase",
             "Mark Andrews",
             "Mike Evans",
-            "Terry McLaurin",
+            "Xavier Hutchinson",
             "Jaylen Waddle"
         ],
         "in_play": []
@@ -84,7 +84,7 @@
             "Jeremiyah Love",
             "Chuba Hubbard",
             "Luther Burden",
-            "Adonai Mitchell",
+            "Cooper Kupp",
             "Dontayvion Wicks",
             "T.J. Hockenson",
             "Alvin Kamara",
@@ -101,12 +101,12 @@
         "yet_to_play": [
             "Patrick Mahomes",
             "Braelon Allen",
-            "Will Shipley",
+            "Ollie Gordon",
             "George Pickens",
             "Malik Nabers",
             "Emeka Egbuka",
             "Cade Otton",
-            "Michael Mayer",
+            "Isaiah Williams",
             "Antonio Williams"
         ],
         "in_play": []
@@ -120,14 +120,14 @@
         "yet_to_play": [
             "Lamar Jackson",
             "De'Von Achane",
-            "Travis Etienne",
+            "Bhayshul Tuten",
             "Amon-Ra St. Brown",
             "Justin Jefferson",
-            "DeVonta Smith",
+            "Michael Wilson",
             "Juwan Johnson",
             "George Kittle",
-            "Bhayshul Tuten",
-            "DK Metcalf"
+            "Travis Etienne",
+            "DeVonta Smith"
         ],
         "in_play": []
     },
@@ -140,14 +140,14 @@
         "yet_to_play": [
             "Josh Allen",
             "David Montgomery",
-            "Quinshon Judkins",
+            "Jaylen Warren",
             "CeeDee Lamb",
             "Stefon Diggs",
             "Khalil Shakir",
-            "Colston Loveland",
-            "Jaylen Warren",
+            "Brenton Strange",
+            "Quinshon Judkins",
             "Deebo Samuel",
-            "Jacory Croskey-Merritt"
+            "Rachaad White"
         ],
         "in_play": []
     },
@@ -198,7 +198,7 @@
         "rushing_yards": 0,
         "total_yards": 0,
         "yet_to_play": [
-            "Drew Lock",
+            "Sam Darnold",
             "Blake Corum",
             "Omarion Hampton",
             "Carnell Tate",
@@ -225,8 +225,8 @@
             "Tee Higgins",
             "Jordan Addison",
             "Kenyon Sadiq",
+            "Michael Pittman",
             "Kalif Raymond",
-            "Marvin Harrison",
             "TreVeyon Henderson"
         ],
         "in_play": []
