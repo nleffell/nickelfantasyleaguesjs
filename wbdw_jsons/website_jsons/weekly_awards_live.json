@@ -29,9 +29,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 204,
-        "receiving_yards": 281,
+        "receiving_yards": 280,
         "rushing_yards": 290,
-        "total_yards": 775,
+        "total_yards": 774,
         "yet_to_play": [],
         "in_play": [
             "CeeDee Lamb",
@@ -41,9 +41,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 181,
-        "receiving_yards": 383,
-        "rushing_yards": 164,
-        "total_yards": 728,
+        "receiving_yards": 390,
+        "rushing_yards": 166,
+        "total_yards": 737,
         "yet_to_play": [
             "D'Andre Swift"
         ],
@@ -73,8 +73,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 245,
         "receiving_yards": 322,
-        "rushing_yards": 108,
-        "total_yards": 675,
+        "rushing_yards": 110,
+        "total_yards": 677,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -83,6 +83,21 @@
             "Bucky Irving",
             "Aaron Jones",
             "Jordan Addison"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 379,
+        "receiving_yards": 234,
+        "rushing_yards": 61,
+        "total_yards": 674,
+        "yet_to_play": [
+            "Blake Corum",
+            "Kyle Monangai"
+        ],
+        "in_play": [
+            "Devaughn Vele",
+            "Tre Tucker"
         ]
     },
     {
@@ -99,26 +114,11 @@
         "in_play": []
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 379,
-        "receiving_yards": 223,
-        "rushing_yards": 61,
-        "total_yards": 663,
-        "yet_to_play": [
-            "Blake Corum",
-            "Kyle Monangai"
-        ],
-        "in_play": [
-            "Devaughn Vele",
-            "Tre Tucker"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 291,
         "receiving_yards": 104,
-        "rushing_yards": 162,
-        "total_yards": 557,
+        "rushing_yards": 176,
+        "total_yards": 571,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -128,6 +128,19 @@
             "T.J. Hockenson",
             "Alvin Kamara",
             "Mike Washington"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 106,
+        "receiving_yards": 277,
+        "rushing_yards": 126,
+        "total_yards": 509,
+        "yet_to_play": [],
+        "in_play": [
+            "Dak Prescott",
+            "Trey McBride",
+            "Jake Ferguson"
         ]
     },
     {
@@ -144,24 +157,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 105,
-        "receiving_yards": 277,
-        "rushing_yards": 119,
-        "total_yards": 501,
-        "yet_to_play": [],
-        "in_play": [
-            "Dak Prescott",
-            "Trey McBride",
-            "Jake Ferguson"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
         "passing_yards": 58,
-        "receiving_yards": 176,
+        "receiving_yards": 187,
         "rushing_yards": 143,
-        "total_yards": 377,
+        "total_yards": 388,
         "yet_to_play": [
             "DeVonta Smith"
         ],
