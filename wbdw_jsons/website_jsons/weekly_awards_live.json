@@ -41,9 +41,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 181,
-        "receiving_yards": 390,
+        "receiving_yards": 394,
         "rushing_yards": 190,
-        "total_yards": 761,
+        "total_yards": 765,
         "yet_to_play": [
             "D'Andre Swift"
         ],
@@ -70,6 +70,22 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 245,
+        "receiving_yards": 322,
+        "rushing_yards": 126,
+        "total_yards": 693,
+        "yet_to_play": [
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jordan Addison"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 251,
@@ -82,22 +98,6 @@
         "in_play": [
             "Devaughn Vele",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 245,
-        "receiving_yards": 322,
-        "rushing_yards": 118,
-        "total_yards": 685,
-        "yet_to_play": [
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jordan Addison"
         ]
     },
     {
@@ -116,9 +116,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 114,
+        "receiving_yards": 110,
         "rushing_yards": 193,
-        "total_yards": 598,
+        "total_yards": 594,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -133,9 +133,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 219,
+        "receiving_yards": 218,
         "rushing_yards": 56,
-        "total_yards": 521,
+        "total_yards": 520,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 119,
+        "passing_yards": 118,
         "receiving_yards": 275,
         "rushing_yards": 126,
-        "total_yards": 520,
+        "total_yards": 519,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -158,10 +158,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 58,
-        "receiving_yards": 218,
-        "rushing_yards": 169,
-        "total_yards": 445,
+        "passing_yards": 62,
+        "receiving_yards": 224,
+        "rushing_yards": 181,
+        "total_yards": 467,
         "yet_to_play": [
             "DeVonta Smith"
         ],
