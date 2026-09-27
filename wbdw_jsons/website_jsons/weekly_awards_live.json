@@ -69,9 +69,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
-        "receiving_yards": 213,
+        "receiving_yards": 212,
         "rushing_yards": 61,
-        "total_yards": 653,
+        "total_yards": 652,
         "yet_to_play": [
             "Blake Corum",
             "Kyle Monangai"
@@ -99,10 +99,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 293,
-        "receiving_yards": 95,
-        "rushing_yards": 142,
-        "total_yards": 530,
+        "passing_yards": 291,
+        "receiving_yards": 100,
+        "rushing_yards": 144,
+        "total_yards": 535,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 160,
-        "receiving_yards": 238,
+        "passing_yards": 161,
+        "receiving_yards": 243,
         "rushing_yards": 76,
-        "total_yards": 474,
+        "total_yards": 480,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -133,9 +133,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 119,
+        "receiving_yards": 169,
         "rushing_yards": 56,
-        "total_yards": 421,
+        "total_yards": 471,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -146,9 +146,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 49,
-        "receiving_yards": 225,
+        "receiving_yards": 252,
         "rushing_yards": 119,
-        "total_yards": 393,
+        "total_yards": 420,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -158,10 +158,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 31,
-        "receiving_yards": 98,
+        "passing_yards": 38,
+        "receiving_yards": 106,
         "rushing_yards": 125,
-        "total_yards": 254,
+        "total_yards": 269,
         "yet_to_play": [
             "DeVonta Smith"
         ],
