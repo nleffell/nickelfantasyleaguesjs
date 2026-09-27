@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
-        "receiving_yards": 310,
+        "receiving_yards": 322,
         "rushing_yards": 223,
-        "total_yards": 715,
+        "total_yards": 727,
         "yet_to_play": [
             "Kyren Williams",
             "Mark Andrews",
@@ -20,30 +20,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 316,
-        "rushing_yards": 333,
-        "total_yards": 649,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "James Cook",
-            "Chase Brown"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
-        "passing_yards": 157,
-        "receiving_yards": 421,
+        "passing_yards": 225,
+        "receiving_yards": 450,
         "rushing_yards": 34,
-        "total_yards": 612,
+        "total_yards": 709,
         "yet_to_play": [
             "Ashton Jeanty",
             "Chris Olave"
@@ -58,11 +39,30 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 316,
+        "rushing_yards": 340,
+        "total_yards": 656,
+        "yet_to_play": [
+            "Jalen Hurts",
+            "Rome Odunze",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "James Cook",
+            "Chase Brown"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 204,
-        "receiving_yards": 137,
-        "rushing_yards": 219,
-        "total_yards": 560,
+        "receiving_yards": 142,
+        "rushing_yards": 252,
+        "total_yards": 598,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -82,8 +82,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 312,
         "receiving_yards": 160,
-        "rushing_yards": 76,
-        "total_yards": 548,
+        "rushing_yards": 75,
+        "total_yards": 547,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -183,9 +183,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 212,
+        "receiving_yards": 225,
         "rushing_yards": 119,
-        "total_yards": 331,
+        "total_yards": 344,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
