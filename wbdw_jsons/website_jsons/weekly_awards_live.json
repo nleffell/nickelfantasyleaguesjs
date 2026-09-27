@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
-        "receiving_yards": 303,
+        "receiving_yards": 310,
         "rushing_yards": 223,
-        "total_yards": 708,
+        "total_yards": 715,
         "yet_to_play": [
             "Kyren Williams",
             "Mark Andrews",
@@ -23,8 +23,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 316,
-        "rushing_yards": 310,
-        "total_yards": 626,
+        "rushing_yards": 333,
+        "total_yards": 649,
         "yet_to_play": [
             "Jalen Hurts",
             "Rome Odunze",
@@ -59,10 +59,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 188,
+        "passing_yards": 204,
         "receiving_yards": 137,
-        "rushing_yards": 213,
-        "total_yards": 538,
+        "rushing_yards": 219,
+        "total_yards": 560,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -81,9 +81,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 312,
-        "receiving_yards": 144,
+        "receiving_yards": 160,
         "rushing_yards": 76,
-        "total_yards": 532,
+        "total_yards": 548,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 273,
-        "receiving_yards": 166,
+        "passing_yards": 285,
+        "receiving_yards": 171,
         "rushing_yards": 61,
-        "total_yards": 500,
+        "total_yards": 517,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -122,9 +122,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 164,
-        "receiving_yards": 199,
+        "receiving_yards": 210,
         "rushing_yards": 109,
-        "total_yards": 472,
+        "total_yards": 483,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers",
@@ -141,31 +141,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 246,
-        "receiving_yards": 76,
-        "rushing_yards": 56,
-        "total_yards": 378,
-        "yet_to_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Isaiah Williams",
-            "Antonio Williams"
-        ]
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 232,
+        "passing_yards": 255,
         "receiving_yards": 77,
-        "rushing_yards": 58,
-        "total_yards": 367,
+        "rushing_yards": 88,
+        "total_yards": 420,
         "yet_to_play": [
             "Jeremiyah Love",
             "Luther Burden",
@@ -181,11 +161,31 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 246,
+        "receiving_yards": 84,
+        "rushing_yards": 56,
+        "total_yards": 386,
+        "yet_to_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Isaiah Williams",
+            "Antonio Williams"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 212,
-        "rushing_yards": 120,
-        "total_yards": 332,
+        "rushing_yards": 119,
+        "total_yards": 331,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
@@ -204,9 +204,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 227,
+        "receiving_yards": 234,
         "rushing_yards": 23,
-        "total_yards": 250,
+        "total_yards": 257,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
