@@ -26,9 +26,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 297,
-        "receiving_yards": 370,
-        "rushing_yards": 160,
-        "total_yards": 827,
+        "receiving_yards": 371,
+        "rushing_yards": 161,
+        "total_yards": 829,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -40,26 +40,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 181,
-        "receiving_yards": 422,
-        "rushing_yards": 207,
-        "total_yards": 810,
-        "yet_to_play": [
-            "D'Andre Swift"
-        ],
-        "in_play": [
-            "Javonte Williams",
-            "Brock Bowers",
-            "Chris Godwin"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
-        "receiving_yards": 400,
+        "receiving_yards": 410,
         "rushing_yards": 223,
-        "total_yards": 805,
+        "total_yards": 815,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle"
@@ -70,11 +55,26 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 181,
+        "receiving_yards": 426,
+        "rushing_yards": 207,
+        "total_yards": 814,
+        "yet_to_play": [
+            "D'Andre Swift"
+        ],
+        "in_play": [
+            "Javonte Williams",
+            "Brock Bowers",
+            "Chris Godwin"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 312,
         "receiving_yards": 256,
-        "rushing_yards": 235,
-        "total_yards": 803,
+        "rushing_yards": 238,
+        "total_yards": 806,
         "yet_to_play": [
             "Davante Adams",
             "Courtland Sutton"
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 119,
+        "passing_yards": 129,
         "receiving_yards": 287,
-        "rushing_yards": 209,
-        "total_yards": 615,
+        "rushing_yards": 197,
+        "total_yards": 613,
         "yet_to_play": [
             "DeVonta Smith"
         ],
