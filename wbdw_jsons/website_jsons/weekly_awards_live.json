@@ -20,10 +20,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 105,
+        "passing_yards": 111,
         "receiving_yards": 109,
         "rushing_yards": 202,
-        "total_yards": 416,
+        "total_yards": 422,
         "yet_to_play": [
             "Kyren Williams",
             "Mark Andrews",
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 171,
-        "receiving_yards": 68,
+        "passing_yards": 173,
+        "receiving_yards": 96,
         "rushing_yards": 22,
-        "total_yards": 261,
+        "total_yards": 291,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -140,6 +140,27 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 40,
+        "receiving_yards": 116,
+        "rushing_yards": 42,
+        "total_yards": 198,
+        "yet_to_play": [
+            "Javonte Williams",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Chris Godwin"
+        ],
+        "in_play": [
+            "C.J. Stroud",
+            "Jahmyr Gibbs",
+            "Jaxon Smith-Njigba",
+            "Tetairoa McMillan",
+            "Jameson Williams",
+            "Kayshon Boutte"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 146,
@@ -161,32 +182,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 40,
-        "receiving_yards": 109,
-        "rushing_yards": 39,
-        "total_yards": 188,
-        "yet_to_play": [
-            "Javonte Williams",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Chris Godwin"
-        ],
-        "in_play": [
-            "C.J. Stroud",
-            "Jahmyr Gibbs",
-            "Jaxon Smith-Njigba",
-            "Tetairoa McMillan",
-            "Jameson Williams",
-            "Kayshon Boutte"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 134,
-        "receiving_yards": 22,
+        "receiving_yards": 23,
         "rushing_yards": 28,
-        "total_yards": 184,
+        "total_yards": 185,
         "yet_to_play": [
             "George Pickens",
             "Emeka Egbuka",
@@ -204,9 +204,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 87,
+        "receiving_yards": 115,
         "rushing_yards": 23,
-        "total_yards": 110,
+        "total_yards": 138,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
