@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
-        "receiving_yards": 575,
+        "receiving_yards": 594,
         "rushing_yards": 90,
-        "total_yards": 891,
+        "total_yards": 910,
         "yet_to_play": [],
         "in_play": [
             "Ashton Jeanty",
@@ -104,6 +104,21 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 185,
+        "receiving_yards": 300,
+        "rushing_yards": 197,
+        "total_yards": 682,
+        "yet_to_play": [
+            "DeVonta Smith"
+        ],
+        "in_play": [
+            "Lamar Jackson",
+            "Juwan Johnson",
+            "Travis Etienne"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 291,
         "receiving_yards": 119,
@@ -130,21 +145,6 @@
             "Saquon Barkley"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 159,
-        "receiving_yards": 305,
-        "rushing_yards": 197,
-        "total_yards": 661,
-        "yet_to_play": [
-            "DeVonta Smith"
-        ],
-        "in_play": [
-            "Lamar Jackson",
-            "Juwan Johnson",
-            "Travis Etienne"
-        ]
     },
     {
         "owner": "Nick Leffell",
