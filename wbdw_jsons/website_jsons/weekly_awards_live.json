@@ -18,8 +18,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 226,
         "receiving_yards": 495,
-        "rushing_yards": 56,
-        "total_yards": 777,
+        "rushing_yards": 58,
+        "total_yards": 779,
         "yet_to_play": [],
         "in_play": [
             "Ashton Jeanty",
@@ -29,9 +29,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 204,
-        "receiving_yards": 242,
+        "receiving_yards": 260,
         "rushing_yards": 290,
-        "total_yards": 736,
+        "total_yards": 754,
         "yet_to_play": [],
         "in_play": [
             "CeeDee Lamb",
@@ -99,10 +99,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 170,
+        "passing_yards": 204,
         "receiving_yards": 314,
         "rushing_yards": 88,
-        "total_yards": 572,
+        "total_yards": 606,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -133,9 +133,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 174,
+        "receiving_yards": 188,
         "rushing_yards": 56,
-        "total_yards": 476,
+        "total_yards": 490,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 54,
-        "receiving_yards": 257,
+        "passing_yards": 73,
+        "receiving_yards": 264,
         "rushing_yards": 119,
-        "total_yards": 430,
+        "total_yards": 456,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -159,9 +159,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 58,
-        "receiving_yards": 148,
+        "receiving_yards": 147,
         "rushing_yards": 143,
-        "total_yards": 349,
+        "total_yards": 348,
         "yet_to_play": [
             "DeVonta Smith"
         ],
