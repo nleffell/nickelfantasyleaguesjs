@@ -26,9 +26,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 297,
-        "receiving_yards": 359,
+        "receiving_yards": 370,
         "rushing_yards": 160,
-        "total_yards": 816,
+        "total_yards": 827,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -43,8 +43,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 422,
-        "rushing_yards": 206,
-        "total_yards": 809,
+        "rushing_yards": 207,
+        "total_yards": 810,
         "yet_to_play": [
             "D'Andre Swift"
         ],
@@ -73,8 +73,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 312,
         "receiving_yards": 256,
-        "rushing_yards": 226,
-        "total_yards": 794,
+        "rushing_yards": 235,
+        "total_yards": 803,
         "yet_to_play": [
             "Davante Adams",
             "Courtland Sutton"
@@ -103,9 +103,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 240,
-        "receiving_yards": 314,
-        "rushing_yards": 126,
-        "total_yards": 680,
+        "receiving_yards": 323,
+        "rushing_yards": 129,
+        "total_yards": 692,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -129,9 +129,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 111,
+        "receiving_yards": 119,
         "rushing_yards": 248,
-        "total_yards": 650,
+        "total_yards": 658,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -141,6 +141,24 @@
             "T.J. Hockenson",
             "Alvin Kamara",
             "Mike Washington"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 119,
+        "receiving_yards": 287,
+        "rushing_yards": 209,
+        "total_yards": 615,
+        "yet_to_play": [
+            "DeVonta Smith"
+        ],
+        "in_play": [
+            "Lamar Jackson",
+            "Justin Jefferson",
+            "Michael Wilson",
+            "Juwan Johnson",
+            "George Kittle",
+            "Travis Etienne"
         ]
     },
     {
@@ -154,24 +172,6 @@
             "George Pickens",
             "Emeka Egbuka",
             "Cade Otton"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 119,
-        "receiving_yards": 269,
-        "rushing_yards": 180,
-        "total_yards": 568,
-        "yet_to_play": [
-            "DeVonta Smith"
-        ],
-        "in_play": [
-            "Lamar Jackson",
-            "Justin Jefferson",
-            "Michael Wilson",
-            "Juwan Johnson",
-            "George Kittle",
-            "Travis Etienne"
         ]
     }
 ]
