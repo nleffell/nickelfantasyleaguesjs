@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
-        "receiving_yards": 544,
-        "rushing_yards": 64,
-        "total_yards": 834,
+        "receiving_yards": 566,
+        "rushing_yards": 73,
+        "total_yards": 865,
         "yet_to_play": [],
         "in_play": [
             "Ashton Jeanty",
@@ -21,6 +21,22 @@
         "in_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 297,
+        "receiving_yards": 359,
+        "rushing_yards": 160,
+        "total_yards": 816,
+        "yet_to_play": [
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jordan Addison"
         ]
     },
     {
@@ -41,9 +57,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
-        "receiving_yards": 395,
+        "receiving_yards": 400,
         "rushing_yards": 223,
-        "total_yards": 800,
+        "total_yards": 805,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle"
@@ -57,8 +73,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 312,
         "receiving_yards": 256,
-        "rushing_yards": 229,
-        "total_yards": 797,
+        "rushing_yards": 226,
+        "total_yards": 794,
         "yet_to_play": [
             "Davante Adams",
             "Courtland Sutton"
@@ -70,27 +86,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 277,
-        "receiving_yards": 361,
-        "rushing_yards": 125,
-        "total_yards": 763,
-        "yet_to_play": [
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jordan Addison"
-        ]
-    },
-    {
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
-        "receiving_yards": 260,
+        "receiving_yards": 275,
         "rushing_yards": 61,
-        "total_yards": 700,
+        "total_yards": 715,
         "yet_to_play": [
             "Blake Corum",
             "Kyle Monangai"
@@ -130,8 +130,8 @@
         "owner": "Chad Hill",
         "passing_yards": 291,
         "receiving_yards": 111,
-        "rushing_yards": 243,
-        "total_yards": 645,
+        "rushing_yards": 248,
+        "total_yards": 650,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -158,10 +158,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 114,
-        "receiving_yards": 249,
+        "passing_yards": 119,
+        "receiving_yards": 269,
         "rushing_yards": 180,
-        "total_yards": 543,
+        "total_yards": 568,
         "yet_to_play": [
             "DeVonta Smith"
         ],
