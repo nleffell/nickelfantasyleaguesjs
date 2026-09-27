@@ -1,5 +1,44 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 169,
+        "receiving_yards": 210,
+        "rushing_yards": 204,
+        "total_yards": 583,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Mark Andrews",
+            "Mike Evans",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Trevor Lawrence",
+            "Terry McLaurin",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Xavier Hutchinson"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 313,
+        "rushing_yards": 253,
+        "total_yards": 566,
+        "yet_to_play": [
+            "Jalen Hurts",
+            "Rome Odunze",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "James Cook",
+            "Chase Brown"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 152,
         "receiving_yards": 369,
@@ -19,50 +58,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 313,
-        "rushing_yards": 217,
-        "total_yards": 530,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "James Cook",
-            "Chase Brown"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 139,
-        "receiving_yards": 180,
-        "rushing_yards": 204,
-        "total_yards": 523,
-        "yet_to_play": [
-            "Kyren Williams",
-            "Mark Andrews",
-            "Mike Evans",
-            "Jaylen Waddle"
-        ],
-        "in_play": [
-            "Trevor Lawrence",
-            "Terry McLaurin",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Xavier Hutchinson"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 312,
-        "receiving_yards": 98,
+        "receiving_yards": 110,
         "rushing_yards": 49,
-        "total_yards": 459,
+        "total_yards": 471,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -79,10 +79,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 142,
-        "receiving_yards": 107,
-        "rushing_yards": 146,
-        "total_yards": 395,
+        "passing_yards": 154,
+        "receiving_yards": 126,
+        "rushing_yards": 158,
+        "total_yards": 438,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -101,9 +101,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 186,
-        "receiving_yards": 123,
+        "receiving_yards": 140,
         "rushing_yards": 48,
-        "total_yards": 357,
+        "total_yards": 374,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -144,8 +144,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 174,
-        "rushing_yards": 112,
-        "total_yards": 286,
+        "rushing_yards": 110,
+        "total_yards": 284,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
@@ -184,9 +184,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 146,
-        "receiving_yards": 48,
-        "rushing_yards": 41,
-        "total_yards": 235,
+        "receiving_yards": 69,
+        "rushing_yards": 42,
+        "total_yards": 257,
         "yet_to_play": [
             "George Pickens",
             "Emeka Egbuka",
@@ -204,9 +204,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 131,
+        "receiving_yards": 174,
         "rushing_yards": 23,
-        "total_yards": 154,
+        "total_yards": 197,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
