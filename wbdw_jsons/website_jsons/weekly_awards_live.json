@@ -29,9 +29,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 204,
-        "receiving_yards": 260,
+        "receiving_yards": 281,
         "rushing_yards": 290,
-        "total_yards": 754,
+        "total_yards": 775,
         "yet_to_play": [],
         "in_play": [
             "CeeDee Lamb",
@@ -117,8 +117,8 @@
         "owner": "Chad Hill",
         "passing_yards": 291,
         "receiving_yards": 104,
-        "rushing_yards": 152,
-        "total_yards": 547,
+        "rushing_yards": 162,
+        "total_yards": 557,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -133,9 +133,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 188,
+        "receiving_yards": 204,
         "rushing_yards": 56,
-        "total_yards": 490,
+        "total_yards": 506,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 73,
-        "receiving_yards": 264,
+        "passing_yards": 105,
+        "receiving_yards": 277,
         "rushing_yards": 119,
-        "total_yards": 456,
+        "total_yards": 501,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
