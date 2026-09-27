@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 169,
-        "receiving_yards": 238,
+        "receiving_yards": 263,
         "rushing_yards": 207,
-        "total_yards": 614,
+        "total_yards": 639,
         "yet_to_play": [
             "Kyren Williams",
             "Mark Andrews",
@@ -23,8 +23,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 316,
-        "rushing_yards": 265,
-        "total_yards": 581,
+        "rushing_yards": 270,
+        "total_yards": 586,
         "yet_to_play": [
             "Jalen Hurts",
             "Rome Odunze",
@@ -58,31 +58,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 111,
-        "rushing_yards": 64,
-        "total_yards": 487,
-        "yet_to_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Davante Adams",
-            "Courtland Sutton",
-            "Rashod Bateman"
-        ],
-        "in_play": [
-            "DJ Moore",
-            "Travis Kelce",
-            "Tony Pollard",
-            "Dalton Schultz"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
-        "passing_yards": 159,
-        "receiving_yards": 132,
-        "rushing_yards": 176,
-        "total_yards": 467,
+        "passing_yards": 188,
+        "receiving_yards": 137,
+        "rushing_yards": 187,
+        "total_yards": 512,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -99,11 +79,31 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 116,
+        "rushing_yards": 68,
+        "total_yards": 496,
+        "yet_to_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Davante Adams",
+            "Courtland Sutton",
+            "Rashod Bateman"
+        ],
+        "in_play": [
+            "DJ Moore",
+            "Travis Kelce",
+            "Tony Pollard",
+            "Dalton Schultz"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
-        "passing_yards": 234,
+        "passing_yards": 233,
         "receiving_yards": 166,
         "rushing_yards": 55,
-        "total_yards": 455,
+        "total_yards": 454,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -121,10 +121,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 82,
+        "passing_yards": 112,
         "receiving_yards": 161,
         "rushing_yards": 111,
-        "total_yards": 354,
+        "total_yards": 384,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers",
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 167,
+        "passing_yards": 196,
         "receiving_yards": 77,
         "rushing_yards": 58,
-        "total_yards": 302,
+        "total_yards": 331,
         "yet_to_play": [
             "Jeremiyah Love",
             "Luther Burden",
@@ -163,9 +163,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 186,
-        "receiving_yards": 69,
-        "rushing_yards": 45,
-        "total_yards": 300,
+        "receiving_yards": 65,
+        "rushing_yards": 57,
+        "total_yards": 308,
         "yet_to_play": [
             "George Pickens",
             "Emeka Egbuka",
@@ -183,9 +183,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 174,
+        "receiving_yards": 179,
         "rushing_yards": 114,
-        "total_yards": 288,
+        "total_yards": 293,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
