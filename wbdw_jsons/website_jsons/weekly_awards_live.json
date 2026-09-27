@@ -78,52 +78,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 130,
-        "receiving_yards": 10,
-        "rushing_yards": 20,
-        "total_yards": 160,
-        "yet_to_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Isaiah Williams",
-            "Antonio Williams"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 99,
-        "receiving_yards": 39,
-        "rushing_yards": 21,
-        "total_yards": 159,
-        "yet_to_play": [
-            "Blake Corum",
-            "Devaughn Vele",
-            "Kyle Monangai",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Carnell Tate",
-            "Parker Washington",
-            "Sam LaPorta",
-            "Harold Fannin"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
-        "passing_yards": 23,
-        "receiving_yards": 46,
-        "rushing_yards": 89,
-        "total_yards": 158,
+        "passing_yards": 42,
+        "receiving_yards": 55,
+        "rushing_yards": 94,
+        "total_yards": 191,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -140,11 +99,52 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 99,
+        "receiving_yards": 55,
+        "rushing_yards": 21,
+        "total_yards": 175,
+        "yet_to_play": [
+            "Blake Corum",
+            "Devaughn Vele",
+            "Kyle Monangai",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Sam Darnold",
+            "Omarion Hampton",
+            "Carnell Tate",
+            "Parker Washington",
+            "Sam LaPorta",
+            "Harold Fannin"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 131,
+        "receiving_yards": 10,
+        "rushing_yards": 20,
+        "total_yards": 161,
+        "yet_to_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Isaiah Williams",
+            "Antonio Williams"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 114,
-        "rushing_yards": 25,
-        "total_yards": 139,
+        "rushing_yards": 22,
+        "total_yards": 136,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
@@ -163,9 +163,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 18,
-        "receiving_yards": 89,
-        "rushing_yards": 22,
-        "total_yards": 129,
+        "receiving_yards": 88,
+        "rushing_yards": 29,
+        "total_yards": 135,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers",
@@ -225,9 +225,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 18,
+        "receiving_yards": 17,
         "rushing_yards": 41,
-        "total_yards": 59,
+        "total_yards": 58,
         "yet_to_play": [
             "Lamar Jackson",
             "Justin Jefferson",
