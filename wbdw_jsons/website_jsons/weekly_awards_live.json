@@ -1,5 +1,17 @@
 [
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 226,
+        "receiving_yards": 512,
+        "rushing_yards": 64,
+        "total_yards": 802,
+        "yet_to_play": [],
+        "in_play": [
+            "Ashton Jeanty",
+            "Chris Olave"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 395,
@@ -15,15 +27,18 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 226,
-        "receiving_yards": 512,
-        "rushing_yards": 58,
-        "total_yards": 796,
-        "yet_to_play": [],
+        "owner": "Kyle Nester",
+        "passing_yards": 181,
+        "receiving_yards": 413,
+        "rushing_yards": 205,
+        "total_yards": 799,
+        "yet_to_play": [
+            "D'Andre Swift"
+        ],
         "in_play": [
-            "Ashton Jeanty",
-            "Chris Olave"
+            "Javonte Williams",
+            "Brock Bowers",
+            "Chris Godwin"
         ]
     },
     {
@@ -36,21 +51,6 @@
         "in_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 181,
-        "receiving_yards": 394,
-        "rushing_yards": 190,
-        "total_yards": 765,
-        "yet_to_play": [
-            "D'Andre Swift"
-        ],
-        "in_play": [
-            "Javonte Williams",
-            "Brock Bowers",
-            "Chris Godwin"
         ]
     },
     {
@@ -70,11 +70,26 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 379,
+        "receiving_yards": 260,
+        "rushing_yards": 61,
+        "total_yards": 700,
+        "yet_to_play": [
+            "Blake Corum",
+            "Kyle Monangai"
+        ],
+        "in_play": [
+            "Devaughn Vele",
+            "Tre Tucker"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
-        "passing_yards": 245,
+        "passing_yards": 256,
         "receiving_yards": 322,
-        "rushing_yards": 126,
-        "total_yards": 693,
+        "rushing_yards": 120,
+        "total_yards": 698,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -83,21 +98,6 @@
             "Bucky Irving",
             "Aaron Jones",
             "Jordan Addison"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 379,
-        "receiving_yards": 251,
-        "rushing_yards": 61,
-        "total_yards": 691,
-        "yet_to_play": [
-            "Blake Corum",
-            "Kyle Monangai"
-        ],
-        "in_play": [
-            "Devaughn Vele",
-            "Tre Tucker"
         ]
     },
     {
@@ -116,9 +116,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 110,
-        "rushing_yards": 193,
-        "total_yards": 594,
+        "receiving_yards": 111,
+        "rushing_yards": 229,
+        "total_yards": 631,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -133,9 +133,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 218,
+        "receiving_yards": 237,
         "rushing_yards": 56,
-        "total_yards": 520,
+        "total_yards": 539,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 118,
+        "passing_yards": 137,
         "receiving_yards": 275,
         "rushing_yards": 126,
-        "total_yards": 519,
+        "total_yards": 538,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -159,9 +159,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 62,
-        "receiving_yards": 224,
+        "receiving_yards": 235,
         "rushing_yards": 181,
-        "total_yards": 467,
+        "total_yards": 478,
         "yet_to_play": [
             "DeVonta Smith"
         ],
