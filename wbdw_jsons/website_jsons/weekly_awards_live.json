@@ -56,9 +56,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 312,
-        "receiving_yards": 214,
-        "rushing_yards": 212,
-        "total_yards": 738,
+        "receiving_yards": 245,
+        "rushing_yards": 217,
+        "total_yards": 774,
         "yet_to_play": [
             "Davante Adams",
             "Courtland Sutton"
@@ -67,6 +67,22 @@
             "Christian McCaffrey",
             "Derrick Henry",
             "Rashod Bateman"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 266,
+        "receiving_yards": 322,
+        "rushing_yards": 116,
+        "total_yards": 704,
+        "yet_to_play": [
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jordan Addison"
         ]
     },
     {
@@ -82,22 +98,6 @@
         "in_play": [
             "Devaughn Vele",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 256,
-        "receiving_yards": 322,
-        "rushing_yards": 120,
-        "total_yards": 698,
-        "yet_to_play": [
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jordan Addison"
         ]
     },
     {
@@ -146,9 +146,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 258,
+        "receiving_yards": 268,
         "rushing_yards": 56,
-        "total_yards": 560,
+        "total_yards": 570,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -158,10 +158,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 62,
-        "receiving_yards": 235,
+        "passing_yards": 114,
+        "receiving_yards": 245,
         "rushing_yards": 181,
-        "total_yards": 478,
+        "total_yards": 540,
         "yet_to_play": [
             "DeVonta Smith"
         ],
