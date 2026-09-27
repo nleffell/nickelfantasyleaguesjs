@@ -81,8 +81,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 112,
         "receiving_yards": 88,
-        "rushing_yards": 127,
-        "total_yards": 327,
+        "rushing_yards": 128,
+        "total_yards": 328,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 105,
-        "receiving_yards": 62,
+        "passing_yards": 125,
+        "receiving_yards": 68,
         "rushing_yards": 22,
-        "total_yards": 189,
+        "total_yards": 215,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -164,8 +164,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 125,
-        "rushing_yards": 34,
-        "total_yards": 159,
+        "rushing_yards": 36,
+        "total_yards": 161,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
@@ -184,9 +184,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 76,
-        "receiving_yards": 10,
+        "receiving_yards": 30,
         "rushing_yards": 24,
-        "total_yards": 110,
+        "total_yards": 130,
         "yet_to_play": [
             "Jeremiyah Love",
             "Luther Burden",
