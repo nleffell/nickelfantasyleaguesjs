@@ -78,10 +78,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 277,
+        "passing_yards": 276,
         "receiving_yards": 323,
-        "rushing_yards": 129,
-        "total_yards": 729,
+        "rushing_yards": 138,
+        "total_yards": 737,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -119,21 +119,6 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 159,
-        "receiving_yards": 309,
-        "rushing_yards": 197,
-        "total_yards": 665,
-        "yet_to_play": [
-            "DeVonta Smith"
-        ],
-        "in_play": [
-            "Lamar Jackson",
-            "Juwan Johnson",
-            "Travis Etienne"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 312,
@@ -145,6 +130,21 @@
             "Saquon Barkley"
         ],
         "in_play": []
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 159,
+        "receiving_yards": 305,
+        "rushing_yards": 197,
+        "total_yards": 661,
+        "yet_to_play": [
+            "DeVonta Smith"
+        ],
+        "in_play": [
+            "Lamar Jackson",
+            "Juwan Johnson",
+            "Travis Etienne"
+        ]
     },
     {
         "owner": "Nick Leffell",
