@@ -41,9 +41,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 152,
-        "receiving_yards": 369,
+        "receiving_yards": 376,
         "rushing_yards": 30,
-        "total_yards": 551,
+        "total_yards": 558,
         "yet_to_play": [
             "Ashton Jeanty",
             "Chris Olave"
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 186,
+        "passing_yards": 207,
         "receiving_yards": 140,
-        "rushing_yards": 48,
-        "total_yards": 374,
+        "rushing_yards": 54,
+        "total_yards": 401,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -122,9 +122,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 54,
-        "receiving_yards": 149,
+        "receiving_yards": 161,
         "rushing_yards": 110,
-        "total_yards": 313,
+        "total_yards": 325,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers",
@@ -138,6 +138,26 @@
             "Tetairoa McMillan",
             "Jameson Williams",
             "Kayshon Boutte"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 161,
+        "receiving_yards": 77,
+        "rushing_yards": 58,
+        "total_yards": 296,
+        "yet_to_play": [
+            "Jeremiyah Love",
+            "Luther Burden",
+            "Dontayvion Wicks",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Mike Washington"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Chuba Hubbard",
+            "Cooper Kupp"
         ]
     },
     {
@@ -162,31 +182,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 135,
-        "receiving_yards": 77,
-        "rushing_yards": 53,
-        "total_yards": 265,
-        "yet_to_play": [
-            "Jeremiyah Love",
-            "Luther Burden",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Mike Washington"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Chuba Hubbard",
-            "Cooper Kupp"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
-        "passing_yards": 146,
+        "passing_yards": 164,
         "receiving_yards": 69,
         "rushing_yards": 42,
-        "total_yards": 257,
+        "total_yards": 275,
         "yet_to_play": [
             "George Pickens",
             "Emeka Egbuka",
