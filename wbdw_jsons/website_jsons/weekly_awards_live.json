@@ -54,6 +54,22 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 214,
+        "rushing_yards": 193,
+        "total_yards": 719,
+        "yet_to_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Rashod Bateman"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 251,
@@ -69,27 +85,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 214,
-        "rushing_yards": 164,
-        "total_yards": 690,
-        "yet_to_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Rashod Bateman"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 245,
         "receiving_yards": 322,
-        "rushing_yards": 111,
-        "total_yards": 678,
+        "rushing_yards": 118,
+        "total_yards": 685,
         "yet_to_play": [
             "Kalif Raymond"
         ],
@@ -116,9 +116,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 110,
-        "rushing_yards": 191,
-        "total_yards": 592,
+        "receiving_yards": 114,
+        "rushing_yards": 193,
+        "total_yards": 598,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -160,8 +160,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 58,
         "receiving_yards": 218,
-        "rushing_yards": 153,
-        "total_yards": 429,
+        "rushing_yards": 169,
+        "total_yards": 445,
         "yet_to_play": [
             "DeVonta Smith"
         ],
