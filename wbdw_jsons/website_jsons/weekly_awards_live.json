@@ -6,10 +6,7 @@
         "rushing_yards": 90,
         "total_yards": 910,
         "yet_to_play": [],
-        "in_play": [
-            "Ashton Jeanty",
-            "Chris Olave"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -18,9 +15,7 @@
         "rushing_yards": 301,
         "total_yards": 848,
         "yet_to_play": [],
-        "in_play": [
-            "CeeDee Lamb"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -43,9 +38,7 @@
             "Kyren Williams",
             "Jaylen Waddle"
         ],
-        "in_play": [
-            "Mark Andrews"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -56,10 +49,7 @@
         "yet_to_play": [
             "D'Andre Swift"
         ],
-        "in_play": [
-            "Javonte Williams",
-            "Brock Bowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -71,10 +61,7 @@
             "Davante Adams",
             "Courtland Sutton"
         ],
-        "in_play": [
-            "Derrick Henry",
-            "Rashod Bateman"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -83,10 +70,7 @@
         "rushing_yards": 138,
         "total_yards": 737,
         "yet_to_play": [],
-        "in_play": [
-            "Dak Prescott",
-            "Jake Ferguson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -98,25 +82,18 @@
             "Blake Corum",
             "Kyle Monangai"
         ],
-        "in_play": [
-            "Devaughn Vele",
-            "Tre Tucker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
         "passing_yards": 185,
-        "receiving_yards": 300,
+        "receiving_yards": 305,
         "rushing_yards": 197,
-        "total_yards": 682,
+        "total_yards": 687,
         "yet_to_play": [
             "DeVonta Smith"
         ],
-        "in_play": [
-            "Lamar Jackson",
-            "Juwan Johnson",
-            "Travis Etienne"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -128,10 +105,7 @@
             "Luther Burden",
             "Dontayvion Wicks"
         ],
-        "in_play": [
-            "Alvin Kamara",
-            "Mike Washington"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -153,8 +127,6 @@
         "rushing_yards": 56,
         "total_yards": 586,
         "yet_to_play": [],
-        "in_play": [
-            "George Pickens"
-        ]
+        "in_play": []
     }
 ]
