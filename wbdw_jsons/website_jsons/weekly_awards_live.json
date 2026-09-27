@@ -17,9 +17,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
-        "receiving_yards": 466,
+        "receiving_yards": 495,
         "rushing_yards": 56,
-        "total_yards": 748,
+        "total_yards": 777,
         "yet_to_play": [],
         "in_play": [
             "Ashton Jeanty",
@@ -42,8 +42,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 357,
-        "rushing_yards": 161,
-        "total_yards": 699,
+        "rushing_yards": 162,
+        "total_yards": 700,
         "yet_to_play": [
             "D'Andre Swift"
         ],
@@ -67,6 +67,22 @@
         "in_play": []
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 202,
+        "rushing_yards": 143,
+        "total_yards": 657,
+        "yet_to_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Rashod Bateman"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 212,
@@ -79,22 +95,6 @@
         "in_play": [
             "Devaughn Vele",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 203,
-        "rushing_yards": 135,
-        "total_yards": 650,
-        "yet_to_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Rashod Bateman"
         ]
     },
     {
@@ -146,9 +146,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 54,
-        "receiving_yards": 251,
+        "receiving_yards": 257,
         "rushing_yards": 119,
-        "total_yards": 424,
+        "total_yards": 430,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -158,10 +158,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 45,
-        "receiving_yards": 106,
-        "rushing_yards": 125,
-        "total_yards": 276,
+        "passing_yards": 58,
+        "receiving_yards": 134,
+        "rushing_yards": 139,
+        "total_yards": 331,
         "yet_to_play": [
             "DeVonta Smith"
         ],
