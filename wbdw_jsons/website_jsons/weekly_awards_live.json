@@ -54,6 +54,38 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 214,
+        "rushing_yards": 151,
+        "total_yards": 677,
+        "yet_to_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Rashod Bateman"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 245,
+        "receiving_yards": 322,
+        "rushing_yards": 106,
+        "total_yards": 673,
+        "yet_to_play": [
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jordan Addison"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 312,
@@ -65,22 +97,6 @@
             "Saquon Barkley"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 202,
-        "rushing_yards": 151,
-        "total_yards": 665,
-        "yet_to_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Rashod Bateman"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -95,22 +111,6 @@
         "in_play": [
             "Devaughn Vele",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 215,
-        "receiving_yards": 322,
-        "rushing_yards": 92,
-        "total_yards": 629,
-        "yet_to_play": [
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jordan Addison"
         ]
     },
     {
@@ -159,9 +159,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 58,
-        "receiving_yards": 158,
+        "receiving_yards": 176,
         "rushing_yards": 143,
-        "total_yards": 359,
+        "total_yards": 377,
         "yet_to_play": [
             "DeVonta Smith"
         ],
