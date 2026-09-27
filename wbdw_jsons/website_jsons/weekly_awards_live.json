@@ -114,6 +114,23 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 291,
+        "receiving_yards": 119,
+        "rushing_yards": 268,
+        "total_yards": 678,
+        "yet_to_play": [
+            "Luther Burden",
+            "Dontayvion Wicks"
+        ],
+        "in_play": [
+            "Jeremiyah Love",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Mike Washington"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 312,
@@ -127,28 +144,11 @@
         "in_play": []
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 291,
-        "receiving_yards": 119,
-        "rushing_yards": 248,
-        "total_yards": 658,
-        "yet_to_play": [
-            "Luther Burden",
-            "Dontayvion Wicks"
-        ],
-        "in_play": [
-            "Jeremiyah Love",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Mike Washington"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
-        "passing_yards": 129,
-        "receiving_yards": 287,
+        "passing_yards": 143,
+        "receiving_yards": 307,
         "rushing_yards": 197,
-        "total_yards": 613,
+        "total_yards": 647,
         "yet_to_play": [
             "DeVonta Smith"
         ],
