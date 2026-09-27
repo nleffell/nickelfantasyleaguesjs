@@ -23,8 +23,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 244,
-        "rushing_yards": 44,
-        "total_yards": 288,
+        "rushing_yards": 53,
+        "total_yards": 297,
         "yet_to_play": [
             "Jalen Hurts",
             "Rome Odunze",
@@ -78,32 +78,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 71,
-        "rushing_yards": 20,
-        "total_yards": 91,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Trey McBride",
-            "Jake Ferguson"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Breece Hall",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Quentin Johnston",
-            "Cam Skattebo",
-            "Malik Washington"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 9,
         "receiving_yards": 46,
-        "rushing_yards": 15,
-        "total_yards": 70,
+        "rushing_yards": 37,
+        "total_yards": 92,
         "yet_to_play": [
             "CeeDee Lamb",
             "Deebo Samuel"
@@ -120,11 +99,32 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 70,
+        "rushing_yards": 22,
+        "total_yards": 92,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Trey McBride",
+            "Jake Ferguson"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Breece Hall",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Quentin Johnston",
+            "Cam Skattebo",
+            "Malik Washington"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 53,
         "receiving_yards": 10,
-        "rushing_yards": 2,
-        "total_yards": 65,
+        "rushing_yards": 16,
+        "total_yards": 79,
         "yet_to_play": [
             "George Pickens",
             "Emeka Egbuka",
@@ -160,6 +160,48 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 16,
+        "receiving_yards": 21,
+        "rushing_yards": 13,
+        "total_yards": 50,
+        "yet_to_play": [
+            "Blake Corum",
+            "Devaughn Vele",
+            "Kyle Monangai",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Sam Darnold",
+            "Omarion Hampton",
+            "Carnell Tate",
+            "Parker Washington",
+            "Sam LaPorta",
+            "Harold Fannin"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 16,
+        "rushing_yards": 30,
+        "total_yards": 46,
+        "yet_to_play": [
+            "Lamar Jackson",
+            "Justin Jefferson",
+            "Michael Wilson",
+            "Juwan Johnson",
+            "George Kittle",
+            "Travis Etienne",
+            "DeVonta Smith"
+        ],
+        "in_play": [
+            "De'Von Achane",
+            "Bhayshul Tuten",
+            "Amon-Ra St. Brown"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 6,
         "receiving_yards": 31,
@@ -181,53 +223,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 30,
-        "total_yards": 30,
-        "yet_to_play": [
-            "Lamar Jackson",
-            "Justin Jefferson",
-            "Michael Wilson",
-            "Juwan Johnson",
-            "George Kittle",
-            "Travis Etienne",
-            "DeVonta Smith"
-        ],
-        "in_play": [
-            "De'Von Achane",
-            "Bhayshul Tuten",
-            "Amon-Ra St. Brown"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 9,
-        "receiving_yards": 8,
-        "rushing_yards": 13,
-        "total_yards": 30,
-        "yet_to_play": [
-            "Blake Corum",
-            "Devaughn Vele",
-            "Kyle Monangai",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Carnell Tate",
-            "Parker Washington",
-            "Sam LaPorta",
-            "Harold Fannin"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 15,
-        "rushing_yards": 4,
-        "total_yards": 19,
+        "rushing_yards": 12,
+        "total_yards": 27,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
