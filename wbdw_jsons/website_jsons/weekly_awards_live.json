@@ -17,9 +17,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
-        "receiving_yards": 506,
+        "receiving_yards": 512,
         "rushing_yards": 58,
-        "total_yards": 790,
+        "total_yards": 796,
         "yet_to_play": [],
         "in_play": [
             "Ashton Jeanty",
@@ -42,8 +42,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 390,
-        "rushing_yards": 165,
-        "total_yards": 736,
+        "rushing_yards": 190,
+        "total_yards": 761,
         "yet_to_play": [
             "D'Andre Swift"
         ],
@@ -51,6 +51,37 @@
             "Javonte Williams",
             "Brock Bowers",
             "Chris Godwin"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 379,
+        "receiving_yards": 251,
+        "rushing_yards": 61,
+        "total_yards": 691,
+        "yet_to_play": [
+            "Blake Corum",
+            "Kyle Monangai"
+        ],
+        "in_play": [
+            "Devaughn Vele",
+            "Tre Tucker"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 214,
+        "rushing_yards": 164,
+        "total_yards": 690,
+        "yet_to_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Rashod Bateman"
         ]
     },
     {
@@ -70,37 +101,6 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 379,
-        "receiving_yards": 234,
-        "rushing_yards": 61,
-        "total_yards": 674,
-        "yet_to_play": [
-            "Blake Corum",
-            "Kyle Monangai"
-        ],
-        "in_play": [
-            "Devaughn Vele",
-            "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 214,
-        "rushing_yards": 148,
-        "total_yards": 674,
-        "yet_to_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Rashod Bateman"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 312,
@@ -116,9 +116,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 104,
+        "receiving_yards": 110,
         "rushing_yards": 191,
-        "total_yards": 586,
+        "total_yards": 592,
         "yet_to_play": [
             "Luther Burden",
             "Dontayvion Wicks"
@@ -131,24 +131,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 106,
-        "receiving_yards": 276,
-        "rushing_yards": 126,
-        "total_yards": 508,
-        "yet_to_play": [],
-        "in_play": [
-            "Dak Prescott",
-            "Trey McBride",
-            "Jake Ferguson"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 246,
-        "receiving_yards": 205,
+        "receiving_yards": 219,
         "rushing_yards": 56,
-        "total_yards": 507,
+        "total_yards": 521,
         "yet_to_play": [],
         "in_play": [
             "George Pickens",
@@ -157,11 +144,24 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 119,
+        "receiving_yards": 275,
+        "rushing_yards": 126,
+        "total_yards": 520,
+        "yet_to_play": [],
+        "in_play": [
+            "Dak Prescott",
+            "Trey McBride",
+            "Jake Ferguson"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 58,
-        "receiving_yards": 205,
+        "receiving_yards": 218,
         "rushing_yards": 153,
-        "total_yards": 416,
+        "total_yards": 429,
         "yet_to_play": [
             "DeVonta Smith"
         ],
