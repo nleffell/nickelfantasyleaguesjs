@@ -1,5 +1,25 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 111,
+        "receiving_yards": 159,
+        "rushing_yards": 202,
+        "total_yards": 472,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Mark Andrews",
+            "Mike Evans",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Trevor Lawrence",
+            "Terry McLaurin",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Xavier Hutchinson"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 313,
@@ -19,23 +39,22 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 111,
-        "receiving_yards": 109,
-        "rushing_yards": 202,
-        "total_yards": 422,
+        "owner": "Ryan Shannon",
+        "passing_yards": 125,
+        "receiving_yards": 290,
+        "rushing_yards": 23,
+        "total_yards": 438,
         "yet_to_play": [
-            "Kyren Williams",
-            "Mark Andrews",
-            "Mike Evans",
-            "Jaylen Waddle"
+            "Ashton Jeanty",
+            "Chris Olave"
         ],
         "in_play": [
-            "Trevor Lawrence",
-            "Terry McLaurin",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Xavier Hutchinson"
+            "Justin Herbert",
+            "Jadarian Price",
+            "Rashee Rice",
+            "Tyler Warren",
+            "Ladd McConkey",
+            "Dalton Kincaid"
         ]
     },
     {
@@ -56,25 +75,6 @@
             "Travis Kelce",
             "Tony Pollard",
             "Dalton Schultz"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 85,
-        "receiving_yards": 279,
-        "rushing_yards": 21,
-        "total_yards": 385,
-        "yet_to_play": [
-            "Ashton Jeanty",
-            "Chris Olave"
-        ],
-        "in_play": [
-            "Justin Herbert",
-            "Jadarian Price",
-            "Rashee Rice",
-            "Tyler Warren",
-            "Ladd McConkey",
-            "Dalton Kincaid"
         ]
     },
     {
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 172,
+        "passing_yards": 179,
         "receiving_yards": 96,
-        "rushing_yards": 22,
-        "total_yards": 290,
+        "rushing_yards": 29,
+        "total_yards": 304,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -122,9 +122,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 40,
-        "receiving_yards": 116,
+        "receiving_yards": 119,
         "rushing_yards": 70,
-        "total_yards": 226,
+        "total_yards": 229,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers",
@@ -143,9 +143,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 117,
-        "receiving_yards": 74,
+        "receiving_yards": 78,
         "rushing_yards": 24,
-        "total_yards": 215,
+        "total_yards": 219,
         "yet_to_play": [
             "Jeremiyah Love",
             "Luther Burden",
@@ -164,8 +164,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 146,
-        "rushing_yards": 48,
-        "total_yards": 194,
+        "rushing_yards": 62,
+        "total_yards": 208,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride",
@@ -184,9 +184,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 134,
-        "receiving_yards": 23,
-        "rushing_yards": 28,
-        "total_yards": 185,
+        "receiving_yards": 42,
+        "rushing_yards": 31,
+        "total_yards": 207,
         "yet_to_play": [
             "George Pickens",
             "Emeka Egbuka",
