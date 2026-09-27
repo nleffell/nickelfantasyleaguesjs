@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 173,
+        "passing_yards": 172,
         "receiving_yards": 96,
         "rushing_yards": 22,
-        "total_yards": 291,
+        "total_yards": 290,
         "yet_to_play": [
             "Blake Corum",
             "Devaughn Vele",
@@ -120,31 +120,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 117,
-        "receiving_yards": 75,
-        "rushing_yards": 24,
-        "total_yards": 216,
-        "yet_to_play": [
-            "Jeremiyah Love",
-            "Luther Burden",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Mike Washington"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Chuba Hubbard",
-            "Cooper Kupp"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 40,
         "receiving_yards": 116,
-        "rushing_yards": 42,
-        "total_yards": 198,
+        "rushing_yards": 70,
+        "total_yards": 226,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers",
@@ -158,6 +138,26 @@
             "Tetairoa McMillan",
             "Jameson Williams",
             "Kayshon Boutte"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 117,
+        "receiving_yards": 74,
+        "rushing_yards": 24,
+        "total_yards": 215,
+        "yet_to_play": [
+            "Jeremiyah Love",
+            "Luther Burden",
+            "Dontayvion Wicks",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Mike Washington"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Chuba Hubbard",
+            "Cooper Kupp"
         ]
     },
     {
