@@ -18,6 +18,18 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 182,
+        "receiving_yards": 415,
+        "rushing_yards": 235,
+        "total_yards": 832,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 297,
         "receiving_yards": 371,
@@ -29,15 +41,15 @@
         "in_play": []
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 182,
-        "receiving_yards": 410,
-        "rushing_yards": 235,
-        "total_yards": 827,
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 278,
+        "rushing_yards": 238,
+        "total_yards": 828,
         "yet_to_play": [],
         "in_play": [
-            "Kyren Williams",
-            "Jaylen Waddle"
+            "Davante Adams",
+            "Courtland Sutton"
         ]
     },
     {
@@ -52,18 +64,6 @@
         "in_play": []
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 256,
-        "rushing_yards": 238,
-        "total_yards": 806,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 276,
         "receiving_yards": 323,
@@ -76,8 +76,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 275,
-        "rushing_yards": 61,
-        "total_yards": 715,
+        "rushing_yards": 67,
+        "total_yards": 721,
         "yet_to_play": [
             "Kyle Monangai"
         ],
