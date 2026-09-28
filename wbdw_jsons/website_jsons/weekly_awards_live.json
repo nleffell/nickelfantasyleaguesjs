@@ -9,6 +9,18 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 182,
+        "receiving_yards": 415,
+        "rushing_yards": 268,
+        "total_yards": 865,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 204,
         "receiving_yards": 343,
@@ -27,18 +39,6 @@
         "in_play": [
             "Davante Adams",
             "Courtland Sutton"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 182,
-        "receiving_yards": 415,
-        "rushing_yards": 235,
-        "total_yards": 832,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams",
-            "Jaylen Waddle"
         ]
     },
     {
