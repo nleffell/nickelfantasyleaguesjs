@@ -1,5 +1,17 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 182,
+        "receiving_yards": 452,
+        "rushing_yards": 280,
+        "total_yards": 914,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
         "receiving_yards": 594,
@@ -7,18 +19,6 @@
         "total_yards": 910,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 182,
-        "receiving_yards": 443,
-        "rushing_yards": 280,
-        "total_yards": 905,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams",
-            "Jaylen Waddle"
-        ]
     },
     {
         "owner": "Tyler Smith",
