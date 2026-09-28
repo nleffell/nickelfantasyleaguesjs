@@ -21,6 +21,18 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 310,
+        "rushing_yards": 238,
+        "total_yards": 860,
+        "yet_to_play": [],
+        "in_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 204,
         "receiving_yards": 343,
@@ -28,18 +40,6 @@
         "total_yards": 848,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 288,
-        "rushing_yards": 238,
-        "total_yards": 838,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ]
     },
     {
         "owner": "Brad Lowe",
