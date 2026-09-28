@@ -32,13 +32,13 @@
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 410,
-        "rushing_yards": 226,
-        "total_yards": 818,
-        "yet_to_play": [
+        "rushing_yards": 235,
+        "total_yards": 827,
+        "yet_to_play": [],
+        "in_play": [
             "Kyren Williams",
             "Jaylen Waddle"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Kyle Nester",
@@ -57,11 +57,11 @@
         "receiving_yards": 256,
         "rushing_yards": 238,
         "total_yards": 806,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Davante Adams",
             "Courtland Sutton"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -79,10 +79,11 @@
         "rushing_yards": 61,
         "total_yards": 715,
         "yet_to_play": [
-            "Blake Corum",
             "Kyle Monangai"
         ],
-        "in_play": []
+        "in_play": [
+            "Blake Corum"
+        ]
     },
     {
         "owner": "Victor Dankens",
