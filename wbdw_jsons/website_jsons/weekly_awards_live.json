@@ -1,5 +1,17 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 182,
+        "receiving_yards": 490,
+        "rushing_yards": 325,
+        "total_yards": 997,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 312,
         "receiving_yards": 439,
@@ -9,18 +21,6 @@
         "in_play": [
             "Davante Adams",
             "Courtland Sutton"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 182,
-        "receiving_yards": 469,
-        "rushing_yards": 325,
-        "total_yards": 976,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams",
-            "Jaylen Waddle"
         ]
     },
     {
