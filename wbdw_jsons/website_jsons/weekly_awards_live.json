@@ -12,6 +12,18 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 380,
+        "rushing_yards": 238,
+        "total_yards": 930,
+        "yet_to_play": [],
+        "in_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
         "receiving_yards": 594,
@@ -19,18 +31,6 @@
         "total_yards": 910,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 353,
-        "rushing_yards": 238,
-        "total_yards": 903,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ]
     },
     {
         "owner": "TJ Pickeral",
