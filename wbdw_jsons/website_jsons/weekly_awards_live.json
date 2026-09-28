@@ -6,10 +6,7 @@
         "rushing_yards": 325,
         "total_yards": 997,
         "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams",
-            "Jaylen Waddle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -18,10 +15,7 @@
         "rushing_yards": 238,
         "total_yards": 989,
         "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -81,9 +75,7 @@
         "yet_to_play": [
             "Kyle Monangai"
         ],
-        "in_play": [
-            "Blake Corum"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
