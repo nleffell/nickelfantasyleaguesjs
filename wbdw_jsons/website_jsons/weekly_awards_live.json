@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 312,
-        "receiving_yards": 437,
+        "receiving_yards": 439,
         "rushing_yards": 238,
-        "total_yards": 987,
+        "total_yards": 989,
         "yet_to_play": [],
         "in_play": [
             "Davante Adams",
@@ -76,8 +76,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 275,
-        "rushing_yards": 72,
-        "total_yards": 726,
+        "rushing_yards": 76,
+        "total_yards": 730,
         "yet_to_play": [
             "Kyle Monangai"
         ],
