@@ -18,6 +18,18 @@
         "in_play": []
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 312,
+        "receiving_yards": 288,
+        "rushing_yards": 238,
+        "total_yards": 838,
+        "yet_to_play": [],
+        "in_play": [
+            "Davante Adams",
+            "Courtland Sutton"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 182,
         "receiving_yards": 415,
@@ -39,18 +51,6 @@
             "Kalif Raymond"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 312,
-        "receiving_yards": 278,
-        "rushing_yards": 238,
-        "total_yards": 828,
-        "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Courtland Sutton"
-        ]
     },
     {
         "owner": "Kyle Nester",
