@@ -60,14 +60,26 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 46,
-        "receiving_yards": 312,
+        "receiving_yards": 334,
         "rushing_yards": 426,
-        "total_yards": 784,
+        "total_yards": 806,
         "yet_to_play": [],
         "in_play": [
             "Jalen Hurts",
             "Rome Odunze",
             "Saquon Barkley"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 291,
+        "receiving_yards": 177,
+        "rushing_yards": 275,
+        "total_yards": 743,
+        "yet_to_play": [],
+        "in_play": [
+            "Luther Burden",
+            "Dontayvion Wicks"
         ]
     },
     {
@@ -88,18 +100,6 @@
         "yet_to_play": [],
         "in_play": [
             "Kyle Monangai"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 291,
-        "receiving_yards": 153,
-        "rushing_yards": 275,
-        "total_yards": 719,
-        "yet_to_play": [],
-        "in_play": [
-            "Luther Burden",
-            "Dontayvion Wicks"
         ]
     },
     {
