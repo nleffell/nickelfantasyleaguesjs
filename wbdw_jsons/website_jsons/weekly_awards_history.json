@@ -183,6 +183,13 @@
                 "value": 1062.0,
                 "amount": 50
             }
+        },
+        "3": {
+            "most combined yards": {
+                "owner": "Nick Janowicz",
+                "value": 997.0,
+                "amount": 50
+            }
         }
     }
 }
