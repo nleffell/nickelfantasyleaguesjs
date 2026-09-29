@@ -3,72 +3,72 @@
         "pick": "1st",
         "owner": "Nick Leffell",
         "team": "Team Name Redacted",
-        "max_possible_points": 195.54
+        "max_possible_points": 312.02
     },
     {
         "pick": "2nd",
         "owner": "Chad Hill",
         "team": "Russini\u2019s Receipts",
-        "max_possible_points": 240.32
+        "max_possible_points": 382.96
     },
     {
         "pick": "3rd",
-        "owner": "Brad Lowe",
-        "team": "Damn She Purdy",
-        "max_possible_points": 254.94
+        "owner": "Patrick Neafsey",
+        "team": "Darts Inside",
+        "max_possible_points": 419.06
     },
     {
         "pick": "4th",
-        "owner": "Patrick Neafsey",
-        "team": "Darts Inside",
-        "max_possible_points": 284.1
+        "owner": "Jon Knicely",
+        "team": "Teamy McTeamface",
+        "max_possible_points": 425.56
     },
     {
         "pick": "5th",
-        "owner": "Jon Knicely",
-        "team": "Teamy McTeamface",
-        "max_possible_points": 288.46
+        "owner": "Brad Lowe",
+        "team": "Damn She Purdy",
+        "max_possible_points": 432.42
     },
     {
         "pick": "6th",
-        "owner": "Nick Janowicz",
-        "team": "Bijan Mustard",
-        "max_possible_points": 336.78
+        "owner": "Ryan Shannon",
+        "team": "no team name",
+        "max_possible_points": 506.64
     },
     {
         "pick": "7th",
-        "owner": "Ryan Shannon",
-        "team": "no team name",
-        "max_possible_points": 344.32
+        "owner": "Brian Fuquay",
+        "team": "Anyone Want Bijan?",
+        "max_possible_points": 469.76
     },
     {
         "pick": "8th",
-        "owner": "Brian Fuquay",
-        "team": "Anyone Want Bijan?",
-        "max_possible_points": 321.9
+        "owner": "Nick Janowicz",
+        "team": "Bijan 1 Man Offense",
+        "max_possible_points": 528.26
     },
     {
         "pick": "9th",
         "owner": "TJ Pickeral",
         "team": "I\u2019m All En",
-        "max_possible_points": 330.38
+        "max_possible_points": 462.94
     },
     {
         "pick": "10th",
         "owner": "Tyler Smith",
         "team": "Grandpa and the Gang",
-        "max_possible_points": 365.32
+        "max_possible_points": 547.14
     },
     {
         "pick": "11th",
-        "owner": "Kyle Nester",
-        "team": "Ron Mexico ",
-        "max_possible_points": 359.34
+        "owner": "Victor Dankens",
+        "team": "Good Morning Ladies",
+        "max_possible_points": 542.16
     },
     {
         "pick": "12th",
-        "owner": "Victor Dankens",
-        "team": "Good Morning Ladies",
-        "max_possible_points": 359.46
+        "owner": "Kyle Nester",
+        "team": "Ron Mexico ",
+        "max_possible_points": 552.1
     }
 ]
