@@ -41,21 +41,21 @@
         "receiving_yards": 381,
         "rushing_yards": 161,
         "total_yards": 839,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Kalif Raymond"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 426,
-        "rushing_yards": 211,
-        "total_yards": 818,
-        "yet_to_play": [
+        "rushing_yards": 221,
+        "total_yards": 828,
+        "yet_to_play": [],
+        "in_play": [
             "D'Andre Swift"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -72,10 +72,22 @@
         "receiving_yards": 275,
         "rushing_yards": 76,
         "total_yards": 730,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Kyle Monangai"
-        ],
-        "in_play": []
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 291,
+        "receiving_yards": 134,
+        "rushing_yards": 275,
+        "total_yards": 700,
+        "yet_to_play": [],
+        "in_play": [
+            "Luther Burden",
+            "Dontayvion Wicks"
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -83,22 +95,10 @@
         "receiving_yards": 305,
         "rushing_yards": 197,
         "total_yards": 688,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "DeVonta Smith"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 291,
-        "receiving_yards": 126,
-        "rushing_yards": 268,
-        "total_yards": 685,
-        "yet_to_play": [
-            "Luther Burden",
-            "Dontayvion Wicks"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -106,12 +106,12 @@
         "receiving_yards": 312,
         "rushing_yards": 353,
         "total_yards": 665,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Jalen Hurts",
             "Rome Odunze",
             "Saquon Barkley"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
