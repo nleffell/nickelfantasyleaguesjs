@@ -78,6 +78,19 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 23,
+        "receiving_yards": 312,
+        "rushing_yards": 369,
+        "total_yards": 704,
+        "yet_to_play": [],
+        "in_play": [
+            "Jalen Hurts",
+            "Rome Odunze",
+            "Saquon Barkley"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 291,
         "receiving_yards": 134,
@@ -98,19 +111,6 @@
         "yet_to_play": [],
         "in_play": [
             "DeVonta Smith"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 19,
-        "receiving_yards": 312,
-        "rushing_yards": 353,
-        "total_yards": 684,
-        "yet_to_play": [],
-        "in_play": [
-            "Jalen Hurts",
-            "Rome Odunze",
-            "Saquon Barkley"
         ]
     },
     {
