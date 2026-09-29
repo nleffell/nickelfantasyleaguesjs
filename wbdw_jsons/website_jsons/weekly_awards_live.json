@@ -20,9 +20,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 140,
-        "receiving_yards": 347,
+        "receiving_yards": 354,
         "rushing_yards": 437,
-        "total_yards": 924,
+        "total_yards": 931,
         "yet_to_play": [],
         "in_play": [
             "Jalen Hurts",
@@ -54,8 +54,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 430,
-        "rushing_yards": 241,
-        "total_yards": 852,
+        "rushing_yards": 250,
+        "total_yards": 861,
         "yet_to_play": [],
         "in_play": [
             "D'Andre Swift"
@@ -86,8 +86,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 275,
-        "rushing_yards": 105,
-        "total_yards": 759,
+        "rushing_yards": 107,
+        "total_yards": 761,
         "yet_to_play": [],
         "in_play": [
             "Kyle Monangai"
