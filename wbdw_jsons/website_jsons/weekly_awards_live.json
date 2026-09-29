@@ -39,8 +39,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 181,
         "receiving_yards": 430,
-        "rushing_yards": 229,
-        "total_yards": 840,
+        "rushing_yards": 232,
+        "total_yards": 843,
         "yet_to_play": [],
         "in_play": [
             "D'Andre Swift"
@@ -91,10 +91,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 23,
+        "passing_yards": 28,
         "receiving_yards": 312,
         "rushing_yards": 369,
-        "total_yards": 704,
+        "total_yards": 709,
         "yet_to_play": [],
         "in_play": [
             "Jalen Hurts",
