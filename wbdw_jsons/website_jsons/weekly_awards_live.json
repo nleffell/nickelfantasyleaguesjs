@@ -28,10 +28,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 103,
+        "passing_yards": 111,
         "receiving_yards": 349,
-        "rushing_yards": 426,
-        "total_yards": 878,
+        "rushing_yards": 428,
+        "total_yards": 888,
         "yet_to_play": [],
         "in_play": [
             "Jalen Hurts",
@@ -85,9 +85,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 186,
-        "receiving_yards": 358,
+        "receiving_yards": 366,
         "rushing_yards": 197,
-        "total_yards": 741,
+        "total_yards": 749,
         "yet_to_play": [],
         "in_play": [
             "DeVonta Smith"
