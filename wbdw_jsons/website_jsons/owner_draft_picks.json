@@ -193,8 +193,18 @@
         },
         {
             "year": 2027,
+            "round": 2,
+            "pick": "TBD (Ryan Shannon)"
+        },
+        {
+            "year": 2027,
             "round": 3,
             "pick": "TBD"
+        },
+        {
+            "year": 2027,
+            "round": 3,
+            "pick": "TBD (Nick Leffell)"
         },
         {
             "year": 2027,
@@ -205,11 +215,6 @@
             "year": 2027,
             "round": 4,
             "pick": "TBD (Brian Fuquay)"
-        },
-        {
-            "year": 2027,
-            "round": 4,
-            "pick": "TBD (Patrick Neafsey)"
         },
         {
             "year": 2028,
@@ -416,23 +421,18 @@
         },
         {
             "year": 2027,
-            "round": 2,
-            "pick": "TBD"
-        },
-        {
-            "year": 2027,
             "round": 3,
             "pick": "TBD"
-        },
-        {
-            "year": 2027,
-            "round": 3,
-            "pick": "TBD (Nick Leffell)"
         },
         {
             "year": 2027,
             "round": 4,
             "pick": "TBD"
+        },
+        {
+            "year": 2027,
+            "round": 4,
+            "pick": "TBD (Patrick Neafsey)"
         },
         {
             "year": 2028,
