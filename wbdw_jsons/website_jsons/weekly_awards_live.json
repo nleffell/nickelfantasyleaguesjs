@@ -24,11 +24,7 @@
         "rushing_yards": 460,
         "total_yards": 967,
         "yet_to_play": [],
-        "in_play": [
-            "Jalen Hurts",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -37,9 +33,7 @@
         "rushing_yards": 161,
         "total_yards": 919,
         "yet_to_play": [],
-        "in_play": [
-            "Kalif Raymond"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -57,9 +51,7 @@
         "rushing_yards": 291,
         "total_yards": 902,
         "yet_to_play": [],
-        "in_play": [
-            "D'Andre Swift"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -77,10 +69,7 @@
         "rushing_yards": 275,
         "total_yards": 778,
         "yet_to_play": [],
-        "in_play": [
-            "Luther Burden",
-            "Dontayvion Wicks"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -89,9 +78,7 @@
         "rushing_yards": 107,
         "total_yards": 761,
         "yet_to_play": [],
-        "in_play": [
-            "Kyle Monangai"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -100,9 +87,7 @@
         "rushing_yards": 197,
         "total_yards": 753,
         "yet_to_play": [],
-        "in_play": [
-            "DeVonta Smith"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
