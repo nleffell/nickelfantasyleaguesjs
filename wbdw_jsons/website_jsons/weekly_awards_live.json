@@ -28,10 +28,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 109,
+        "passing_yards": 106,
         "receiving_yards": 347,
-        "rushing_yards": 435,
-        "total_yards": 891,
+        "rushing_yards": 436,
+        "total_yards": 889,
         "yet_to_play": [],
         "in_play": [
             "Jalen Hurts",
@@ -73,9 +73,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 194,
+        "receiving_yards": 195,
         "rushing_yards": 275,
-        "total_yards": 760,
+        "total_yards": 761,
         "yet_to_play": [],
         "in_play": [
             "Luther Burden",
