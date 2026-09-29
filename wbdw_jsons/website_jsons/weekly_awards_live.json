@@ -42,12 +42,23 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 297,
-        "receiving_yards": 394,
+        "receiving_yards": 406,
         "rushing_yards": 161,
-        "total_yards": 852,
+        "total_yards": 864,
         "yet_to_play": [],
         "in_play": [
             "Kalif Raymond"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 181,
+        "receiving_yards": 430,
+        "rushing_yards": 238,
+        "total_yards": 849,
+        "yet_to_play": [],
+        "in_play": [
+            "D'Andre Swift"
         ]
     },
     {
@@ -60,22 +71,11 @@
         "in_play": []
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 181,
-        "receiving_yards": 430,
-        "rushing_yards": 237,
-        "total_yards": 848,
-        "yet_to_play": [],
-        "in_play": [
-            "D'Andre Swift"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 291,
-        "receiving_yards": 191,
+        "receiving_yards": 194,
         "rushing_yards": 275,
-        "total_yards": 757,
+        "total_yards": 760,
         "yet_to_play": [],
         "in_play": [
             "Luther Burden",
