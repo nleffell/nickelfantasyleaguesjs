@@ -83,6 +83,17 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 379,
+        "receiving_yards": 275,
+        "rushing_yards": 105,
+        "total_yards": 759,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyle Monangai"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 186,
         "receiving_yards": 370,
@@ -101,17 +112,6 @@
         "total_yards": 737,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 379,
-        "receiving_yards": 275,
-        "rushing_yards": 81,
-        "total_yards": 735,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyle Monangai"
-        ]
     },
     {
         "owner": "Nick Leffell",
