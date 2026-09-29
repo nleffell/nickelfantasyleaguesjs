@@ -58,6 +58,19 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 46,
+        "receiving_yards": 312,
+        "rushing_yards": 413,
+        "total_yards": 771,
+        "yet_to_play": [],
+        "in_play": [
+            "Jalen Hurts",
+            "Rome Odunze",
+            "Saquon Barkley"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 276,
         "receiving_yards": 323,
@@ -90,24 +103,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 28,
-        "receiving_yards": 312,
-        "rushing_yards": 379,
-        "total_yards": 719,
-        "yet_to_play": [],
-        "in_play": [
-            "Jalen Hurts",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
         "passing_yards": 186,
-        "receiving_yards": 305,
+        "receiving_yards": 323,
         "rushing_yards": 197,
-        "total_yards": 688,
+        "total_yards": 706,
         "yet_to_play": [],
         "in_play": [
             "DeVonta Smith"
