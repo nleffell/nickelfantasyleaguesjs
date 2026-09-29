@@ -18,6 +18,17 @@
         "in_play": []
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 297,
+        "receiving_yards": 461,
+        "rushing_yards": 161,
+        "total_yards": 919,
+        "yet_to_play": [],
+        "in_play": [
+            "Kalif Raymond"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 226,
         "receiving_yards": 594,
@@ -37,17 +48,6 @@
             "Jalen Hurts",
             "Rome Odunze",
             "Saquon Barkley"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 297,
-        "receiving_yards": 420,
-        "rushing_yards": 161,
-        "total_yards": 878,
-        "yet_to_play": [],
-        "in_play": [
-            "Kalif Raymond"
         ]
     },
     {
@@ -106,8 +106,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 379,
         "receiving_yards": 275,
-        "rushing_yards": 75,
-        "total_yards": 729,
+        "rushing_yards": 81,
+        "total_yards": 735,
         "yet_to_play": [],
         "in_play": [
             "Kyle Monangai"
