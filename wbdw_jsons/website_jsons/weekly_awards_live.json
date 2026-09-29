@@ -36,6 +36,17 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 181,
+        "receiving_yards": 430,
+        "rushing_yards": 229,
+        "total_yards": 840,
+        "yet_to_play": [],
+        "in_play": [
+            "D'Andre Swift"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 297,
         "receiving_yards": 381,
@@ -44,17 +55,6 @@
         "yet_to_play": [],
         "in_play": [
             "Kalif Raymond"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 181,
-        "receiving_yards": 426,
-        "rushing_yards": 221,
-        "total_yards": 828,
-        "yet_to_play": [],
-        "in_play": [
-            "D'Andre Swift"
         ]
     },
     {
@@ -78,6 +78,18 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 291,
+        "receiving_yards": 147,
+        "rushing_yards": 275,
+        "total_yards": 713,
+        "yet_to_play": [],
+        "in_play": [
+            "Luther Burden",
+            "Dontayvion Wicks"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 23,
         "receiving_yards": 312,
@@ -88,18 +100,6 @@
             "Jalen Hurts",
             "Rome Odunze",
             "Saquon Barkley"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 291,
-        "receiving_yards": 134,
-        "rushing_yards": 275,
-        "total_yards": 700,
-        "yet_to_play": [],
-        "in_play": [
-            "Luther Burden",
-            "Dontayvion Wicks"
         ]
     },
     {
