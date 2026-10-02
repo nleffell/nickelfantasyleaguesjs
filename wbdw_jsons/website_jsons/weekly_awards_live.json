@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 20,
-        "rushing_yards": 33,
-        "total_yards": 53,
+        "receiving_yards": 32,
+        "rushing_yards": 42,
+        "total_yards": 74,
         "yet_to_play": [
             "Josh Allen",
             "CeeDee Lamb",
@@ -60,6 +60,27 @@
         ],
         "in_play": [
             "DK Metcalf"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 13,
+        "rushing_yards": 0,
+        "total_yards": 13,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Carnell Tate",
+            "Parker Washington",
+            "Tre Tucker",
+            "Kyle Monangai",
+            "Sam LaPorta",
+            "Devaughn Vele"
+        ],
+        "in_play": [
+            "Harold Fannin"
         ]
     },
     {
@@ -203,27 +224,6 @@
             "Darren Waller"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Carnell Tate",
-            "Parker Washington",
-            "Tre Tucker",
-            "Kyle Monangai",
-            "Sam LaPorta",
-            "Devaughn Vele"
-        ],
-        "in_play": [
-            "Harold Fannin"
-        ]
     },
     {
         "owner": "Tyler Smith",
