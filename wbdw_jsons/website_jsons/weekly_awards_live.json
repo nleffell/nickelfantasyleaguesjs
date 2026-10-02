@@ -23,9 +23,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 147,
+        "receiving_yards": 152,
         "rushing_yards": 0,
-        "total_yards": 147,
+        "total_yards": 152,
         "yet_to_play": [
             "Tyler Shough",
             "Rhamondre Stevenson",
@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 27,
+        "rushing_yards": 0,
+        "total_yards": 27,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Carnell Tate",
+            "Parker Washington",
+            "Tre Tucker",
+            "Kyle Monangai",
+            "Sam LaPorta",
+            "Devaughn Vele"
+        ],
+        "in_play": [
+            "Harold Fannin"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 0,
         "receiving_yards": 7,
@@ -81,27 +102,6 @@
         ],
         "in_play": [
             "Raheim Sanders"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 15,
-        "rushing_yards": 0,
-        "total_yards": 15,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Carnell Tate",
-            "Parker Washington",
-            "Tre Tucker",
-            "Kyle Monangai",
-            "Sam LaPorta",
-            "Devaughn Vele"
-        ],
-        "in_play": [
-            "Harold Fannin"
         ]
     },
     {
