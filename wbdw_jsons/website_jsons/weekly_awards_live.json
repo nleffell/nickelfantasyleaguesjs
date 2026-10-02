@@ -1,34 +1,12 @@
 [
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 15,
-        "rushing_yards": 0,
-        "total_yards": 15,
-        "yet_to_play": [
-            "Lamar Jackson",
-            "J.K. Dobbins",
-            "Bhayshul Tuten",
-            "Amon-Ra St. Brown",
-            "DK Metcalf",
-            "Michael Wilson",
-            "George Kittle",
-            "Juwan Johnson",
-            "Zay Flowers",
-            "DeVonta Smith"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 7,
-        "total_yards": 7,
+        "receiving_yards": 11,
+        "rushing_yards": 13,
+        "total_yards": 24,
         "yet_to_play": [
             "Josh Allen",
-            "Quinshon Judkins",
-            "Jaylen Warren",
             "CeeDee Lamb",
             "Stefon Diggs",
             "Khalil Shakir",
@@ -37,7 +15,31 @@
             "Puka Nacua",
             "Rachaad White"
         ],
-        "in_play": []
+        "in_play": [
+            "Quinshon Judkins",
+            "Jaylen Warren"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 22,
+        "rushing_yards": 0,
+        "total_yards": 22,
+        "yet_to_play": [
+            "Lamar Jackson",
+            "J.K. Dobbins",
+            "Bhayshul Tuten",
+            "Amon-Ra St. Brown",
+            "Michael Wilson",
+            "George Kittle",
+            "Juwan Johnson",
+            "Zay Flowers",
+            "DeVonta Smith"
+        ],
+        "in_play": [
+            "DK Metcalf"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -49,15 +51,16 @@
             "Tyler Shough",
             "Rhamondre Stevenson",
             "Cam Skattebo",
-            "KC Concepcion",
-            "Denzel Boston",
             "Wan'Dale Robinson",
             "Trey McBride",
             "Woody Marks",
             "Malik Washington",
             "Jake Ferguson"
         ],
-        "in_play": []
+        "in_play": [
+            "KC Concepcion",
+            "Denzel Boston"
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -113,11 +116,12 @@
             "DeMario Douglas",
             "Dontayvion Wicks",
             "T.J. Hockenson",
-            "Raheim Sanders",
             "Cooper Kupp",
             "Mike Washington"
         ],
-        "in_play": []
+        "in_play": [
+            "Raheim Sanders"
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -192,12 +196,13 @@
             "Carnell Tate",
             "Parker Washington",
             "Tre Tucker",
-            "Harold Fannin",
             "Kyle Monangai",
             "Sam LaPorta",
             "Devaughn Vele"
         ],
-        "in_play": []
+        "in_play": [
+            "Harold Fannin"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -213,11 +218,12 @@
             "Tee Higgins",
             "Jordan Addison",
             "Kenyon Sadiq",
-            "Michael Pittman",
             "Kalif Raymond",
             "TreVeyon Henderson"
         ],
-        "in_play": []
+        "in_play": [
+            "Michael Pittman"
+        ]
     },
     {
         "owner": "Tyler Smith",
