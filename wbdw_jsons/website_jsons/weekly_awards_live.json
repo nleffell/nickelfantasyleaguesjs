@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 11,
-        "rushing_yards": 15,
-        "total_yards": 26,
+        "rushing_yards": 23,
+        "total_yards": 34,
         "yet_to_play": [
             "Josh Allen",
             "CeeDee Lamb",
@@ -39,6 +39,27 @@
         ],
         "in_play": [
             "DK Metcalf"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 9,
+        "rushing_yards": 0,
+        "total_yards": 9,
+        "yet_to_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jalen Coker",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Kenyon Sadiq",
+            "Kalif Raymond",
+            "TreVeyon Henderson"
+        ],
+        "in_play": [
+            "Michael Pittman"
         ]
     },
     {
@@ -202,27 +223,6 @@
         ],
         "in_play": [
             "Harold Fannin"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jalen Coker",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Kenyon Sadiq",
-            "Kalif Raymond",
-            "TreVeyon Henderson"
-        ],
-        "in_play": [
-            "Michael Pittman"
         ]
     },
     {
