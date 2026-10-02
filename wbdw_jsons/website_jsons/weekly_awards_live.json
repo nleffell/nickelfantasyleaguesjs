@@ -23,9 +23,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 48,
-        "rushing_yards": 76,
-        "total_yards": 124,
+        "receiving_yards": 52,
+        "rushing_yards": 75,
+        "total_yards": 127,
         "yet_to_play": [
             "Josh Allen",
             "CeeDee Lamb",
@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 15,
+        "rushing_yards": 0,
+        "total_yards": 15,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Carnell Tate",
+            "Parker Washington",
+            "Tre Tucker",
+            "Kyle Monangai",
+            "Sam LaPorta",
+            "Devaughn Vele"
+        ],
+        "in_play": [
+            "Harold Fannin"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 15,
@@ -81,27 +102,6 @@
         ],
         "in_play": [
             "Michael Pittman"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 13,
-        "rushing_yards": 0,
-        "total_yards": 13,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Carnell Tate",
-            "Parker Washington",
-            "Tre Tucker",
-            "Kyle Monangai",
-            "Sam LaPorta",
-            "Devaughn Vele"
-        ],
-        "in_play": [
-            "Harold Fannin"
         ]
     },
     {
