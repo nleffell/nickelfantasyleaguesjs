@@ -1,5 +1,26 @@
 [
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 39,
+        "rushing_yards": 70,
+        "total_yards": 109,
+        "yet_to_play": [
+            "Josh Allen",
+            "CeeDee Lamb",
+            "Stefon Diggs",
+            "Khalil Shakir",
+            "Colston Loveland",
+            "David Montgomery",
+            "Puka Nacua",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Quinshon Judkins",
+            "Jaylen Warren"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 91,
@@ -18,27 +39,6 @@
         "in_play": [
             "KC Concepcion",
             "Denzel Boston"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 39,
-        "rushing_yards": 43,
-        "total_yards": 82,
-        "yet_to_play": [
-            "Josh Allen",
-            "CeeDee Lamb",
-            "Stefon Diggs",
-            "Khalil Shakir",
-            "Colston Loveland",
-            "David Montgomery",
-            "Puka Nacua",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Quinshon Judkins",
-            "Jaylen Warren"
         ]
     },
     {
