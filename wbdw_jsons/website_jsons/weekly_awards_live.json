@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 11,
-        "rushing_yards": 23,
-        "total_yards": 34,
+        "rushing_yards": 25,
+        "total_yards": 36,
         "yet_to_play": [
             "Josh Allen",
             "CeeDee Lamb",
@@ -18,6 +18,27 @@
         "in_play": [
             "Quinshon Judkins",
             "Jaylen Warren"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 26,
+        "rushing_yards": 0,
+        "total_yards": 26,
+        "yet_to_play": [
+            "Tyler Shough",
+            "Rhamondre Stevenson",
+            "Cam Skattebo",
+            "Wan'Dale Robinson",
+            "Trey McBride",
+            "Woody Marks",
+            "Malik Washington",
+            "Jake Ferguson"
+        ],
+        "in_play": [
+            "KC Concepcion",
+            "Denzel Boston"
         ]
     },
     {
@@ -60,27 +81,6 @@
         ],
         "in_play": [
             "Michael Pittman"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 5,
-        "rushing_yards": 0,
-        "total_yards": 5,
-        "yet_to_play": [
-            "Tyler Shough",
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "Wan'Dale Robinson",
-            "Trey McBride",
-            "Woody Marks",
-            "Malik Washington",
-            "Jake Ferguson"
-        ],
-        "in_play": [
-            "KC Concepcion",
-            "Denzel Boston"
         ]
     },
     {
