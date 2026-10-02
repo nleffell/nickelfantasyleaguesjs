@@ -1,5 +1,45 @@
 [
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 5,
+        "rushing_yards": 0,
+        "total_yards": 5,
+        "yet_to_play": [
+            "Tyler Shough",
+            "Rhamondre Stevenson",
+            "Cam Skattebo",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Trey McBride",
+            "Woody Marks",
+            "Malik Washington",
+            "Jake Ferguson"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 2,
+        "total_yards": 2,
+        "yet_to_play": [
+            "Josh Allen",
+            "Quinshon Judkins",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Stefon Diggs",
+            "Khalil Shakir",
+            "Colston Loveland",
+            "David Montgomery",
+            "Puka Nacua",
+            "Rachaad White"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -80,26 +120,6 @@
         "in_play": []
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Josh Allen",
-            "Quinshon Judkins",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Stefon Diggs",
-            "Khalil Shakir",
-            "Colston Loveland",
-            "David Montgomery",
-            "Puka Nacua",
-            "Rachaad White"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -136,26 +156,6 @@
             "Mike Evans",
             "Nico Collins",
             "Jaylen Waddle"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Tyler Shough",
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Trey McBride",
-            "Woody Marks",
-            "Malik Washington",
-            "Jake Ferguson"
         ],
         "in_play": []
     },
