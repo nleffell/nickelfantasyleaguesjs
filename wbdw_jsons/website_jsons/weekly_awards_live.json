@@ -1,5 +1,45 @@
 [
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 15,
+        "rushing_yards": 0,
+        "total_yards": 15,
+        "yet_to_play": [
+            "Lamar Jackson",
+            "J.K. Dobbins",
+            "Bhayshul Tuten",
+            "Amon-Ra St. Brown",
+            "DK Metcalf",
+            "Michael Wilson",
+            "George Kittle",
+            "Juwan Johnson",
+            "Zay Flowers",
+            "DeVonta Smith"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 7,
+        "total_yards": 7,
+        "yet_to_play": [
+            "Josh Allen",
+            "Quinshon Judkins",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Stefon Diggs",
+            "Khalil Shakir",
+            "Colston Loveland",
+            "David Montgomery",
+            "Puka Nacua",
+            "Rachaad White"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 5,
@@ -20,26 +60,6 @@
         "in_play": []
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 2,
-        "total_yards": 2,
-        "yet_to_play": [
-            "Josh Allen",
-            "Quinshon Judkins",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Stefon Diggs",
-            "Khalil Shakir",
-            "Colston Loveland",
-            "David Montgomery",
-            "Puka Nacua",
-            "Rachaad White"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -56,26 +76,6 @@
             "Cade Otton",
             "Isaiah Williams",
             "Chris Bell"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Lamar Jackson",
-            "J.K. Dobbins",
-            "Bhayshul Tuten",
-            "Amon-Ra St. Brown",
-            "DK Metcalf",
-            "Michael Wilson",
-            "George Kittle",
-            "Juwan Johnson",
-            "Zay Flowers",
-            "DeVonta Smith"
         ],
         "in_play": []
     },
