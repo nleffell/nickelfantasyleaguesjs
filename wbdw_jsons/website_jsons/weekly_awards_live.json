@@ -43,9 +43,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 37,
+        "receiving_yards": 46,
         "rushing_yards": 132,
-        "total_yards": 516,
+        "total_yards": 525,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Tetairoa McMillan",
@@ -61,8 +61,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 197,
         "receiving_yards": 164,
-        "rushing_yards": 136,
-        "total_yards": 497,
+        "rushing_yards": 139,
+        "total_yards": 500,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
@@ -113,10 +113,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 23,
+        "passing_yards": 35,
         "receiving_yards": 190,
         "rushing_yards": 166,
-        "total_yards": 379,
+        "total_yards": 391,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -130,9 +130,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 14,
-        "receiving_yards": 180,
-        "rushing_yards": 125,
-        "total_yards": 319,
+        "receiving_yards": 195,
+        "rushing_yards": 140,
+        "total_yards": 349,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -144,9 +144,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 147,
-        "rushing_yards": 83,
-        "total_yards": 230,
+        "receiving_yards": 162,
+        "rushing_yards": 95,
+        "total_yards": 257,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
