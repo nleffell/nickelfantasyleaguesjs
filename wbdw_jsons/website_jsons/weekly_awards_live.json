@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 163,
-        "receiving_yards": 344,
+        "receiving_yards": 382,
         "rushing_yards": 177,
-        "total_yards": 684,
+        "total_yards": 722,
         "yet_to_play": [
             "Deebo Samuel"
         ],
@@ -39,9 +39,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 204,
-        "rushing_yards": 60,
-        "total_yards": 440,
+        "receiving_yards": 220,
+        "rushing_yards": 68,
+        "total_yards": 464,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -61,8 +61,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 215,
         "receiving_yards": 33,
-        "rushing_yards": 127,
-        "total_yards": 375,
+        "rushing_yards": 130,
+        "total_yards": 378,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Jaxon Smith-Njigba",
@@ -80,10 +80,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 172,
+        "passing_yards": 185,
         "receiving_yards": 92,
         "rushing_yards": 99,
-        "total_yards": 363,
+        "total_yards": 376,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -103,8 +103,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 227,
-        "rushing_yards": 133,
-        "total_yards": 360,
+        "rushing_yards": 141,
+        "total_yards": 368,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -141,8 +141,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 133,
-        "rushing_yards": 136,
-        "total_yards": 269,
+        "rushing_yards": 134,
+        "total_yards": 267,
         "yet_to_play": [
             "Sam Darnold",
             "Omarion Hampton",
@@ -221,9 +221,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 96,
+        "receiving_yards": 109,
         "rushing_yards": 6,
-        "total_yards": 102,
+        "total_yards": 115,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
