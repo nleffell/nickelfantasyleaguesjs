@@ -53,9 +53,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 380,
+        "receiving_yards": 385,
         "rushing_yards": 80,
-        "total_yards": 687,
+        "total_yards": 692,
         "yet_to_play": [
             "Bijan Robinson"
         ],
@@ -85,8 +85,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 237,
-        "rushing_yards": 366,
-        "total_yards": 603,
+        "rushing_yards": 368,
+        "total_yards": 605,
         "yet_to_play": [
             "Jared Goff",
             "Drake London"
@@ -125,10 +125,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 180,
+        "passing_yards": 181,
         "receiving_yards": 172,
         "rushing_yards": 104,
-        "total_yards": 456,
+        "total_yards": 457,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
