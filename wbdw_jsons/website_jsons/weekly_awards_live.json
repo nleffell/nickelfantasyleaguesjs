@@ -27,9 +27,7 @@
         "rushing_yards": 225,
         "total_yards": 713,
         "yet_to_play": [],
-        "in_play": [
-            "Tory Horton"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -40,9 +38,7 @@
         "yet_to_play": [
             "Kyle Pitts"
         ],
-        "in_play": [
-            "Patrick Mahomes"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -67,10 +63,7 @@
             "Jameson Williams",
             "Darren Waller"
         ],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -82,11 +75,7 @@
             "Sam LaPorta",
             "Devaughn Vele"
         ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Tre Tucker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -98,9 +87,7 @@
             "Jared Goff",
             "Drake London"
         ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -109,9 +96,7 @@
         "rushing_yards": 171,
         "total_yards": 560,
         "yet_to_play": [],
-        "in_play": [
-            "Travis Kelce"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -123,12 +108,7 @@
             "Chuba Hubbard",
             "Chris Olave"
         ],
-        "in_play": [
-            "Justin Herbert",
-            "Ashton Jeanty",
-            "Rashee Rice",
-            "Ladd McConkey"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -152,8 +132,6 @@
             "Alvin Kamara",
             "Brycen Tremayne"
         ],
-        "in_play": [
-            "George Holani"
-        ]
+        "in_play": []
     }
 ]
