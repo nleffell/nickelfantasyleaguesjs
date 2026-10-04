@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 54,
+        "passing_yards": 61,
         "receiving_yards": 194,
         "rushing_yards": 165,
-        "total_yards": 413,
+        "total_yards": 420,
         "yet_to_play": [
             "Deebo Samuel"
         ],
@@ -40,8 +40,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 84,
-        "rushing_yards": 106,
-        "total_yards": 190,
+        "rushing_yards": 117,
+        "total_yards": 201,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -59,8 +59,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 171,
-        "rushing_yards": 15,
-        "total_yards": 186,
+        "rushing_yards": 20,
+        "total_yards": 191,
         "yet_to_play": [
             "Tyler Shough",
             "Malik Washington"
@@ -77,9 +77,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 129,
-        "receiving_yards": 0,
-        "rushing_yards": 35,
-        "total_yards": 164,
+        "receiving_yards": 9,
+        "rushing_yards": 42,
+        "total_yards": 180,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Jaxon Smith-Njigba",
@@ -118,10 +118,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 39,
-        "receiving_yards": 51,
-        "rushing_yards": 34,
-        "total_yards": 124,
+        "passing_yards": 43,
+        "receiving_yards": 54,
+        "rushing_yards": 40,
+        "total_yards": 137,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -160,9 +160,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 56,
-        "rushing_yards": 13,
-        "total_yards": 69,
+        "receiving_yards": 67,
+        "rushing_yards": 21,
+        "total_yards": 88,
         "yet_to_play": [
             "Sam Darnold",
             "Omarion Hampton",
