@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 61,
-        "receiving_yards": 194,
+        "receiving_yards": 205,
         "rushing_yards": 165,
-        "total_yards": 420,
+        "total_yards": 431,
         "yet_to_play": [
             "Deebo Samuel"
         ],
@@ -37,30 +37,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 84,
-        "rushing_yards": 117,
-        "total_yards": 201,
-        "yet_to_play": [
-            "Jared Goff",
-            "Kenneth Walker",
-            "Drake London"
-        ],
-        "in_play": [
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 171,
-        "rushing_yards": 20,
-        "total_yards": 191,
+        "receiving_yards": 173,
+        "rushing_yards": 34,
+        "total_yards": 207,
         "yet_to_play": [
             "Tyler Shough",
             "Malik Washington"
@@ -75,11 +56,30 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 84,
+        "rushing_yards": 118,
+        "total_yards": 202,
+        "yet_to_play": [
+            "Jared Goff",
+            "Kenneth Walker",
+            "Drake London"
+        ],
+        "in_play": [
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 129,
         "receiving_yards": 9,
-        "rushing_yards": 42,
-        "total_yards": 180,
+        "rushing_yards": 59,
+        "total_yards": 197,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Jaxon Smith-Njigba",
@@ -98,9 +98,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 63,
-        "receiving_yards": 70,
+        "receiving_yards": 76,
         "rushing_yards": 17,
-        "total_yards": 150,
+        "total_yards": 156,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -118,10 +118,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 43,
+        "passing_yards": 45,
         "receiving_yards": 54,
         "rushing_yards": 40,
-        "total_yards": 137,
+        "total_yards": 139,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -161,8 +161,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 67,
-        "rushing_yards": 21,
-        "total_yards": 88,
+        "rushing_yards": 25,
+        "total_yards": 92,
         "yet_to_play": [
             "Sam Darnold",
             "Omarion Hampton",
@@ -175,6 +175,26 @@
             "Carnell Tate",
             "Parker Washington",
             "Kyle Monangai"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 41,
+        "rushing_yards": 35,
+        "total_yards": 76,
+        "yet_to_play": [
+            "Brock Purdy",
+            "Aaron Jones",
+            "Tory Horton",
+            "Jordan Addison"
+        ],
+        "in_play": [
+            "Bucky Irving",
+            "Tee Higgins",
+            "Kenyon Sadiq",
+            "Kalif Raymond",
+            "TreVeyon Henderson"
         ]
     },
     {
@@ -199,31 +219,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 31,
-        "rushing_yards": 24,
-        "total_yards": 55,
-        "yet_to_play": [
-            "Brock Purdy",
-            "Aaron Jones",
-            "Tory Horton",
-            "Jordan Addison"
-        ],
-        "in_play": [
-            "Bucky Irving",
-            "Tee Higgins",
-            "Kenyon Sadiq",
-            "Kalif Raymond",
-            "TreVeyon Henderson"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 41,
+        "receiving_yards": 43,
         "rushing_yards": 6,
-        "total_yards": 47,
+        "total_yards": 49,
         "yet_to_play": [
             "Justin Herbert",
             "Ashton Jeanty",
