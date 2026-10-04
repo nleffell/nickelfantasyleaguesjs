@@ -130,9 +130,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 10,
-        "receiving_yards": 178,
-        "rushing_yards": 109,
-        "total_yards": 297,
+        "receiving_yards": 180,
+        "rushing_yards": 121,
+        "total_yards": 311,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -161,8 +161,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 21,
         "receiving_yards": 116,
-        "rushing_yards": 6,
-        "total_yards": 143,
+        "rushing_yards": 10,
+        "total_yards": 147,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
