@@ -28,9 +28,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 282,
+        "receiving_yards": 291,
         "rushing_yards": 80,
-        "total_yards": 589,
+        "total_yards": 598,
         "yet_to_play": [
             "Bijan Robinson"
         ],
@@ -43,9 +43,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 46,
+        "receiving_yards": 70,
         "rushing_yards": 132,
-        "total_yards": 525,
+        "total_yards": 549,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Tetairoa McMillan",
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 35,
-        "receiving_yards": 190,
+        "passing_yards": 41,
+        "receiving_yards": 195,
         "rushing_yards": 183,
-        "total_yards": 408,
+        "total_yards": 419,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -131,8 +131,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 18,
         "receiving_yards": 195,
-        "rushing_yards": 140,
-        "total_yards": 353,
+        "rushing_yards": 142,
+        "total_yards": 355,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -159,10 +159,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 29,
+        "passing_yards": 34,
         "receiving_yards": 116,
         "rushing_yards": 10,
-        "total_yards": 155,
+        "total_yards": 160,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
