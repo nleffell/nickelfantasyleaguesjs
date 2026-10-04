@@ -14,8 +14,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 222,
         "receiving_yards": 411,
-        "rushing_yards": 104,
-        "total_yards": 737,
+        "rushing_yards": 109,
+        "total_yards": 742,
         "yet_to_play": [
             "Amon-Ra St. Brown",
             "Juwan Johnson"
@@ -61,8 +61,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 156,
         "receiving_yards": 318,
-        "rushing_yards": 137,
-        "total_yards": 611,
+        "rushing_yards": 158,
+        "total_yards": 632,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -74,10 +74,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 149,
+        "passing_yards": 155,
         "receiving_yards": 209,
         "rushing_yards": 197,
-        "total_yards": 555,
+        "total_yards": 561,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -101,25 +101,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 237,
-        "rushing_yards": 259,
-        "total_yards": 496,
-        "yet_to_play": [
-            "Jared Goff",
-            "Drake London"
-        ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 89,
-        "receiving_yards": 214,
+        "receiving_yards": 220,
         "rushing_yards": 193,
-        "total_yards": 496,
+        "total_yards": 502,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -129,11 +115,25 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 237,
+        "rushing_yards": 262,
+        "total_yards": 499,
+        "yet_to_play": [
+            "Jared Goff",
+            "Drake London"
+        ],
+        "in_play": [
+            "Kenneth Walker"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 299,
+        "receiving_yards": 316,
         "rushing_yards": 131,
-        "total_yards": 430,
+        "total_yards": 447,
         "yet_to_play": [
             "Tyler Shough"
         ],
@@ -144,9 +144,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 203,
+        "receiving_yards": 211,
         "rushing_yards": 93,
-        "total_yards": 296,
+        "total_yards": 304,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
