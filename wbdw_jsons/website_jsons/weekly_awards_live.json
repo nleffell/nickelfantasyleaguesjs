@@ -8,12 +8,7 @@
         "yet_to_play": [
             "Deebo Samuel"
         ],
-        "in_play": [
-            "Josh Allen",
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "David Montgomery"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -27,28 +22,20 @@
             "George Kittle",
             "Juwan Johnson"
         ],
-        "in_play": [
-            "Bhayshul Tuten",
-            "Michael Wilson",
-            "Mack Hollins"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 265,
-        "rushing_yards": 82,
-        "total_yards": 574,
+        "receiving_yards": 273,
+        "rushing_yards": 80,
+        "total_yards": 580,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
             "Jaylen Waddle"
         ],
         "in_play": [
-            "Trevor Lawrence",
-            "Kyren Williams",
-            "Nico Collins",
-            "Ja'Marr Chase",
             "Jauan Jennings"
         ]
     },
@@ -66,10 +53,7 @@
             "Brock Bowers",
             "Darren Waller"
         ],
-        "in_play": [
-            "C.J. Stroud",
-            "Javonte Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -81,13 +65,7 @@
             "Christian McCaffrey",
             "Travis Kelce"
         ],
-        "in_play": [
-            "Davante Adams",
-            "DJ Moore",
-            "Jakobi Meyers",
-            "Isaiah Likely",
-            "Dalton Schultz"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -100,11 +78,7 @@
             "Kenneth Walker",
             "Drake London"
         ],
-        "in_play": [
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -118,8 +92,6 @@
         ],
         "in_play": [
             "Ollie Gordon",
-            "George Pickens",
-            "Malik Nabers",
             "Chris Bell"
         ]
     },
@@ -133,12 +105,7 @@
             "Tyler Shough"
         ],
         "in_play": [
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "Trey McBride",
-            "Woody Marks",
-            "Malik Washington",
-            "Jake Ferguson"
+            "Malik Washington"
         ]
     },
     {
@@ -154,10 +121,7 @@
             "Sam LaPorta",
             "Devaughn Vele"
         ],
-        "in_play": [
-            "Blake Corum",
-            "Parker Washington"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -171,9 +135,7 @@
         ],
         "in_play": [
             "Aaron Jones",
-            "Tee Higgins",
-            "Jordan Addison",
-            "TreVeyon Henderson"
+            "Jordan Addison"
         ]
     },
     {
@@ -189,10 +151,7 @@
             "George Holani"
         ],
         "in_play": [
-            "Jeremiyah Love",
-            "Dontayvion Wicks",
-            "T.J. Hockenson",
-            "Tyler Higbee"
+            "T.J. Hockenson"
         ]
     },
     {
@@ -209,8 +168,6 @@
             "Ladd McConkey",
             "Chris Olave"
         ],
-        "in_play": [
-            "Dalton Kincaid"
-        ]
+        "in_play": []
     }
 ]
