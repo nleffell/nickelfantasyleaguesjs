@@ -1,27 +1,10 @@
 [
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 153,
-        "receiving_yards": 250,
-        "rushing_yards": 176,
-        "total_yards": 579,
-        "yet_to_play": [
-            "Deebo Samuel"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "Colston Loveland",
-            "David Montgomery"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
-        "passing_yards": 209,
-        "receiving_yards": 301,
+        "passing_yards": 222,
+        "receiving_yards": 325,
         "rushing_yards": 59,
-        "total_yards": 569,
+        "total_yards": 606,
         "yet_to_play": [
             "J.K. Dobbins",
             "Amon-Ra St. Brown",
@@ -34,6 +17,23 @@
             "Michael Wilson",
             "Zay Flowers",
             "Mack Hollins"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 153,
+        "receiving_yards": 250,
+        "rushing_yards": 175,
+        "total_yards": 578,
+        "yet_to_play": [
+            "Deebo Samuel"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "CeeDee Lamb",
+            "Puka Nacua",
+            "Colston Loveland",
+            "David Montgomery"
         ]
     },
     {
@@ -140,9 +140,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 110,
+        "receiving_yards": 108,
         "rushing_yards": 66,
-        "total_yards": 176,
+        "total_yards": 174,
         "yet_to_play": [
             "Sam Darnold",
             "Omarion Hampton",
