@@ -28,9 +28,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 309,
+        "receiving_yards": 333,
         "rushing_yards": 80,
-        "total_yards": 616,
+        "total_yards": 640,
         "yet_to_play": [
             "Bijan Robinson"
         ],
@@ -43,9 +43,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 121,
+        "receiving_yards": 134,
         "rushing_yards": 132,
-        "total_yards": 600,
+        "total_yards": 613,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Tetairoa McMillan",
@@ -85,6 +85,22 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 104,
+        "receiving_yards": 209,
+        "rushing_yards": 189,
+        "total_yards": 502,
+        "yet_to_play": [
+            "Sam LaPorta",
+            "Devaughn Vele"
+        ],
+        "in_play": [
+            "Sam Darnold",
+            "Omarion Hampton",
+            "Tre Tucker"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 237,
@@ -99,27 +115,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 91,
-        "receiving_yards": 209,
-        "rushing_yards": 189,
-        "total_yards": 489,
-        "yet_to_play": [
-            "Sam LaPorta",
-            "Devaughn Vele"
-        ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Tre Tucker"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
-        "passing_yards": 48,
+        "passing_yards": 72,
         "receiving_yards": 214,
         "rushing_yards": 157,
-        "total_yards": 419,
+        "total_yards": 443,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
