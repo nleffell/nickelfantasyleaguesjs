@@ -41,6 +41,21 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 164,
+        "receiving_yards": 318,
+        "rushing_yards": 160,
+        "total_yards": 642,
+        "yet_to_play": [
+            "Kyle Pitts"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Ollie Gordon",
+            "Chris Bell"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 347,
         "receiving_yards": 158,
@@ -55,21 +70,6 @@
         "in_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 156,
-        "receiving_yards": 318,
-        "rushing_yards": 158,
-        "total_yards": 632,
-        "yet_to_play": [
-            "Kyle Pitts"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Ollie Gordon",
-            "Chris Bell"
         ]
     },
     {
@@ -88,10 +88,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 155,
+        "passing_yards": 168,
         "receiving_yards": 209,
         "rushing_yards": 196,
-        "total_yards": 560,
+        "total_yards": 573,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -145,8 +145,8 @@
         "owner": "Chad Hill",
         "passing_yards": 0,
         "receiving_yards": 233,
-        "rushing_yards": 93,
-        "total_yards": 326,
+        "rushing_yards": 95,
+        "total_yards": 328,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
