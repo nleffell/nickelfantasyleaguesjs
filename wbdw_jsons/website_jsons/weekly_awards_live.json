@@ -36,9 +36,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 257,
-        "rushing_yards": 74,
-        "total_yards": 558,
+        "receiving_yards": 265,
+        "rushing_yards": 82,
+        "total_yards": 574,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -54,10 +54,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 328,
+        "passing_yards": 347,
         "receiving_yards": 37,
         "rushing_yards": 132,
-        "total_yards": 497,
+        "total_yards": 516,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Jaxon Smith-Njigba",
@@ -92,9 +92,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 226,
+        "receiving_yards": 235,
         "rushing_yards": 191,
-        "total_yards": 417,
+        "total_yards": 426,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -163,8 +163,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 178,
-        "rushing_yards": 103,
-        "total_yards": 281,
+        "rushing_yards": 105,
+        "total_yards": 283,
         "yet_to_play": [
             "Brock Purdy",
             "Tory Horton"
