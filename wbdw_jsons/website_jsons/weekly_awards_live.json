@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 163,
+        "passing_yards": 167,
         "receiving_yards": 382,
         "rushing_yards": 177,
-        "total_yards": 722,
+        "total_yards": 726,
         "yet_to_play": [
             "Deebo Samuel"
         ],
@@ -39,9 +39,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 220,
+        "receiving_yards": 227,
         "rushing_yards": 68,
-        "total_yards": 464,
+        "total_yards": 471,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -58,32 +58,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 215,
-        "receiving_yards": 33,
-        "rushing_yards": 130,
-        "total_yards": 378,
-        "yet_to_play": [
-            "Jahmyr Gibbs",
-            "Jaxon Smith-Njigba",
-            "Tetairoa McMillan",
-            "Jameson Williams",
-            "Brock Bowers",
-            "Darren Waller"
-        ],
-        "in_play": [
-            "C.J. Stroud",
-            "Javonte Williams",
-            "D'Andre Swift",
-            "Isaiah Davis"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 185,
-        "receiving_yards": 92,
-        "rushing_yards": 99,
-        "total_yards": 376,
+        "receiving_yards": 126,
+        "rushing_yards": 114,
+        "total_yards": 425,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -100,11 +79,32 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 236,
+        "receiving_yards": 33,
+        "rushing_yards": 130,
+        "total_yards": 399,
+        "yet_to_play": [
+            "Jahmyr Gibbs",
+            "Jaxon Smith-Njigba",
+            "Tetairoa McMillan",
+            "Jameson Williams",
+            "Brock Bowers",
+            "Darren Waller"
+        ],
+        "in_play": [
+            "C.J. Stroud",
+            "Javonte Williams",
+            "D'Andre Swift",
+            "Isaiah Davis"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 227,
-        "rushing_yards": 141,
-        "total_yards": 368,
+        "rushing_yards": 168,
+        "total_yards": 395,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -119,11 +119,32 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 273,
+        "rushing_yards": 59,
+        "total_yards": 332,
+        "yet_to_play": [
+            "Patrick Mahomes",
+            "Ollie Gordon",
+            "Kyle Pitts",
+            "Chris Bell"
+        ],
+        "in_play": [
+            "Braelon Allen",
+            "George Pickens",
+            "Malik Nabers",
+            "Emeka Egbuka",
+            "Cade Otton",
+            "Isaiah Williams"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 213,
-        "rushing_yards": 97,
-        "total_yards": 310,
+        "rushing_yards": 98,
+        "total_yards": 311,
         "yet_to_play": [
             "Tyler Shough",
             "Malik Washington"
@@ -158,32 +179,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 207,
-        "rushing_yards": 59,
-        "total_yards": 266,
-        "yet_to_play": [
-            "Patrick Mahomes",
-            "Ollie Gordon",
-            "Kyle Pitts",
-            "Chris Bell"
-        ],
-        "in_play": [
-            "Braelon Allen",
-            "George Pickens",
-            "Malik Nabers",
-            "Emeka Egbuka",
-            "Cade Otton",
-            "Isaiah Williams"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 124,
-        "rushing_yards": 73,
-        "total_yards": 197,
+        "receiving_yards": 142,
+        "rushing_yards": 74,
+        "total_yards": 216,
         "yet_to_play": [
             "Brock Purdy",
             "Aaron Jones",
