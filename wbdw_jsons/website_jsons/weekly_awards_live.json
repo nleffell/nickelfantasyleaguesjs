@@ -13,9 +13,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 425,
-        "rushing_yards": 124,
-        "total_yards": 771,
+        "receiving_yards": 481,
+        "rushing_yards": 133,
+        "total_yards": 836,
         "yet_to_play": [
             "Amon-Ra St. Brown",
             "Juwan Johnson"
@@ -26,11 +26,23 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 218,
+        "receiving_yards": 270,
+        "rushing_yards": 226,
+        "total_yards": 714,
+        "yet_to_play": [],
+        "in_play": [
+            "Brock Purdy",
+            "Tory Horton"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
-        "passing_yards": 226,
+        "passing_yards": 225,
         "receiving_yards": 318,
         "rushing_yards": 160,
-        "total_yards": 704,
+        "total_yards": 703,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -41,9 +53,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 367,
+        "receiving_yards": 380,
         "rushing_yards": 80,
-        "total_yards": 674,
+        "total_yards": 687,
         "yet_to_play": [
             "Bijan Robinson"
         ],
@@ -70,23 +82,25 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 153,
-        "receiving_yards": 270,
-        "rushing_yards": 225,
-        "total_yards": 648,
-        "yet_to_play": [],
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 237,
+        "rushing_yards": 366,
+        "total_yards": 603,
+        "yet_to_play": [
+            "Jared Goff",
+            "Drake London"
+        ],
         "in_play": [
-            "Brock Purdy",
-            "Tory Horton"
+            "Kenneth Walker"
         ]
     },
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
         "receiving_yards": 211,
-        "rushing_yards": 213,
-        "total_yards": 592,
+        "rushing_yards": 216,
+        "total_yards": 595,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -98,25 +112,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 237,
-        "rushing_yards": 342,
-        "total_yards": 579,
-        "yet_to_play": [
-            "Jared Goff",
-            "Drake London"
-        ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 197,
-        "receiving_yards": 183,
-        "rushing_yards": 169,
-        "total_yards": 549,
+        "receiving_yards": 192,
+        "rushing_yards": 172,
+        "total_yards": 561,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
