@@ -144,9 +144,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 188,
+        "receiving_yards": 198,
         "rushing_yards": 93,
-        "total_yards": 281,
+        "total_yards": 291,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
@@ -159,10 +159,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 34,
+        "passing_yards": 36,
         "receiving_yards": 120,
-        "rushing_yards": 20,
-        "total_yards": 174,
+        "rushing_yards": 53,
+        "total_yards": 209,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
