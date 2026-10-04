@@ -3,8 +3,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 222,
         "receiving_yards": 368,
-        "rushing_yards": 59,
-        "total_yards": 649,
+        "rushing_yards": 66,
+        "total_yards": 656,
         "yet_to_play": [
             "J.K. Dobbins",
             "Amon-Ra St. Brown",
@@ -21,10 +21,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 154,
-        "receiving_yards": 280,
+        "passing_yards": 157,
+        "receiving_yards": 286,
         "rushing_yards": 177,
-        "total_yards": 611,
+        "total_yards": 620,
         "yet_to_play": [
             "Deebo Samuel"
         ],
@@ -38,10 +38,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 145,
+        "passing_yards": 175,
         "receiving_yards": 198,
         "rushing_yards": 24,
-        "total_yards": 367,
+        "total_yards": 397,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -61,8 +61,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 195,
         "receiving_yards": 31,
-        "rushing_yards": 128,
-        "total_yards": 354,
+        "rushing_yards": 126,
+        "total_yards": 352,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Jaxon Smith-Njigba",
@@ -81,9 +81,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 193,
-        "rushing_yards": 130,
-        "total_yards": 323,
+        "receiving_yards": 195,
+        "rushing_yards": 132,
+        "total_yards": 327,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -100,9 +100,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 111,
-        "receiving_yards": 83,
+        "receiving_yards": 90,
         "rushing_yards": 92,
-        "total_yards": 286,
+        "total_yards": 293,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -122,8 +122,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 196,
-        "rushing_yards": 88,
-        "total_yards": 284,
+        "rushing_yards": 87,
+        "total_yards": 283,
         "yet_to_play": [
             "Tyler Shough",
             "Malik Washington"
@@ -161,9 +161,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 120,
-        "rushing_yards": 69,
-        "total_yards": 189,
+        "receiving_yards": 133,
+        "rushing_yards": 75,
+        "total_yards": 208,
         "yet_to_play": [
             "Sam Darnold",
             "Omarion Hampton",
@@ -202,8 +202,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 98,
-        "rushing_yards": 58,
-        "total_yards": 156,
+        "rushing_yards": 63,
+        "total_yards": 161,
         "yet_to_play": [
             "Brock Purdy",
             "Aaron Jones",
