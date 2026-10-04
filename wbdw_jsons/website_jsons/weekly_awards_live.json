@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 253,
         "receiving_yards": 547,
-        "rushing_yards": 207,
-        "total_yards": 1007,
+        "rushing_yards": 227,
+        "total_yards": 1027,
         "yet_to_play": [],
         "in_play": [
             "Deebo Samuel"
@@ -60,9 +60,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 197,
-        "receiving_yards": 164,
-        "rushing_yards": 139,
-        "total_yards": 500,
+        "receiving_yards": 174,
+        "rushing_yards": 151,
+        "total_yards": 522,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
@@ -73,8 +73,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 237,
-        "rushing_yards": 238,
-        "total_yards": 475,
+        "rushing_yards": 251,
+        "total_yards": 488,
         "yet_to_play": [
             "Jared Goff",
             "Drake London"
@@ -85,10 +85,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 77,
+        "passing_yards": 87,
         "receiving_yards": 318,
         "rushing_yards": 75,
-        "total_yards": 470,
+        "total_yards": 480,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -102,8 +102,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 61,
         "receiving_yards": 209,
-        "rushing_yards": 183,
-        "total_yards": 453,
+        "rushing_yards": 189,
+        "total_yards": 459,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -130,9 +130,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 36,
-        "receiving_yards": 195,
-        "rushing_yards": 142,
-        "total_yards": 373,
+        "receiving_yards": 214,
+        "rushing_yards": 154,
+        "total_yards": 404,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
