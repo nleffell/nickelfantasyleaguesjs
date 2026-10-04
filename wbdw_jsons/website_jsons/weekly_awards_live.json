@@ -26,6 +26,21 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 227,
+        "receiving_yards": 367,
+        "rushing_yards": 80,
+        "total_yards": 674,
+        "yet_to_play": [
+            "Bijan Robinson"
+        ],
+        "in_play": [
+            "Mike Evans",
+            "Jauan Jennings",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 347,
         "receiving_yards": 179,
@@ -40,21 +55,6 @@
         "in_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 227,
-        "receiving_yards": 350,
-        "rushing_yards": 80,
-        "total_yards": 657,
-        "yet_to_play": [
-            "Bijan Robinson"
-        ],
-        "in_play": [
-            "Mike Evans",
-            "Jauan Jennings",
-            "Jaylen Waddle"
         ]
     },
     {
@@ -74,10 +74,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 136,
+        "passing_yards": 153,
         "receiving_yards": 270,
         "rushing_yards": 225,
-        "total_yards": 631,
+        "total_yards": 648,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -120,8 +120,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 197,
         "receiving_yards": 183,
-        "rushing_yards": 168,
-        "total_yards": 548,
+        "rushing_yards": 169,
+        "total_yards": 549,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
@@ -161,8 +161,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 109,
         "receiving_yards": 156,
-        "rushing_yards": 66,
-        "total_yards": 331,
+        "rushing_yards": 95,
+        "total_yards": 360,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
