@@ -13,9 +13,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 418,
-        "rushing_yards": 109,
-        "total_yards": 749,
+        "receiving_yards": 425,
+        "rushing_yards": 112,
+        "total_yards": 759,
         "yet_to_play": [
             "Amon-Ra St. Brown",
             "Juwan Johnson"
@@ -23,6 +23,23 @@
         "in_play": [
             "J.K. Dobbins",
             "George Kittle"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 347,
+        "receiving_yards": 179,
+        "rushing_yards": 132,
+        "total_yards": 658,
+        "yet_to_play": [
+            "Jahmyr Gibbs",
+            "Tetairoa McMillan",
+            "Jameson Williams",
+            "Darren Waller"
+        ],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "Brock Bowers"
         ]
     },
     {
@@ -56,20 +73,17 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 347,
-        "receiving_yards": 158,
-        "rushing_yards": 132,
-        "total_yards": 637,
-        "yet_to_play": [
-            "Jahmyr Gibbs",
-            "Tetairoa McMillan",
-            "Jameson Williams",
-            "Darren Waller"
-        ],
+        "owner": "Brad Lowe",
+        "passing_yards": 103,
+        "receiving_yards": 270,
+        "rushing_yards": 220,
+        "total_yards": 593,
+        "yet_to_play": [],
         "in_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers"
+            "Brock Purdy",
+            "Aaron Jones",
+            "Tory Horton",
+            "Jordan Addison"
         ]
     },
     {
@@ -100,20 +114,6 @@
             "Sam Darnold",
             "Omarion Hampton",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 103,
-        "receiving_yards": 243,
-        "rushing_yards": 206,
-        "total_yards": 552,
-        "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy",
-            "Aaron Jones",
-            "Tory Horton",
-            "Jordan Addison"
         ]
     },
     {
