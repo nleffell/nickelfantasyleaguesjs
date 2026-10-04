@@ -74,10 +74,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 103,
+        "passing_yards": 119,
         "receiving_yards": 270,
         "rushing_yards": 220,
-        "total_yards": 593,
+        "total_yards": 609,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -90,8 +90,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 237,
-        "rushing_yards": 338,
-        "total_yards": 575,
+        "rushing_yards": 337,
+        "total_yards": 574,
         "yet_to_play": [
             "Jared Goff",
             "Drake London"
@@ -103,9 +103,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 209,
+        "receiving_yards": 208,
         "rushing_yards": 196,
-        "total_yards": 573,
+        "total_yards": 572,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -144,9 +144,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 233,
+        "receiving_yards": 255,
         "rushing_yards": 95,
-        "total_yards": 328,
+        "total_yards": 350,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
@@ -159,10 +159,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 95,
+        "passing_yards": 109,
         "receiving_yards": 156,
         "rushing_yards": 63,
-        "total_yards": 314,
+        "total_yards": 328,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
