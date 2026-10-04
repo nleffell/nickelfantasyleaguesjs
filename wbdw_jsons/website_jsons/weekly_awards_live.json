@@ -6,9 +6,7 @@
         "rushing_yards": 229,
         "total_yards": 1044,
         "yet_to_play": [],
-        "in_play": [
-            "Deebo Samuel"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -20,20 +18,16 @@
             "Amon-Ra St. Brown",
             "Juwan Johnson"
         ],
-        "in_play": [
-            "J.K. Dobbins",
-            "George Kittle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
         "passing_yards": 218,
         "receiving_yards": 270,
-        "rushing_yards": 227,
-        "total_yards": 715,
+        "rushing_yards": 225,
+        "total_yards": 713,
         "yet_to_play": [],
         "in_play": [
-            "Brock Purdy",
             "Tory Horton"
         ]
     },
@@ -59,10 +53,7 @@
         "yet_to_play": [
             "Bijan Robinson"
         ],
-        "in_play": [
-            "Mike Evans",
-            "Jaylen Waddle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -98,9 +89,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 211,
+        "receiving_yards": 219,
         "rushing_yards": 216,
-        "total_yards": 595,
+        "total_yards": 603,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -119,16 +110,15 @@
         "total_yards": 560,
         "yet_to_play": [],
         "in_play": [
-            "Christian McCaffrey",
             "Travis Kelce"
         ]
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 181,
+        "passing_yards": 180,
         "receiving_yards": 172,
         "rushing_yards": 104,
-        "total_yards": 457,
+        "total_yards": 456,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
