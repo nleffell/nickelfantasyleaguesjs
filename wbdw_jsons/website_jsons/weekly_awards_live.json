@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 368,
+        "receiving_yards": 362,
         "rushing_yards": 66,
-        "total_yards": 656,
+        "total_yards": 650,
         "yet_to_play": [
             "J.K. Dobbins",
             "Amon-Ra St. Brown",
@@ -39,9 +39,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 176,
-        "receiving_yards": 198,
-        "rushing_yards": 28,
-        "total_yards": 402,
+        "receiving_yards": 204,
+        "rushing_yards": 31,
+        "total_yards": 411,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -81,9 +81,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 204,
-        "rushing_yards": 132,
-        "total_yards": 336,
+        "receiving_yards": 217,
+        "rushing_yards": 133,
+        "total_yards": 350,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -100,9 +100,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 111,
-        "receiving_yards": 90,
+        "receiving_yards": 92,
         "rushing_yards": 94,
-        "total_yards": 295,
+        "total_yards": 297,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -121,9 +121,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 196,
-        "rushing_yards": 87,
-        "total_yards": 283,
+        "receiving_yards": 204,
+        "rushing_yards": 89,
+        "total_yards": 293,
         "yet_to_play": [
             "Tyler Shough",
             "Malik Washington"
@@ -140,9 +140,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 204,
-        "rushing_yards": 56,
-        "total_yards": 260,
+        "receiving_yards": 207,
+        "rushing_yards": 59,
+        "total_yards": 266,
         "yet_to_play": [
             "Patrick Mahomes",
             "Ollie Gordon",
