@@ -2,18 +2,16 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 76,
-        "rushing_yards": 146,
-        "total_yards": 222,
+        "receiving_yards": 146,
+        "rushing_yards": 161,
+        "total_yards": 307,
         "yet_to_play": [
             "Josh Allen",
             "CeeDee Lamb",
-            "Stefon Diggs",
-            "Khalil Shakir",
+            "Puka Nacua",
             "Colston Loveland",
             "David Montgomery",
-            "Puka Nacua",
-            "Rachaad White"
+            "Deebo Samuel"
         ],
         "in_play": []
     },
@@ -50,7 +48,44 @@
             "George Kittle",
             "Juwan Johnson",
             "Zay Flowers",
-            "DeVonta Smith"
+            "Mack Hollins"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 18,
+        "rushing_yards": 95,
+        "total_yards": 113,
+        "yet_to_play": [
+            "Jared Goff",
+            "Kenneth Walker",
+            "Drake London",
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 41,
+        "rushing_yards": 0,
+        "total_yards": 41,
+        "yet_to_play": [
+            "Justin Herbert",
+            "Ashton Jeanty",
+            "Chuba Hubbard",
+            "Rashee Rice",
+            "Matthew Golden",
+            "Christian Watson",
+            "Ladd McConkey",
+            "Dalton Kincaid",
+            "Chris Olave"
         ],
         "in_play": []
     },
@@ -84,11 +119,11 @@
             "Jeremiyah Love",
             "Alvin Kamara",
             "Luther Burden",
-            "DeMario Douglas",
+            "Brycen Tremayne",
             "Dontayvion Wicks",
             "T.J. Hockenson",
-            "Cooper Kupp",
-            "Mike Washington"
+            "George Holani",
+            "Tyler Higbee"
         ],
         "in_play": []
     },
@@ -132,46 +167,6 @@
         "in_play": []
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Justin Herbert",
-            "Ashton Jeanty",
-            "Chuba Hubbard",
-            "Rashee Rice",
-            "Matthew Golden",
-            "Christian Watson",
-            "Tyler Warren",
-            "Ladd McConkey",
-            "Dalton Kincaid",
-            "Chris Olave"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Jalen Hurts",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Drake London",
-            "Josh Downs",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -181,12 +176,12 @@
             "Trevor Lawrence",
             "Bijan Robinson",
             "Kyren Williams",
-            "Terry McLaurin",
+            "Nico Collins",
             "Garrett Wilson",
             "Ja'Marr Chase",
             "Mark Andrews",
             "Mike Evans",
-            "Nico Collins",
+            "Jauan Jennings",
             "Jaylen Waddle"
         ],
         "in_play": []
@@ -223,10 +218,10 @@
             "Derrick Henry",
             "Davante Adams",
             "DJ Moore",
-            "Courtland Sutton",
+            "Jakobi Meyers",
             "Travis Kelce",
             "Tony Pollard",
-            "Jakobi Meyers",
+            "Isaiah Likely",
             "Dalton Schultz"
         ],
         "in_play": []
