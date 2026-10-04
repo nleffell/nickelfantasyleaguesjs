@@ -28,9 +28,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 275,
+        "receiving_yards": 281,
         "rushing_yards": 80,
-        "total_yards": 582,
+        "total_yards": 588,
         "yet_to_play": [
             "Bijan Robinson"
         ],
@@ -70,11 +70,25 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 237,
+        "rushing_yards": 238,
+        "total_yards": 475,
+        "yet_to_play": [
+            "Jared Goff",
+            "Drake London"
+        ],
+        "in_play": [
+            "Kenneth Walker"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
-        "passing_yards": 63,
+        "passing_yards": 65,
         "receiving_yards": 318,
         "rushing_yards": 75,
-        "total_yards": 456,
+        "total_yards": 458,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -85,17 +99,19 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 235,
-        "rushing_yards": 206,
-        "total_yards": 441,
+        "owner": "Patrick Neafsey",
+        "passing_yards": 35,
+        "receiving_yards": 190,
+        "rushing_yards": 183,
+        "total_yards": 408,
         "yet_to_play": [
-            "Jared Goff",
-            "Drake London"
+            "Sam LaPorta",
+            "Devaughn Vele"
         ],
         "in_play": [
-            "Kenneth Walker"
+            "Sam Darnold",
+            "Omarion Hampton",
+            "Tre Tucker"
         ]
     },
     {
@@ -109,22 +125,6 @@
         ],
         "in_play": [
             "Malik Washington"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 35,
-        "receiving_yards": 190,
-        "rushing_yards": 166,
-        "total_yards": 391,
-        "yet_to_play": [
-            "Sam LaPorta",
-            "Devaughn Vele"
-        ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Tre Tucker"
         ]
     },
     {
