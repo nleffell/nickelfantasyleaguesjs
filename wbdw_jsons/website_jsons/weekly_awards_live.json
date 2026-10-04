@@ -59,10 +59,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 139,
+        "passing_yards": 156,
         "receiving_yards": 318,
         "rushing_yards": 135,
-        "total_yards": 592,
+        "total_yards": 609,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -104,8 +104,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 237,
-        "rushing_yards": 253,
-        "total_yards": 490,
+        "rushing_yards": 259,
+        "total_yards": 496,
         "yet_to_play": [
             "Jared Goff",
             "Drake London"
@@ -118,8 +118,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 85,
         "receiving_yards": 214,
-        "rushing_yards": 188,
-        "total_yards": 487,
+        "rushing_yards": 189,
+        "total_yards": 488,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -131,9 +131,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 276,
+        "receiving_yards": 282,
         "rushing_yards": 131,
-        "total_yards": 407,
+        "total_yards": 413,
         "yet_to_play": [
             "Tyler Shough"
         ],
