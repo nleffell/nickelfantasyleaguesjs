@@ -12,10 +12,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 230,
-        "receiving_yards": 410,
+        "passing_yards": 222,
+        "receiving_yards": 406,
         "rushing_yards": 93,
-        "total_yards": 733,
+        "total_yards": 721,
         "yet_to_play": [
             "Amon-Ra St. Brown",
             "Juwan Johnson"
@@ -28,9 +28,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
-        "receiving_yards": 281,
+        "receiving_yards": 282,
         "rushing_yards": 80,
-        "total_yards": 588,
+        "total_yards": 589,
         "yet_to_play": [
             "Bijan Robinson"
         ],
@@ -85,10 +85,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 65,
+        "passing_yards": 77,
         "receiving_yards": 318,
         "rushing_yards": 75,
-        "total_yards": 458,
+        "total_yards": 470,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -129,10 +129,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 14,
+        "passing_yards": 18,
         "receiving_yards": 195,
         "rushing_yards": 140,
-        "total_yards": 349,
+        "total_yards": 353,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
