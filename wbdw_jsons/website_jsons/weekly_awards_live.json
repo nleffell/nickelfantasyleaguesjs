@@ -14,8 +14,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 222,
         "receiving_yards": 425,
-        "rushing_yards": 112,
-        "total_yards": 759,
+        "rushing_yards": 124,
+        "total_yards": 771,
         "yet_to_play": [
             "Amon-Ra St. Brown",
             "Juwan Johnson"
@@ -23,6 +23,19 @@
         "in_play": [
             "J.K. Dobbins",
             "George Kittle"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 226,
+        "receiving_yards": 318,
+        "rushing_yards": 160,
+        "total_yards": 704,
+        "yet_to_play": [
+            "Kyle Pitts"
+        ],
+        "in_play": [
+            "Patrick Mahomes"
         ]
     },
     {
@@ -36,7 +49,6 @@
         ],
         "in_play": [
             "Mike Evans",
-            "Jauan Jennings",
             "Jaylen Waddle"
         ]
     },
@@ -58,21 +70,6 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 170,
-        "receiving_yards": 318,
-        "rushing_yards": 160,
-        "total_yards": 648,
-        "yet_to_play": [
-            "Kyle Pitts"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Ollie Gordon",
-            "Chris Bell"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 153,
         "receiving_yards": 270,
@@ -81,31 +78,15 @@
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
-            "Aaron Jones",
-            "Tory Horton",
-            "Jordan Addison"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 237,
-        "rushing_yards": 337,
-        "total_yards": 574,
-        "yet_to_play": [
-            "Jared Goff",
-            "Drake London"
-        ],
-        "in_play": [
-            "Kenneth Walker"
+            "Tory Horton"
         ]
     },
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 208,
-        "rushing_yards": 196,
-        "total_yards": 572,
+        "receiving_yards": 211,
+        "rushing_yards": 213,
+        "total_yards": 592,
         "yet_to_play": [
             "Sam LaPorta",
             "Devaughn Vele"
@@ -114,6 +95,20 @@
             "Sam Darnold",
             "Omarion Hampton",
             "Tre Tucker"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 237,
+        "rushing_yards": 342,
+        "total_yards": 579,
+        "yet_to_play": [
+            "Jared Goff",
+            "Drake London"
+        ],
+        "in_play": [
+            "Kenneth Walker"
         ]
     },
     {
@@ -137,8 +132,23 @@
         "yet_to_play": [
             "Tyler Shough"
         ],
+        "in_play": []
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 112,
+        "receiving_yards": 156,
+        "rushing_yards": 104,
+        "total_yards": 372,
+        "yet_to_play": [
+            "Chuba Hubbard",
+            "Chris Olave"
+        ],
         "in_play": [
-            "Malik Washington"
+            "Justin Herbert",
+            "Ashton Jeanty",
+            "Rashee Rice",
+            "Ladd McConkey"
         ]
     },
     {
@@ -153,25 +163,7 @@
             "Brycen Tremayne"
         ],
         "in_play": [
-            "T.J. Hockenson",
             "George Holani"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 109,
-        "receiving_yards": 156,
-        "rushing_yards": 95,
-        "total_yards": 360,
-        "yet_to_play": [
-            "Chuba Hubbard",
-            "Chris Olave"
-        ],
-        "in_play": [
-            "Justin Herbert",
-            "Ashton Jeanty",
-            "Rashee Rice",
-            "Ladd McConkey"
         ]
     }
 ]
