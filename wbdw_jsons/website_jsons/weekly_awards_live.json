@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 167,
+        "passing_yards": 188,
         "receiving_yards": 382,
-        "rushing_yards": 177,
-        "total_yards": 726,
+        "rushing_yards": 181,
+        "total_yards": 751,
         "yet_to_play": [
             "Deebo Samuel"
         ],
@@ -19,9 +19,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 362,
-        "rushing_yards": 86,
-        "total_yards": 670,
+        "receiving_yards": 371,
+        "rushing_yards": 95,
+        "total_yards": 688,
         "yet_to_play": [
             "J.K. Dobbins",
             "Amon-Ra St. Brown",
@@ -38,10 +38,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 176,
+        "passing_yards": 201,
         "receiving_yards": 227,
-        "rushing_yards": 68,
-        "total_yards": 471,
+        "rushing_yards": 70,
+        "total_yards": 498,
         "yet_to_play": [
             "Bijan Robinson",
             "Mike Evans",
@@ -59,10 +59,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 185,
-        "receiving_yards": 126,
-        "rushing_yards": 114,
-        "total_yards": 425,
+        "passing_yards": 198,
+        "receiving_yards": 135,
+        "rushing_yards": 113,
+        "total_yards": 446,
         "yet_to_play": [
             "Christian McCaffrey",
             "Travis Kelce"
@@ -162,8 +162,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 133,
-        "rushing_yards": 134,
-        "total_yards": 267,
+        "rushing_yards": 154,
+        "total_yards": 287,
         "yet_to_play": [
             "Sam Darnold",
             "Omarion Hampton",
@@ -202,8 +202,8 @@
         "owner": "Chad Hill",
         "passing_yards": 0,
         "receiving_yards": 109,
-        "rushing_yards": 85,
-        "total_yards": 194,
+        "rushing_yards": 83,
+        "total_yards": 192,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
