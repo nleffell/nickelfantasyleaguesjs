@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 253,
-        "receiving_yards": 543,
-        "rushing_yards": 185,
-        "total_yards": 981,
+        "receiving_yards": 547,
+        "rushing_yards": 207,
+        "total_yards": 1007,
         "yet_to_play": [],
         "in_play": [
             "Deebo Samuel"
@@ -61,8 +61,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 197,
         "receiving_yards": 164,
-        "rushing_yards": 134,
-        "total_yards": 495,
+        "rushing_yards": 136,
+        "total_yards": 497,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
@@ -71,10 +71,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 61,
+        "passing_yards": 63,
         "receiving_yards": 318,
         "rushing_yards": 75,
-        "total_yards": 454,
+        "total_yards": 456,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -129,10 +129,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 10,
+        "passing_yards": 14,
         "receiving_yards": 180,
-        "rushing_yards": 121,
-        "total_yards": 311,
+        "rushing_yards": 125,
+        "total_yards": 319,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -159,10 +159,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 21,
+        "passing_yards": 29,
         "receiving_yards": 116,
         "rushing_yards": 10,
-        "total_yards": 147,
+        "total_yards": 155,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
