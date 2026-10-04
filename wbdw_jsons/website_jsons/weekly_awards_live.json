@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 253,
-        "receiving_yards": 536,
+        "receiving_yards": 543,
         "rushing_yards": 185,
-        "total_yards": 974,
+        "total_yards": 981,
         "yet_to_play": [],
         "in_play": [
             "Deebo Samuel"
@@ -13,9 +13,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 230,
-        "receiving_yards": 407,
+        "receiving_yards": 410,
         "rushing_yards": 93,
-        "total_yards": 730,
+        "total_yards": 733,
         "yet_to_play": [
             "Amon-Ra St. Brown",
             "Juwan Johnson"
@@ -60,9 +60,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 197,
-        "receiving_yards": 159,
-        "rushing_yards": 119,
-        "total_yards": 475,
+        "receiving_yards": 164,
+        "rushing_yards": 134,
+        "total_yards": 495,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
@@ -73,8 +73,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 235,
-        "rushing_yards": 197,
-        "total_yards": 432,
+        "rushing_yards": 201,
+        "total_yards": 436,
         "yet_to_play": [
             "Jared Goff",
             "Drake London"
@@ -85,10 +85,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 0,
+        "passing_yards": 5,
         "receiving_yards": 318,
         "rushing_yards": 71,
-        "total_yards": 389,
+        "total_yards": 394,
         "yet_to_play": [
             "Kyle Pitts"
         ],
@@ -101,9 +101,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 249,
+        "receiving_yards": 265,
         "rushing_yards": 128,
-        "total_yards": 377,
+        "total_yards": 393,
         "yet_to_play": [
             "Tyler Shough"
         ],
@@ -129,10 +129,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 0,
+        "passing_yards": 10,
         "receiving_yards": 178,
-        "rushing_yards": 107,
-        "total_yards": 285,
+        "rushing_yards": 109,
+        "total_yards": 297,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -159,10 +159,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 8,
+        "passing_yards": 21,
         "receiving_yards": 116,
         "rushing_yards": 6,
-        "total_yards": 130,
+        "total_yards": 143,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
