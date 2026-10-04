@@ -29,8 +29,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 218,
         "receiving_yards": 270,
-        "rushing_yards": 226,
-        "total_yards": 714,
+        "rushing_yards": 227,
+        "total_yards": 715,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -115,8 +115,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 197,
         "receiving_yards": 192,
-        "rushing_yards": 172,
-        "total_yards": 561,
+        "rushing_yards": 171,
+        "total_yards": 560,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey",
@@ -137,9 +137,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 112,
-        "receiving_yards": 156,
+        "receiving_yards": 172,
         "rushing_yards": 104,
-        "total_yards": 372,
+        "total_yards": 388,
         "yet_to_play": [
             "Chuba Hubbard",
             "Chris Olave"
@@ -155,8 +155,8 @@
         "owner": "Chad Hill",
         "passing_yards": 0,
         "receiving_yards": 268,
-        "rushing_yards": 95,
-        "total_yards": 363,
+        "rushing_yards": 101,
+        "total_yards": 369,
         "yet_to_play": [
             "Bryce Young",
             "Alvin Kamara",
