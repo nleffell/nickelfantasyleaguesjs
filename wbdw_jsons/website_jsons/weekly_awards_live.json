@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 0,
+        "passing_yards": 1,
         "receiving_yards": 146,
         "rushing_yards": 161,
-        "total_yards": 307,
+        "total_yards": 308,
         "yet_to_play": [
             "Josh Allen",
             "CeeDee Lamb",
@@ -34,6 +34,24 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 18,
+        "rushing_yards": 100,
+        "total_yards": 118,
+        "yet_to_play": [
+            "Jared Goff",
+            "Kenneth Walker",
+            "Drake London",
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook",
+            "Chase Brown",
+            "Saquon Barkley"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 115,
@@ -53,20 +71,42 @@
         "in_play": []
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 18,
-        "rushing_yards": 95,
-        "total_yards": 113,
+        "owner": "Kyle Nester",
+        "passing_yards": 45,
+        "receiving_yards": 0,
+        "rushing_yards": 1,
+        "total_yards": 46,
         "yet_to_play": [
-            "Jared Goff",
-            "Kenneth Walker",
-            "Drake London",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook",
-            "Chase Brown",
-            "Saquon Barkley"
+            "C.J. Stroud",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Tetairoa McMillan",
+            "Jameson Williams",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Isaiah Davis",
+            "Darren Waller"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 45,
+        "rushing_yards": 0,
+        "total_yards": 45,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Bijan Robinson",
+            "Kyren Williams",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews",
+            "Mike Evans",
+            "Jauan Jennings",
+            "Jaylen Waddle"
         ],
         "in_play": []
     },
@@ -111,9 +151,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 7,
-        "rushing_yards": 9,
-        "total_yards": 16,
+        "receiving_yards": 15,
+        "rushing_yards": 8,
+        "total_yards": 23,
         "yet_to_play": [
             "Bryce Young",
             "Jeremiyah Love",
@@ -131,13 +171,13 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 15,
-        "rushing_yards": 0,
-        "total_yards": 15,
+        "rushing_yards": 5,
+        "total_yards": 20,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
             "Aaron Jones",
-            "Jalen Coker",
+            "Tory Horton",
             "Tee Higgins",
             "Jordan Addison",
             "Kenyon Sadiq",
@@ -163,46 +203,6 @@
             "Cade Otton",
             "Isaiah Williams",
             "Chris Bell"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Kyren Williams",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews",
-            "Mike Evans",
-            "Jauan Jennings",
-            "Jaylen Waddle"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "C.J. Stroud",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Tetairoa McMillan",
-            "Jameson Williams",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Isaiah Davis",
-            "Darren Waller"
         ],
         "in_play": []
     },
