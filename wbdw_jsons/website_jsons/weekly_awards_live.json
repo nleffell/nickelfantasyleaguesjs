@@ -11,9 +11,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 519,
+        "receiving_yards": 518,
         "rushing_yards": 133,
-        "total_yards": 874,
+        "total_yards": 873,
         "yet_to_play": [
             "Juwan Johnson"
         ],
@@ -24,9 +24,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 333,
-        "rushing_yards": 164,
-        "total_yards": 844,
+        "receiving_yards": 343,
+        "rushing_yards": 167,
+        "total_yards": 857,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -45,6 +45,19 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 104,
+        "receiving_yards": 237,
+        "rushing_yards": 368,
+        "total_yards": 709,
+        "yet_to_play": [
+            "Drake London"
+        ],
+        "in_play": [
+            "Jared Goff"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 225,
         "receiving_yards": 318,
@@ -54,19 +67,6 @@
             "Kyle Pitts"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 95,
-        "receiving_yards": 237,
-        "rushing_yards": 368,
-        "total_yards": 700,
-        "yet_to_play": [
-            "Drake London"
-        ],
-        "in_play": [
-            "Jared Goff"
-        ]
     },
     {
         "owner": "Nick Janowicz",
