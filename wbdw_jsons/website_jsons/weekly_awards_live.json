@@ -6,12 +6,7 @@
         "rushing_yards": 178,
         "total_yards": 1085,
         "yet_to_play": [],
-        "in_play": [
-            "Jahmyr Gibbs",
-            "Tetairoa McMillan",
-            "Jameson Williams",
-            "Darren Waller"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -31,9 +26,7 @@
         "yet_to_play": [
             "Drake London"
         ],
-        "in_play": [
-            "Jared Goff"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -44,9 +37,7 @@
         "yet_to_play": [
             "Juwan Johnson"
         ],
-        "in_play": [
-            "Amon-Ra St. Brown"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -57,10 +48,7 @@
         "yet_to_play": [
             "Alvin Kamara"
         ],
-        "in_play": [
-            "Bryce Young",
-            "Brycen Tremayne"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -80,9 +68,7 @@
         "yet_to_play": [
             "Devaughn Vele"
         ],
-        "in_play": [
-            "Sam LaPorta"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -115,9 +101,7 @@
         "yet_to_play": [
             "Chris Olave"
         ],
-        "in_play": [
-            "Chuba Hubbard"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
