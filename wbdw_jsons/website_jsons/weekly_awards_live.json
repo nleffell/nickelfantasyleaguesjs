@@ -24,10 +24,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 330,
+        "passing_yards": 395,
         "receiving_yards": 237,
         "rushing_yards": 368,
-        "total_yards": 935,
+        "total_yards": 1000,
         "yet_to_play": [
             "Drake London"
         ],
@@ -38,9 +38,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 548,
+        "receiving_yards": 553,
         "rushing_yards": 133,
-        "total_yards": 903,
+        "total_yards": 908,
         "yet_to_play": [
             "Juwan Johnson"
         ],
@@ -72,6 +72,19 @@
         "in_play": []
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 168,
+        "receiving_yards": 324,
+        "rushing_yards": 214,
+        "total_yards": 706,
+        "yet_to_play": [
+            "Devaughn Vele"
+        ],
+        "in_play": [
+            "Sam LaPorta"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 225,
         "receiving_yards": 318,
@@ -92,19 +105,6 @@
             "Bijan Robinson"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 168,
-        "receiving_yards": 290,
-        "rushing_yards": 214,
-        "total_yards": 672,
-        "yet_to_play": [
-            "Devaughn Vele"
-        ],
-        "in_play": [
-            "Sam LaPorta"
-        ]
     },
     {
         "owner": "Ryan Shannon",
