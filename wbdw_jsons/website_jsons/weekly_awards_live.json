@@ -11,14 +11,15 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 481,
+        "receiving_yards": 499,
         "rushing_yards": 133,
-        "total_yards": 836,
+        "total_yards": 854,
         "yet_to_play": [
-            "Amon-Ra St. Brown",
             "Juwan Johnson"
         ],
-        "in_play": []
+        "in_play": [
+            "Amon-Ra St. Brown"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -41,6 +42,20 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 347,
+        "receiving_yards": 205,
+        "rushing_yards": 142,
+        "total_yards": 694,
+        "yet_to_play": [],
+        "in_play": [
+            "Jahmyr Gibbs",
+            "Tetairoa McMillan",
+            "Jameson Williams",
+            "Darren Waller"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
         "receiving_yards": 385,
@@ -52,18 +67,17 @@
         "in_play": []
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 347,
-        "receiving_yards": 199,
-        "rushing_yards": 132,
-        "total_yards": 678,
+        "owner": "Brian Fuquay",
+        "passing_yards": 24,
+        "receiving_yards": 237,
+        "rushing_yards": 368,
+        "total_yards": 629,
         "yet_to_play": [
-            "Jahmyr Gibbs",
-            "Tetairoa McMillan",
-            "Jameson Williams",
-            "Darren Waller"
+            "Drake London"
         ],
-        "in_play": []
+        "in_play": [
+            "Jared Goff"
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -72,22 +86,11 @@
         "rushing_yards": 214,
         "total_yards": 624,
         "yet_to_play": [
-            "Sam LaPorta",
             "Devaughn Vele"
         ],
-        "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 237,
-        "rushing_yards": 368,
-        "total_yards": 605,
-        "yet_to_play": [
-            "Jared Goff",
-            "Drake London"
-        ],
-        "in_play": []
+        "in_play": [
+            "Sam LaPorta"
+        ]
     },
     {
         "owner": "Tyler Smith",
@@ -105,10 +108,11 @@
         "rushing_yards": 104,
         "total_yards": 477,
         "yet_to_play": [
-            "Chuba Hubbard",
             "Chris Olave"
         ],
-        "in_play": []
+        "in_play": [
+            "Chuba Hubbard"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -128,10 +132,11 @@
         "rushing_yards": 101,
         "total_yards": 369,
         "yet_to_play": [
-            "Bryce Young",
-            "Alvin Kamara",
-            "Brycen Tremayne"
+            "Alvin Kamara"
         ],
-        "in_play": []
+        "in_play": [
+            "Bryce Young",
+            "Brycen Tremayne"
+        ]
     }
 ]
