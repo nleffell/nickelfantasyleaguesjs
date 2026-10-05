@@ -24,10 +24,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 395,
+        "passing_yards": 397,
         "receiving_yards": 237,
         "rushing_yards": 368,
-        "total_yards": 1000,
+        "total_yards": 1002,
         "yet_to_play": [
             "Drake London"
         ],
@@ -74,9 +74,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 324,
+        "receiving_yards": 326,
         "rushing_yards": 214,
-        "total_yards": 706,
+        "total_yards": 708,
         "yet_to_play": [
             "Devaughn Vele"
         ],
@@ -110,8 +110,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 189,
         "receiving_yards": 191,
-        "rushing_yards": 225,
-        "total_yards": 605,
+        "rushing_yards": 226,
+        "total_yards": 606,
         "yet_to_play": [
             "Chris Olave"
         ],
