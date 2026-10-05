@@ -11,9 +11,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 502,
+        "receiving_yards": 510,
         "rushing_yards": 178,
-        "total_yards": 1027,
+        "total_yards": 1035,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -37,10 +37,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 251,
+        "passing_yards": 284,
         "receiving_yards": 237,
         "rushing_yards": 368,
-        "total_yards": 856,
+        "total_yards": 889,
         "yet_to_play": [
             "Drake London"
         ],
@@ -96,9 +96,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 258,
+        "receiving_yards": 283,
         "rushing_yards": 214,
-        "total_yards": 640,
+        "total_yards": 665,
         "yet_to_play": [
             "Devaughn Vele"
         ],
