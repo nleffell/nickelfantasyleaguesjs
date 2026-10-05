@@ -2,9 +2,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 524,
+        "receiving_yards": 538,
         "rushing_yards": 178,
-        "total_yards": 1049,
+        "total_yards": 1063,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -24,10 +24,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 316,
+        "passing_yards": 330,
         "receiving_yards": 237,
         "rushing_yards": 368,
-        "total_yards": 921,
+        "total_yards": 935,
         "yet_to_play": [
             "Drake London"
         ],
@@ -110,8 +110,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 189,
         "receiving_yards": 191,
-        "rushing_yards": 222,
-        "total_yards": 602,
+        "rushing_yards": 225,
+        "total_yards": 605,
         "yet_to_play": [
             "Chris Olave"
         ],
