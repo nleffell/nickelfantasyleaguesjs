@@ -24,9 +24,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 343,
+        "receiving_yards": 354,
         "rushing_yards": 167,
-        "total_yards": 857,
+        "total_yards": 868,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -103,10 +103,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 141,
+        "passing_yards": 152,
         "receiving_yards": 268,
         "rushing_yards": 108,
-        "total_yards": 517,
+        "total_yards": 528,
         "yet_to_play": [
             "Alvin Kamara"
         ],
