@@ -11,9 +11,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 485,
+        "receiving_yards": 493,
         "rushing_yards": 178,
-        "total_yards": 1010,
+        "total_yards": 1018,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -69,6 +69,20 @@
         "in_play": []
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 290,
+        "receiving_yards": 300,
+        "rushing_yards": 108,
+        "total_yards": 698,
+        "yet_to_play": [
+            "Alvin Kamara"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Brycen Tremayne"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 227,
         "receiving_yards": 385,
@@ -78,20 +92,6 @@
             "Bijan Robinson"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 282,
-        "receiving_yards": 300,
-        "rushing_yards": 108,
-        "total_yards": 690,
-        "yet_to_play": [
-            "Alvin Kamara"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Brycen Tremayne"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -107,6 +107,19 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 189,
+        "receiving_yards": 191,
+        "rushing_yards": 216,
+        "total_yards": 596,
+        "yet_to_play": [
+            "Chris Olave"
+        ],
+        "in_play": [
+            "Chuba Hubbard"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 197,
         "receiving_yards": 192,
@@ -114,19 +127,6 @@
         "total_yards": 560,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 189,
-        "receiving_yards": 191,
-        "rushing_yards": 172,
-        "total_yards": 552,
-        "yet_to_play": [
-            "Chris Olave"
-        ],
-        "in_play": [
-            "Chuba Hubbard"
-        ]
     },
     {
         "owner": "Jon Knicely",
