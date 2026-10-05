@@ -1,19 +1,10 @@
 [
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 253,
-        "receiving_yards": 562,
-        "rushing_yards": 229,
-        "total_yards": 1044,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 510,
+        "receiving_yards": 524,
         "rushing_yards": 178,
-        "total_yards": 1035,
+        "total_yards": 1049,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -23,29 +14,38 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 222,
-        "receiving_yards": 537,
-        "rushing_yards": 133,
-        "total_yards": 892,
-        "yet_to_play": [
-            "Juwan Johnson"
-        ],
-        "in_play": [
-            "Amon-Ra St. Brown"
-        ]
+        "owner": "TJ Pickeral",
+        "passing_yards": 253,
+        "receiving_yards": 562,
+        "rushing_yards": 229,
+        "total_yards": 1044,
+        "yet_to_play": [],
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 284,
+        "passing_yards": 312,
         "receiving_yards": 237,
         "rushing_yards": 368,
-        "total_yards": 889,
+        "total_yards": 917,
         "yet_to_play": [
             "Drake London"
         ],
         "in_play": [
             "Jared Goff"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 222,
+        "receiving_yards": 544,
+        "rushing_yards": 133,
+        "total_yards": 899,
+        "yet_to_play": [
+            "Juwan Johnson"
+        ],
+        "in_play": [
+            "Amon-Ra St. Brown"
         ]
     },
     {
@@ -96,9 +96,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 283,
+        "receiving_yards": 290,
         "rushing_yards": 214,
-        "total_yards": 665,
+        "total_yards": 672,
         "yet_to_play": [
             "Devaughn Vele"
         ],
