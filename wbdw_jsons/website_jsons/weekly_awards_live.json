@@ -11,9 +11,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 347,
-        "receiving_yards": 429,
+        "receiving_yards": 434,
         "rushing_yards": 167,
-        "total_yards": 943,
+        "total_yards": 948,
         "yet_to_play": [],
         "in_play": [
             "Jahmyr Gibbs",
@@ -93,20 +93,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 197,
-        "receiving_yards": 192,
-        "rushing_yards": 171,
-        "total_yards": 560,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 178,
-        "receiving_yards": 268,
+        "passing_yards": 194,
+        "receiving_yards": 279,
         "rushing_yards": 108,
-        "total_yards": 554,
+        "total_yards": 581,
         "yet_to_play": [
             "Alvin Kamara"
         ],
@@ -116,11 +107,20 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 197,
+        "receiving_yards": 192,
+        "rushing_yards": 171,
+        "total_yards": 560,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 189,
         "receiving_yards": 191,
-        "rushing_yards": 130,
-        "total_yards": 510,
+        "rushing_yards": 134,
+        "total_yards": 514,
         "yet_to_play": [
             "Chris Olave"
         ],
