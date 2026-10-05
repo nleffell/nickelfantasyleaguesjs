@@ -11,9 +11,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 499,
+        "receiving_yards": 504,
         "rushing_yards": 133,
-        "total_yards": 854,
+        "total_yards": 859,
         "yet_to_play": [
             "Juwan Johnson"
         ],
@@ -68,10 +68,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 24,
+        "passing_yards": 29,
         "receiving_yards": 237,
         "rushing_yards": 368,
-        "total_yards": 629,
+        "total_yards": 634,
         "yet_to_play": [
             "Drake London"
         ],
