@@ -43,8 +43,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 227,
         "receiving_yards": 387,
-        "rushing_yards": 212,
-        "total_yards": 826,
+        "rushing_yards": 225,
+        "total_yards": 839,
         "yet_to_play": [],
         "in_play": [
             "Bijan Robinson"
@@ -75,9 +75,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 225,
-        "receiving_yards": 337,
+        "receiving_yards": 365,
         "rushing_yards": 159,
-        "total_yards": 721,
+        "total_yards": 749,
         "yet_to_play": [],
         "in_play": [
             "Kyle Pitts"
