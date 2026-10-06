@@ -54,8 +54,8 @@
         "owner": "Chad Hill",
         "passing_yards": 329,
         "receiving_yards": 322,
-        "rushing_yards": 110,
-        "total_yards": 761,
+        "rushing_yards": 113,
+        "total_yards": 764,
         "yet_to_play": [],
         "in_play": [
             "Alvin Kamara"
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 93,
+        "passing_yards": 100,
         "receiving_yards": 316,
         "rushing_yards": 133,
-        "total_yards": 542,
+        "total_yards": 549,
         "yet_to_play": [],
         "in_play": [
             "Tyler Shough"
