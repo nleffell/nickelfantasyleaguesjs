@@ -43,8 +43,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 227,
         "receiving_yards": 385,
-        "rushing_yards": 180,
-        "total_yards": 792,
+        "rushing_yards": 183,
+        "total_yards": 795,
         "yet_to_play": [],
         "in_play": [
             "Bijan Robinson"
@@ -62,6 +62,17 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 225,
+        "receiving_yards": 337,
+        "rushing_yards": 159,
+        "total_yards": 721,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyle Pitts"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 218,
         "receiving_yards": 270,
@@ -69,17 +80,6 @@
         "total_yards": 713,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 225,
-        "receiving_yards": 327,
-        "rushing_yards": 159,
-        "total_yards": 711,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyle Pitts"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
