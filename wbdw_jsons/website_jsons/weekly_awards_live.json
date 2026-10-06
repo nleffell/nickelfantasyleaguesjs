@@ -20,9 +20,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 412,
-        "receiving_yards": 237,
+        "receiving_yards": 249,
         "rushing_yards": 368,
-        "total_yards": 1017,
+        "total_yards": 1029,
         "yet_to_play": [
             "Drake London"
         ],
@@ -36,6 +36,17 @@
         "total_yards": 911,
         "yet_to_play": [
             "Juwan Johnson"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 227,
+        "receiving_yards": 385,
+        "rushing_yards": 139,
+        "total_yards": 751,
+        "yet_to_play": [
+            "Bijan Robinson"
         ],
         "in_play": []
     },
@@ -78,17 +89,6 @@
         "total_yards": 702,
         "yet_to_play": [
             "Kyle Pitts"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 227,
-        "receiving_yards": 385,
-        "rushing_yards": 80,
-        "total_yards": 692,
-        "yet_to_play": [
-            "Bijan Robinson"
         ],
         "in_play": []
     },
