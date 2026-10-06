@@ -53,9 +53,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 329,
-        "receiving_yards": 331,
-        "rushing_yards": 120,
-        "total_yards": 780,
+        "receiving_yards": 335,
+        "rushing_yards": 127,
+        "total_yards": 791,
         "yet_to_play": [],
         "in_play": [
             "Alvin Kamara"
@@ -64,9 +64,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 346,
+        "receiving_yards": 372,
         "rushing_yards": 214,
-        "total_yards": 728,
+        "total_yards": 754,
         "yet_to_play": [],
         "in_play": [
             "Devaughn Vele"
@@ -105,10 +105,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 204,
+        "passing_yards": 234,
         "receiving_yards": 316,
         "rushing_yards": 133,
-        "total_yards": 653,
+        "total_yards": 683,
         "yet_to_play": [],
         "in_play": [
             "Tyler Shough"
