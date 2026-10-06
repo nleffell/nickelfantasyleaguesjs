@@ -73,9 +73,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 329,
+        "receiving_yards": 328,
         "rushing_yards": 214,
-        "total_yards": 711,
+        "total_yards": 710,
         "yet_to_play": [],
         "in_play": [
             "Devaughn Vele"
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 3,
+        "passing_yards": 2,
         "receiving_yards": 316,
         "rushing_yards": 131,
-        "total_yards": 450,
+        "total_yards": 449,
         "yet_to_play": [],
         "in_play": [
             "Tyler Shough"
