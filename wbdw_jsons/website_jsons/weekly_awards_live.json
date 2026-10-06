@@ -62,6 +62,17 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 168,
+        "receiving_yards": 346,
+        "rushing_yards": 214,
+        "total_yards": 728,
+        "yet_to_play": [],
+        "in_play": [
+            "Devaughn Vele"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 225,
         "receiving_yards": 337,
@@ -82,17 +93,6 @@
         "in_play": []
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 168,
-        "receiving_yards": 328,
-        "rushing_yards": 214,
-        "total_yards": 710,
-        "yet_to_play": [],
-        "in_play": [
-            "Devaughn Vele"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 189,
         "receiving_yards": 274,
@@ -105,10 +105,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 183,
+        "passing_yards": 204,
         "receiving_yards": 316,
         "rushing_yards": 133,
-        "total_yards": 632,
+        "total_yards": 653,
         "yet_to_play": [],
         "in_play": [
             "Tyler Shough"
