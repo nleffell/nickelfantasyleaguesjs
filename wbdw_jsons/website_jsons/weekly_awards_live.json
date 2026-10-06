@@ -23,10 +23,10 @@
         "receiving_yards": 249,
         "rushing_yards": 368,
         "total_yards": 1029,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Drake London"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -34,10 +34,10 @@
         "receiving_yards": 556,
         "rushing_yards": 133,
         "total_yards": 911,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Juwan Johnson"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -45,10 +45,10 @@
         "receiving_yards": 385,
         "rushing_yards": 139,
         "total_yards": 751,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Bijan Robinson"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -56,10 +56,10 @@
         "receiving_yards": 300,
         "rushing_yards": 104,
         "total_yards": 733,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Alvin Kamara"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -73,13 +73,13 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
-        "receiving_yards": 326,
+        "receiving_yards": 329,
         "rushing_yards": 214,
-        "total_yards": 708,
-        "yet_to_play": [
+        "total_yards": 711,
+        "yet_to_play": [],
+        "in_play": [
             "Devaughn Vele"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -87,10 +87,10 @@
         "receiving_yards": 318,
         "rushing_yards": 159,
         "total_yards": 702,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Kyle Pitts"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -98,10 +98,10 @@
         "receiving_yards": 191,
         "rushing_yards": 226,
         "total_yards": 606,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Chris Olave"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Tyler Smith",
@@ -114,13 +114,13 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 0,
+        "passing_yards": 3,
         "receiving_yards": 316,
         "rushing_yards": 131,
-        "total_yards": 447,
-        "yet_to_play": [
+        "total_yards": 450,
+        "yet_to_play": [],
+        "in_play": [
             "Tyler Shough"
-        ],
-        "in_play": []
+        ]
     }
 ]
