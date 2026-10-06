@@ -3,72 +3,72 @@
         "pick": "1st",
         "owner": "Nick Leffell",
         "team": "Team Name Redacted",
-        "max_possible_points": 312.02
+        "max_possible_points": 450.24
     },
     {
         "pick": "2nd",
         "owner": "Chad Hill",
         "team": "Russini\u2019s Receipts",
-        "max_possible_points": 382.96
+        "max_possible_points": 502.02
     },
     {
         "pick": "3rd",
-        "owner": "Patrick Neafsey",
-        "team": "Darts Inside",
-        "max_possible_points": 419.06
+        "owner": "Brad Lowe",
+        "team": "Damn She Purdy",
+        "max_possible_points": 565.08
     },
     {
         "pick": "4th",
         "owner": "Jon Knicely",
         "team": "Teamy McTeamface",
-        "max_possible_points": 425.56
+        "max_possible_points": 570.56
     },
     {
         "pick": "5th",
-        "owner": "Brad Lowe",
-        "team": "Damn She Purdy",
-        "max_possible_points": 432.42
+        "owner": "Patrick Neafsey",
+        "team": "Darts Inside",
+        "max_possible_points": 573.78
     },
     {
         "pick": "6th",
         "owner": "Ryan Shannon",
         "team": "no team name",
-        "max_possible_points": 506.64
+        "max_possible_points": 684.94
     },
     {
         "pick": "7th",
         "owner": "Brian Fuquay",
         "team": "Anyone Want Bijan?",
-        "max_possible_points": 469.76
+        "max_possible_points": 648.84
     },
     {
         "pick": "8th",
         "owner": "Nick Janowicz",
-        "team": "Bijan 1 Man Offense",
-        "max_possible_points": 528.26
+        "team": "Dan Patrick and the Gang",
+        "max_possible_points": 760.74
     },
     {
         "pick": "9th",
-        "owner": "TJ Pickeral",
-        "team": "I\u2019m All En",
-        "max_possible_points": 462.94
+        "owner": "Tyler Smith",
+        "team": "Grandpa and the Gang",
+        "max_possible_points": 662.12
     },
     {
         "pick": "10th",
-        "owner": "Tyler Smith",
-        "team": "Grandpa and the Gang",
-        "max_possible_points": 547.14
+        "owner": "TJ Pickeral",
+        "team": "I\u2019m All En",
+        "max_possible_points": 660.84
     },
     {
         "pick": "11th",
         "owner": "Victor Dankens",
         "team": "Good Morning Ladies",
-        "max_possible_points": 542.16
+        "max_possible_points": 702.82
     },
     {
         "pick": "12th",
         "owner": "Kyle Nester",
         "team": "Ron Mexico ",
-        "max_possible_points": 552.1
+        "max_possible_points": 746.98
     }
 ]
