@@ -71,6 +71,17 @@
         "in_play": []
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 225,
+        "receiving_yards": 327,
+        "rushing_yards": 159,
+        "total_yards": 711,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyle Pitts"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 168,
         "receiving_yards": 328,
@@ -79,17 +90,6 @@
         "yet_to_play": [],
         "in_play": [
             "Devaughn Vele"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 225,
-        "receiving_yards": 318,
-        "rushing_yards": 159,
-        "total_yards": 702,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyle Pitts"
         ]
     },
     {
