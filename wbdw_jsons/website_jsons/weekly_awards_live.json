@@ -31,9 +31,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 581,
+        "receiving_yards": 599,
         "rushing_yards": 133,
-        "total_yards": 936,
+        "total_yards": 954,
         "yet_to_play": [],
         "in_play": [
             "Juwan Johnson"
@@ -53,9 +53,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 329,
-        "receiving_yards": 322,
+        "receiving_yards": 324,
         "rushing_yards": 113,
-        "total_yards": 764,
+        "total_yards": 766,
         "yet_to_play": [],
         "in_play": [
             "Alvin Kamara"
@@ -104,6 +104,17 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 120,
+        "receiving_yards": 316,
+        "rushing_yards": 133,
+        "total_yards": 569,
+        "yet_to_play": [],
+        "in_play": [
+            "Tyler Shough"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 197,
         "receiving_yards": 192,
@@ -111,16 +122,5 @@
         "total_yards": 560,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 100,
-        "receiving_yards": 316,
-        "rushing_yards": 133,
-        "total_yards": 549,
-        "yet_to_play": [],
-        "in_play": [
-            "Tyler Shough"
-        ]
     }
 ]
