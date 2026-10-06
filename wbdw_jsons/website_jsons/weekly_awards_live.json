@@ -1,5 +1,16 @@
 [
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 412,
+        "receiving_yards": 313,
+        "rushing_yards": 368,
+        "total_yards": 1093,
+        "yet_to_play": [],
+        "in_play": [
+            "Drake London"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 347,
         "receiving_yards": 560,
@@ -7,17 +18,6 @@
         "total_yards": 1085,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 412,
-        "receiving_yards": 276,
-        "rushing_yards": 368,
-        "total_yards": 1056,
-        "yet_to_play": [],
-        "in_play": [
-            "Drake London"
-        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -43,8 +43,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 227,
         "receiving_yards": 385,
-        "rushing_yards": 161,
-        "total_yards": 773,
+        "rushing_yards": 180,
+        "total_yards": 792,
         "yet_to_play": [],
         "in_play": [
             "Bijan Robinson"
