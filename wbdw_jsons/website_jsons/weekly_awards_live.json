@@ -40,6 +40,17 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 227,
+        "receiving_yards": 385,
+        "rushing_yards": 154,
+        "total_yards": 766,
+        "yet_to_play": [],
+        "in_play": [
+            "Bijan Robinson"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 329,
         "receiving_yards": 322,
@@ -48,17 +59,6 @@
         "yet_to_play": [],
         "in_play": [
             "Alvin Kamara"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 227,
-        "receiving_yards": 385,
-        "rushing_yards": 145,
-        "total_yards": 757,
-        "yet_to_play": [],
-        "in_play": [
-            "Bijan Robinson"
         ]
     },
     {
