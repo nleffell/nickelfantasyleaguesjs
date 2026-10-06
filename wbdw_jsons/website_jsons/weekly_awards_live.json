@@ -31,9 +31,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 222,
-        "receiving_yards": 609,
+        "receiving_yards": 615,
         "rushing_yards": 133,
-        "total_yards": 964,
+        "total_yards": 970,
         "yet_to_play": [],
         "in_play": [
             "Juwan Johnson"
@@ -93,6 +93,17 @@
         "in_play": []
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 240,
+        "receiving_yards": 316,
+        "rushing_yards": 136,
+        "total_yards": 692,
+        "yet_to_play": [],
+        "in_play": [
+            "Tyler Shough"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 189,
         "receiving_yards": 274,
@@ -101,17 +112,6 @@
         "yet_to_play": [],
         "in_play": [
             "Chris Olave"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 234,
-        "receiving_yards": 316,
-        "rushing_yards": 133,
-        "total_yards": 683,
-        "yet_to_play": [],
-        "in_play": [
-            "Tyler Shough"
         ]
     },
     {
