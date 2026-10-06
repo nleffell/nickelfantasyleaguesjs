@@ -190,6 +190,13 @@
                 "value": 997.0,
                 "amount": 50
             }
+        },
+        "4": {
+            "most combined yards": {
+                "owner": "Brian Fuquay",
+                "value": 1113.0,
+                "amount": 50
+            }
         }
     }
 }
