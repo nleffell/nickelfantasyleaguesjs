@@ -43,8 +43,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 227,
         "receiving_yards": 385,
-        "rushing_yards": 154,
-        "total_yards": 766,
+        "rushing_yards": 158,
+        "total_yards": 770,
         "yet_to_play": [],
         "in_play": [
             "Bijan Robinson"
@@ -95,9 +95,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 189,
-        "receiving_yards": 191,
+        "receiving_yards": 235,
         "rushing_yards": 226,
-        "total_yards": 606,
+        "total_yards": 650,
         "yet_to_play": [],
         "in_play": [
             "Chris Olave"
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 49,
+        "passing_yards": 93,
         "receiving_yards": 316,
         "rushing_yards": 133,
-        "total_yards": 498,
+        "total_yards": 542,
         "yet_to_play": [],
         "in_play": [
             "Tyler Shough"
