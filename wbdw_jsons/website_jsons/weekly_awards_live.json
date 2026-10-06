@@ -54,8 +54,8 @@
         "owner": "Chad Hill",
         "passing_yards": 329,
         "receiving_yards": 324,
-        "rushing_yards": 113,
-        "total_yards": 766,
+        "rushing_yards": 117,
+        "total_yards": 770,
         "yet_to_play": [],
         "in_play": [
             "Alvin Kamara"
@@ -95,9 +95,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 189,
-        "receiving_yards": 253,
+        "receiving_yards": 264,
         "rushing_yards": 226,
-        "total_yards": 668,
+        "total_yards": 679,
         "yet_to_play": [],
         "in_play": [
             "Chris Olave"
@@ -105,10 +105,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 139,
+        "passing_yards": 150,
         "receiving_yards": 316,
         "rushing_yards": 133,
-        "total_yards": 588,
+        "total_yards": 599,
         "yet_to_play": [],
         "in_play": [
             "Tyler Shough"
