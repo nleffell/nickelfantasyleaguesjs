@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 55,
+        "rushing_yards": 0,
+        "total_yards": 55,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Will Shipley",
+            "Kyle Pitts",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 26,
@@ -18,27 +39,6 @@
         "in_play": [
             "Javonte Williams",
             "Chris Godwin"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 49,
-        "rushing_yards": 0,
-        "total_yards": 49,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Will Shipley",
-            "Kyle Pitts",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
         ]
     },
     {
@@ -66,8 +66,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 0,
-        "rushing_yards": 6,
-        "total_yards": 6,
+        "rushing_yards": 5,
+        "total_yards": 5,
         "yet_to_play": [
             "Brock Purdy",
             "Aaron Jones",
