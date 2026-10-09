@@ -1,10 +1,10 @@
 [
     {
         "owner": "Jon Knicely",
-        "passing_yards": 155,
-        "receiving_yards": 2,
+        "passing_yards": 166,
+        "receiving_yards": 13,
         "rushing_yards": 0,
-        "total_yards": 157,
+        "total_yards": 179,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Cam Skattebo",
@@ -66,8 +66,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 54,
-        "rushing_yards": 35,
-        "total_yards": 89,
+        "rushing_yards": 42,
+        "total_yards": 96,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
