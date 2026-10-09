@@ -6,23 +6,11 @@
             "team": "CHI",
             "starter": "no",
             "age": 24,
-            "sleeper_rank": 21,
+            "sleeper_rank": 20,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/caleb-williams-17695/",
-            "fp_rank": 51,
-            "fp_pos_rank": 8
-        },
-        {
-            "name": "Tee Higgins",
-            "position": "WR",
-            "team": "CIN",
-            "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 36,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/4239993",
-            "roto_link": "https://www.rotowire.com/football/player/tee-higgins-14506/",
-            "fp_rank": 56,
-            "fp_pos_rank": 26
+            "fp_rank": 49,
+            "fp_pos_rank": 7
         },
         {
             "name": "Marvin Harrison",
@@ -33,8 +21,20 @@
             "sleeper_rank": 73,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/marvin-harrison-17674/",
-            "fp_rank": 57,
-            "fp_pos_rank": 27
+            "fp_rank": 50,
+            "fp_pos_rank": 24
+        },
+        {
+            "name": "Tee Higgins",
+            "position": "WR",
+            "team": "CIN",
+            "starter": "no",
+            "age": 27,
+            "sleeper_rank": 36,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/4239993",
+            "roto_link": "https://www.rotowire.com/football/player/tee-higgins-14506/",
+            "fp_rank": 52,
+            "fp_pos_rank": 25
         },
         {
             "name": "Brock Purdy",
@@ -42,10 +42,10 @@
             "team": "SF",
             "starter": "yes",
             "age": 26,
-            "sleeper_rank": 55,
+            "sleeper_rank": 56,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/brock-purdy-15834/",
-            "fp_rank": 61,
+            "fp_rank": 67,
             "fp_pos_rank": 10
         },
         {
@@ -57,8 +57,8 @@
             "sleeper_rank": 39,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/treveyon-henderson-18517/",
-            "fp_rank": 68,
-            "fp_pos_rank": 15
+            "fp_rank": 69,
+            "fp_pos_rank": 16
         },
         {
             "name": "Bucky Irving",
@@ -69,8 +69,8 @@
             "sleeper_rank": 32,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/bucky-irving-17784/",
-            "fp_rank": 76,
-            "fp_pos_rank": 19
+            "fp_rank": 74,
+            "fp_pos_rank": 18
         },
         {
             "name": "Kenyon Sadiq",
@@ -81,7 +81,7 @@
             "sleeper_rank": 109,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kenyon-sadiq-19279/",
-            "fp_rank": 80,
+            "fp_rank": 78,
             "fp_pos_rank": 10
         },
         {
@@ -93,8 +93,20 @@
             "sleeper_rank": 46,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/bo-nix-16995/",
-            "fp_rank": 83,
+            "fp_rank": 81,
             "fp_pos_rank": 12
+        },
+        {
+            "name": "Jordan Addison",
+            "position": "WR",
+            "team": "MIN",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 99,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jordan-addison-16895/",
+            "fp_rank": 92,
+            "fp_pos_rank": 37
         },
         {
             "name": "Michael Pittman",
@@ -106,19 +118,7 @@
             "espn_link": "https://www.espn.com/nfl/player/_/id/4035687",
             "roto_link": "https://www.rotowire.com/football/player/michael-pittman-14378/",
             "fp_rank": 99,
-            "fp_pos_rank": 38
-        },
-        {
-            "name": "Jordan Addison",
-            "position": "WR",
-            "team": "MIN",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 99,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jordan-addison-16895/",
-            "fp_rank": 103,
-            "fp_pos_rank": 39
+            "fp_pos_rank": 40
         },
         {
             "name": "Jalen Coker",
@@ -129,32 +129,8 @@
             "sleeper_rank": 132,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jalen-coker-17976/",
-            "fp_rank": 107,
-            "fp_pos_rank": 42
-        },
-        {
-            "name": "De'Zhaun Stribling",
-            "position": "WR",
-            "team": "SF",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 113,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/dezhaun-stribling-19330/",
-            "fp_rank": 148,
-            "fp_pos_rank": 57
-        },
-        {
-            "name": "Zach Charbonnet",
-            "position": "RB",
-            "team": "SEA",
-            "starter": "no",
-            "age": 25,
-            "sleeper_rank": 101,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/zach-charbonnet-16897/",
-            "fp_rank": 161,
-            "fp_pos_rank": 35
+            "fp_rank": 111,
+            "fp_pos_rank": 44
         },
         {
             "name": "Dallas Goedert",
@@ -165,20 +141,32 @@
             "sleeper_rank": 94,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3121023",
             "roto_link": "https://www.rotowire.com/football/player/dallas-goedert-12860/",
-            "fp_rank": 167,
-            "fp_pos_rank": 21
+            "fp_rank": 137,
+            "fp_pos_rank": 16
         },
         {
-            "name": "Chris Rodriguez",
-            "position": "RB",
-            "team": "JAX",
+            "name": "De'Zhaun Stribling",
+            "position": "WR",
+            "team": "SF",
             "starter": "no",
-            "age": 27,
-            "sleeper_rank": 125,
+            "age": 23,
+            "sleeper_rank": 112,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/chris-rodriguez-16933/",
-            "fp_rank": 217,
-            "fp_pos_rank": 48
+            "roto_link": "https://www.rotowire.com/football/player/dezhaun-stribling-19330/",
+            "fp_rank": 147,
+            "fp_pos_rank": 59
+        },
+        {
+            "name": "Zach Charbonnet",
+            "position": "RB",
+            "team": "SEA",
+            "starter": "no",
+            "age": 25,
+            "sleeper_rank": 101,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/zach-charbonnet-16897/",
+            "fp_rank": 182,
+            "fp_pos_rank": 39
         },
         {
             "name": "Aaron Jones",
@@ -190,43 +178,31 @@
             "espn_link": "https://www.espn.com/nfl/player/_/id/3042519",
             "roto_link": "https://www.rotowire.com/football/player/aaron-jones-11763/",
             "fp_rank": 219,
-            "fp_pos_rank": 49
+            "fp_pos_rank": 47
         },
         {
-            "name": "Aaron Rodgers",
-            "position": "QB",
-            "team": "PIT",
-            "starter": "yes",
-            "age": 42,
-            "sleeper_rank": 188,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/8439",
-            "roto_link": "https://www.rotowire.com/football/player/aaron-rodgers-4307/",
-            "fp_rank": 254,
-            "fp_pos_rank": 34
-        },
-        {
-            "name": "Darnell Washington",
-            "position": "TE",
-            "team": "PIT",
+            "name": "Chris Rodriguez",
+            "position": "RB",
+            "team": "JAX",
             "starter": "no",
-            "age": 25,
-            "sleeper_rank": 473,
+            "age": 27,
+            "sleeper_rank": 125,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/darnell-washington-16889/",
-            "fp_rank": 276,
-            "fp_pos_rank": 36
+            "roto_link": "https://www.rotowire.com/football/player/chris-rodriguez-16933/",
+            "fp_rank": 240,
+            "fp_pos_rank": 55
         },
         {
             "name": "Kaytron Allen",
             "position": "RB",
-            "team": "WAS",
+            "team": "MIA",
             "starter": "no",
             "age": 23,
             "sleeper_rank": 157,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kaytron-allen-18533/",
-            "fp_rank": 284,
-            "fp_pos_rank": 63
+            "fp_rank": 251,
+            "fp_pos_rank": 57
         },
         {
             "name": "Tory Horton",
@@ -237,32 +213,20 @@
             "sleeper_rank": 199,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tory-horton-17772/",
-            "fp_rank": 287,
-            "fp_pos_rank": 105
+            "fp_rank": 260,
+            "fp_pos_rank": 93
         },
         {
-            "name": "Kevin Coleman",
-            "position": "WR",
-            "team": "MIA",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 523,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/kevin-coleman-19322/",
-            "fp_rank": 297,
-            "fp_pos_rank": 107
-        },
-        {
-            "name": "Mike Gesicki",
-            "position": "TE",
-            "team": "CIN",
+            "name": "Aaron Rodgers",
+            "position": "QB",
+            "team": "PIT",
             "starter": "yes",
-            "age": 31,
-            "sleeper_rank": 449,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3116164",
-            "roto_link": "https://www.rotowire.com/football/player/mike-gesicki-12764/",
-            "fp_rank": 357,
-            "fp_pos_rank": 47
+            "age": 42,
+            "sleeper_rank": 187,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/8439",
+            "roto_link": "https://www.rotowire.com/football/player/aaron-rodgers-4307/",
+            "fp_rank": 266,
+            "fp_pos_rank": 35
         },
         {
             "name": "Andrei Iosivas",
@@ -273,8 +237,8 @@
             "sleeper_rank": 500,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/andrei-iosivas-16965/",
-            "fp_rank": 367,
-            "fp_pos_rank": 121
+            "fp_rank": 321,
+            "fp_pos_rank": 111
         },
         {
             "name": "Will Howard",
@@ -285,20 +249,44 @@
             "sleeper_rank": 505,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/will-howard-18512/",
-            "fp_rank": 376,
-            "fp_pos_rank": 58
+            "fp_rank": 323,
+            "fp_pos_rank": 43
         },
         {
-            "name": "Samaje Perine",
-            "position": "RB",
-            "team": "CIN",
+            "name": "Kevin Coleman",
+            "position": "WR",
+            "team": "MIA",
             "starter": "no",
+            "age": 23,
+            "sleeper_rank": 523,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/kevin-coleman-19322/",
+            "fp_rank": 385,
+            "fp_pos_rank": 125
+        },
+        {
+            "name": "Mike Gesicki",
+            "position": "TE",
+            "team": "CIN",
+            "starter": "yes",
             "age": 31,
-            "sleeper_rank": 451,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3116389",
-            "roto_link": "https://www.rotowire.com/football/player/samaje-perine-11698/",
-            "fp_rank": 402,
-            "fp_pos_rank": 83
+            "sleeper_rank": 447,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3116164",
+            "roto_link": "https://www.rotowire.com/football/player/mike-gesicki-12764/",
+            "fp_rank": 388,
+            "fp_pos_rank": 44
+        },
+        {
+            "name": "Darnell Washington",
+            "position": "TE",
+            "team": "PIT",
+            "starter": "no",
+            "age": 25,
+            "sleeper_rank": 475,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/darnell-washington-16889/",
+            "fp_rank": 417,
+            "fp_pos_rank": 50
         },
         {
             "name": "Noah Fant",
@@ -309,7 +297,7 @@
             "sleeper_rank": 642,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4036131",
             "roto_link": "https://www.rotowire.com/football/player/noah-fant-13426/",
-            "fp_rank": 436,
+            "fp_rank": 442,
             "fp_pos_rank": 57
         },
         {
@@ -321,8 +309,20 @@
             "sleeper_rank": 673,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3045523",
             "roto_link": "https://www.rotowire.com/football/player/kendrick-bourne-11847/",
-            "fp_rank": 443,
-            "fp_pos_rank": 149
+            "fp_rank": 464,
+            "fp_pos_rank": 146
+        },
+        {
+            "name": "Samaje Perine",
+            "position": "RB",
+            "team": "CIN",
+            "starter": "no",
+            "age": 31,
+            "sleeper_rank": 451,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3116389",
+            "roto_link": "https://www.rotowire.com/football/player/samaje-perine-11698/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         },
         {
             "name": "Kalif Raymond",
@@ -333,11 +333,23 @@
             "sleeper_rank": 645,
             "espn_link": "https://www.espn.com/nfl/player/_/id/2973405",
             "roto_link": "https://www.rotowire.com/football/player/kalif-raymond-11429/",
-            "fp_rank": 489,
-            "fp_pos_rank": 165
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         }
     ],
     "Brian Fuquay": [
+        {
+            "name": "James Cook",
+            "position": "RB",
+            "team": "BUF",
+            "starter": "yes",
+            "age": 27,
+            "sleeper_rank": 5,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/james-cook-15876/",
+            "fp_rank": 11,
+            "fp_pos_rank": 4
+        },
         {
             "name": "Drake London",
             "position": "WR",
@@ -351,18 +363,6 @@
             "fp_pos_rank": 8
         },
         {
-            "name": "James Cook",
-            "position": "RB",
-            "team": "BUF",
-            "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 5,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/james-cook-15876/",
-            "fp_rank": 13,
-            "fp_pos_rank": 5
-        },
-        {
             "name": "Kenneth Walker",
             "position": "RB",
             "team": "KC",
@@ -371,7 +371,7 @@
             "sleeper_rank": 18,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kenneth-walker-15909/",
-            "fp_rank": 17,
+            "fp_rank": 14,
             "fp_pos_rank": 6
         },
         {
@@ -383,20 +383,8 @@
             "sleeper_rank": 4,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4242335",
             "roto_link": "https://www.rotowire.com/football/player/jonathan-taylor-14455/",
-            "fp_rank": 20,
+            "fp_rank": 17,
             "fp_pos_rank": 7
-        },
-        {
-            "name": "Chase Brown",
-            "position": "RB",
-            "team": "CIN",
-            "starter": "yes",
-            "age": 26,
-            "sleeper_rank": 15,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/chase-brown-16934/",
-            "fp_rank": 40,
-            "fp_pos_rank": 12
         },
         {
             "name": "A.J. Brown",
@@ -407,20 +395,20 @@
             "sleeper_rank": 18,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4047646",
             "roto_link": "https://www.rotowire.com/football/player/aj-brown-13432/",
-            "fp_rank": 41,
-            "fp_pos_rank": 20
+            "fp_rank": 35,
+            "fp_pos_rank": 17
         },
         {
-            "name": "Jalen Hurts",
-            "position": "QB",
-            "team": "PHI",
+            "name": "Chase Brown",
+            "position": "RB",
+            "team": "CIN",
             "starter": "yes",
-            "age": 28,
-            "sleeper_rank": 28,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/4040715",
-            "roto_link": "https://www.rotowire.com/football/player/jalen-hurts-14416/",
-            "fp_rank": 50,
-            "fp_pos_rank": 7
+            "age": 26,
+            "sleeper_rank": 14,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/chase-brown-16934/",
+            "fp_rank": 39,
+            "fp_pos_rank": 12
         },
         {
             "name": "Rome Odunze",
@@ -431,19 +419,19 @@
             "sleeper_rank": 65,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/rome-odunze-17020/",
-            "fp_rank": 52,
-            "fp_pos_rank": 23
+            "fp_rank": 44,
+            "fp_pos_rank": 22
         },
         {
-            "name": "Tucker Kraft",
-            "position": "TE",
-            "team": "GB",
+            "name": "Jalen Hurts",
+            "position": "QB",
+            "team": "PHI",
             "starter": "yes",
-            "age": 25,
-            "sleeper_rank": 64,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/tucker-kraft-16649/",
-            "fp_rank": 62,
+            "age": 28,
+            "sleeper_rank": 27,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/4040715",
+            "roto_link": "https://www.rotowire.com/football/player/jalen-hurts-14416/",
+            "fp_rank": 48,
             "fp_pos_rank": 6
         },
         {
@@ -455,8 +443,20 @@
             "sleeper_rank": 11,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3929630",
             "roto_link": "https://www.rotowire.com/football/player/saquon-barkley-12507/",
-            "fp_rank": 66,
+            "fp_rank": 60,
             "fp_pos_rank": 14
+        },
+        {
+            "name": "Tucker Kraft",
+            "position": "TE",
+            "team": "GB",
+            "starter": "yes",
+            "age": 25,
+            "sleeper_rank": 64,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/tucker-kraft-16649/",
+            "fp_rank": 66,
+            "fp_pos_rank": 7
         },
         {
             "name": "Brian Thomas",
@@ -467,7 +467,7 @@
             "sleeper_rank": 75,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/brian-thomas-17716/",
-            "fp_rank": 79,
+            "fp_rank": 82,
             "fp_pos_rank": 33
         },
         {
@@ -479,8 +479,8 @@
             "sleeper_rank": 111,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/josh-downs-16689/",
-            "fp_rank": 104,
-            "fp_pos_rank": 40
+            "fp_rank": 106,
+            "fp_pos_rank": 42
         },
         {
             "name": "Jared Goff",
@@ -491,32 +491,8 @@
             "sleeper_rank": 62,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3046779",
             "roto_link": "https://www.rotowire.com/football/player/jared-goff-10729/",
-            "fp_rank": 110,
-            "fp_pos_rank": 17
-        },
-        {
-            "name": "Jayden Reed",
-            "position": "WR",
-            "team": "GB",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 99,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jayden-reed-16977/",
-            "fp_rank": 130,
-            "fp_pos_rank": 50
-        },
-        {
-            "name": "Jonah Coleman",
-            "position": "RB",
-            "team": "DEN",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 118,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jonah-coleman-19241/",
-            "fp_rank": 145,
-            "fp_pos_rank": 33
+            "fp_rank": 118,
+            "fp_pos_rank": 18
         },
         {
             "name": "Oronde Gadsden",
@@ -527,8 +503,32 @@
             "sleeper_rank": 83,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/oronde-gadsden-18481/",
-            "fp_rank": 150,
-            "fp_pos_rank": 18
+            "fp_rank": 135,
+            "fp_pos_rank": 15
+        },
+        {
+            "name": "Jayden Reed",
+            "position": "WR",
+            "team": "GB",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 99,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jayden-reed-16977/",
+            "fp_rank": 145,
+            "fp_pos_rank": 57
+        },
+        {
+            "name": "Jonah Coleman",
+            "position": "RB",
+            "team": "DEN",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 118,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jonah-coleman-19241/",
+            "fp_rank": 148,
+            "fp_pos_rank": 32
         },
         {
             "name": "Cam Ward",
@@ -536,11 +536,23 @@
             "team": "TEN",
             "starter": "yes",
             "age": 24,
-            "sleeper_rank": 114,
+            "sleeper_rank": 115,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/cam-ward-16997/",
-            "fp_rank": 162,
-            "fp_pos_rank": 25
+            "fp_rank": 163,
+            "fp_pos_rank": 26
+        },
+        {
+            "name": "Travis Hunter",
+            "position": "DB",
+            "team": "JAX",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 103,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/travis-hunter-18578/",
+            "fp_rank": 184,
+            "fp_pos_rank": 71
         },
         {
             "name": "Anthony Richardson",
@@ -551,20 +563,8 @@
             "sleeper_rank": 482,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/anthony-richardson-16653/",
-            "fp_rank": 188,
-            "fp_pos_rank": 30
-        },
-        {
-            "name": "Travis Hunter",
-            "position": "DB",
-            "team": "JAX",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 104,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/travis-hunter-18578/",
-            "fp_rank": 191,
-            "fp_pos_rank": 70
+            "fp_rank": 194,
+            "fp_pos_rank": 29
         },
         {
             "name": "Gunnar Helm",
@@ -575,7 +575,7 @@
             "sleeper_rank": 153,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/gunnar-helm-18503/",
-            "fp_rank": 215,
+            "fp_rank": 225,
             "fp_pos_rank": 29
         },
         {
@@ -587,8 +587,8 @@
             "sleeper_rank": 138,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/mason-taylor-18535/",
-            "fp_rank": 242,
-            "fp_pos_rank": 32
+            "fp_rank": 239,
+            "fp_pos_rank": 31
         },
         {
             "name": "J.J. McCarthy",
@@ -599,8 +599,8 @@
             "sleeper_rank": 224,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jj-mccarthy-17689/",
-            "fp_rank": 258,
-            "fp_pos_rank": 36
+            "fp_rank": 246,
+            "fp_pos_rank": 33
         },
         {
             "name": "Chris Brazzell",
@@ -611,20 +611,8 @@
             "sleeper_rank": 400,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/chris-brazzell-19239/",
-            "fp_rank": 259,
-            "fp_pos_rank": 93
-        },
-        {
-            "name": "Matt Hibner",
-            "position": "TE",
-            "team": "BAL",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 504,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/matt-hibner-19364/",
-            "fp_rank": 288,
-            "fp_pos_rank": 38
+            "fp_rank": 248,
+            "fp_pos_rank": 90
         },
         {
             "name": "Deshaun Watson",
@@ -632,11 +620,11 @@
             "team": "CLE",
             "starter": "yes",
             "age": 31,
-            "sleeper_rank": 294,
+            "sleeper_rank": 293,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3122840",
             "roto_link": "https://www.rotowire.com/football/player/deshaun-watson-11712/",
-            "fp_rank": 291,
-            "fp_pos_rank": 39
+            "fp_rank": 283,
+            "fp_pos_rank": 38
         },
         {
             "name": "Ray Davis",
@@ -647,8 +635,8 @@
             "sleeper_rank": 167,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/ray-davis-17792/",
-            "fp_rank": 306,
-            "fp_pos_rank": 67
+            "fp_rank": 311,
+            "fp_pos_rank": 68
         },
         {
             "name": "Marlin Klein",
@@ -659,8 +647,8 @@
             "sleeper_rank": 663,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/marlin-klein-19352/",
-            "fp_rank": 366,
-            "fp_pos_rank": 49
+            "fp_rank": 426,
+            "fp_pos_rank": 52
         },
         {
             "name": "Jahan Dotson",
@@ -671,8 +659,20 @@
             "sleeper_rank": 508,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jahan-dotson-15850/",
-            "fp_rank": 434,
+            "fp_rank": 461,
             "fp_pos_rank": 144
+        },
+        {
+            "name": "Matt Hibner",
+            "position": "TE",
+            "team": "BAL",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 504,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/matt-hibner-19364/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         }
     ],
     "Chad Hill": [
@@ -685,8 +685,8 @@
             "sleeper_rank": 15,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jeremiyah-love-19235/",
-            "fp_rank": 10,
-            "fp_pos_rank": 4
+            "fp_rank": 13,
+            "fp_pos_rank": 5
         },
         {
             "name": "Luther Burden",
@@ -697,8 +697,8 @@
             "sleeper_rank": 40,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/luther-burden-18548/",
-            "fp_rank": 42,
-            "fp_pos_rank": 21
+            "fp_rank": 46,
+            "fp_pos_rank": 23
         },
         {
             "name": "Jordyn Tyson",
@@ -710,7 +710,7 @@
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jordyn-tyson-19233/",
             "fp_rank": 55,
-            "fp_pos_rank": 25
+            "fp_pos_rank": 26
         },
         {
             "name": "Bryce Young",
@@ -721,8 +721,8 @@
             "sleeper_rank": 133,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/bryce-young-16807/",
-            "fp_rank": 144,
-            "fp_pos_rank": 21
+            "fp_rank": 127,
+            "fp_pos_rank": 20
         },
         {
             "name": "Ricky Pearsall",
@@ -733,8 +733,8 @@
             "sleeper_rank": 244,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/ricky-pearsall-17761/",
-            "fp_rank": 149,
-            "fp_pos_rank": 58
+            "fp_rank": 136,
+            "fp_pos_rank": 52
         },
         {
             "name": "Adonai Mitchell",
@@ -745,20 +745,8 @@
             "sleeper_rank": 162,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/adonai-mitchell-17668/",
-            "fp_rank": 163,
-            "fp_pos_rank": 62
-        },
-        {
-            "name": "Tyreek Hill",
-            "position": "WR",
-            "team": "FA",
-            "starter": "no",
-            "age": 31,
-            "sleeper_rank": 145,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3116406",
-            "roto_link": "https://www.rotowire.com/football/player/tyreek-hill-11222/",
-            "fp_rank": 178,
-            "fp_pos_rank": 66
+            "fp_rank": 162,
+            "fp_pos_rank": 61
         },
         {
             "name": "T.J. Hockenson",
@@ -769,20 +757,20 @@
             "sleeper_rank": 128,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4036133",
             "roto_link": "https://www.rotowire.com/football/player/tj-hockenson-13610/",
-            "fp_rank": 194,
+            "fp_rank": 188,
             "fp_pos_rank": 24
         },
         {
-            "name": "Mike Washington",
-            "position": "RB",
-            "team": "LV",
+            "name": "Tyreek Hill",
+            "position": "WR",
+            "team": "FA",
             "starter": "no",
-            "age": 23,
-            "sleeper_rank": 123,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/mike-washington-19300/",
-            "fp_rank": 199,
-            "fp_pos_rank": 44
+            "age": 31,
+            "sleeper_rank": 145,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3116406",
+            "roto_link": "https://www.rotowire.com/football/player/tyreek-hill-11222/",
+            "fp_rank": 190,
+            "fp_pos_rank": 74
         },
         {
             "name": "Dontayvion Wicks",
@@ -793,8 +781,20 @@
             "sleeper_rank": 206,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/dontayvion-wicks-16658/",
-            "fp_rank": 203,
-            "fp_pos_rank": 75
+            "fp_rank": 211,
+            "fp_pos_rank": 79
+        },
+        {
+            "name": "Mike Washington",
+            "position": "RB",
+            "team": "LV",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 123,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/mike-washington-19300/",
+            "fp_rank": 224,
+            "fp_pos_rank": 50
         },
         {
             "name": "Geno Smith",
@@ -802,23 +802,11 @@
             "team": "NYJ",
             "starter": "yes",
             "age": 35,
-            "sleeper_rank": 209,
+            "sleeper_rank": 210,
             "espn_link": "https://www.espn.com/nfl/player/_/id/15864",
             "roto_link": "https://www.rotowire.com/football/player/geno-smith-8743/",
-            "fp_rank": 241,
-            "fp_pos_rank": 31
-        },
-        {
-            "name": "Kaleb Johnson",
-            "position": "RB",
-            "team": "GB",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 173,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/kaleb-johnson-18515/",
-            "fp_rank": 267,
-            "fp_pos_rank": 59
+            "fp_rank": 234,
+            "fp_pos_rank": 32
         },
         {
             "name": "Darnell Mooney",
@@ -829,8 +817,8 @@
             "sleeper_rank": 194,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4040655",
             "roto_link": "https://www.rotowire.com/football/player/darnell-mooney-14510/",
-            "fp_rank": 268,
-            "fp_pos_rank": 97
+            "fp_rank": 256,
+            "fp_pos_rank": 92
         },
         {
             "name": "Alvin Kamara",
@@ -841,8 +829,20 @@
             "sleeper_rank": 119,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3054850",
             "roto_link": "https://www.rotowire.com/football/player/alvin-kamara-11732/",
-            "fp_rank": 269,
-            "fp_pos_rank": 60
+            "fp_rank": 263,
+            "fp_pos_rank": 59
+        },
+        {
+            "name": "Cooper Kupp",
+            "position": "WR",
+            "team": "SEA",
+            "starter": "no",
+            "age": 33,
+            "sleeper_rank": 195,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/2977187",
+            "roto_link": "https://www.rotowire.com/football/player/cooper-kupp-11863/",
+            "fp_rank": 272,
+            "fp_pos_rank": 101
         },
         {
             "name": "Calvin Ridley",
@@ -853,32 +853,20 @@
             "sleeper_rank": 180,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3925357",
             "roto_link": "https://www.rotowire.com/football/player/calvin-ridley-12616/",
-            "fp_rank": 271,
-            "fp_pos_rank": 99
+            "fp_rank": 278,
+            "fp_pos_rank": 102
         },
         {
-            "name": "Tyson Bagent",
-            "position": "QB",
-            "team": "CHI",
-            "starter": "yes",
-            "age": 26,
-            "sleeper_rank": 546,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/tyson-bagent-16946/",
-            "fp_rank": 302,
-            "fp_pos_rank": 41
-        },
-        {
-            "name": "Cooper Kupp",
-            "position": "WR",
-            "team": "SEA",
+            "name": "Kaleb Johnson",
+            "position": "RB",
+            "team": "GB",
             "starter": "no",
-            "age": 33,
-            "sleeper_rank": 197,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/2977187",
-            "roto_link": "https://www.rotowire.com/football/player/cooper-kupp-11863/",
-            "fp_rank": 305,
-            "fp_pos_rank": 108
+            "age": 23,
+            "sleeper_rank": 173,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/kaleb-johnson-18515/",
+            "fp_rank": 279,
+            "fp_pos_rank": 62
         },
         {
             "name": "DeMario Douglas",
@@ -889,20 +877,8 @@
             "sleeper_rank": 502,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/demario-douglas-16751/",
-            "fp_rank": 316,
+            "fp_rank": 307,
             "fp_pos_rank": 110
-        },
-        {
-            "name": "Brenen Thompson",
-            "position": "WR",
-            "team": "LAC",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 508,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/brenen-thompson-19318/",
-            "fp_rank": 318,
-            "fp_pos_rank": 111
         },
         {
             "name": "Jalen Milroe",
@@ -910,10 +886,58 @@
             "team": "SEA",
             "starter": "no",
             "age": 23,
-            "sleeper_rank": 496,
+            "sleeper_rank": 497,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jalen-milroe-18477/",
-            "fp_rank": 325,
+            "fp_rank": 317,
+            "fp_pos_rank": 42
+        },
+        {
+            "name": "Jalen Royals",
+            "position": "WR",
+            "team": "KC",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 686,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jalen-royals-18550/",
+            "fp_rank": 326,
+            "fp_pos_rank": 113
+        },
+        {
+            "name": "George Holani",
+            "position": "RB",
+            "team": "SEA",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 459,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/george-holani-17968/",
+            "fp_rank": 350,
+            "fp_pos_rank": 79
+        },
+        {
+            "name": "Trevor Etienne",
+            "position": "RB",
+            "team": "CAR",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 690,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/trevor-etienne-18506/",
+            "fp_rank": 352,
+            "fp_pos_rank": 81
+        },
+        {
+            "name": "Tyson Bagent",
+            "position": "QB",
+            "team": "CHI",
+            "starter": "yes",
+            "age": 26,
+            "sleeper_rank": 546,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/tyson-bagent-16946/",
+            "fp_rank": 387,
             "fp_pos_rank": 46
         },
         {
@@ -925,44 +949,20 @@
             "sleeper_rank": 396,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/cade-klubnik-19284/",
-            "fp_rank": 344,
-            "fp_pos_rank": 52
+            "fp_rank": 397,
+            "fp_pos_rank": 50
         },
         {
-            "name": "Jalen Royals",
+            "name": "Brenen Thompson",
             "position": "WR",
-            "team": "KC",
+            "team": "LAC",
             "starter": "no",
             "age": 23,
-            "sleeper_rank": 686,
+            "sleeper_rank": 508,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jalen-royals-18550/",
-            "fp_rank": 359,
-            "fp_pos_rank": 120
-        },
-        {
-            "name": "Raheim Sanders",
-            "position": "RB",
-            "team": "CLE",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 690,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/raheim-sanders-18526/",
-            "fp_rank": 384,
-            "fp_pos_rank": 80
-        },
-        {
-            "name": "Trevor Etienne",
-            "position": "RB",
-            "team": "CAR",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 690,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/trevor-etienne-18506/",
-            "fp_rank": 413,
-            "fp_pos_rank": 87
+            "roto_link": "https://www.rotowire.com/football/player/brenen-thompson-19318/",
+            "fp_rank": 402,
+            "fp_pos_rank": 128
         },
         {
             "name": "Tyler Higbee",
@@ -973,20 +973,8 @@
             "sleeper_rank": 652,
             "espn_link": "https://www.espn.com/nfl/player/_/id/2573401",
             "roto_link": "https://www.rotowire.com/football/player/tyler-higbee-10854/",
-            "fp_rank": 418,
-            "fp_pos_rank": 55
-        },
-        {
-            "name": "George Holani",
-            "position": "RB",
-            "team": "SEA",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 459,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/george-holani-17968/",
-            "fp_rank": 430,
-            "fp_pos_rank": 88
+            "fp_rank": 444,
+            "fp_pos_rank": 58
         },
         {
             "name": "John Metchie",
@@ -997,8 +985,20 @@
             "sleeper_rank": 697,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/john-metchie-16069/",
-            "fp_rank": 448,
-            "fp_pos_rank": 152
+            "fp_rank": 460,
+            "fp_pos_rank": 143
+        },
+        {
+            "name": "Raheim Sanders",
+            "position": "RB",
+            "team": "CLE",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 690,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/raheim-sanders-18526/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         },
         {
             "name": "Brycen Tremayne",
@@ -1023,8 +1023,8 @@
             "sleeper_rank": 27,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/breece-hall-15810/",
-            "fp_rank": 22,
-            "fp_pos_rank": 8
+            "fp_rank": 23,
+            "fp_pos_rank": 9
         },
         {
             "name": "Trey McBride",
@@ -1035,20 +1035,8 @@
             "sleeper_rank": 22,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/trey-mcbride-15902/",
-            "fp_rank": 23,
+            "fp_rank": 28,
             "fp_pos_rank": 2
-        },
-        {
-            "name": "KC Concepcion",
-            "position": "WR",
-            "team": "CLE",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 111,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/kc-concepcion-19242/",
-            "fp_rank": 82,
-            "fp_pos_rank": 34
         },
         {
             "name": "Cam Skattebo",
@@ -1056,11 +1044,11 @@
             "team": "NYG",
             "starter": "yes",
             "age": 24,
-            "sleeper_rank": 35,
+            "sleeper_rank": 37,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/cam-skattebo-18514/",
-            "fp_rank": 88,
-            "fp_pos_rank": 21
+            "fp_rank": 84,
+            "fp_pos_rank": 20
         },
         {
             "name": "Denzel Boston",
@@ -1071,7 +1059,19 @@
             "sleeper_rank": 153,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/denzel-boston-19298/",
-            "fp_rank": 93,
+            "fp_rank": 86,
+            "fp_pos_rank": 34
+        },
+        {
+            "name": "KC Concepcion",
+            "position": "WR",
+            "team": "CLE",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 111,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/kc-concepcion-19242/",
+            "fp_rank": 87,
             "fp_pos_rank": 35
         },
         {
@@ -1083,8 +1083,8 @@
             "sleeper_rank": 38,
             "espn_link": "https://www.espn.com/nfl/player/_/id/2577417",
             "roto_link": "https://www.rotowire.com/football/player/dak-prescott-11008/",
-            "fp_rank": 101,
-            "fp_pos_rank": 15
+            "fp_rank": 94,
+            "fp_pos_rank": 13
         },
         {
             "name": "Tyler Shough",
@@ -1092,11 +1092,11 @@
             "team": "NO",
             "starter": "yes",
             "age": 27,
-            "sleeper_rank": 90,
+            "sleeper_rank": 89,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tyler-shough-17037/",
-            "fp_rank": 106,
-            "fp_pos_rank": 16
+            "fp_rank": 108,
+            "fp_pos_rank": 17
         },
         {
             "name": "Wan'Dale Robinson",
@@ -1107,20 +1107,8 @@
             "sleeper_rank": 105,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/wandale-robinson-15838/",
-            "fp_rank": 114,
-            "fp_pos_rank": 45
-        },
-        {
-            "name": "Jake Ferguson",
-            "position": "TE",
-            "team": "DAL",
-            "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 97,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jake-ferguson-15947/",
             "fp_rank": 120,
-            "fp_pos_rank": 13
+            "fp_pos_rank": 48
         },
         {
             "name": "Quentin Johnston",
@@ -1131,8 +1119,20 @@
             "sleeper_rank": 103,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/quentin-johnston-16899/",
-            "fp_rank": 131,
+            "fp_rank": 130,
             "fp_pos_rank": 51
+        },
+        {
+            "name": "Jake Ferguson",
+            "position": "TE",
+            "team": "DAL",
+            "starter": "yes",
+            "age": 27,
+            "sleeper_rank": 97,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jake-ferguson-15947/",
+            "fp_rank": 131,
+            "fp_pos_rank": 13
         },
         {
             "name": "Kyler Murray",
@@ -1140,10 +1140,10 @@
             "team": "MIN",
             "starter": "yes",
             "age": 29,
-            "sleeper_rank": 86,
+            "sleeper_rank": 87,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3917315",
             "roto_link": "https://www.rotowire.com/football/player/kyler-murray-13613/",
-            "fp_rank": 154,
+            "fp_rank": 155,
             "fp_pos_rank": 23
         },
         {
@@ -1155,7 +1155,7 @@
             "sleeper_rank": 58,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/rhamondre-stevenson-15372/",
-            "fp_rank": 156,
+            "fp_rank": 161,
             "fp_pos_rank": 34
         },
         {
@@ -1167,56 +1167,8 @@
             "sleeper_rank": 149,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/rashid-shaheed-16560/",
-            "fp_rank": 176,
-            "fp_pos_rank": 65
-        },
-        {
-            "name": "Ty Simpson",
-            "position": "QB",
-            "team": "LAR",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 242,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/ty-simpson-19275/",
             "fp_rank": 177,
-            "fp_pos_rank": 28
-        },
-        {
-            "name": "Michael Penix",
-            "position": "QB",
-            "team": "ATL",
-            "starter": "yes",
-            "age": 26,
-            "sleeper_rank": 228,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/michael-penix-17700/",
-            "fp_rank": 187,
-            "fp_pos_rank": 29
-        },
-        {
-            "name": "Jaylin Noel",
-            "position": "WR",
-            "team": "HOU",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 190,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jaylin-noel-18555/",
-            "fp_rank": 200,
-            "fp_pos_rank": 73
-        },
-        {
-            "name": "Hunter Henry",
-            "position": "TE",
-            "team": "NE",
-            "starter": "yes",
-            "age": 31,
-            "sleeper_rank": 92,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3046439",
-            "roto_link": "https://www.rotowire.com/football/player/hunter-henry-10735/",
-            "fp_rank": 202,
-            "fp_pos_rank": 26
+            "fp_pos_rank": 67
         },
         {
             "name": "Woody Marks",
@@ -1227,20 +1179,44 @@
             "sleeper_rank": 105,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/woody-marks-18449/",
-            "fp_rank": 206,
-            "fp_pos_rank": 45
+            "fp_rank": 181,
+            "fp_pos_rank": 38
         },
         {
-            "name": "Malik Washington",
-            "position": "WR",
-            "team": "MIA",
-            "starter": "yes",
-            "age": 25,
-            "sleeper_rank": 177,
+            "name": "Ty Simpson",
+            "position": "QB",
+            "team": "LAR",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 242,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/malik-washington-17863/",
-            "fp_rank": 252,
-            "fp_pos_rank": 91
+            "roto_link": "https://www.rotowire.com/football/player/ty-simpson-19275/",
+            "fp_rank": 185,
+            "fp_pos_rank": 28
+        },
+        {
+            "name": "Jaylin Noel",
+            "position": "WR",
+            "team": "HOU",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 190,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jaylin-noel-18555/",
+            "fp_rank": 196,
+            "fp_pos_rank": 76
+        },
+        {
+            "name": "Michael Penix",
+            "position": "QB",
+            "team": "ATL",
+            "starter": "yes",
+            "age": 26,
+            "sleeper_rank": 228,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/michael-penix-17700/",
+            "fp_rank": 205,
+            "fp_pos_rank": 30
         },
         {
             "name": "Elic Ayomanor",
@@ -1251,20 +1227,20 @@
             "sleeper_rank": 185,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/elic-ayomanor-18552/",
-            "fp_rank": 264,
-            "fp_pos_rank": 95
+            "fp_rank": 209,
+            "fp_pos_rank": 78
         },
         {
-            "name": "Kyle Williams",
-            "position": "WR",
+            "name": "Hunter Henry",
+            "position": "TE",
             "team": "NE",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 195,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/kyle-williams-19126/",
-            "fp_rank": 266,
-            "fp_pos_rank": 96
+            "starter": "yes",
+            "age": 31,
+            "sleeper_rank": 92,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3046439",
+            "roto_link": "https://www.rotowire.com/football/player/hunter-henry-10735/",
+            "fp_rank": 210,
+            "fp_pos_rank": 27
         },
         {
             "name": "Keon Coleman",
@@ -1275,56 +1251,32 @@
             "sleeper_rank": 206,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/keon-coleman-17732/",
-            "fp_rank": 272,
-            "fp_pos_rank": 100
+            "fp_rank": 231,
+            "fp_pos_rank": 86
         },
         {
-            "name": "Roman Wilson",
+            "name": "Malik Washington",
             "position": "WR",
-            "team": "PIT",
-            "starter": "no",
+            "team": "MIA",
+            "starter": "yes",
             "age": 25,
-            "sleeper_rank": 688,
+            "sleeper_rank": 177,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/roman-wilson-17043/",
-            "fp_rank": 320,
-            "fp_pos_rank": 112
+            "roto_link": "https://www.rotowire.com/football/player/malik-washington-17863/",
+            "fp_rank": 235,
+            "fp_pos_rank": 87
         },
         {
-            "name": "Taylen Green",
-            "position": "QB",
-            "team": "CLE",
+            "name": "Kyle Williams",
+            "position": "WR",
+            "team": "NE",
             "starter": "no",
             "age": 23,
-            "sleeper_rank": 523,
+            "sleeper_rank": 195,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/taylen-green-19289/",
-            "fp_rank": 330,
-            "fp_pos_rank": 48
-        },
-        {
-            "name": "Erick All",
-            "position": "TE",
-            "team": "CIN",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 565,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/erick-all-17696/",
-            "fp_rank": 337,
-            "fp_pos_rank": 45
-        },
-        {
-            "name": "Sean Tucker",
-            "position": "RB",
-            "team": "TB",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 155,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/sean-tucker-16728/",
-            "fp_rank": 345,
-            "fp_pos_rank": 72
+            "roto_link": "https://www.rotowire.com/football/player/kyle-williams-19126/",
+            "fp_rank": 254,
+            "fp_pos_rank": 91
         },
         {
             "name": "Kendre Miller",
@@ -1335,8 +1287,56 @@
             "sleeper_rank": 180,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kendre-miller-16898/",
-            "fp_rank": 354,
-            "fp_pos_rank": 75
+            "fp_rank": 309,
+            "fp_pos_rank": 67
+        },
+        {
+            "name": "Sean Tucker",
+            "position": "RB",
+            "team": "TB",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 155,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/sean-tucker-16728/",
+            "fp_rank": 347,
+            "fp_pos_rank": 78
+        },
+        {
+            "name": "Roman Wilson",
+            "position": "WR",
+            "team": "PIT",
+            "starter": "no",
+            "age": 25,
+            "sleeper_rank": 688,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/roman-wilson-17043/",
+            "fp_rank": 349,
+            "fp_pos_rank": 116
+        },
+        {
+            "name": "Taylen Green",
+            "position": "QB",
+            "team": "CLE",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 523,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/taylen-green-19289/",
+            "fp_rank": 399,
+            "fp_pos_rank": 51
+        },
+        {
+            "name": "Erick All",
+            "position": "TE",
+            "team": "CIN",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 565,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/erick-all-17696/",
+            "fp_rank": 401,
+            "fp_pos_rank": 46
         }
     ],
     "Kyle Nester": [
@@ -1346,11 +1346,11 @@
             "team": "SEA",
             "starter": "yes",
             "age": 24,
-            "sleeper_rank": 5,
+            "sleeper_rank": 6,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jaxon-smithnjigba-16654/",
-            "fp_rank": 2,
-            "fp_pos_rank": 2
+            "fp_rank": 1,
+            "fp_pos_rank": 1
         },
         {
             "name": "Jahmyr Gibbs",
@@ -1361,7 +1361,7 @@
             "sleeper_rank": 1,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jahmyr-gibbs-16808/",
-            "fp_rank": 4,
+            "fp_rank": 6,
             "fp_pos_rank": 2
         },
         {
@@ -1373,7 +1373,7 @@
             "sleeper_rank": 37,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tetairoa-mcmillan-18547/",
-            "fp_rank": 15,
+            "fp_rank": 16,
             "fp_pos_rank": 9
         },
         {
@@ -1385,7 +1385,7 @@
             "sleeper_rank": 22,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/brock-bowers-17693/",
-            "fp_rank": 21,
+            "fp_rank": 25,
             "fp_pos_rank": 1
         },
         {
@@ -1397,8 +1397,8 @@
             "sleeper_rank": 53,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jameson-williams-15849/",
-            "fp_rank": 58,
-            "fp_pos_rank": 28
+            "fp_rank": 56,
+            "fp_pos_rank": 27
         },
         {
             "name": "Javonte Williams",
@@ -1409,8 +1409,20 @@
             "sleeper_rank": 30,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/javonte-williams-15306/",
-            "fp_rank": 74,
-            "fp_pos_rank": 17
+            "fp_rank": 90,
+            "fp_pos_rank": 22
+        },
+        {
+            "name": "C.J. Stroud",
+            "position": "QB",
+            "team": "HOU",
+            "starter": "yes",
+            "age": 25,
+            "sleeper_rank": 102,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/cj-stroud-16886/",
+            "fp_rank": 100,
+            "fp_pos_rank": 14
         },
         {
             "name": "D'Andre Swift",
@@ -1421,20 +1433,8 @@
             "sleeper_rank": 46,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4259545",
             "roto_link": "https://www.rotowire.com/football/player/dandre-swift-14394/",
-            "fp_rank": 98,
+            "fp_rank": 101,
             "fp_pos_rank": 24
-        },
-        {
-            "name": "C.J. Stroud",
-            "position": "QB",
-            "team": "HOU",
-            "starter": "yes",
-            "age": 25,
-            "sleeper_rank": 101,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/cj-stroud-16886/",
-            "fp_rank": 100,
-            "fp_pos_rank": 14
         },
         {
             "name": "Chris Godwin",
@@ -1445,7 +1445,7 @@
             "sleeper_rank": 88,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3116165",
             "roto_link": "https://www.rotowire.com/football/player/chris-godwin-11718/",
-            "fp_rank": 138,
+            "fp_rank": 143,
             "fp_pos_rank": 56
         },
         {
@@ -1454,11 +1454,11 @@
             "team": "LAR",
             "starter": "yes",
             "age": 38,
-            "sleeper_rank": 65,
+            "sleeper_rank": 66,
             "espn_link": "https://www.espn.com/nfl/player/_/id/12483",
             "roto_link": "https://www.rotowire.com/football/player/matthew-stafford-5971/",
-            "fp_rank": 158,
-            "fp_pos_rank": 24
+            "fp_rank": 150,
+            "fp_pos_rank": 21
         },
         {
             "name": "Daniel Jones",
@@ -1466,23 +1466,11 @@
             "team": "IND",
             "starter": "yes",
             "age": 29,
-            "sleeper_rank": 132,
+            "sleeper_rank": 131,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3917792",
             "roto_link": "https://www.rotowire.com/football/player/daniel-jones-13491/",
-            "fp_rank": 170,
+            "fp_rank": 175,
             "fp_pos_rank": 27
-        },
-        {
-            "name": "AJ Barner",
-            "position": "TE",
-            "team": "SEA",
-            "starter": "yes",
-            "age": 24,
-            "sleeper_rank": 126,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/aj-barner-17811/",
-            "fp_rank": 173,
-            "fp_pos_rank": 22
         },
         {
             "name": "Kayshon Boutte",
@@ -1493,32 +1481,20 @@
             "sleeper_rank": 164,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kayshon-boutte-16795/",
-            "fp_rank": 196,
-            "fp_pos_rank": 72
+            "fp_rank": 189,
+            "fp_pos_rank": 73
         },
         {
-            "name": "Pat Freiermuth",
+            "name": "AJ Barner",
             "position": "TE",
-            "team": "PIT",
+            "team": "SEA",
             "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 230,
+            "age": 24,
+            "sleeper_rank": 126,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/pat-freiermuth-15267/",
-            "fp_rank": 220,
-            "fp_pos_rank": 30
-        },
-        {
-            "name": "Tyrone Tracy",
-            "position": "RB",
-            "team": "NYG",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 110,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/tyrone-tracy-17967/",
-            "fp_rank": 223,
-            "fp_pos_rank": 51
+            "roto_link": "https://www.rotowire.com/football/player/aj-barner-17811/",
+            "fp_rank": 198,
+            "fp_pos_rank": 26
         },
         {
             "name": "Jerry Jeudy",
@@ -1529,8 +1505,8 @@
             "sleeper_rank": 160,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4241463",
             "roto_link": "https://www.rotowire.com/football/player/jerry-jeudy-14458/",
-            "fp_rank": 227,
-            "fp_pos_rank": 82
+            "fp_rank": 206,
+            "fp_pos_rank": 77
         },
         {
             "name": "Tyjae Spears",
@@ -1541,8 +1517,56 @@
             "sleeper_rank": 122,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tyjae-spears-16941/",
-            "fp_rank": 228,
-            "fp_pos_rank": 52
+            "fp_rank": 212,
+            "fp_pos_rank": 46
+        },
+        {
+            "name": "Tyrone Tracy",
+            "position": "RB",
+            "team": "NYG",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 110,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/tyrone-tracy-17967/",
+            "fp_rank": 238,
+            "fp_pos_rank": 54
+        },
+        {
+            "name": "Isaiah Bond",
+            "position": "WR",
+            "team": "CLE",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 683,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/isaiah-bond-18502/",
+            "fp_rank": 245,
+            "fp_pos_rank": 89
+        },
+        {
+            "name": "Elijah Arroyo",
+            "position": "TE",
+            "team": "SEA",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 454,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/elijah-arroyo-18540/",
+            "fp_rank": 250,
+            "fp_pos_rank": 34
+        },
+        {
+            "name": "Pat Freiermuth",
+            "position": "TE",
+            "team": "PIT",
+            "starter": "yes",
+            "age": 27,
+            "sleeper_rank": 230,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/pat-freiermuth-15267/",
+            "fp_rank": 258,
+            "fp_pos_rank": 36
         },
         {
             "name": "Mac Jones",
@@ -1553,31 +1577,7 @@
             "sleeper_rank": 405,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/mac-jones-15402/",
-            "fp_rank": 248,
-            "fp_pos_rank": 33
-        },
-        {
-            "name": "Skyler Bell",
-            "position": "WR",
-            "team": "BUF",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 386,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/skyler-bell-19251/",
-            "fp_rank": 274,
-            "fp_pos_rank": 101
-        },
-        {
-            "name": "Elijah Arroyo",
-            "position": "TE",
-            "team": "SEA",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 456,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/elijah-arroyo-18540/",
-            "fp_rank": 294,
+            "fp_rank": 291,
             "fp_pos_rank": 39
         },
         {
@@ -1589,20 +1589,8 @@
             "sleeper_rank": 388,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/seth-mcgowan-19303/",
-            "fp_rank": 347,
-            "fp_pos_rank": 73
-        },
-        {
-            "name": "Darren Waller",
-            "position": "TE",
-            "team": "CAR",
-            "starter": "yes",
-            "age": 34,
-            "sleeper_rank": 354,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/2576925",
-            "roto_link": "https://www.rotowire.com/football/player/darren-waller-10215/",
-            "fp_rank": 355,
-            "fp_pos_rank": 46
+            "fp_rank": 334,
+            "fp_pos_rank": 72
         },
         {
             "name": "Isaiah Davis",
@@ -1613,8 +1601,20 @@
             "sleeper_rank": 518,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/isaiah-davis-17057/",
-            "fp_rank": 382,
-            "fp_pos_rank": 79
+            "fp_rank": 340,
+            "fp_pos_rank": 75
+        },
+        {
+            "name": "Skyler Bell",
+            "position": "WR",
+            "team": "BUF",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 384,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/skyler-bell-19251/",
+            "fp_rank": 367,
+            "fp_pos_rank": 121
         },
         {
             "name": "Drew Lock",
@@ -1625,8 +1625,20 @@
             "sleeper_rank": 691,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3924327",
             "roto_link": "https://www.rotowire.com/football/player/drew-lock-13736/",
-            "fp_rank": 387,
-            "fp_pos_rank": 59
+            "fp_rank": 427,
+            "fp_pos_rank": 63
+        },
+        {
+            "name": "Darren Waller",
+            "position": "TE",
+            "team": "CAR",
+            "starter": "yes",
+            "age": 34,
+            "sleeper_rank": 354,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/2576925",
+            "roto_link": "https://www.rotowire.com/football/player/darren-waller-10215/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         },
         {
             "name": "J'Mari Taylor",
@@ -1637,20 +1649,8 @@
             "sleeper_rank": 498,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jmari-taylor-19245/",
-            "fp_rank": 406,
-            "fp_pos_rank": 86
-        },
-        {
-            "name": "Isaiah Bond",
-            "position": "WR",
-            "team": "CLE",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 683,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/isaiah-bond-18502/",
-            "fp_rank": 407,
-            "fp_pos_rank": 132
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         },
         {
             "name": "Efton Chism",
@@ -1661,8 +1661,8 @@
             "sleeper_rank": 572,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/efton-chism-18889/",
-            "fp_rank": 467,
-            "fp_pos_rank": 158
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         }
     ],
     "Nick Janowicz": [
@@ -1670,13 +1670,13 @@
             "name": "Ja'Marr Chase",
             "position": "WR",
             "team": "CIN",
-            "starter": "no",
+            "starter": "yes",
             "age": 26,
             "sleeper_rank": 4,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jamarr-chase-15183/",
-            "fp_rank": 1,
-            "fp_pos_rank": 1
+            "fp_rank": 2,
+            "fp_pos_rank": 2
         },
         {
             "name": "Bijan Robinson",
@@ -1699,7 +1699,7 @@
             "sleeper_rank": 38,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/garrett-wilson-15829/",
-            "fp_rank": 18,
+            "fp_rank": 19,
             "fp_pos_rank": 11
         },
         {
@@ -1711,7 +1711,7 @@
             "sleeper_rank": 22,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/nico-collins-15200/",
-            "fp_rank": 25,
+            "fp_rank": 22,
             "fp_pos_rank": 12
         },
         {
@@ -1723,20 +1723,8 @@
             "sleeper_rank": 42,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jaylen-waddle-15404/",
-            "fp_rank": 36,
-            "fp_pos_rank": 18
-        },
-        {
-            "name": "Trevor Lawrence",
-            "position": "QB",
-            "team": "JAX",
-            "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 42,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/trevor-lawrence-15357/",
-            "fp_rank": 60,
-            "fp_pos_rank": 9
+            "fp_rank": 43,
+            "fp_pos_rank": 21
         },
         {
             "name": "Kyren Williams",
@@ -1747,8 +1735,20 @@
             "sleeper_rank": 13,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kyren-williams-15807/",
-            "fp_rank": 64,
+            "fp_rank": 58,
             "fp_pos_rank": 13
+        },
+        {
+            "name": "Trevor Lawrence",
+            "position": "QB",
+            "team": "JAX",
+            "starter": "yes",
+            "age": 27,
+            "sleeper_rank": 42,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/trevor-lawrence-15357/",
+            "fp_rank": 64,
+            "fp_pos_rank": 9
         },
         {
             "name": "Terry McLaurin",
@@ -1759,7 +1759,7 @@
             "sleeper_rank": 55,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3121422",
             "roto_link": "https://www.rotowire.com/football/player/terry-mclaurin-13536/",
-            "fp_rank": 94,
+            "fp_rank": 88,
             "fp_pos_rank": 36
         },
         {
@@ -1771,8 +1771,8 @@
             "sleeper_rank": 93,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/alec-pierce-16022/",
-            "fp_rank": 95,
-            "fp_pos_rank": 37
+            "fp_rank": 104,
+            "fp_pos_rank": 41
         },
         {
             "name": "Mike Evans",
@@ -1787,16 +1787,40 @@
             "fp_pos_rank": 46
         },
         {
+            "name": "Mark Andrews",
+            "position": "TE",
+            "team": "BAL",
+            "starter": "yes",
+            "age": 31,
+            "sleeper_rank": 96,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3116365",
+            "roto_link": "https://www.rotowire.com/football/player/mark-andrews-12559/",
+            "fp_rank": 149,
+            "fp_pos_rank": 19
+        },
+        {
             "name": "Baker Mayfield",
             "position": "QB",
             "team": "TB",
             "starter": "no",
             "age": 31,
-            "sleeper_rank": 74,
+            "sleeper_rank": 75,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3052587",
             "roto_link": "https://www.rotowire.com/football/player/baker-mayfield-12619/",
-            "fp_rank": 141,
-            "fp_pos_rank": 20
+            "fp_rank": 153,
+            "fp_pos_rank": 22
+        },
+        {
+            "name": "Malik Willis",
+            "position": "QB",
+            "team": "MIA",
+            "starter": "yes",
+            "age": 27,
+            "sleeper_rank": 119,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/malik-willis-15872/",
+            "fp_rank": 159,
+            "fp_pos_rank": 25
         },
         {
             "name": "Chig Okonkwo",
@@ -1807,44 +1831,8 @@
             "sleeper_rank": 137,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/chig-okonkwo-16042/",
-            "fp_rank": 155,
-            "fp_pos_rank": 19
-        },
-        {
-            "name": "Mark Andrews",
-            "position": "TE",
-            "team": "BAL",
-            "starter": "yes",
-            "age": 31,
-            "sleeper_rank": 96,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3116365",
-            "roto_link": "https://www.rotowire.com/football/player/mark-andrews-12559/",
-            "fp_rank": 159,
-            "fp_pos_rank": 20
-        },
-        {
-            "name": "Malik Willis",
-            "position": "QB",
-            "team": "MIA",
-            "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 120,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/malik-willis-15872/",
-            "fp_rank": 169,
-            "fp_pos_rank": 26
-        },
-        {
-            "name": "Kenny Gainwell",
-            "position": "RB",
-            "team": "TB",
-            "starter": "no",
-            "age": 27,
-            "sleeper_rank": 86,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/kenny-gainwell-15222/",
-            "fp_rank": 186,
-            "fp_pos_rank": 43
+            "fp_rank": 172,
+            "fp_pos_rank": 22
         },
         {
             "name": "Tyler Allgeier",
@@ -1855,8 +1843,20 @@
             "sleeper_rank": 89,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tyler-allgeier-15976/",
-            "fp_rank": 209,
-            "fp_pos_rank": 46
+            "fp_rank": 202,
+            "fp_pos_rank": 43
+        },
+        {
+            "name": "Kenny Gainwell",
+            "position": "RB",
+            "team": "TB",
+            "starter": "no",
+            "age": 27,
+            "sleeper_rank": 86,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/kenny-gainwell-15222/",
+            "fp_rank": 203,
+            "fp_pos_rank": 44
         },
         {
             "name": "Jauan Jennings",
@@ -1867,8 +1867,8 @@
             "sleeper_rank": 123,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3886598",
             "roto_link": "https://www.rotowire.com/football/player/jauan-jennings-14376/",
-            "fp_rank": 214,
-            "fp_pos_rank": 79
+            "fp_rank": 230,
+            "fp_pos_rank": 85
         },
         {
             "name": "Brian Robinson",
@@ -1879,8 +1879,8 @@
             "sleeper_rank": 80,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/brian-robinson-15907/",
-            "fp_rank": 243,
-            "fp_pos_rank": 57
+            "fp_rank": 236,
+            "fp_pos_rank": 53
         },
         {
             "name": "Greg Dulcich",
@@ -1891,8 +1891,8 @@
             "sleeper_rank": 230,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/greg-dulcich-15891/",
-            "fp_rank": 262,
-            "fp_pos_rank": 34
+            "fp_rank": 241,
+            "fp_pos_rank": 32
         },
         {
             "name": "Emanuel Wilson",
@@ -1903,8 +1903,8 @@
             "sleeper_rank": 161,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/emanuel-wilson-17593/",
-            "fp_rank": 301,
-            "fp_pos_rank": 66
+            "fp_rank": 312,
+            "fp_pos_rank": 69
         },
         {
             "name": "Tyquan Thornton",
@@ -1915,20 +1915,8 @@
             "sleeper_rank": 522,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tyquan-thornton-15831/",
-            "fp_rank": 328,
-            "fp_pos_rank": 114
-        },
-        {
-            "name": "Chris Brooks",
-            "position": "RB",
-            "team": "GB",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 450,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/chris-brooks-16741/",
-            "fp_rank": 385,
-            "fp_pos_rank": 81
+            "fp_rank": 371,
+            "fp_pos_rank": 122
         },
         {
             "name": "Xavier Hutchinson",
@@ -1939,8 +1927,8 @@
             "sleeper_rank": 679,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/xavier-hutchinson-16932/",
-            "fp_rank": 405,
-            "fp_pos_rank": 131
+            "fp_rank": 409,
+            "fp_pos_rank": 130
         },
         {
             "name": "Dohnte Meyers",
@@ -1951,8 +1939,8 @@
             "sleeper_rank": 628,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/dohnte-meyers-19247/",
-            "fp_rank": 411,
-            "fp_pos_rank": 133
+            "fp_rank": 418,
+            "fp_pos_rank": 131
         },
         {
             "name": "Tyler Huntley",
@@ -1963,20 +1951,8 @@
             "sleeper_rank": 690,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4035671",
             "roto_link": "https://www.rotowire.com/football/player/tyler-huntley-14563/",
-            "fp_rank": 500,
+            "fp_rank": 446,
             "fp_pos_rank": 71
-        },
-        {
-            "name": "Austin Ekeler",
-            "position": "RB",
-            "team": "WAS",
-            "starter": "no",
-            "age": 31,
-            "sleeper_rank": 632,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3068267",
-            "roto_link": "https://www.rotowire.com/football/player/austin-ekeler-12401/",
-            "fp_rank": 526,
-            "fp_pos_rank": 113
         },
         {
             "name": "Sione Vaki",
@@ -1987,8 +1963,32 @@
             "sleeper_rank": 527,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/sione-vaki-17760/",
-            "fp_rank": 612,
-            "fp_pos_rank": 141
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
+        },
+        {
+            "name": "Chris Brooks",
+            "position": "RB",
+            "team": "GB",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 450,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/chris-brooks-16741/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
+        },
+        {
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "team": "WAS",
+            "starter": "no",
+            "age": 31,
+            "sleeper_rank": 632,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3068267",
+            "roto_link": "https://www.rotowire.com/football/player/austin-ekeler-12401/",
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         },
         {
             "name": "Camden Brown",
@@ -2013,7 +2013,7 @@
             "sleeper_rank": 27,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/malik-nabers-17704/",
-            "fp_rank": 11,
+            "fp_rank": 10,
             "fp_pos_rank": 7
         },
         {
@@ -2025,7 +2025,7 @@
             "sleeper_rank": 39,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/emeka-egbuka-18549/",
-            "fp_rank": 27,
+            "fp_rank": 24,
             "fp_pos_rank": 13
         },
         {
@@ -2037,7 +2037,7 @@
             "sleeper_rank": 23,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/george-pickens-15853/",
-            "fp_rank": 32,
+            "fp_rank": 33,
             "fp_pos_rank": 16
         },
         {
@@ -2049,8 +2049,8 @@
             "sleeper_rank": 40,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3139477",
             "roto_link": "https://www.rotowire.com/football/player/patrick-mahomes-11839/",
-            "fp_rank": 34,
-            "fp_pos_rank": 3
+            "fp_rank": 38,
+            "fp_pos_rank": 4
         },
         {
             "name": "Joe Burrow",
@@ -2061,7 +2061,7 @@
             "sleeper_rank": 16,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3915511",
             "roto_link": "https://www.rotowire.com/football/player/joe-burrow-14442/",
-            "fp_rank": 43,
+            "fp_rank": 42,
             "fp_pos_rank": 5
         },
         {
@@ -2073,20 +2073,8 @@
             "sleeper_rank": 67,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kyle-pitts-15265/",
-            "fp_rank": 78,
+            "fp_rank": 75,
             "fp_pos_rank": 9
-        },
-        {
-            "name": "Josh Jacobs",
-            "position": "RB",
-            "team": "GB",
-            "starter": "no",
-            "age": 28,
-            "sleeper_rank": 20,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/4047365",
-            "roto_link": "https://www.rotowire.com/football/player/josh-jacobs-13582/",
-            "fp_rank": 119,
-            "fp_pos_rank": 27
         },
         {
             "name": "Omar Cooper",
@@ -2097,8 +2085,20 @@
             "sleeper_rank": 151,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/omar-cooper-19314/",
-            "fp_rank": 129,
+            "fp_rank": 122,
             "fp_pos_rank": 49
+        },
+        {
+            "name": "Josh Jacobs",
+            "position": "RB",
+            "team": "GB",
+            "starter": "no",
+            "age": 28,
+            "sleeper_rank": 20,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/4047365",
+            "roto_link": "https://www.rotowire.com/football/player/josh-jacobs-13582/",
+            "fp_rank": 125,
+            "fp_pos_rank": 29
         },
         {
             "name": "Antonio Williams",
@@ -2109,8 +2109,8 @@
             "sleeper_rank": 156,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/antonio-williams-19237/",
-            "fp_rank": 137,
-            "fp_pos_rank": 55
+            "fp_rank": 128,
+            "fp_pos_rank": 50
         },
         {
             "name": "Chris Bell",
@@ -2121,20 +2121,8 @@
             "sleeper_rank": 198,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/chris-bell-19309/",
-            "fp_rank": 160,
-            "fp_pos_rank": 61
-        },
-        {
-            "name": "Braelon Allen",
-            "position": "RB",
-            "team": "NYJ",
-            "starter": "yes",
-            "age": 22,
-            "sleeper_rank": 135,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/braelon-allen-17702/",
-            "fp_rank": 213,
-            "fp_pos_rank": 47
+            "fp_rank": 168,
+            "fp_pos_rank": 64
         },
         {
             "name": "Max Klare",
@@ -2145,20 +2133,20 @@
             "sleeper_rank": 212,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/max-klare-19278/",
-            "fp_rank": 238,
-            "fp_pos_rank": 31
+            "fp_rank": 220,
+            "fp_pos_rank": 28
         },
         {
-            "name": "Shedeur Sanders",
-            "position": "QB",
-            "team": "CLE",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 227,
+            "name": "Braelon Allen",
+            "position": "RB",
+            "team": "NYJ",
+            "starter": "yes",
+            "age": 22,
+            "sleeper_rank": 135,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/shedeur-sanders-18479/",
-            "fp_rank": 255,
-            "fp_pos_rank": 35
+            "roto_link": "https://www.rotowire.com/football/player/braelon-allen-17702/",
+            "fp_rank": 222,
+            "fp_pos_rank": 49
         },
         {
             "name": "Michael Mayer",
@@ -2166,11 +2154,11 @@
             "team": "LV",
             "starter": "no",
             "age": 25,
-            "sleeper_rank": 469,
+            "sleeper_rank": 467,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/michael-mayer-16666/",
-            "fp_rank": 257,
-            "fp_pos_rank": 33
+            "fp_rank": 233,
+            "fp_pos_rank": 30
         },
         {
             "name": "Cade Otton",
@@ -2181,8 +2169,20 @@
             "sleeper_rank": 148,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/cade-otton-16032/",
-            "fp_rank": 263,
-            "fp_pos_rank": 35
+            "fp_rank": 242,
+            "fp_pos_rank": 33
+        },
+        {
+            "name": "Shedeur Sanders",
+            "position": "QB",
+            "team": "CLE",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 227,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/shedeur-sanders-18479/",
+            "fp_rank": 249,
+            "fp_pos_rank": 34
         },
         {
             "name": "Ollie Gordon",
@@ -2190,71 +2190,11 @@
             "team": "MIA",
             "starter": "yes",
             "age": 22,
-            "sleeper_rank": 463,
+            "sleeper_rank": 460,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/ollie-gordon-18450/",
-            "fp_rank": 280,
-            "fp_pos_rank": 62
-        },
-        {
-            "name": "Malik Benson",
-            "position": "WR",
-            "team": "LV",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 502,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/malik-benson-19432/",
-            "fp_rank": 321,
-            "fp_pos_rank": 113
-        },
-        {
-            "name": "Sam Roush",
-            "position": "TE",
-            "team": "CHI",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 630,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/sam-roush-19357/",
-            "fp_rank": 334,
-            "fp_pos_rank": 44
-        },
-        {
-            "name": "Colbie Young",
-            "position": "WR",
-            "team": "CIN",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 644,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/colbie-young-19447/",
-            "fp_rank": 370,
-            "fp_pos_rank": 122
-        },
-        {
-            "name": "Eli Heidenreich",
-            "position": "RB",
-            "team": "PIT",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 490,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/eli-heidenreich-19335/",
-            "fp_rank": 372,
-            "fp_pos_rank": 77
-        },
-        {
-            "name": "Barion Brown",
-            "position": "WR",
-            "team": "NO",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 465,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/barion-brown-19336/",
-            "fp_rank": 393,
-            "fp_pos_rank": 128
+            "fp_rank": 264,
+            "fp_pos_rank": 60
         },
         {
             "name": "Will Shipley",
@@ -2265,20 +2205,32 @@
             "sleeper_rank": 686,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/will-shipley-17802/",
-            "fp_rank": 403,
-            "fp_pos_rank": 84
+            "fp_rank": 368,
+            "fp_pos_rank": 85
         },
         {
-            "name": "Josh Cameron",
+            "name": "Malik Benson",
             "position": "WR",
-            "team": "JAX",
+            "team": "LV",
             "starter": "no",
             "age": 23,
-            "sleeper_rank": 656,
+            "sleeper_rank": 502,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/josh-cameron-19321/",
-            "fp_rank": 414,
-            "fp_pos_rank": 134
+            "roto_link": "https://www.rotowire.com/football/player/malik-benson-19432/",
+            "fp_rank": 375,
+            "fp_pos_rank": 124
+        },
+        {
+            "name": "Eli Heidenreich",
+            "position": "RB",
+            "team": "PIT",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 490,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/eli-heidenreich-19335/",
+            "fp_rank": 382,
+            "fp_pos_rank": 88
         },
         {
             "name": "Devontez Walker",
@@ -2289,8 +2241,8 @@
             "sleeper_rank": 650,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/devontez-walker-17728/",
-            "fp_rank": 423,
-            "fp_pos_rank": 140
+            "fp_rank": 386,
+            "fp_pos_rank": 126
         },
         {
             "name": "LeQuint Allen",
@@ -2301,8 +2253,32 @@
             "sleeper_rank": 507,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/lequint-allen-18476/",
-            "fp_rank": 452,
-            "fp_pos_rank": 92
+            "fp_rank": 432,
+            "fp_pos_rank": 96
+        },
+        {
+            "name": "Sam Roush",
+            "position": "TE",
+            "team": "CHI",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 630,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/sam-roush-19357/",
+            "fp_rank": 436,
+            "fp_pos_rank": 56
+        },
+        {
+            "name": "Colbie Young",
+            "position": "WR",
+            "team": "CIN",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 644,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/colbie-young-19447/",
+            "fp_rank": 437,
+            "fp_pos_rank": 134
         },
         {
             "name": "Jalon Daniels",
@@ -2313,8 +2289,32 @@
             "sleeper_rank": 647,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jalon-daniels-19292/",
-            "fp_rank": 494,
+            "fp_rank": 441,
             "fp_pos_rank": 70
+        },
+        {
+            "name": "Josh Cameron",
+            "position": "WR",
+            "team": "JAX",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 656,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/josh-cameron-19321/",
+            "fp_rank": 445,
+            "fp_pos_rank": 136
+        },
+        {
+            "name": "Barion Brown",
+            "position": "WR",
+            "team": "NO",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 465,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/barion-brown-19336/",
+            "fp_rank": 469,
+            "fp_pos_rank": 148
         },
         {
             "name": "Will Kacmarek",
@@ -2325,8 +2325,8 @@
             "sleeper_rank": 514,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/will-kacmarek-19450/",
-            "fp_rank": 515,
-            "fp_pos_rank": 79
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         },
         {
             "name": "Isaiah Williams",
@@ -2351,8 +2351,8 @@
             "sleeper_rank": 12,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/omarion-hampton-18445/",
-            "fp_rank": 24,
-            "fp_pos_rank": 9
+            "fp_rank": 20,
+            "fp_pos_rank": 8
         },
         {
             "name": "Carnell Tate",
@@ -2363,7 +2363,7 @@
             "sleeper_rank": 61,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/carnell-tate-19268/",
-            "fp_rank": 31,
+            "fp_rank": 32,
             "fp_pos_rank": 15
         },
         {
@@ -2375,8 +2375,8 @@
             "sleeper_rank": 58,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/sam-laporta-17033/",
-            "fp_rank": 46,
-            "fp_pos_rank": 4
+            "fp_rank": 47,
+            "fp_pos_rank": 3
         },
         {
             "name": "Parker Washington",
@@ -2387,8 +2387,8 @@
             "sleeper_rank": 69,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/parker-washington-16690/",
-            "fp_rank": 54,
-            "fp_pos_rank": 24
+            "fp_rank": 63,
+            "fp_pos_rank": 30
         },
         {
             "name": "Harold Fannin",
@@ -2399,7 +2399,7 @@
             "sleeper_rank": 63,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/harold-fannin-18472/",
-            "fp_rank": 67,
+            "fp_rank": 71,
             "fp_pos_rank": 8
         },
         {
@@ -2411,32 +2411,8 @@
             "sleeper_rank": 42,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jaxson-dart-18574/",
-            "fp_rank": 87,
-            "fp_pos_rank": 13
-        },
-        {
-            "name": "Eli Stowers",
-            "position": "TE",
-            "team": "PHI",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 140,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/eli-stowers-18539/",
-            "fp_rank": 121,
-            "fp_pos_rank": 14
-        },
-        {
-            "name": "Blake Corum",
-            "position": "RB",
-            "team": "LAR",
-            "starter": "no",
-            "age": 25,
-            "sleeper_rank": 68,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/blake-corum-17690/",
-            "fp_rank": 128,
-            "fp_pos_rank": 30
+            "fp_rank": 107,
+            "fp_pos_rank": 16
         },
         {
             "name": "Jayden Higgins",
@@ -2447,8 +2423,8 @@
             "sleeper_rank": 126,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jayden-higgins-18551/",
-            "fp_rank": 136,
-            "fp_pos_rank": 54
+            "fp_rank": 117,
+            "fp_pos_rank": 47
         },
         {
             "name": "Kyle Monangai",
@@ -2459,8 +2435,32 @@
             "sleeper_rank": 61,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kyle-monangai-18520/",
-            "fp_rank": 142,
-            "fp_pos_rank": 32
+            "fp_rank": 121,
+            "fp_pos_rank": 27
+        },
+        {
+            "name": "Blake Corum",
+            "position": "RB",
+            "team": "LAR",
+            "starter": "no",
+            "age": 25,
+            "sleeper_rank": 68,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/blake-corum-17690/",
+            "fp_rank": 133,
+            "fp_pos_rank": 31
+        },
+        {
+            "name": "Eli Stowers",
+            "position": "TE",
+            "team": "PHI",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 140,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/eli-stowers-18539/",
+            "fp_rank": 152,
+            "fp_pos_rank": 21
         },
         {
             "name": "Sam Darnold",
@@ -2468,11 +2468,23 @@
             "team": "SEA",
             "starter": "yes",
             "age": 29,
-            "sleeper_rank": 92,
+            "sleeper_rank": 93,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3912547",
             "roto_link": "https://www.rotowire.com/football/player/sam-darnold-12490/",
-            "fp_rank": 146,
-            "fp_pos_rank": 22
+            "fp_rank": 156,
+            "fp_pos_rank": 24
+        },
+        {
+            "name": "Pat Bryant",
+            "position": "WR",
+            "team": "DEN",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 172,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/pat-bryant-18562/",
+            "fp_rank": 167,
+            "fp_pos_rank": 63
         },
         {
             "name": "Tre' Harris",
@@ -2483,8 +2495,8 @@
             "sleeper_rank": 179,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tre-harris-18478/",
-            "fp_rank": 166,
-            "fp_pos_rank": 63
+            "fp_rank": 173,
+            "fp_pos_rank": 66
         },
         {
             "name": "Tank Dell",
@@ -2496,43 +2508,7 @@
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tank-dell-16935/",
             "fp_rank": 183,
-            "fp_pos_rank": 67
-        },
-        {
-            "name": "Pat Bryant",
-            "position": "WR",
-            "team": "DEN",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 172,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/pat-bryant-18562/",
-            "fp_rank": 190,
-            "fp_pos_rank": 69
-        },
-        {
-            "name": "Ted Hurst",
-            "position": "WR",
-            "team": "TB",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 196,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/ted-hurst-19320/",
-            "fp_rank": 195,
-            "fp_pos_rank": 71
-        },
-        {
-            "name": "Eli Raridon",
-            "position": "TE",
-            "team": "NE",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 364,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/eli-raridon-19348/",
-            "fp_rank": 208,
-            "fp_pos_rank": 27
+            "fp_pos_rank": 70
         },
         {
             "name": "Tre Tucker",
@@ -2543,32 +2519,32 @@
             "sleeper_rank": 184,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/tre-tucker-16694/",
-            "fp_rank": 225,
-            "fp_pos_rank": 81
+            "fp_rank": 191,
+            "fp_pos_rank": 75
         },
         {
-            "name": "Elijah Sarratt",
+            "name": "Eli Raridon",
+            "position": "TE",
+            "team": "NE",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 364,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/eli-raridon-19348/",
+            "fp_rank": 193,
+            "fp_pos_rank": 25
+        },
+        {
+            "name": "Ted Hurst",
             "position": "WR",
-            "team": "BAL",
+            "team": "TB",
             "starter": "no",
-            "age": 23,
-            "sleeper_rank": 201,
+            "age": 22,
+            "sleeper_rank": 196,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/elijah-sarratt-19310/",
-            "fp_rank": 232,
-            "fp_pos_rank": 85
-        },
-        {
-            "name": "Tank Bigsby",
-            "position": "RB",
-            "team": "PHI",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 147,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/tank-bigsby-16705/",
-            "fp_rank": 233,
-            "fp_pos_rank": 54
+            "roto_link": "https://www.rotowire.com/football/player/ted-hurst-19320/",
+            "fp_rank": 216,
+            "fp_pos_rank": 81
         },
         {
             "name": "Troy Franklin",
@@ -2579,8 +2555,32 @@
             "sleeper_rank": 171,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/troy-franklin-17719/",
-            "fp_rank": 237,
-            "fp_pos_rank": 86
+            "fp_rank": 217,
+            "fp_pos_rank": 82
+        },
+        {
+            "name": "Tank Bigsby",
+            "position": "RB",
+            "team": "PHI",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 147,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/tank-bigsby-16705/",
+            "fp_rank": 243,
+            "fp_pos_rank": 56
+        },
+        {
+            "name": "Elijah Sarratt",
+            "position": "WR",
+            "team": "BAL",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 201,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/elijah-sarratt-19310/",
+            "fp_rank": 261,
+            "fp_pos_rank": 94
         },
         {
             "name": "Jalen Nailor",
@@ -2591,20 +2591,8 @@
             "sleeper_rank": 171,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jalen-nailor-16025/",
-            "fp_rank": 250,
-            "fp_pos_rank": 89
-        },
-        {
-            "name": "Bryce Lance",
-            "position": "WR",
-            "team": "NO",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 479,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/bryce-lance-19319/",
-            "fp_rank": 251,
-            "fp_pos_rank": 90
+            "fp_rank": 262,
+            "fp_pos_rank": 95
         },
         {
             "name": "Devaughn Vele",
@@ -2615,20 +2603,8 @@
             "sleeper_rank": 209,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/devaughn-vele-17975/",
-            "fp_rank": 261,
-            "fp_pos_rank": 94
-        },
-        {
-            "name": "Jaylen Wright",
-            "position": "RB",
-            "team": "MIA",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 174,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jaylen-wright-17800/",
-            "fp_rank": 292,
-            "fp_pos_rank": 64
+            "fp_rank": 267,
+            "fp_pos_rank": 97
         },
         {
             "name": "Isiah Pacheco",
@@ -2639,20 +2615,44 @@
             "sleeper_rank": 151,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/isiah-pacheco-16104/",
-            "fp_rank": 299,
-            "fp_pos_rank": 65
+            "fp_rank": 280,
+            "fp_pos_rank": 63
+        },
+        {
+            "name": "Jaylen Wright",
+            "position": "RB",
+            "team": "MIA",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 174,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jaylen-wright-17800/",
+            "fp_rank": 296,
+            "fp_pos_rank": 64
         },
         {
             "name": "Demond Claiborne",
             "position": "RB",
             "team": "MIN",
             "starter": "no",
-            "age": 22,
+            "age": 23,
             "sleeper_rank": 176,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/demond-claiborne-19234/",
-            "fp_rank": 314,
-            "fp_pos_rank": 68
+            "fp_rank": 300,
+            "fp_pos_rank": 65
+        },
+        {
+            "name": "Bryce Lance",
+            "position": "WR",
+            "team": "NO",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 479,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/bryce-lance-19319/",
+            "fp_rank": 374,
+            "fp_pos_rank": 123
         },
         {
             "name": "Adam Randall",
@@ -2663,8 +2663,8 @@
             "sleeper_rank": 402,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/adam-randall-19301/",
-            "fp_rank": 322,
-            "fp_pos_rank": 69
+            "fp_rank": 392,
+            "fp_pos_rank": 90
         },
         {
             "name": "Dameon Pierce",
@@ -2675,8 +2675,8 @@
             "sleeper_rank": 666,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/dameon-pierce-15875/",
-            "fp_rank": 562,
-            "fp_pos_rank": 120
+            "fp_rank": "NR",
+            "fp_pos_rank": "NR"
         }
     ],
     "Ryan Shannon": [
@@ -2701,7 +2701,7 @@
             "sleeper_rank": 30,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/chris-olave-15895/",
-            "fp_rank": 16,
+            "fp_rank": 18,
             "fp_pos_rank": 10
         },
         {
@@ -2710,35 +2710,11 @@
             "team": "LAC",
             "starter": "yes",
             "age": 24,
-            "sleeper_rank": 36,
+            "sleeper_rank": 34,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/ladd-mcconkey-17724/",
-            "fp_rank": 39,
-            "fp_pos_rank": 19
-        },
-        {
-            "name": "Tyler Warren",
-            "position": "TE",
-            "team": "IND",
-            "starter": "yes",
-            "age": 24,
-            "sleeper_rank": 47,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/tyler-warren-18534/",
-            "fp_rank": 45,
-            "fp_pos_rank": 3
-        },
-        {
-            "name": "Christian Watson",
-            "position": "WR",
-            "team": "GB",
-            "starter": "yes",
-            "age": 27,
-            "sleeper_rank": 64,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/christian-watson-15946/",
-            "fp_rank": 49,
-            "fp_pos_rank": 22
+            "fp_rank": 36,
+            "fp_pos_rank": 18
         },
         {
             "name": "Rashee Rice",
@@ -2749,8 +2725,20 @@
             "sleeper_rank": 30,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/rashee-rice-16963/",
-            "fp_rank": 59,
-            "fp_pos_rank": 29
+            "fp_rank": 37,
+            "fp_pos_rank": 19
+        },
+        {
+            "name": "Tyler Warren",
+            "position": "TE",
+            "team": "IND",
+            "starter": "yes",
+            "age": 24,
+            "sleeper_rank": 48,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/tyler-warren-18534/",
+            "fp_rank": 57,
+            "fp_pos_rank": 5
         },
         {
             "name": "Dalton Kincaid",
@@ -2761,8 +2749,8 @@
             "sleeper_rank": 81,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/dalton-kincaid-16697/",
-            "fp_rank": 63,
-            "fp_pos_rank": 7
+            "fp_rank": 59,
+            "fp_pos_rank": 6
         },
         {
             "name": "Makai Lemon",
@@ -2773,8 +2761,20 @@
             "sleeper_rank": 90,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/makai-lemon-19231/",
-            "fp_rank": 70,
-            "fp_pos_rank": 30
+            "fp_rank": 61,
+            "fp_pos_rank": 28
+        },
+        {
+            "name": "Christian Watson",
+            "position": "WR",
+            "team": "GB",
+            "starter": "yes",
+            "age": 27,
+            "sleeper_rank": 64,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/christian-watson-15946/",
+            "fp_rank": 62,
+            "fp_pos_rank": 29
         },
         {
             "name": "Justin Herbert",
@@ -2785,7 +2785,7 @@
             "sleeper_rank": 34,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4038941",
             "roto_link": "https://www.rotowire.com/football/player/justin-herbert-14446/",
-            "fp_rank": 72,
+            "fp_rank": 70,
             "fp_pos_rank": 11
         },
         {
@@ -2793,12 +2793,12 @@
             "position": "RB",
             "team": "SEA",
             "starter": "no",
-            "age": 22,
+            "age": 23,
             "sleeper_rank": 52,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jadarian-price-19299/",
-            "fp_rank": 85,
-            "fp_pos_rank": 20
+            "fp_rank": 73,
+            "fp_pos_rank": 17
         },
         {
             "name": "Matthew Golden",
@@ -2809,8 +2809,8 @@
             "sleeper_rank": 118,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/matthew-golden-18500/",
-            "fp_rank": 111,
-            "fp_pos_rank": 44
+            "fp_rank": 110,
+            "fp_pos_rank": 43
         },
         {
             "name": "Chuba Hubbard",
@@ -2821,8 +2821,8 @@
             "sleeper_rank": 66,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/chuba-hubbard-15242/",
-            "fp_rank": 122,
-            "fp_pos_rank": 28
+            "fp_rank": 114,
+            "fp_pos_rank": 26
         },
         {
             "name": "Jonathon Brooks",
@@ -2833,20 +2833,8 @@
             "sleeper_rank": 87,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jonathon-brooks-17747/",
-            "fp_rank": 127,
-            "fp_pos_rank": 29
-        },
-        {
-            "name": "Romeo Doubs",
-            "position": "WR",
-            "team": "NE",
-            "starter": "yes",
-            "age": 26,
-            "sleeper_rank": 117,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/romeo-doubs-16027/",
-            "fp_rank": 135,
-            "fp_pos_rank": 53
+            "fp_rank": 129,
+            "fp_pos_rank": 30
         },
         {
             "name": "RJ Harvey",
@@ -2857,44 +2845,20 @@
             "sleeper_rank": 56,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/rj-harvey-18522/",
-            "fp_rank": 140,
-            "fp_pos_rank": 31
+            "fp_rank": 158,
+            "fp_pos_rank": 33
         },
         {
-            "name": "Ja'Kobi Lane",
+            "name": "Romeo Doubs",
             "position": "WR",
-            "team": "BAL",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 148,
+            "team": "NE",
+            "starter": "yes",
+            "age": 26,
+            "sleeper_rank": 117,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jakobi-lane-19230/",
-            "fp_rank": 201,
-            "fp_pos_rank": 74
-        },
-        {
-            "name": "Malachi Fields",
-            "position": "WR",
-            "team": "NYG",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 201,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/malachi-fields-19313/",
-            "fp_rank": 211,
-            "fp_pos_rank": 77
-        },
-        {
-            "name": "Jalen McMillan",
-            "position": "WR",
-            "team": "TB",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 165,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jalen-mcmillan-17763/",
-            "fp_rank": 212,
-            "fp_pos_rank": 78
+            "roto_link": "https://www.rotowire.com/football/player/romeo-doubs-16027/",
+            "fp_rank": 160,
+            "fp_pos_rank": 60
         },
         {
             "name": "Caleb Douglas",
@@ -2905,19 +2869,43 @@
             "sleeper_rank": 198,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/caleb-douglas-19343/",
-            "fp_rank": 218,
-            "fp_pos_rank": 80
+            "fp_rank": 171,
+            "fp_pos_rank": 65
         },
         {
-            "name": "Zachariah Branch",
+            "name": "Jalen McMillan",
             "position": "WR",
-            "team": "ATL",
+            "team": "TB",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 165,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jalen-mcmillan-17763/",
+            "fp_rank": 179,
+            "fp_pos_rank": 69
+        },
+        {
+            "name": "Ja'Kobi Lane",
+            "position": "WR",
+            "team": "BAL",
             "starter": "no",
             "age": 22,
-            "sleeper_rank": 185,
+            "sleeper_rank": 147,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/zachariah-branch-19262/",
-            "fp_rank": 230,
+            "roto_link": "https://www.rotowire.com/football/player/jakobi-lane-19230/",
+            "fp_rank": 186,
+            "fp_pos_rank": 72
+        },
+        {
+            "name": "Isaac TeSlaa",
+            "position": "WR",
+            "team": "DET",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 184,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/isaac-teslaa-18642/",
+            "fp_rank": 218,
             "fp_pos_rank": 83
         },
         {
@@ -2929,32 +2917,32 @@
             "sleeper_rank": 129,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/dylan-sampson-18467/",
-            "fp_rank": 234,
-            "fp_pos_rank": 55
+            "fp_rank": 232,
+            "fp_pos_rank": 52
         },
         {
-            "name": "MarShawn Lloyd",
-            "position": "RB",
-            "team": "GB",
-            "starter": "yes",
-            "age": 25,
-            "sleeper_rank": 98,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/marshawn-lloyd-17795/",
-            "fp_rank": 235,
-            "fp_pos_rank": 56
-        },
-        {
-            "name": "Isaac TeSlaa",
+            "name": "Malachi Fields",
             "position": "WR",
-            "team": "DET",
+            "team": "NYG",
             "starter": "no",
-            "age": 24,
-            "sleeper_rank": 184,
+            "age": 23,
+            "sleeper_rank": 201,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/isaac-teslaa-18642/",
-            "fp_rank": 239,
-            "fp_pos_rank": 87
+            "roto_link": "https://www.rotowire.com/football/player/malachi-fields-19313/",
+            "fp_rank": 244,
+            "fp_pos_rank": 88
+        },
+        {
+            "name": "Zachariah Branch",
+            "position": "WR",
+            "team": "ATL",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 185,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/zachariah-branch-19262/",
+            "fp_rank": 265,
+            "fp_pos_rank": 96
         },
         {
             "name": "Ryan Flournoy",
@@ -2965,20 +2953,8 @@
             "sleeper_rank": 199,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/ryan-flournoy-17974/",
-            "fp_rank": 247,
-            "fp_pos_rank": 88
-        },
-        {
-            "name": "Cyrus Allen",
-            "position": "WR",
-            "team": "KC",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 177,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/cyrus-allen-19631/",
-            "fp_rank": 253,
-            "fp_pos_rank": 92
+            "fp_rank": 269,
+            "fp_pos_rank": 99
         },
         {
             "name": "Kimani Vidal",
@@ -2989,7 +2965,7 @@
             "sleeper_rank": 141,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/kimani-vidal-17821/",
-            "fp_rank": 275,
+            "fp_rank": 273,
             "fp_pos_rank": 61
         },
         {
@@ -2998,11 +2974,35 @@
             "team": "LV",
             "starter": "yes",
             "age": 38,
-            "sleeper_rank": 269,
+            "sleeper_rank": 268,
             "espn_link": "https://www.espn.com/nfl/player/_/id/14880",
             "roto_link": "https://www.rotowire.com/football/player/kirk-cousins-8057/",
-            "fp_rank": 289,
-            "fp_pos_rank": 38
+            "fp_rank": 282,
+            "fp_pos_rank": 37
+        },
+        {
+            "name": "Cyrus Allen",
+            "position": "WR",
+            "team": "KC",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 177,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/cyrus-allen-19631/",
+            "fp_rank": 295,
+            "fp_pos_rank": 105
+        },
+        {
+            "name": "MarShawn Lloyd",
+            "position": "RB",
+            "team": "GB",
+            "starter": "yes",
+            "age": 25,
+            "sleeper_rank": 98,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/marshawn-lloyd-17795/",
+            "fp_rank": 303,
+            "fp_pos_rank": 66
         },
         {
             "name": "Xavier Legette",
@@ -3013,8 +3013,8 @@
             "sleeper_rank": 527,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/xavier-legette-17734/",
-            "fp_rank": 340,
-            "fp_pos_rank": 117
+            "fp_rank": 306,
+            "fp_pos_rank": 109
         }
     ],
     "TJ Pickeral": [
@@ -3027,7 +3027,7 @@
             "sleeper_rank": 10,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4241389",
             "roto_link": "https://www.rotowire.com/football/player/ceedee-lamb-14411/",
-            "fp_rank": 6,
+            "fp_rank": 5,
             "fp_pos_rank": 4
         },
         {
@@ -3051,7 +3051,7 @@
             "sleeper_rank": 3,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3918298",
             "roto_link": "https://www.rotowire.com/football/player/josh-allen-12483/",
-            "fp_rank": 14,
+            "fp_rank": 15,
             "fp_pos_rank": 1
         },
         {
@@ -3060,11 +3060,11 @@
             "team": "CHI",
             "starter": "yes",
             "age": 22,
-            "sleeper_rank": 35,
+            "sleeper_rank": 37,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/colston-loveland-18460/",
-            "fp_rank": 48,
-            "fp_pos_rank": 5
+            "fp_rank": 51,
+            "fp_pos_rank": 4
         },
         {
             "name": "Quinshon Judkins",
@@ -3075,8 +3075,8 @@
             "sleeper_rank": 45,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/quinshon-judkins-18516/",
-            "fp_rank": 75,
-            "fp_pos_rank": 18
+            "fp_rank": 68,
+            "fp_pos_rank": 15
         },
         {
             "name": "Jaylen Warren",
@@ -3087,7 +3087,7 @@
             "sleeper_rank": 52,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jaylen-warren-15984/",
-            "fp_rank": 112,
+            "fp_rank": 113,
             "fp_pos_rank": 25
         },
         {
@@ -3099,20 +3099,8 @@
             "sleeper_rank": 42,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4035538",
             "roto_link": "https://www.rotowire.com/football/player/david-montgomery-13556/",
-            "fp_rank": 116,
-            "fp_pos_rank": 26
-        },
-        {
-            "name": "Brenton Strange",
-            "position": "TE",
-            "team": "JAX",
-            "starter": "yes",
-            "age": 25,
-            "sleeper_rank": 104,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/brenton-strange-17017/",
             "fp_rank": 123,
-            "fp_pos_rank": 15
+            "fp_pos_rank": 28
         },
         {
             "name": "Fernando Mendoza",
@@ -3123,8 +3111,20 @@
             "sleeper_rank": 107,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/fernando-mendoza-19281/",
-            "fp_rank": 134,
+            "fp_rank": 126,
             "fp_pos_rank": 19
+        },
+        {
+            "name": "Brenton Strange",
+            "position": "TE",
+            "team": "JAX",
+            "starter": "yes",
+            "age": 25,
+            "sleeper_rank": 104,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/brenton-strange-17017/",
+            "fp_rank": 138,
+            "fp_pos_rank": 17
         },
         {
             "name": "Khalil Shakir",
@@ -3135,8 +3135,8 @@
             "sleeper_rank": 120,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/khalil-shakir-15892/",
-            "fp_rank": 151,
-            "fp_pos_rank": 59
+            "fp_rank": 139,
+            "fp_pos_rank": 53
         },
         {
             "name": "Stefon Diggs",
@@ -3147,32 +3147,8 @@
             "sleeper_rank": 105,
             "espn_link": "https://www.espn.com/nfl/player/_/id/2976212",
             "roto_link": "https://www.rotowire.com/football/player/stefon-diggs-10133/",
-            "fp_rank": 152,
-            "fp_pos_rank": 60
-        },
-        {
-            "name": "Jacory Croskey-Merritt",
-            "position": "RB",
-            "team": "WAS",
-            "starter": "yes",
-            "age": 25,
-            "sleeper_rank": 95,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jacory-croskeymerritt-18811/",
-            "fp_rank": 165,
-            "fp_pos_rank": 36
-        },
-        {
-            "name": "Rico Dowdle",
-            "position": "RB",
-            "team": "PIT",
-            "starter": "no",
-            "age": 28,
-            "sleeper_rank": 65,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/4038815",
-            "roto_link": "https://www.rotowire.com/football/player/rico-dowdle-14657/",
-            "fp_rank": 168,
-            "fp_pos_rank": 37
+            "fp_rank": 142,
+            "fp_pos_rank": 55
         },
         {
             "name": "Deebo Samuel",
@@ -3183,20 +3159,32 @@
             "sleeper_rank": 131,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3126486",
             "roto_link": "https://www.rotowire.com/football/player/deebo-samuel-13429/",
-            "fp_rank": 172,
-            "fp_pos_rank": 64
+            "fp_rank": 165,
+            "fp_pos_rank": 62
         },
         {
-            "name": "Rachaad White",
+            "name": "Rico Dowdle",
+            "position": "RB",
+            "team": "PIT",
+            "starter": "no",
+            "age": 28,
+            "sleeper_rank": 65,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/4038815",
+            "roto_link": "https://www.rotowire.com/football/player/rico-dowdle-14657/",
+            "fp_rank": 166,
+            "fp_pos_rank": 35
+        },
+        {
+            "name": "Jacory Croskey-Merritt",
             "position": "RB",
             "team": "WAS",
-            "starter": "no",
-            "age": 27,
-            "sleeper_rank": 125,
+            "starter": "yes",
+            "age": 25,
+            "sleeper_rank": 95,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/rachaad-white-15802/",
-            "fp_rank": 180,
-            "fp_pos_rank": 39
+            "roto_link": "https://www.rotowire.com/football/player/jacory-croskeymerritt-18811/",
+            "fp_rank": 176,
+            "fp_pos_rank": 37
         },
         {
             "name": "Emmett Johnson",
@@ -3207,8 +3195,20 @@
             "sleeper_rank": 113,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/emmett-johnson-19240/",
-            "fp_rank": 182,
-            "fp_pos_rank": 41
+            "fp_rank": 197,
+            "fp_pos_rank": 40
+        },
+        {
+            "name": "Rachaad White",
+            "position": "RB",
+            "team": "WAS",
+            "starter": "no",
+            "age": 27,
+            "sleeper_rank": 125,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/rachaad-white-15802/",
+            "fp_rank": 204,
+            "fp_pos_rank": 45
         },
         {
             "name": "Keaton Mitchell",
@@ -3219,20 +3219,8 @@
             "sleeper_rank": 148,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/keaton-mitchell-16810/",
-            "fp_rank": 229,
-            "fp_pos_rank": 53
-        },
-        {
-            "name": "Tua Tagovailoa",
-            "position": "QB",
-            "team": "ATL",
-            "starter": "no",
-            "age": 28,
-            "sleeper_rank": 237,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/4241479",
-            "roto_link": "https://www.rotowire.com/football/player/tua-tagovailoa-14465/",
-            "fp_rank": 260,
-            "fp_pos_rank": 37
+            "fp_rank": 253,
+            "fp_pos_rank": 58
         },
         {
             "name": "Jack Bech",
@@ -3243,20 +3231,20 @@
             "sleeper_rank": 208,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jack-bech-18457/",
-            "fp_rank": 286,
-            "fp_pos_rank": 104
+            "fp_rank": 268,
+            "fp_pos_rank": 98
         },
         {
-            "name": "Justin Fields",
+            "name": "Tua Tagovailoa",
             "position": "QB",
-            "team": "KC",
+            "team": "ATL",
             "starter": "no",
-            "age": 27,
-            "sleeper_rank": 428,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/justin-fields-15416/",
-            "fp_rank": 307,
-            "fp_pos_rank": 42
+            "age": 28,
+            "sleeper_rank": 237,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/4241479",
+            "roto_link": "https://www.rotowire.com/football/player/tua-tagovailoa-14465/",
+            "fp_rank": 275,
+            "fp_pos_rank": 36
         },
         {
             "name": "Evan Engram",
@@ -3264,11 +3252,11 @@
             "team": "DEN",
             "starter": "yes",
             "age": 32,
-            "sleeper_rank": 461,
+            "sleeper_rank": 464,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3051876",
             "roto_link": "https://www.rotowire.com/football/player/evan-engram-11805/",
-            "fp_rank": 317,
-            "fp_pos_rank": 40
+            "fp_rank": 287,
+            "fp_pos_rank": 39
         },
         {
             "name": "Theo Johnson",
@@ -3279,44 +3267,20 @@
             "sleeper_rank": 144,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/theo-johnson-17021/",
-            "fp_rank": 327,
-            "fp_pos_rank": 43
+            "fp_rank": 288,
+            "fp_pos_rank": 40
         },
         {
-            "name": "James Conner",
-            "position": "RB",
-            "team": "ARI",
-            "starter": "no",
-            "age": 31,
-            "sleeper_rank": 92,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3045147",
-            "roto_link": "https://www.rotowire.com/football/player/james-conner-11691/",
-            "fp_rank": 341,
-            "fp_pos_rank": 71
-        },
-        {
-            "name": "Jameis Winston",
+            "name": "Justin Fields",
             "position": "QB",
-            "team": "NYG",
-            "starter": "yes",
-            "age": 32,
-            "sleeper_rank": 485,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/2969939",
-            "roto_link": "https://www.rotowire.com/football/player/jameis-winston-10037/",
-            "fp_rank": 343,
-            "fp_pos_rank": 51
-        },
-        {
-            "name": "Christian Kirk",
-            "position": "WR",
-            "team": "SF",
+            "team": "KC",
             "starter": "no",
-            "age": 29,
-            "sleeper_rank": 210,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3895856",
-            "roto_link": "https://www.rotowire.com/football/player/christian-kirk-12508/",
-            "fp_rank": 346,
-            "fp_pos_rank": 118
+            "age": 27,
+            "sleeper_rank": 428,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/justin-fields-15416/",
+            "fp_rank": 314,
+            "fp_pos_rank": 41
         },
         {
             "name": "Trey Benson",
@@ -3327,8 +3291,20 @@
             "sleeper_rank": 114,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/trey-benson-17767/",
-            "fp_rank": 352,
-            "fp_pos_rank": 74
+            "fp_rank": 318,
+            "fp_pos_rank": 70
+        },
+        {
+            "name": "Christian Kirk",
+            "position": "WR",
+            "team": "SF",
+            "starter": "no",
+            "age": 29,
+            "sleeper_rank": 210,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3895856",
+            "roto_link": "https://www.rotowire.com/football/player/christian-kirk-12508/",
+            "fp_rank": 324,
+            "fp_pos_rank": 112
         },
         {
             "name": "Jaydon Blue",
@@ -3339,8 +3315,32 @@
             "sleeper_rank": 189,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jaydon-blue-18499/",
-            "fp_rank": 404,
-            "fp_pos_rank": 85
+            "fp_rank": 376,
+            "fp_pos_rank": 86
+        },
+        {
+            "name": "James Conner",
+            "position": "RB",
+            "team": "ARI",
+            "starter": "no",
+            "age": 31,
+            "sleeper_rank": 92,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3045147",
+            "roto_link": "https://www.rotowire.com/football/player/james-conner-11691/",
+            "fp_rank": 384,
+            "fp_pos_rank": 89
+        },
+        {
+            "name": "Jameis Winston",
+            "position": "QB",
+            "team": "NYG",
+            "starter": "yes",
+            "age": 32,
+            "sleeper_rank": 482,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/2969939",
+            "roto_link": "https://www.rotowire.com/football/player/jameis-winston-10037/",
+            "fp_rank": 403,
+            "fp_pos_rank": 52
         },
         {
             "name": "Deion Burks",
@@ -3351,8 +3351,8 @@
             "sleeper_rank": 670,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/deion-burks-19315/",
-            "fp_rank": 461,
-            "fp_pos_rank": 156
+            "fp_rank": 425,
+            "fp_pos_rank": 132
         }
     ],
     "Tyler Smith": [
@@ -3365,7 +3365,7 @@
             "sleeper_rank": 5,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3117251",
             "roto_link": "https://www.rotowire.com/football/player/christian-mccaffrey-11690/",
-            "fp_rank": 38,
+            "fp_rank": 31,
             "fp_pos_rank": 11
         },
         {
@@ -3374,11 +3374,11 @@
             "team": "WAS",
             "starter": "yes",
             "age": 25,
-            "sleeper_rank": 22,
+            "sleeper_rank": 21,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/jayden-daniels-17692/",
-            "fp_rank": 47,
-            "fp_pos_rank": 6
+            "fp_rank": 54,
+            "fp_pos_rank": 8
         },
         {
             "name": "DJ Moore",
@@ -3386,10 +3386,10 @@
             "team": "BUF",
             "starter": "yes",
             "age": 29,
-            "sleeper_rank": 50,
+            "sleeper_rank": 48,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3915416",
             "roto_link": "https://www.rotowire.com/football/player/dj-moore-12477/",
-            "fp_rank": 71,
+            "fp_rank": 76,
             "fp_pos_rank": 31
         },
         {
@@ -3401,8 +3401,8 @@
             "sleeper_rank": 7,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3043078",
             "roto_link": "https://www.rotowire.com/football/player/derrick-henry-10819/",
-            "fp_rank": 92,
-            "fp_pos_rank": 23
+            "fp_rank": 89,
+            "fp_pos_rank": 21
         },
         {
             "name": "Isaiah Likely",
@@ -3410,11 +3410,11 @@
             "team": "NYG",
             "starter": "yes",
             "age": 26,
-            "sleeper_rank": 106,
+            "sleeper_rank": 105,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/isaiah-likely-16033/",
-            "fp_rank": 97,
-            "fp_pos_rank": 12
+            "fp_rank": 91,
+            "fp_pos_rank": 11
         },
         {
             "name": "Davante Adams",
@@ -3425,8 +3425,8 @@
             "sleeper_rank": 46,
             "espn_link": "https://www.espn.com/nfl/player/_/id/16800",
             "roto_link": "https://www.rotowire.com/football/player/davante-adams-9455/",
-            "fp_rank": 108,
-            "fp_pos_rank": 43
+            "fp_rank": 95,
+            "fp_pos_rank": 38
         },
         {
             "name": "Jordan Love",
@@ -3434,35 +3434,11 @@
             "team": "GB",
             "starter": "yes",
             "age": 27,
-            "sleeper_rank": 69,
+            "sleeper_rank": 68,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4036378",
             "roto_link": "https://www.rotowire.com/football/player/jordan-love-14371/",
-            "fp_rank": 113,
-            "fp_pos_rank": 18
-        },
-        {
-            "name": "Courtland Sutton",
-            "position": "WR",
-            "team": "DEN",
-            "starter": "no",
-            "age": 30,
-            "sleeper_rank": 72,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3128429",
-            "roto_link": "https://www.rotowire.com/football/player/courtland-sutton-12586/",
-            "fp_rank": 124,
-            "fp_pos_rank": 47
-        },
-        {
-            "name": "Jakobi Meyers",
-            "position": "WR",
-            "team": "JAX",
-            "starter": "no",
-            "age": 29,
-            "sleeper_rank": 77,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3916433",
-            "roto_link": "https://www.rotowire.com/football/player/jakobi-meyers-13517/",
-            "fp_rank": 125,
-            "fp_pos_rank": 48
+            "fp_rank": 103,
+            "fp_pos_rank": 15
         },
         {
             "name": "Travis Kelce",
@@ -3473,8 +3449,32 @@
             "sleeper_rank": 89,
             "espn_link": "https://www.espn.com/nfl/player/_/id/15847",
             "roto_link": "https://www.rotowire.com/football/player/travis-kelce-8783/",
-            "fp_rank": 174,
-            "fp_pos_rank": 23
+            "fp_rank": 134,
+            "fp_pos_rank": 14
+        },
+        {
+            "name": "Courtland Sutton",
+            "position": "WR",
+            "team": "DEN",
+            "starter": "no",
+            "age": 30,
+            "sleeper_rank": 72,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3128429",
+            "roto_link": "https://www.rotowire.com/football/player/courtland-sutton-12586/",
+            "fp_rank": 140,
+            "fp_pos_rank": 54
+        },
+        {
+            "name": "Jakobi Meyers",
+            "position": "WR",
+            "team": "JAX",
+            "starter": "no",
+            "age": 29,
+            "sleeper_rank": 77,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3916433",
+            "roto_link": "https://www.rotowire.com/football/player/jakobi-meyers-13517/",
+            "fp_rank": 146,
+            "fp_pos_rank": 58
         },
         {
             "name": "Tony Pollard",
@@ -3485,20 +3485,8 @@
             "sleeper_rank": 63,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3916148",
             "roto_link": "https://www.rotowire.com/football/player/tony-pollard-13590/",
-            "fp_rank": 175,
-            "fp_pos_rank": 38
-        },
-        {
-            "name": "Jordan Mason",
-            "position": "RB",
-            "team": "MIN",
-            "starter": "no",
-            "age": 27,
-            "sleeper_rank": 92,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jordan-mason-16163/",
-            "fp_rank": 185,
-            "fp_pos_rank": 42
+            "fp_rank": 170,
+            "fp_pos_rank": 36
         },
         {
             "name": "Dalton Schultz",
@@ -3509,8 +3497,20 @@
             "sleeper_rank": 98,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3117256",
             "roto_link": "https://www.rotowire.com/football/player/dalton-schultz-12514/",
-            "fp_rank": 197,
-            "fp_pos_rank": 25
+            "fp_rank": 174,
+            "fp_pos_rank": 23
+        },
+        {
+            "name": "Jordan Mason",
+            "position": "RB",
+            "team": "MIN",
+            "starter": "no",
+            "age": 27,
+            "sleeper_rank": 91,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jordan-mason-16163/",
+            "fp_rank": 199,
+            "fp_pos_rank": 41
         },
         {
             "name": "Rashod Bateman",
@@ -3521,32 +3521,8 @@
             "sleeper_rank": 203,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/rashod-bateman-15210/",
-            "fp_rank": 231,
+            "fp_rank": 226,
             "fp_pos_rank": 84
-        },
-        {
-            "name": "Konata Mumpfield",
-            "position": "WR",
-            "team": "LAR",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 678,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/konata-mumpfield-17081/",
-            "fp_rank": 278,
-            "fp_pos_rank": 102
-        },
-        {
-            "name": "Keenan Allen",
-            "position": "WR",
-            "team": "IND",
-            "starter": "no",
-            "age": 34,
-            "sleeper_rank": 182,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/15818",
-            "roto_link": "https://www.rotowire.com/football/player/keenan-allen-8627/",
-            "fp_rank": 281,
-            "fp_pos_rank": 103
         },
         {
             "name": "Carson Beck",
@@ -3554,23 +3530,11 @@
             "team": "ARI",
             "starter": "no",
             "age": 23,
-            "sleeper_rank": 287,
+            "sleeper_rank": 289,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/carson-beck-19287/",
-            "fp_rank": 300,
+            "fp_rank": 294,
             "fp_pos_rank": 40
-        },
-        {
-            "name": "Cole Payton",
-            "position": "QB",
-            "team": "PHI",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 474,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/cole-payton-19296/",
-            "fp_rank": 310,
-            "fp_pos_rank": 44
         },
         {
             "name": "Darius Slayton",
@@ -3581,80 +3545,20 @@
             "sleeper_rank": 541,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3916945",
             "roto_link": "https://www.rotowire.com/football/player/darius-slayton-13522/",
-            "fp_rank": 311,
-            "fp_pos_rank": 109
+            "fp_rank": 298,
+            "fp_pos_rank": 106
         },
         {
-            "name": "Marcus Mariota",
-            "position": "QB",
-            "team": "WAS",
-            "starter": "no",
-            "age": 32,
-            "sleeper_rank": 508,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/2576980",
-            "roto_link": "https://www.rotowire.com/football/player/marcus-mariota-10074/",
-            "fp_rank": 312,
-            "fp_pos_rank": 45
-        },
-        {
-            "name": "Jalen Tolbert",
+            "name": "Keenan Allen",
             "position": "WR",
-            "team": "MIA",
+            "team": "IND",
             "starter": "no",
-            "age": 27,
-            "sleeper_rank": 617,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jalen-tolbert-16010/",
-            "fp_rank": 332,
-            "fp_pos_rank": 115
-        },
-        {
-            "name": "Najee Harris",
-            "position": "RB",
-            "team": "NYG",
-            "starter": "no",
-            "age": 28,
-            "sleeper_rank": 170,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/najee-harris-15468/",
-            "fp_rank": 379,
-            "fp_pos_rank": 78
-        },
-        {
-            "name": "Jordan James",
-            "position": "RB",
-            "team": "SF",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 222,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/jordan-james-18485/",
-            "fp_rank": 391,
-            "fp_pos_rank": 82
-        },
-        {
-            "name": "Garrett Nussmeier",
-            "position": "QB",
-            "team": "KC",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 515,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/garrett-nussmeier-19283/",
-            "fp_rank": 399,
-            "fp_pos_rank": 61
-        },
-        {
-            "name": "Isaac Guerendo",
-            "position": "RB",
-            "team": "SF",
-            "starter": "no",
-            "age": 26,
-            "sleeper_rank": 678,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/isaac-guerendo-17947/",
-            "fp_rank": 438,
-            "fp_pos_rank": 90
+            "age": 34,
+            "sleeper_rank": 182,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/15818",
+            "roto_link": "https://www.rotowire.com/football/player/keenan-allen-8627/",
+            "fp_rank": 302,
+            "fp_pos_rank": 108
         },
         {
             "name": "Brashard Smith",
@@ -3665,8 +3569,20 @@
             "sleeper_rank": 182,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/brashard-smith-18529/",
-            "fp_rank": 439,
-            "fp_pos_rank": 91
+            "fp_rank": 331,
+            "fp_pos_rank": 71
+        },
+        {
+            "name": "Isaac Guerendo",
+            "position": "RB",
+            "team": "SF",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 678,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/isaac-guerendo-17947/",
+            "fp_rank": 337,
+            "fp_pos_rank": 74
         },
         {
             "name": "Devin Singletary",
@@ -3677,8 +3593,92 @@
             "sleeper_rank": 660,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4040761",
             "roto_link": "https://www.rotowire.com/football/player/devin-singletary-13449/",
-            "fp_rank": 454,
-            "fp_pos_rank": 93
+            "fp_rank": 343,
+            "fp_pos_rank": 76
+        },
+        {
+            "name": "Jordan James",
+            "position": "RB",
+            "team": "SF",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 222,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jordan-james-18485/",
+            "fp_rank": 345,
+            "fp_pos_rank": 77
+        },
+        {
+            "name": "Konata Mumpfield",
+            "position": "WR",
+            "team": "LAR",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 678,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/konata-mumpfield-17081/",
+            "fp_rank": 357,
+            "fp_pos_rank": 119
+        },
+        {
+            "name": "Najee Harris",
+            "position": "RB",
+            "team": "NYG",
+            "starter": "no",
+            "age": 28,
+            "sleeper_rank": 170,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/najee-harris-15468/",
+            "fp_rank": 358,
+            "fp_pos_rank": 82
+        },
+        {
+            "name": "Cole Payton",
+            "position": "QB",
+            "team": "PHI",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 474,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/cole-payton-19296/",
+            "fp_rank": 394,
+            "fp_pos_rank": 47
+        },
+        {
+            "name": "Marcus Mariota",
+            "position": "QB",
+            "team": "WAS",
+            "starter": "no",
+            "age": 32,
+            "sleeper_rank": 508,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/2576980",
+            "roto_link": "https://www.rotowire.com/football/player/marcus-mariota-10074/",
+            "fp_rank": 395,
+            "fp_pos_rank": 48
+        },
+        {
+            "name": "Garrett Nussmeier",
+            "position": "QB",
+            "team": "KC",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 515,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/garrett-nussmeier-19283/",
+            "fp_rank": 419,
+            "fp_pos_rank": 59
+        },
+        {
+            "name": "Jalen Tolbert",
+            "position": "WR",
+            "team": "MIA",
+            "starter": "no",
+            "age": 27,
+            "sleeper_rank": 617,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/jalen-tolbert-16010/",
+            "fp_rank": 455,
+            "fp_pos_rank": 141
         },
         {
             "name": "Darius Cooper",
@@ -3703,7 +3703,7 @@
             "sleeper_rank": 7,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/amonra-stbrown-15332/",
-            "fp_rank": 5,
+            "fp_rank": 4,
             "fp_pos_rank": 3
         },
         {
@@ -3719,18 +3719,6 @@
             "fp_pos_rank": 6
         },
         {
-            "name": "Lamar Jackson",
-            "position": "QB",
-            "team": "BAL",
-            "starter": "no",
-            "age": 29,
-            "sleeper_rank": 10,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3916387",
-            "roto_link": "https://www.rotowire.com/football/player/lamar-jackson-12561/",
-            "fp_rank": 28,
-            "fp_pos_rank": 2
-        },
-        {
             "name": "De'Von Achane",
             "position": "RB",
             "team": "MIA",
@@ -3739,8 +3727,20 @@
             "sleeper_rank": 8,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/devon-achane-16661/",
-            "fp_rank": 29,
+            "fp_rank": 26,
             "fp_pos_rank": 10
+        },
+        {
+            "name": "Lamar Jackson",
+            "position": "QB",
+            "team": "BAL",
+            "starter": "no",
+            "age": 29,
+            "sleeper_rank": 10,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3916387",
+            "roto_link": "https://www.rotowire.com/football/player/lamar-jackson-12561/",
+            "fp_rank": 29,
+            "fp_pos_rank": 2
         },
         {
             "name": "DeVonta Smith",
@@ -3755,18 +3755,6 @@
             "fp_pos_rank": 14
         },
         {
-            "name": "Zay Flowers",
-            "position": "WR",
-            "team": "BAL",
-            "starter": "yes",
-            "age": 26,
-            "sleeper_rank": 40,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/zay-flowers-16919/",
-            "fp_rank": 33,
-            "fp_pos_rank": 17
-        },
-        {
             "name": "Drake Maye",
             "position": "QB",
             "team": "NE",
@@ -3775,8 +3763,20 @@
             "sleeper_rank": 11,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/drake-maye-17673/",
-            "fp_rank": 35,
-            "fp_pos_rank": 4
+            "fp_rank": 34,
+            "fp_pos_rank": 3
+        },
+        {
+            "name": "Zay Flowers",
+            "position": "WR",
+            "team": "BAL",
+            "starter": "yes",
+            "age": 26,
+            "sleeper_rank": 40,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/zay-flowers-16919/",
+            "fp_rank": 41,
+            "fp_pos_rank": 20
         },
         {
             "name": "Travis Etienne",
@@ -3787,8 +3787,8 @@
             "sleeper_rank": 34,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/travis-etienne-15385/",
-            "fp_rank": 69,
-            "fp_pos_rank": 16
+            "fp_rank": 77,
+            "fp_pos_rank": 19
         },
         {
             "name": "DK Metcalf",
@@ -3799,32 +3799,8 @@
             "sleeper_rank": 73,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4047650",
             "roto_link": "https://www.rotowire.com/football/player/dk-metcalf-13424/",
-            "fp_rank": 77,
+            "fp_rank": 79,
             "fp_pos_rank": 32
-        },
-        {
-            "name": "George Kittle",
-            "position": "TE",
-            "team": "SF",
-            "starter": "yes",
-            "age": 32,
-            "sleeper_rank": 80,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/3040151",
-            "roto_link": "https://www.rotowire.com/football/player/george-kittle-11892/",
-            "fp_rank": 89,
-            "fp_pos_rank": 11
-        },
-        {
-            "name": "Bhayshul Tuten",
-            "position": "RB",
-            "team": "JAX",
-            "starter": "yes",
-            "age": 23,
-            "sleeper_rank": 44,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/bhayshul-tuten-18524/",
-            "fp_rank": 90,
-            "fp_pos_rank": 22
         },
         {
             "name": "Michael Wilson",
@@ -3835,20 +3811,32 @@
             "sleeper_rank": 75,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/michael-wilson-16957/",
-            "fp_rank": 105,
-            "fp_pos_rank": 41
+            "fp_rank": 96,
+            "fp_pos_rank": 39
         },
         {
-            "name": "Terrance Ferguson",
-            "position": "TE",
-            "team": "LAR",
-            "starter": "no",
+            "name": "Bhayshul Tuten",
+            "position": "RB",
+            "team": "JAX",
+            "starter": "yes",
             "age": 23,
-            "sleeper_rank": 141,
+            "sleeper_rank": 44,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/terrance-ferguson-18497/",
-            "fp_rank": 132,
-            "fp_pos_rank": 16
+            "roto_link": "https://www.rotowire.com/football/player/bhayshul-tuten-18524/",
+            "fp_rank": 98,
+            "fp_pos_rank": 23
+        },
+        {
+            "name": "George Kittle",
+            "position": "TE",
+            "team": "SF",
+            "starter": "yes",
+            "age": 33,
+            "sleeper_rank": 80,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/3040151",
+            "roto_link": "https://www.rotowire.com/football/player/george-kittle-11892/",
+            "fp_rank": 105,
+            "fp_pos_rank": 12
         },
         {
             "name": "Xavier Worthy",
@@ -3859,8 +3847,20 @@
             "sleeper_rank": 122,
             "espn_link": "https://www.espn.com/nfl/player/_/id/None",
             "roto_link": "https://www.rotowire.com/football/player/xavier-worthy-17687/",
-            "fp_rank": 133,
-            "fp_pos_rank": 52
+            "fp_rank": 112,
+            "fp_pos_rank": 45
+        },
+        {
+            "name": "Terrance Ferguson",
+            "position": "TE",
+            "team": "LAR",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 141,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/terrance-ferguson-18497/",
+            "fp_rank": 141,
+            "fp_pos_rank": 18
         },
         {
             "name": "Juwan Johnson",
@@ -3871,8 +3871,8 @@
             "sleeper_rank": 103,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3929645",
             "roto_link": "https://www.rotowire.com/football/player/juwan-johnson-14630/",
-            "fp_rank": 147,
-            "fp_pos_rank": 17
+            "fp_rank": 151,
+            "fp_pos_rank": 20
         },
         {
             "name": "J.K. Dobbins",
@@ -3883,56 +3883,8 @@
             "sleeper_rank": 68,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4241985",
             "roto_link": "https://www.rotowire.com/football/player/jk-dobbins-14418/",
-            "fp_rank": 181,
-            "fp_pos_rank": 40
-        },
-        {
-            "name": "Germie Bernard",
-            "position": "WR",
-            "team": "PIT",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 194,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/germie-bernard-19263/",
-            "fp_rank": 204,
-            "fp_pos_rank": 76
-        },
-        {
-            "name": "Oscar Delp",
-            "position": "TE",
-            "team": "NO",
-            "starter": "no",
-            "age": 23,
-            "sleeper_rank": 450,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/oscar-delp-18544/",
-            "fp_rank": 210,
-            "fp_pos_rank": 28
-        },
-        {
-            "name": "Nicholas Singleton",
-            "position": "RB",
-            "team": "TEN",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 167,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/nicholas-singleton-18518/",
-            "fp_rank": 222,
-            "fp_pos_rank": 50
-        },
-        {
-            "name": "Kaelon Black",
-            "position": "RB",
-            "team": "SF",
-            "starter": "no",
-            "age": 24,
-            "sleeper_rank": 161,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/kaelon-black-19607/",
-            "fp_rank": 244,
-            "fp_pos_rank": 58
+            "fp_rank": 201,
+            "fp_pos_rank": 42
         },
         {
             "name": "Jacoby Brissett",
@@ -3943,8 +3895,56 @@
             "sleeper_rank": 203,
             "espn_link": "https://www.espn.com/nfl/player/_/id/2578570",
             "roto_link": "https://www.rotowire.com/football/player/jacoby-brissett-10919/",
-            "fp_rank": 246,
-            "fp_pos_rank": 32
+            "fp_rank": 213,
+            "fp_pos_rank": 31
+        },
+        {
+            "name": "Germie Bernard",
+            "position": "WR",
+            "team": "PIT",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 194,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/germie-bernard-19263/",
+            "fp_rank": 214,
+            "fp_pos_rank": 80
+        },
+        {
+            "name": "Kaelon Black",
+            "position": "RB",
+            "team": "SF",
+            "starter": "no",
+            "age": 24,
+            "sleeper_rank": 161,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/kaelon-black-19607/",
+            "fp_rank": 221,
+            "fp_pos_rank": 48
+        },
+        {
+            "name": "Nicholas Singleton",
+            "position": "RB",
+            "team": "TEN",
+            "starter": "no",
+            "age": 22,
+            "sleeper_rank": 167,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/nicholas-singleton-18518/",
+            "fp_rank": 227,
+            "fp_pos_rank": 51
+        },
+        {
+            "name": "Oscar Delp",
+            "position": "TE",
+            "team": "NO",
+            "starter": "no",
+            "age": 23,
+            "sleeper_rank": 450,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/oscar-delp-18544/",
+            "fp_rank": 257,
+            "fp_pos_rank": 35
         },
         {
             "name": "David Njoku",
@@ -3955,32 +3955,8 @@
             "sleeper_rank": 131,
             "espn_link": "https://www.espn.com/nfl/player/_/id/3123076",
             "roto_link": "https://www.rotowire.com/football/player/david-njoku-11734/",
-            "fp_rank": 279,
+            "fp_rank": 274,
             "fp_pos_rank": 37
-        },
-        {
-            "name": "Drew Allar",
-            "position": "QB",
-            "team": "PIT",
-            "starter": "no",
-            "age": 22,
-            "sleeper_rank": 359,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/drew-allar-19286/",
-            "fp_rank": 329,
-            "fp_pos_rank": 47
-        },
-        {
-            "name": "Joshua Palmer",
-            "position": "WR",
-            "team": "BUF",
-            "starter": "no",
-            "age": 27,
-            "sleeper_rank": 624,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
-            "roto_link": "https://www.rotowire.com/football/player/joshua-palmer-15447/",
-            "fp_rank": 371,
-            "fp_pos_rank": 123
         },
         {
             "name": "Mack Hollins",
@@ -3991,8 +3967,20 @@
             "sleeper_rank": 697,
             "espn_link": "https://www.espn.com/nfl/player/_/id/2991662",
             "roto_link": "https://www.rotowire.com/football/player/mack-hollins-11861/",
-            "fp_rank": 386,
-            "fp_pos_rank": 125
+            "fp_rank": 335,
+            "fp_pos_rank": 115
+        },
+        {
+            "name": "Joshua Palmer",
+            "position": "WR",
+            "team": "BUF",
+            "starter": "no",
+            "age": 27,
+            "sleeper_rank": 624,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/joshua-palmer-15447/",
+            "fp_rank": 356,
+            "fp_pos_rank": 118
         },
         {
             "name": "Justice Hill",
@@ -4003,20 +3991,32 @@
             "sleeper_rank": 222,
             "espn_link": "https://www.espn.com/nfl/player/_/id/4038441",
             "roto_link": "https://www.rotowire.com/football/player/justice-hill-13427/",
-            "fp_rank": 458,
-            "fp_pos_rank": 95
+            "fp_rank": 365,
+            "fp_pos_rank": 84
         },
         {
-            "name": "Zach Ertz",
-            "position": "TE",
-            "team": "PHI",
+            "name": "Drew Allar",
+            "position": "QB",
+            "team": "PIT",
             "starter": "no",
-            "age": 35,
-            "sleeper_rank": 646,
-            "espn_link": "https://www.espn.com/nfl/player/_/id/15835",
-            "roto_link": "https://www.rotowire.com/football/player/zach-ertz-8781/",
-            "fp_rank": 459,
-            "fp_pos_rank": 60
+            "age": 22,
+            "sleeper_rank": 359,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/drew-allar-19286/",
+            "fp_rank": 396,
+            "fp_pos_rank": 49
+        },
+        {
+            "name": "Treylon Burks",
+            "position": "WR",
+            "team": "WAS",
+            "starter": "no",
+            "age": 26,
+            "sleeper_rank": 679,
+            "espn_link": "https://www.espn.com/nfl/player/_/id/None",
+            "roto_link": "https://www.rotowire.com/football/player/treylon-burks-15896/",
+            "fp_rank": 463,
+            "fp_pos_rank": 145
         },
         {
             "name": "Mitch Tinsley",
