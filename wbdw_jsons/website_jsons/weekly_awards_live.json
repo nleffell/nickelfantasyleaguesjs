@@ -15,10 +15,7 @@
             "Malik Washington",
             "Trey McBride"
         ],
-        "in_play": [
-            "Dak Prescott",
-            "Jake Ferguson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -35,11 +32,7 @@
             "Kyle Pitts",
             "Michael Mayer"
         ],
-        "in_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -58,9 +51,7 @@
             "Mike Gesicki",
             "TreVeyon Henderson"
         ],
-        "in_play": [
-            "Bucky Irving"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -78,10 +69,7 @@
             "Pat Freiermuth",
             "AJ Barner"
         ],
-        "in_play": [
-            "Javonte Williams",
-            "Chris Godwin"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -100,9 +88,7 @@
             "Deebo Samuel",
             "Khalil Shakir"
         ],
-        "in_play": [
-            "CeeDee Lamb"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
