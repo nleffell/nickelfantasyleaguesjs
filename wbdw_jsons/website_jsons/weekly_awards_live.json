@@ -6,58 +6,61 @@
         "rushing_yards": 0,
         "total_yards": 37,
         "yet_to_play": [
-            "Dak Prescott",
             "Rhamondre Stevenson",
             "Cam Skattebo",
             "KC Concepcion",
             "Denzel Boston",
             "Wan'Dale Robinson",
-            "Jake Ferguson",
             "Keon Coleman",
             "Malik Washington",
             "Trey McBride"
         ],
-        "in_play": []
+        "in_play": [
+            "Dak Prescott",
+            "Jake Ferguson"
+        ]
     },
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 8,
-        "rushing_yards": 26,
-        "total_yards": 34,
+        "rushing_yards": 29,
+        "total_yards": 37,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
-            "Javonte Williams",
             "Jaxon Smith-Njigba",
-            "Chris Godwin",
             "Jameson Williams",
             "Brock Bowers",
             "D'Andre Swift",
             "Pat Freiermuth",
             "AJ Barner"
         ],
-        "in_play": []
+        "in_play": [
+            "Javonte Williams",
+            "Chris Godwin"
+        ]
     },
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 29,
+        "receiving_yards": 32,
         "rushing_yards": 0,
-        "total_yards": 29,
+        "total_yards": 32,
         "yet_to_play": [
             "Joe Burrow",
             "Braelon Allen",
             "Ollie Gordon",
             "Malik Nabers",
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton",
             "Will Shipley",
             "Kyle Pitts",
             "Michael Mayer"
         ],
-        "in_play": []
+        "in_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -129,7 +132,6 @@
             "Josh Allen",
             "Quinshon Judkins",
             "Jaylen Warren",
-            "CeeDee Lamb",
             "Stefon Diggs",
             "Puka Nacua",
             "Colston Loveland",
@@ -137,7 +139,9 @@
             "Deebo Samuel",
             "Khalil Shakir"
         ],
-        "in_play": []
+        "in_play": [
+            "CeeDee Lamb"
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -207,7 +211,6 @@
         "total_yards": 0,
         "yet_to_play": [
             "Brock Purdy",
-            "Bucky Irving",
             "Aaron Jones",
             "Kalif Raymond",
             "Tee Higgins",
@@ -217,7 +220,9 @@
             "Mike Gesicki",
             "TreVeyon Henderson"
         ],
-        "in_play": []
+        "in_play": [
+            "Bucky Irving"
+        ]
     },
     {
         "owner": "Tyler Smith",
