@@ -1,10 +1,10 @@
 [
     {
         "owner": "Jon Knicely",
-        "passing_yards": 210,
+        "passing_yards": 255,
         "receiving_yards": 13,
         "rushing_yards": 0,
-        "total_yards": 223,
+        "total_yards": 268,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Cam Skattebo",
@@ -23,9 +23,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 139,
+        "receiving_yards": 176,
         "rushing_yards": 14,
-        "total_yards": 153,
+        "total_yards": 190,
         "yet_to_play": [
             "Joe Burrow",
             "Braelon Allen",
@@ -66,8 +66,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 54,
-        "rushing_yards": 42,
-        "total_yards": 96,
+        "rushing_yards": 46,
+        "total_yards": 100,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
