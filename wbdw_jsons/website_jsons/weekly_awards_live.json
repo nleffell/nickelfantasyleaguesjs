@@ -21,6 +21,27 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 123,
+        "rushing_yards": 14,
+        "total_yards": 137,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Will Shipley",
+            "Kyle Pitts",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 5,
@@ -39,27 +60,6 @@
         ],
         "in_play": [
             "Bucky Irving"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 92,
-        "rushing_yards": 14,
-        "total_yards": 106,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Will Shipley",
-            "Kyle Pitts",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
         ]
     },
     {
