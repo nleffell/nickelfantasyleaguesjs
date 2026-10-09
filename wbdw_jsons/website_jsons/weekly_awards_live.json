@@ -21,6 +21,27 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 5,
+        "rushing_yards": 107,
+        "total_yards": 112,
+        "yet_to_play": [
+            "Brock Purdy",
+            "Aaron Jones",
+            "Kalif Raymond",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Kenyon Sadiq",
+            "Kendrick Bourne",
+            "Mike Gesicki",
+            "TreVeyon Henderson"
+        ],
+        "in_play": [
+            "Bucky Irving"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 54,
@@ -45,8 +66,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 65,
-        "rushing_yards": 0,
-        "total_yards": 65,
+        "rushing_yards": 14,
+        "total_yards": 79,
         "yet_to_play": [
             "Joe Burrow",
             "Braelon Allen",
@@ -60,27 +81,6 @@
             "George Pickens",
             "Emeka Egbuka",
             "Cade Otton"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 5,
-        "rushing_yards": 35,
-        "total_yards": 40,
-        "yet_to_play": [
-            "Brock Purdy",
-            "Aaron Jones",
-            "Kalif Raymond",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Kenyon Sadiq",
-            "Kendrick Bourne",
-            "Mike Gesicki",
-            "TreVeyon Henderson"
-        ],
-        "in_play": [
-            "Bucky Irving"
         ]
     },
     {
