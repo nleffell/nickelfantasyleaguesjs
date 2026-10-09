@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 49,
+        "rushing_yards": 0,
+        "total_yards": 49,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Will Shipley",
+            "Kyle Pitts",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 37,
         "receiving_yards": 0,
@@ -42,24 +63,24 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
+        "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 32,
-        "rushing_yards": 0,
-        "total_yards": 32,
+        "receiving_yards": 0,
+        "rushing_yards": 4,
+        "total_yards": 4,
         "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Will Shipley",
-            "Kyle Pitts",
-            "Michael Mayer"
+            "Brock Purdy",
+            "Aaron Jones",
+            "Kalif Raymond",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Kenyon Sadiq",
+            "Kendrick Bourne",
+            "Mike Gesicki",
+            "TreVeyon Henderson"
         ],
         "in_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
+            "Bucky Irving"
         ]
     },
     {
@@ -202,27 +223,6 @@
             "Tre Tucker"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Brock Purdy",
-            "Aaron Jones",
-            "Kalif Raymond",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Kenyon Sadiq",
-            "Kendrick Bourne",
-            "Mike Gesicki",
-            "TreVeyon Henderson"
-        ],
-        "in_play": [
-            "Bucky Irving"
-        ]
     },
     {
         "owner": "Tyler Smith",
