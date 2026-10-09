@@ -1,10 +1,10 @@
 [
     {
         "owner": "Jon Knicely",
-        "passing_yards": 114,
+        "passing_yards": 155,
         "receiving_yards": 2,
         "rushing_yards": 0,
-        "total_yards": 116,
+        "total_yards": 157,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Cam Skattebo",
@@ -42,6 +42,27 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 92,
+        "rushing_yards": 14,
+        "total_yards": 106,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Will Shipley",
+            "Kyle Pitts",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "George Pickens",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 54,
@@ -63,32 +84,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 65,
-        "rushing_yards": 14,
-        "total_yards": 79,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Will Shipley",
-            "Kyle Pitts",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "George Pickens",
-            "Emeka Egbuka",
-            "Cade Otton"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 4,
+        "receiving_yards": 9,
         "rushing_yards": 0,
-        "total_yards": 4,
+        "total_yards": 9,
         "yet_to_play": [
             "Josh Allen",
             "Quinshon Judkins",
