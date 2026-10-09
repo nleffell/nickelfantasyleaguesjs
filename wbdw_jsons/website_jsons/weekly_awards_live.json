@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 35,
+        "rushing_yards": 35,
+        "total_yards": 70,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Jaxon Smith-Njigba",
+            "Jameson Williams",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Pat Freiermuth",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Javonte Williams",
+            "Chris Godwin"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 58,
@@ -21,32 +42,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 26,
-        "rushing_yards": 32,
-        "total_yards": 58,
-        "yet_to_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Pat Freiermuth",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Javonte Williams",
-            "Chris Godwin"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
-        "passing_yards": 46,
+        "passing_yards": 55,
         "receiving_yards": 2,
         "rushing_yards": 0,
-        "total_yards": 48,
+        "total_yards": 57,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Cam Skattebo",
