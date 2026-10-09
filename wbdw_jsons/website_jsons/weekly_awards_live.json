@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 114,
+        "receiving_yards": 2,
+        "rushing_yards": 0,
+        "total_yards": 116,
+        "yet_to_play": [
+            "Rhamondre Stevenson",
+            "Cam Skattebo",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Keon Coleman",
+            "Malik Washington",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Dak Prescott",
+            "Jake Ferguson"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 35,
@@ -23,9 +44,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 58,
+        "receiving_yards": 65,
         "rushing_yards": 0,
-        "total_yards": 58,
+        "total_yards": 65,
         "yet_to_play": [
             "Joe Burrow",
             "Braelon Allen",
@@ -39,27 +60,6 @@
             "George Pickens",
             "Emeka Egbuka",
             "Cade Otton"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 55,
-        "receiving_yards": 2,
-        "rushing_yards": 0,
-        "total_yards": 57,
-        "yet_to_play": [
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Keon Coleman",
-            "Malik Washington",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Dak Prescott",
-            "Jake Ferguson"
         ]
     },
     {
@@ -81,6 +81,27 @@
         ],
         "in_play": [
             "Bucky Irving"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 4,
+        "rushing_yards": 0,
+        "total_yards": 4,
+        "yet_to_play": [
+            "Josh Allen",
+            "Quinshon Judkins",
+            "Jaylen Warren",
+            "Stefon Diggs",
+            "Puka Nacua",
+            "Colston Loveland",
+            "David Montgomery",
+            "Deebo Samuel",
+            "Khalil Shakir"
+        ],
+        "in_play": [
+            "CeeDee Lamb"
         ]
     },
     {
@@ -142,27 +163,6 @@
             "Tyler Higbee"
         ],
         "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Josh Allen",
-            "Quinshon Judkins",
-            "Jaylen Warren",
-            "Stefon Diggs",
-            "Puka Nacua",
-            "Colston Loveland",
-            "David Montgomery",
-            "Deebo Samuel",
-            "Khalil Shakir"
-        ],
-        "in_play": [
-            "CeeDee Lamb"
-        ]
     },
     {
         "owner": "Brian Fuquay",
