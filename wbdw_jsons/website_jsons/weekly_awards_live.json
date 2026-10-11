@@ -57,9 +57,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 160,
-        "receiving_yards": 95,
+        "receiving_yards": 110,
         "rushing_yards": 101,
-        "total_yards": 356,
+        "total_yards": 371,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -78,8 +78,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 94,
-        "rushing_yards": 223,
-        "total_yards": 317,
+        "rushing_yards": 221,
+        "total_yards": 315,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -91,6 +91,26 @@
             "Kenyon Sadiq",
             "Mike Gesicki",
             "TreVeyon Henderson"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 140,
+        "receiving_yards": 107,
+        "rushing_yards": 38,
+        "total_yards": 285,
+        "yet_to_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore",
+            "Courtland Sutton"
+        ],
+        "in_play": [
+            "Jordan Love",
+            "Isaiah Likely",
+            "Tony Pollard",
+            "Dalton Schultz"
         ]
     },
     {
@@ -113,23 +133,24 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 109,
-        "receiving_yards": 107,
-        "rushing_yards": 38,
-        "total_yards": 254,
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 155,
+        "rushing_yards": 17,
+        "total_yards": 172,
         "yet_to_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore",
-            "Courtland Sutton"
+            "Justin Herbert",
+            "RJ Harvey",
+            "Ladd McConkey",
+            "Dalton Kincaid"
         ],
         "in_play": [
-            "Jordan Love",
-            "Isaiah Likely",
-            "Tony Pollard",
-            "Dalton Schultz"
+            "Ashton Jeanty",
+            "Romeo Doubs",
+            "Matthew Golden",
+            "Christian Watson",
+            "Tyler Warren",
+            "Chris Olave"
         ]
     },
     {
@@ -170,27 +191,6 @@
             "Devaughn Vele",
             "Harold Fannin",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 124,
-        "rushing_yards": 17,
-        "total_yards": 141,
-        "yet_to_play": [
-            "Justin Herbert",
-            "RJ Harvey",
-            "Ladd McConkey",
-            "Dalton Kincaid"
-        ],
-        "in_play": [
-            "Ashton Jeanty",
-            "Romeo Doubs",
-            "Matthew Golden",
-            "Christian Watson",
-            "Tyler Warren",
-            "Chris Olave"
         ]
     },
     {
