@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 38,
+        "receiving_yards": 83,
         "rushing_yards": 25,
-        "total_yards": 394,
+        "total_yards": 439,
         "yet_to_play": [
             "Bijan Robinson",
             "Emanuel Wilson",
@@ -14,7 +14,6 @@
             "Jaylen Waddle"
         ],
         "in_play": [
-            "Trevor Lawrence",
             "Nico Collins",
             "Garrett Wilson",
             "Ja'Marr Chase"
@@ -24,8 +23,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 19,
-        "rushing_yards": 4,
-        "total_yards": 339,
+        "rushing_yards": 27,
+        "total_yards": 362,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -43,15 +42,14 @@
         "owner": "Nick Leffell",
         "passing_yards": 10,
         "receiving_yards": 200,
-        "rushing_yards": 29,
-        "total_yards": 239,
+        "rushing_yards": 67,
+        "total_yards": 277,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
             "Braelon Allen",
             "Ollie Gordon",
             "Malik Nabers",
-            "Will Shipley",
             "Isaiah Williams",
             "Chris Bell"
         ]
@@ -71,9 +69,28 @@
             "Kalif Raymond",
             "Tee Higgins",
             "Kenyon Sadiq",
-            "Dallas Goedert",
             "Mike Gesicki",
             "TreVeyon Henderson"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 51,
+        "receiving_yards": 24,
+        "rushing_yards": 72,
+        "total_yards": 147,
+        "yet_to_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Zay Flowers",
+            "Amon-Ra St. Brown"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Justin Jefferson",
+            "DK Metcalf",
+            "Juwan Johnson"
         ]
     },
     {
@@ -91,7 +108,6 @@
         ],
         "in_play": [
             "Carnell Tate",
-            "Parker Washington",
             "Devaughn Vele",
             "Harold Fannin",
             "Tre Tucker"
@@ -117,24 +133,23 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 16,
-        "receiving_yards": 24,
-        "rushing_yards": 72,
-        "total_yards": 112,
+        "owner": "Tyler Smith",
+        "passing_yards": 25,
+        "receiving_yards": 52,
+        "rushing_yards": 29,
+        "total_yards": 106,
         "yet_to_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Zay Flowers",
-            "Amon-Ra St. Brown"
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore",
+            "Courtland Sutton"
         ],
         "in_play": [
-            "Drake Maye",
-            "Bhayshul Tuten",
-            "Justin Jefferson",
-            "DK Metcalf",
-            "Juwan Johnson"
+            "Jordan Love",
+            "Isaiah Likely",
+            "Tony Pollard",
+            "Dalton Schultz"
         ]
     },
     {
@@ -152,39 +167,17 @@
             "Tyson Bagent",
             "Mike Washington",
             "Luther Burden",
-            "Dontayvion Wicks",
             "T.J. Hockenson",
             "Alvin Kamara",
             "Kaleb Johnson"
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 13,
-        "receiving_yards": 37,
-        "rushing_yards": 23,
-        "total_yards": 73,
-        "yet_to_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore",
-            "Courtland Sutton"
-        ],
-        "in_play": [
-            "Jordan Love",
-            "Jakobi Meyers",
-            "Isaiah Likely",
-            "Tony Pollard",
-            "Dalton Schultz"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 28,
+        "receiving_yards": 42,
         "rushing_yards": 4,
-        "total_yards": 32,
+        "total_yards": 46,
         "yet_to_play": [
             "Justin Herbert",
             "RJ Harvey",
@@ -204,8 +197,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 19,
-        "rushing_yards": 5,
-        "total_yards": 24,
+        "rushing_yards": 4,
+        "total_yards": 23,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
@@ -217,7 +210,6 @@
             "Josh Downs",
             "Rome Odunze",
             "Tucker Kraft",
-            "Brian Thomas",
             "Chase Brown"
         ]
     },
