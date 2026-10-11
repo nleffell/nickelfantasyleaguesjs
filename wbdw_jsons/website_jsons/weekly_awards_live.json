@@ -27,9 +27,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 261,
-        "rushing_yards": 38,
-        "total_yards": 630,
+        "receiving_yards": 270,
+        "rushing_yards": 39,
+        "total_yards": 640,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -43,10 +43,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 382,
+        "passing_yards": 381,
         "receiving_yards": 142,
         "rushing_yards": 102,
-        "total_yards": 626,
+        "total_yards": 625,
         "yet_to_play": [
             "Zay Flowers"
         ],
@@ -61,8 +61,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 367,
         "receiving_yards": 161,
-        "rushing_yards": 69,
-        "total_yards": 597,
+        "rushing_yards": 70,
+        "total_yards": 598,
         "yet_to_play": [
             "Derrick Henry",
             "Davante Adams",
@@ -104,9 +104,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 251,
+        "receiving_yards": 256,
         "rushing_yards": 98,
-        "total_yards": 349,
+        "total_yards": 354,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -119,10 +119,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 0,
+        "passing_yards": 5,
         "receiving_yards": 215,
         "rushing_yards": 86,
-        "total_yards": 301,
+        "total_yards": 306,
         "yet_to_play": [
             "James Cook",
             "Drake London"
@@ -151,9 +151,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 87,
-        "receiving_yards": 116,
+        "receiving_yards": 122,
         "rushing_yards": 69,
-        "total_yards": 272,
+        "total_yards": 278,
         "yet_to_play": [
             "Tyler Higbee"
         ],
@@ -164,10 +164,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 5,
+        "passing_yards": 21,
         "receiving_yards": 201,
-        "rushing_yards": 2,
-        "total_yards": 208,
+        "rushing_yards": 3,
+        "total_yards": 225,
         "yet_to_play": [
             "Blake Corum"
         ],
