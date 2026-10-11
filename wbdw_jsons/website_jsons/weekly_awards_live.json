@@ -57,9 +57,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 81,
+        "receiving_yards": 93,
         "rushing_yards": 223,
-        "total_yards": 304,
+        "total_yards": 316,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -75,10 +75,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 96,
+        "passing_yards": 108,
         "receiving_yards": 51,
         "rushing_yards": 101,
-        "total_yards": 248,
+        "total_yards": 260,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -133,31 +133,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 138,
-        "rushing_yards": 5,
-        "total_yards": 143,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Sam LaPorta"
-        ],
-        "in_play": [
-            "Carnell Tate",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Tre Tucker"
-        ]
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 42,
-        "receiving_yards": 77,
-        "rushing_yards": 22,
-        "total_yards": 141,
+        "passing_yards": 48,
+        "receiving_yards": 83,
+        "rushing_yards": 29,
+        "total_yards": 160,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
@@ -170,6 +150,26 @@
             "T.J. Hockenson",
             "Alvin Kamara",
             "Kaleb Johnson"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 148,
+        "rushing_yards": 5,
+        "total_yards": 153,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Sam LaPorta"
+        ],
+        "in_play": [
+            "Carnell Tate",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Tre Tucker"
         ]
     },
     {
