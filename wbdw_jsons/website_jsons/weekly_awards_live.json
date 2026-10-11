@@ -3,8 +3,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 190,
         "receiving_yards": 303,
-        "rushing_yards": 265,
-        "total_yards": 758,
+        "rushing_yards": 263,
+        "total_yards": 756,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -36,9 +36,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 374,
-        "receiving_yards": 131,
+        "receiving_yards": 134,
         "rushing_yards": 99,
-        "total_yards": 604,
+        "total_yards": 607,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -54,9 +54,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 237,
+        "receiving_yards": 246,
         "rushing_yards": 25,
-        "total_yards": 593,
+        "total_yards": 602,
         "yet_to_play": [
             "Bijan Robinson",
             "Emanuel Wilson",
