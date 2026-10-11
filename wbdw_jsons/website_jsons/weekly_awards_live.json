@@ -25,8 +25,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 270,
-        "rushing_yards": 55,
-        "total_yards": 656,
+        "rushing_yards": 60,
+        "total_yards": 661,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -41,8 +41,8 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 381,
-        "receiving_yards": 143,
-        "rushing_yards": 124,
+        "receiving_yards": 146,
+        "rushing_yards": 121,
         "total_yards": 648,
         "yet_to_play": [
             "Zay Flowers"
@@ -88,9 +88,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 331,
+        "receiving_yards": 339,
         "rushing_yards": 166,
-        "total_yards": 497,
+        "total_yards": 505,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -115,10 +115,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 102,
+        "passing_yards": 113,
         "receiving_yards": 209,
         "rushing_yards": 86,
-        "total_yards": 397,
+        "total_yards": 408,
         "yet_to_play": [
             "James Cook",
             "Drake London"
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 79,
+        "passing_yards": 78,
         "receiving_yards": 284,
         "rushing_yards": 17,
-        "total_yards": 380,
+        "total_yards": 379,
         "yet_to_play": [
             "Blake Corum"
         ],
