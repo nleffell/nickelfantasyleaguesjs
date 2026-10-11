@@ -11,9 +11,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 381,
-        "receiving_yards": 233,
+        "receiving_yards": 238,
         "rushing_yards": 139,
-        "total_yards": 753,
+        "total_yards": 758,
         "yet_to_play": [
             "Zay Flowers"
         ],
@@ -27,9 +27,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 305,
+        "receiving_yards": 320,
         "rushing_yards": 92,
-        "total_yards": 728,
+        "total_yards": 743,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -55,27 +55,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 367,
-        "receiving_yards": 187,
-        "rushing_yards": 101,
-        "total_yards": 655,
-        "yet_to_play": [
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Courtland Sutton"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 428,
-        "rushing_yards": 219,
-        "total_yards": 647,
+        "rushing_yards": 238,
+        "total_yards": 666,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -84,6 +68,22 @@
             "Jaxon Smith-Njigba",
             "Jameson Williams",
             "AJ Barner"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 367,
+        "receiving_yards": 187,
+        "rushing_yards": 105,
+        "total_yards": 659,
+        "yet_to_play": [
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Courtland Sutton"
         ]
     },
     {
@@ -103,10 +103,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 93,
+        "passing_yards": 113,
         "receiving_yards": 165,
-        "rushing_yards": 300,
-        "total_yards": 558,
+        "rushing_yards": 302,
+        "total_yards": 580,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -148,8 +148,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 157,
-        "rushing_yards": 168,
-        "total_yards": 325,
+        "rushing_yards": 172,
+        "total_yards": 329,
         "yet_to_play": [
             "Josh Allen",
             "Puka Nacua",
