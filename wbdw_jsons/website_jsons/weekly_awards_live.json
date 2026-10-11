@@ -40,10 +40,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 57,
+        "passing_yards": 69,
         "receiving_yards": 227,
-        "rushing_yards": 99,
-        "total_yards": 383,
+        "rushing_yards": 110,
+        "total_yards": 406,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -57,9 +57,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 93,
+        "receiving_yards": 94,
         "rushing_yards": 223,
-        "total_yards": 316,
+        "total_yards": 317,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -94,11 +94,30 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 148,
+        "rushing_yards": 83,
+        "total_yards": 231,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Jaxon Smith-Njigba",
+            "Jameson Williams",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Efton Chism"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 100,
         "receiving_yards": 86,
-        "rushing_yards": 35,
-        "total_yards": 221,
+        "rushing_yards": 38,
+        "total_yards": 224,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -114,22 +133,23 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
+        "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 130,
-        "rushing_yards": 82,
-        "total_yards": 212,
+        "receiving_yards": 168,
+        "rushing_yards": 5,
+        "total_yards": 173,
         "yet_to_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "AJ Barner"
+            "Sam Darnold",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Sam LaPorta"
         ],
         "in_play": [
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Efton Chism"
+            "Carnell Tate",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Tre Tucker"
         ]
     },
     {
@@ -153,31 +173,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 148,
-        "rushing_yards": 5,
-        "total_yards": 153,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Sam LaPorta"
-        ],
-        "in_play": [
-            "Carnell Tate",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Tre Tucker"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 115,
-        "rushing_yards": 12,
-        "total_yards": 127,
+        "rushing_yards": 14,
+        "total_yards": 129,
         "yet_to_play": [
             "Justin Herbert",
             "RJ Harvey",
@@ -216,9 +216,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 61,
+        "receiving_yards": 73,
         "rushing_yards": 22,
-        "total_yards": 83,
+        "total_yards": 95,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
