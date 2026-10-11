@@ -44,9 +44,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 248,
+        "receiving_yards": 255,
         "rushing_yards": 141,
-        "total_yards": 705,
+        "total_yards": 712,
         "yet_to_play": [
             "Keon Coleman"
         ],
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 96,
+        "passing_yards": 99,
         "receiving_yards": 461,
         "rushing_yards": 89,
-        "total_yards": 646,
+        "total_yards": 649,
         "yet_to_play": [
             "Dalton Kincaid"
         ],
@@ -147,9 +147,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 157,
+        "receiving_yards": 160,
         "rushing_yards": 171,
-        "total_yards": 328,
+        "total_yards": 331,
         "yet_to_play": [
             "Josh Allen",
             "Puka Nacua",
