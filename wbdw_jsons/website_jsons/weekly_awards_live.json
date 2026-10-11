@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 190,
-        "receiving_yards": 270,
-        "rushing_yards": 244,
-        "total_yards": 704,
+        "receiving_yards": 286,
+        "rushing_yards": 263,
+        "total_yards": 739,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -16,29 +16,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 374,
-        "receiving_yards": 131,
-        "rushing_yards": 101,
-        "total_yards": 606,
-        "yet_to_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Zay Flowers",
-            "Amon-Ra St. Brown"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "DK Metcalf"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 182,
-        "rushing_yards": 105,
-        "total_yards": 603,
+        "rushing_yards": 109,
+        "total_yards": 607,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -49,6 +31,24 @@
             "Roman Wilson",
             "Denzel Boston",
             "Malik Washington"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 374,
+        "receiving_yards": 131,
+        "rushing_yards": 100,
+        "total_yards": 605,
+        "yet_to_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Zay Flowers",
+            "Amon-Ra St. Brown"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "DK Metcalf"
         ]
     },
     {
@@ -169,8 +169,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 121,
-        "rushing_yards": 145,
-        "total_yards": 266,
+        "rushing_yards": 151,
+        "total_yards": 272,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
