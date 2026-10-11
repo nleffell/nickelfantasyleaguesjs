@@ -22,6 +22,22 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 381,
+        "receiving_yards": 142,
+        "rushing_yards": 118,
+        "total_yards": 641,
+        "yet_to_play": [
+            "Zay Flowers"
+        ],
+        "in_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Amon-Ra St. Brown"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 270,
@@ -36,22 +52,6 @@
             "Emanuel Wilson",
             "Mike Evans",
             "Jaylen Waddle"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 381,
-        "receiving_yards": 142,
-        "rushing_yards": 103,
-        "total_yards": 626,
-        "yet_to_play": [
-            "Zay Flowers"
-        ],
-        "in_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Amon-Ra St. Brown"
         ]
     },
     {
@@ -100,9 +100,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 258,
+        "receiving_yards": 296,
         "rushing_yards": 98,
-        "total_yards": 356,
+        "total_yards": 394,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -145,6 +145,22 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 59,
+        "receiving_yards": 223,
+        "rushing_yards": 12,
+        "total_yards": 294,
+        "yet_to_play": [
+            "Blake Corum"
+        ],
+        "in_play": [
+            "Sam Darnold",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Sam LaPorta"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 87,
         "receiving_yards": 122,
@@ -156,22 +172,6 @@
         "in_play": [
             "Jeremiyah Love",
             "Cooper Kupp"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 21,
-        "receiving_yards": 223,
-        "rushing_yards": 12,
-        "total_yards": 256,
-        "yet_to_play": [
-            "Blake Corum"
-        ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Sam LaPorta"
         ]
     }
 ]
