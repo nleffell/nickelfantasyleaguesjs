@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 190,
-        "receiving_yards": 303,
+        "receiving_yards": 311,
         "rushing_yards": 263,
-        "total_yards": 756,
+        "total_yards": 764,
         "yet_to_play": [],
         "in_play": [
             "Malik Nabers"
@@ -14,14 +14,31 @@
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 206,
-        "rushing_yards": 108,
-        "total_yards": 630,
+        "rushing_yards": 126,
+        "total_yards": 648,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
         ],
         "in_play": [
             "Cam Skattebo"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 331,
+        "receiving_yards": 261,
+        "rushing_yards": 32,
+        "total_yards": 624,
+        "yet_to_play": [
+            "Bijan Robinson",
+            "Mark Andrews",
+            "Kyren Williams"
+        ],
+        "in_play": [
+            "Emanuel Wilson",
+            "Mike Evans",
+            "Jaylen Waddle"
         ]
     },
     {
@@ -41,28 +58,11 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 331,
-        "receiving_yards": 246,
-        "rushing_yards": 32,
-        "total_yards": 609,
-        "yet_to_play": [
-            "Bijan Robinson",
-            "Mark Andrews",
-            "Kyren Williams"
-        ],
-        "in_play": [
-            "Emanuel Wilson",
-            "Mike Evans",
-            "Jaylen Waddle"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 367,
         "receiving_yards": 161,
-        "rushing_yards": 66,
-        "total_yards": 594,
+        "rushing_yards": 69,
+        "total_yards": 597,
         "yet_to_play": [
             "Derrick Henry",
             "Davante Adams",
@@ -91,10 +91,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 0,
+        "passing_yards": 15,
         "receiving_yards": 103,
         "rushing_yards": 298,
-        "total_yards": 401,
+        "total_yards": 416,
         "yet_to_play": [
             "Kendrick Bourne"
         ],
@@ -106,8 +106,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 251,
-        "rushing_yards": 97,
-        "total_yards": 348,
+        "rushing_yards": 98,
+        "total_yards": 349,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -153,8 +153,8 @@
         "owner": "Chad Hill",
         "passing_yards": 87,
         "receiving_yards": 116,
-        "rushing_yards": 61,
-        "total_yards": 264,
+        "rushing_yards": 65,
+        "total_yards": 268,
         "yet_to_play": [
             "Jeremiyah Love",
             "Tyler Higbee"
