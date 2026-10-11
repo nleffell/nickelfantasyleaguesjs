@@ -3,8 +3,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 190,
         "receiving_yards": 261,
-        "rushing_yards": 221,
-        "total_yards": 672,
+        "rushing_yards": 244,
+        "total_yards": 695,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -13,6 +13,26 @@
             "Malik Nabers",
             "Isaiah Williams",
             "Chris Bell"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 374,
+        "receiving_yards": 131,
+        "rushing_yards": 104,
+        "total_yards": 609,
+        "yet_to_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Zay Flowers",
+            "Amon-Ra St. Brown"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Justin Jefferson",
+            "DK Metcalf",
+            "Juwan Johnson"
         ]
     },
     {
@@ -55,31 +75,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 359,
-        "receiving_yards": 131,
-        "rushing_yards": 101,
-        "total_yards": 591,
-        "yet_to_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Zay Flowers",
-            "Amon-Ra St. Brown"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "Justin Jefferson",
-            "DK Metcalf",
-            "Juwan Johnson"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 367,
-        "receiving_yards": 136,
+        "receiving_yards": 153,
         "rushing_yards": 58,
-        "total_yards": 561,
+        "total_yards": 578,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -177,8 +177,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 121,
-        "rushing_yards": 139,
-        "total_yards": 260,
+        "rushing_yards": 145,
+        "total_yards": 266,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
@@ -197,8 +197,8 @@
         "owner": "Chad Hill",
         "passing_yards": 87,
         "receiving_yards": 116,
-        "rushing_yards": 56,
-        "total_yards": 259,
+        "rushing_yards": 61,
+        "total_yards": 264,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
