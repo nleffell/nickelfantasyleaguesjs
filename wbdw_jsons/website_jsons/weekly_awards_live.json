@@ -19,8 +19,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 380,
-        "rushing_yards": 92,
-        "total_yards": 803,
+        "rushing_yards": 94,
+        "total_yards": 805,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -44,9 +44,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 255,
+        "receiving_yards": 251,
         "rushing_yards": 141,
-        "total_yards": 712,
+        "total_yards": 708,
         "yet_to_play": [
             "Keon Coleman"
         ],
@@ -57,9 +57,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 428,
+        "receiving_yards": 437,
         "rushing_yards": 260,
-        "total_yards": 688,
+        "total_yards": 697,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -68,6 +68,33 @@
             "Jaxon Smith-Njigba",
             "Jameson Williams",
             "AJ Barner"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 122,
+        "receiving_yards": 461,
+        "rushing_yards": 89,
+        "total_yards": 672,
+        "yet_to_play": [
+            "Dalton Kincaid"
+        ],
+        "in_play": [
+            "Justin Herbert",
+            "RJ Harvey",
+            "Ladd McConkey"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 182,
+        "receiving_yards": 173,
+        "rushing_yards": 306,
+        "total_yards": 661,
+        "yet_to_play": [],
+        "in_play": [
+            "Brock Purdy",
+            "Kendrick Bourne"
         ]
     },
     {
@@ -87,33 +114,6 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 182,
-        "receiving_yards": 165,
-        "rushing_yards": 306,
-        "total_yards": 653,
-        "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy",
-            "Kendrick Bourne"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 99,
-        "receiving_yards": 461,
-        "rushing_yards": 89,
-        "total_yards": 649,
-        "yet_to_play": [
-            "Dalton Kincaid"
-        ],
-        "in_play": [
-            "Justin Herbert",
-            "RJ Harvey",
-            "Ladd McConkey"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 271,
         "receiving_yards": 209,
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 116,
+        "passing_yards": 147,
         "receiving_yards": 311,
         "rushing_yards": 32,
-        "total_yards": 459,
+        "total_yards": 490,
         "yet_to_play": [
             "Blake Corum"
         ],
