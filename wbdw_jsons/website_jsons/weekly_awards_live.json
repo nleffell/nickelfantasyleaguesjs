@@ -22,9 +22,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 28,
-        "rushing_yards": 36,
-        "total_yards": 380,
+        "receiving_yards": 45,
+        "rushing_yards": 49,
+        "total_yards": 410,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -42,8 +42,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 46,
         "receiving_yards": 227,
-        "rushing_yards": 97,
-        "total_yards": 370,
+        "rushing_yards": 98,
+        "total_yards": 371,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -75,10 +75,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 85,
+        "passing_yards": 92,
         "receiving_yards": 51,
         "rushing_yards": 101,
-        "total_yards": 237,
+        "total_yards": 244,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -95,10 +95,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 93,
-        "receiving_yards": 77,
-        "rushing_yards": 30,
-        "total_yards": 200,
+        "passing_yards": 100,
+        "receiving_yards": 86,
+        "rushing_yards": 35,
+        "total_yards": 221,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -197,8 +197,8 @@
         "owner": "Chad Hill",
         "passing_yards": 18,
         "receiving_yards": 64,
-        "rushing_yards": 16,
-        "total_yards": 98,
+        "rushing_yards": 22,
+        "total_yards": 104,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
@@ -216,9 +216,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 19,
-        "rushing_yards": 13,
-        "total_yards": 32,
+        "receiving_yards": 61,
+        "rushing_yards": 22,
+        "total_yards": 83,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
