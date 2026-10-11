@@ -1,10 +1,10 @@
 [
     {
         "owner": "Nick Leffell",
-        "passing_yards": 120,
-        "receiving_yards": 250,
+        "passing_yards": 124,
+        "receiving_yards": 249,
         "rushing_yards": 201,
-        "total_yards": 571,
+        "total_yards": 574,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -37,10 +37,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 275,
+        "passing_yards": 289,
         "receiving_yards": 114,
-        "rushing_yards": 101,
-        "total_yards": 490,
+        "rushing_yards": 112,
+        "total_yards": 515,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -58,9 +58,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 68,
+        "receiving_yards": 88,
         "rushing_yards": 104,
-        "total_yards": 488,
+        "total_yards": 508,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -76,10 +76,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 249,
+        "passing_yards": 300,
         "receiving_yards": 123,
         "rushing_yards": 51,
-        "total_yards": 423,
+        "total_yards": 474,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -95,30 +95,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 102,
-        "rushing_yards": 256,
-        "total_yards": 358,
-        "yet_to_play": [
-            "Brock Purdy",
-            "Kendrick Bourne"
-        ],
-        "in_play": [
-            "Aaron Jones",
-            "Kalif Raymond",
-            "Tee Higgins",
-            "Kenyon Sadiq",
-            "Mike Gesicki",
-            "TreVeyon Henderson"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 298,
+        "receiving_yards": 349,
         "rushing_yards": 22,
-        "total_yards": 320,
+        "total_yards": 371,
         "yet_to_play": [
             "Justin Herbert",
             "RJ Harvey",
@@ -132,6 +113,25 @@
             "Christian Watson",
             "Tyler Warren",
             "Chris Olave"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 103,
+        "rushing_yards": 256,
+        "total_yards": 359,
+        "yet_to_play": [
+            "Brock Purdy",
+            "Kendrick Bourne"
+        ],
+        "in_play": [
+            "Aaron Jones",
+            "Kalif Raymond",
+            "Tee Higgins",
+            "Kenyon Sadiq",
+            "Mike Gesicki",
+            "TreVeyon Henderson"
         ]
     },
     {
@@ -157,8 +157,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 178,
-        "rushing_yards": 41,
-        "total_yards": 219,
+        "rushing_yards": 55,
+        "total_yards": 233,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
@@ -175,10 +175,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 80,
+        "passing_yards": 87,
         "receiving_yards": 83,
-        "rushing_yards": 40,
-        "total_yards": 203,
+        "rushing_yards": 41,
+        "total_yards": 211,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
@@ -196,9 +196,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 96,
+        "receiving_yards": 103,
         "rushing_yards": 107,
-        "total_yards": 203,
+        "total_yards": 210,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
