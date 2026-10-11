@@ -3,8 +3,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 182,
         "receiving_yards": 249,
-        "rushing_yards": 203,
-        "total_yards": 634,
+        "rushing_yards": 204,
+        "total_yards": 635,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -36,6 +36,26 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 344,
+        "receiving_yards": 114,
+        "rushing_yards": 112,
+        "total_yards": 570,
+        "yet_to_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Zay Flowers",
+            "Amon-Ra St. Brown"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Justin Jefferson",
+            "DK Metcalf",
+            "Juwan Johnson"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 105,
@@ -52,26 +72,6 @@
             "Denzel Boston",
             "Wan'Dale Robinson",
             "Malik Washington"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 289,
-        "receiving_yards": 114,
-        "rushing_yards": 112,
-        "total_yards": 515,
-        "yet_to_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Zay Flowers",
-            "Amon-Ra St. Brown"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "Justin Jefferson",
-            "DK Metcalf",
-            "Juwan Johnson"
         ]
     },
     {
@@ -98,8 +98,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 103,
-        "rushing_yards": 270,
-        "total_yards": 373,
+        "rushing_yards": 278,
+        "total_yards": 381,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -137,9 +137,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 228,
-        "rushing_yards": 91,
-        "total_yards": 319,
+        "receiving_yards": 244,
+        "rushing_yards": 93,
+        "total_yards": 337,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -157,8 +157,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 178,
-        "rushing_yards": 86,
-        "total_yards": 264,
+        "rushing_yards": 85,
+        "total_yards": 263,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
@@ -176,9 +176,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 87,
-        "receiving_yards": 88,
-        "rushing_yards": 42,
-        "total_yards": 217,
+        "receiving_yards": 116,
+        "rushing_yards": 36,
+        "total_yards": 239,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
