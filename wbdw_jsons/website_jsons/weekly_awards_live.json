@@ -26,6 +26,22 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 381,
+        "receiving_yards": 162,
+        "rushing_yards": 121,
+        "total_yards": 664,
+        "yet_to_play": [
+            "Zay Flowers"
+        ],
+        "in_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Amon-Ra St. Brown"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 205,
@@ -39,27 +55,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 381,
-        "receiving_yards": 146,
-        "rushing_yards": 132,
-        "total_yards": 659,
-        "yet_to_play": [
-            "Zay Flowers"
-        ],
-        "in_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Amon-Ra St. Brown"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 367,
         "receiving_yards": 169,
-        "rushing_yards": 91,
-        "total_yards": 627,
+        "rushing_yards": 92,
+        "total_yards": 628,
         "yet_to_play": [
             "Derrick Henry",
             "Davante Adams",
@@ -72,10 +72,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 66,
+        "passing_yards": 89,
         "receiving_yards": 461,
         "rushing_yards": 45,
-        "total_yards": 572,
+        "total_yards": 595,
         "yet_to_play": [
             "Dalton Kincaid"
         ],
@@ -86,23 +86,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 69,
-        "receiving_yards": 142,
-        "rushing_yards": 300,
-        "total_yards": 511,
-        "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy",
-            "Kendrick Bourne"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 339,
-        "rushing_yards": 169,
-        "total_yards": 508,
+        "receiving_yards": 357,
+        "rushing_yards": 172,
+        "total_yards": 529,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -114,11 +102,23 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 81,
+        "receiving_yards": 142,
+        "rushing_yards": 300,
+        "total_yards": 523,
+        "yet_to_play": [],
+        "in_play": [
+            "Brock Purdy",
+            "Kendrick Bourne"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
-        "passing_yards": 113,
+        "passing_yards": 142,
         "receiving_yards": 209,
         "rushing_yards": 86,
-        "total_yards": 408,
+        "total_yards": 437,
         "yet_to_play": [
             "James Cook",
             "Drake London"
@@ -132,8 +132,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 79,
         "receiving_yards": 284,
-        "rushing_yards": 17,
-        "total_yards": 380,
+        "rushing_yards": 24,
+        "total_yards": 387,
         "yet_to_play": [
             "Blake Corum"
         ],
@@ -147,9 +147,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 135,
+        "receiving_yards": 157,
         "rushing_yards": 170,
-        "total_yards": 305,
+        "total_yards": 327,
         "yet_to_play": [
             "Josh Allen",
             "Puka Nacua",
