@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 120,
-        "receiving_yards": 244,
-        "rushing_yards": 191,
-        "total_yards": 555,
+        "receiving_yards": 250,
+        "rushing_yards": 201,
+        "total_yards": 571,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -36,30 +36,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 316,
-        "receiving_yards": 68,
-        "rushing_yards": 99,
-        "total_yards": 483,
-        "yet_to_play": [
-            "Keon Coleman",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "Roman Wilson",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Malik Washington"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
-        "passing_yards": 228,
+        "passing_yards": 275,
         "receiving_yards": 114,
         "rushing_yards": 101,
-        "total_yards": 443,
+        "total_yards": 490,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -75,11 +56,30 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 316,
+        "receiving_yards": 68,
+        "rushing_yards": 104,
+        "total_yards": 488,
+        "yet_to_play": [
+            "Keon Coleman",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Cam Skattebo",
+            "Roman Wilson",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Malik Washington"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 249,
-        "receiving_yards": 118,
+        "receiving_yards": 123,
         "rushing_yards": 51,
-        "total_yards": 418,
+        "total_yards": 423,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -98,8 +98,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 102,
-        "rushing_yards": 257,
-        "total_yards": 359,
+        "rushing_yards": 256,
+        "total_yards": 358,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -137,9 +137,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 220,
+        "receiving_yards": 226,
         "rushing_yards": 91,
-        "total_yards": 311,
+        "total_yards": 317,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -174,6 +174,26 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 80,
+        "receiving_yards": 83,
+        "rushing_yards": 40,
+        "total_yards": 203,
+        "yet_to_play": [
+            "Jeremiyah Love",
+            "Cooper Kupp",
+            "Tyler Higbee"
+        ],
+        "in_play": [
+            "Tyson Bagent",
+            "Mike Washington",
+            "Luther Burden",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Kaleb Johnson"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 96,
@@ -191,26 +211,6 @@
             "Jaylen Warren",
             "Colston Loveland",
             "David Montgomery"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 74,
-        "receiving_yards": 83,
-        "rushing_yards": 40,
-        "total_yards": 197,
-        "yet_to_play": [
-            "Jeremiyah Love",
-            "Cooper Kupp",
-            "Tyler Higbee"
-        ],
-        "in_play": [
-            "Tyson Bagent",
-            "Mike Washington",
-            "Luther Burden",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Kaleb Johnson"
         ]
     },
     {
