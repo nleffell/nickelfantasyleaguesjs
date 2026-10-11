@@ -1,5 +1,21 @@
 [
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 120,
+        "receiving_yards": 244,
+        "rushing_yards": 191,
+        "total_yards": 555,
+        "yet_to_play": [],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Isaiah Williams",
+            "Chris Bell"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 164,
@@ -17,22 +33,6 @@
             "Nico Collins",
             "Garrett Wilson",
             "Ja'Marr Chase"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 120,
-        "receiving_yards": 244,
-        "rushing_yards": 146,
-        "total_yards": 510,
-        "yet_to_play": [],
-        "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Isaiah Williams",
-            "Chris Bell"
         ]
     },
     {
@@ -76,10 +76,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 208,
+        "passing_yards": 249,
         "receiving_yards": 118,
         "rushing_yards": 51,
-        "total_yards": 377,
+        "total_yards": 418,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -98,8 +98,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 102,
-        "rushing_yards": 245,
-        "total_yards": 347,
+        "rushing_yards": 257,
+        "total_yards": 359,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -116,9 +116,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 289,
+        "receiving_yards": 298,
         "rushing_yards": 22,
-        "total_yards": 311,
+        "total_yards": 320,
         "yet_to_play": [
             "Justin Herbert",
             "RJ Harvey",
@@ -154,6 +154,46 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 178,
+        "rushing_yards": 41,
+        "total_yards": 219,
+        "yet_to_play": [
+            "Jared Goff",
+            "James Cook",
+            "Drake London",
+            "Oronde Gadsden"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "Josh Downs",
+            "Rome Odunze",
+            "Tucker Kraft",
+            "Chase Brown"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 96,
+        "rushing_yards": 107,
+        "total_yards": 203,
+        "yet_to_play": [
+            "Josh Allen",
+            "Deebo Samuel",
+            "Puka Nacua",
+            "Keaton Mitchell",
+            "Khalil Shakir"
+        ],
+        "in_play": [
+            "Quinshon Judkins",
+            "Jaylen Warren",
+            "Colston Loveland",
+            "David Montgomery"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 74,
         "receiving_yards": 83,
@@ -171,46 +211,6 @@
             "T.J. Hockenson",
             "Alvin Kamara",
             "Kaleb Johnson"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 96,
-        "rushing_yards": 99,
-        "total_yards": 195,
-        "yet_to_play": [
-            "Josh Allen",
-            "Deebo Samuel",
-            "Puka Nacua",
-            "Keaton Mitchell",
-            "Khalil Shakir"
-        ],
-        "in_play": [
-            "Quinshon Judkins",
-            "Jaylen Warren",
-            "Colston Loveland",
-            "David Montgomery"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 137,
-        "rushing_yards": 41,
-        "total_yards": 178,
-        "yet_to_play": [
-            "Jared Goff",
-            "James Cook",
-            "Drake London",
-            "Oronde Gadsden"
-        ],
-        "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "Chase Brown"
         ]
     },
     {
