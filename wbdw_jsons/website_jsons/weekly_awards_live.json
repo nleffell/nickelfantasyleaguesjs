@@ -21,10 +21,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 77,
+        "passing_yards": 82,
         "receiving_yards": 227,
-        "rushing_yards": 118,
-        "total_yards": 422,
+        "rushing_yards": 119,
+        "total_yards": 428,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -39,8 +39,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 45,
-        "rushing_yards": 53,
-        "total_yards": 414,
+        "rushing_yards": 55,
+        "total_yards": 416,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -52,6 +52,26 @@
             "Denzel Boston",
             "Wan'Dale Robinson",
             "Malik Washington"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 123,
+        "receiving_yards": 95,
+        "rushing_yards": 101,
+        "total_yards": 319,
+        "yet_to_play": [
+            "J.K. Dobbins",
+            "Michael Wilson",
+            "George Kittle",
+            "Zay Flowers",
+            "Amon-Ra St. Brown"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Justin Jefferson",
+            "DK Metcalf",
+            "Juwan Johnson"
         ]
     },
     {
@@ -74,31 +94,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 123,
-        "receiving_yards": 54,
-        "rushing_yards": 101,
-        "total_yards": 278,
-        "yet_to_play": [
-            "J.K. Dobbins",
-            "Michael Wilson",
-            "George Kittle",
-            "Zay Flowers",
-            "Amon-Ra St. Brown"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "Justin Jefferson",
-            "DK Metcalf",
-            "Juwan Johnson"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 177,
+        "receiving_yards": 183,
         "rushing_yards": 83,
-        "total_yards": 260,
+        "total_yards": 266,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -133,31 +133,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 159,
-        "rushing_yards": 5,
-        "total_yards": 164,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Sam LaPorta"
-        ],
-        "in_play": [
-            "Carnell Tate",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Tre Tucker"
-        ]
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 48,
+        "passing_yards": 54,
         "receiving_yards": 83,
         "rushing_yards": 29,
-        "total_yards": 160,
+        "total_yards": 166,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
@@ -170,6 +150,26 @@
             "T.J. Hockenson",
             "Alvin Kamara",
             "Kaleb Johnson"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 159,
+        "rushing_yards": -6,
+        "total_yards": 153,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Sam LaPorta"
+        ],
+        "in_play": [
+            "Carnell Tate",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Tre Tucker"
         ]
     },
     {
@@ -196,9 +196,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 95,
+        "receiving_yards": 97,
         "rushing_yards": 37,
-        "total_yards": 132,
+        "total_yards": 134,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
@@ -216,9 +216,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 102,
+        "receiving_yards": 107,
         "rushing_yards": 24,
-        "total_yards": 126,
+        "total_yards": 131,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
