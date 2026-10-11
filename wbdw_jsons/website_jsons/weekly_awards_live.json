@@ -7,30 +7,21 @@
         "total_yards": 756,
         "yet_to_play": [],
         "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Isaiah Williams",
-            "Chris Bell"
+            "Malik Nabers"
         ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 188,
+        "receiving_yards": 195,
         "rushing_yards": 108,
-        "total_yards": 612,
+        "total_yards": 619,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
         ],
         "in_play": [
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "Roman Wilson",
-            "Denzel Boston",
-            "Malik Washington"
+            "Cam Skattebo"
         ]
     },
     {
@@ -40,15 +31,13 @@
         "rushing_yards": 99,
         "total_yards": 607,
         "yet_to_play": [
-            "J.K. Dobbins",
             "Michael Wilson",
             "George Kittle",
             "Zay Flowers",
             "Amon-Ra St. Brown"
         ],
         "in_play": [
-            "Drake Maye",
-            "DK Metcalf"
+            "J.K. Dobbins"
         ]
     },
     {
@@ -62,12 +51,10 @@
             "Emanuel Wilson",
             "Mark Andrews",
             "Mike Evans",
-            "Kyren Williams",
-            "Jaylen Waddle"
+            "Kyren Williams"
         ],
         "in_play": [
-            "Garrett Wilson",
-            "Ja'Marr Chase"
+            "Jaylen Waddle"
         ]
     },
     {
@@ -80,32 +67,26 @@
             "Christian McCaffrey",
             "Derrick Henry",
             "Davante Adams",
-            "DJ Moore",
-            "Courtland Sutton"
+            "DJ Moore"
         ],
         "in_play": [
-            "Jordan Love",
-            "Isaiah Likely"
+            "Isaiah Likely",
+            "Courtland Sutton"
         ]
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 0,
+        "passing_yards": 19,
         "receiving_yards": 461,
         "rushing_yards": 28,
-        "total_yards": 489,
+        "total_yards": 508,
         "yet_to_play": [
-            "Justin Herbert",
-            "RJ Harvey",
-            "Ladd McConkey",
             "Dalton Kincaid"
         ],
         "in_play": [
-            "Ashton Jeanty",
-            "Romeo Doubs",
-            "Matthew Golden",
-            "Christian Watson",
-            "Tyler Warren"
+            "Justin Herbert",
+            "RJ Harvey",
+            "Ladd McConkey"
         ]
     },
     {
@@ -118,13 +99,7 @@
             "Brock Purdy",
             "Kendrick Bourne"
         ],
-        "in_play": [
-            "Kalif Raymond",
-            "Tee Higgins",
-            "Kenyon Sadiq",
-            "Mike Gesicki",
-            "TreVeyon Henderson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -139,11 +114,7 @@
             "Jameson Williams",
             "AJ Barner"
         ],
-        "in_play": [
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Efton Chism"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -154,15 +125,10 @@
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
-            "Drake London",
-            "Oronde Gadsden"
+            "Drake London"
         ],
         "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
-            "Rome Odunze",
-            "Tucker Kraft",
-            "Chase Brown"
+            "Oronde Gadsden"
         ]
     },
     {
@@ -175,13 +141,10 @@
             "Josh Allen",
             "Deebo Samuel",
             "Puka Nacua",
-            "Keaton Mitchell",
             "Khalil Shakir"
         ],
         "in_play": [
-            "Quinshon Judkins",
-            "Jaylen Warren",
-            "Colston Loveland"
+            "Keaton Mitchell"
         ]
     },
     {
@@ -195,12 +158,7 @@
             "Cooper Kupp",
             "Tyler Higbee"
         ],
-        "in_play": [
-            "Tyson Bagent",
-            "Mike Washington",
-            "Luther Burden",
-            "Kaleb Johnson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -211,13 +169,11 @@
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
-            "Omarion Hampton",
-            "Tre' Harris",
             "Sam LaPorta"
         ],
         "in_play": [
-            "Harold Fannin",
-            "Tre Tucker"
+            "Omarion Hampton",
+            "Tre' Harris"
         ]
     }
 ]
