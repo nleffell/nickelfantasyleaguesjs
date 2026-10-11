@@ -1,19 +1,10 @@
 [
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 190,
-        "receiving_yards": 337,
-        "rushing_yards": 263,
-        "total_yards": 790,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
         "owner": "Victor Dankens",
         "passing_yards": 381,
-        "receiving_yards": 244,
-        "rushing_yards": 154,
-        "total_yards": 779,
+        "receiving_yards": 260,
+        "rushing_yards": 165,
+        "total_yards": 806,
         "yet_to_play": [
             "Zay Flowers"
         ],
@@ -27,9 +18,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 352,
+        "receiving_yards": 380,
         "rushing_yards": 92,
-        "total_yards": 775,
+        "total_yards": 803,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -40,6 +31,15 @@
             "Mike Evans",
             "Jaylen Waddle"
         ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 190,
+        "receiving_yards": 337,
+        "rushing_yards": 263,
+        "total_yards": 790,
+        "yet_to_play": [],
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -58,8 +58,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 428,
-        "rushing_yards": 255,
-        "total_yards": 683,
+        "rushing_yards": 260,
+        "total_yards": 688,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -87,6 +87,18 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 182,
+        "receiving_yards": 165,
+        "rushing_yards": 306,
+        "total_yards": 653,
+        "yet_to_play": [],
+        "in_play": [
+            "Brock Purdy",
+            "Kendrick Bourne"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 96,
         "receiving_yards": 461,
@@ -102,23 +114,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 145,
-        "receiving_yards": 165,
-        "rushing_yards": 306,
-        "total_yards": 616,
-        "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy",
-            "Kendrick Bourne"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 257,
+        "passing_yards": 271,
         "receiving_yards": 209,
         "rushing_yards": 87,
-        "total_yards": 553,
+        "total_yards": 567,
         "yet_to_play": [
             "James Cook",
             "Drake London"
