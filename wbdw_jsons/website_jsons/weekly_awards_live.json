@@ -28,9 +28,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 381,
-        "receiving_yards": 181,
+        "receiving_yards": 185,
         "rushing_yards": 124,
-        "total_yards": 686,
+        "total_yards": 690,
         "yet_to_play": [
             "Zay Flowers"
         ],
@@ -44,9 +44,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 212,
+        "receiving_yards": 223,
         "rushing_yards": 141,
-        "total_yards": 669,
+        "total_yards": 680,
         "yet_to_play": [
             "Keon Coleman"
         ],
@@ -58,8 +58,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 367,
         "receiving_yards": 169,
-        "rushing_yards": 97,
-        "total_yards": 633,
+        "rushing_yards": 101,
+        "total_yards": 637,
         "yet_to_play": [
             "Derrick Henry",
             "Davante Adams",
@@ -115,10 +115,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 187,
+        "passing_yards": 188,
         "receiving_yards": 209,
         "rushing_yards": 86,
-        "total_yards": 482,
+        "total_yards": 483,
         "yet_to_play": [
             "James Cook",
             "Drake London"
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 87,
+        "passing_yards": 96,
         "receiving_yards": 292,
         "rushing_yards": 32,
-        "total_yards": 411,
+        "total_yards": 420,
         "yet_to_play": [
             "Blake Corum"
         ],
