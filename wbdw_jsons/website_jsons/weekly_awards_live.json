@@ -20,6 +20,25 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 316,
+        "receiving_yards": 66,
+        "rushing_yards": 87,
+        "total_yards": 469,
+        "yet_to_play": [
+            "Keon Coleman",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Cam Skattebo",
+            "Roman Wilson",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Malik Washington"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 113,
         "receiving_yards": 227,
@@ -33,25 +52,6 @@
             "Malik Nabers",
             "Isaiah Williams",
             "Chris Bell"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 316,
-        "receiving_yards": 45,
-        "rushing_yards": 87,
-        "total_yards": 448,
-        "yet_to_play": [
-            "Keon Coleman",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Cam Skattebo",
-            "Roman Wilson",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Malik Washington"
         ]
     },
     {
@@ -115,9 +115,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 109,
-        "receiving_yards": 97,
+        "receiving_yards": 107,
         "rushing_yards": 38,
-        "total_yards": 244,
+        "total_yards": 254,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
