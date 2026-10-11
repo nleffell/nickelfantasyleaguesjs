@@ -21,10 +21,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 82,
+        "passing_yards": 103,
         "receiving_yards": 227,
-        "rushing_yards": 119,
-        "total_yards": 428,
+        "rushing_yards": 122,
+        "total_yards": 452,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -39,8 +39,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 45,
-        "rushing_yards": 55,
-        "total_yards": 416,
+        "rushing_yards": 82,
+        "total_yards": 443,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -115,9 +115,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 109,
-        "receiving_yards": 86,
+        "receiving_yards": 97,
         "rushing_yards": 38,
-        "total_yards": 233,
+        "total_yards": 244,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -196,9 +196,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 97,
-        "rushing_yards": 37,
-        "total_yards": 134,
+        "receiving_yards": 96,
+        "rushing_yards": 45,
+        "total_yards": 141,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
@@ -217,8 +217,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 107,
-        "rushing_yards": 24,
-        "total_yards": 131,
+        "rushing_yards": 27,
+        "total_yards": 134,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
