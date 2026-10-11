@@ -9,7 +9,6 @@
             "Zay Flowers"
         ],
         "in_play": [
-            "J.K. Dobbins",
             "Michael Wilson",
             "George Kittle",
             "Amon-Ra St. Brown"
@@ -28,8 +27,7 @@
         ],
         "in_play": [
             "Emanuel Wilson",
-            "Mike Evans",
-            "Jaylen Waddle"
+            "Mike Evans"
         ]
     },
     {
@@ -71,6 +69,21 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 367,
+        "receiving_yards": 194,
+        "rushing_yards": 126,
+        "total_yards": 687,
+        "yet_to_play": [
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Christian McCaffrey"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 121,
         "receiving_yards": 461,
@@ -79,34 +92,14 @@
         "yet_to_play": [
             "Dalton Kincaid"
         ],
-        "in_play": [
-            "Justin Herbert",
-            "RJ Harvey",
-            "Ladd McConkey"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 367,
-        "receiving_yards": 187,
-        "rushing_yards": 112,
-        "total_yards": 666,
-        "yet_to_play": [
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Courtland Sutton"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 182,
+        "passing_yards": 189,
         "receiving_yards": 173,
         "rushing_yards": 306,
-        "total_yards": 661,
+        "total_yards": 668,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy",
@@ -124,8 +117,7 @@
             "Drake London"
         ],
         "in_play": [
-            "Jared Goff",
-            "Oronde Gadsden"
+            "Jared Goff"
         ]
     },
     {
@@ -139,8 +131,6 @@
         ],
         "in_play": [
             "Sam Darnold",
-            "Omarion Hampton",
-            "Tre' Harris",
             "Sam LaPorta"
         ]
     },
@@ -156,8 +146,7 @@
             "Khalil Shakir"
         ],
         "in_play": [
-            "Deebo Samuel",
-            "Keaton Mitchell"
+            "Deebo Samuel"
         ]
     },
     {
