@@ -8,9 +8,7 @@
         "yet_to_play": [
             "Zay Flowers"
         ],
-        "in_play": [
-            "George Kittle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -23,10 +21,7 @@
             "Mark Andrews",
             "Kyren Williams"
         ],
-        "in_play": [
-            "Emanuel Wilson",
-            "Mike Evans"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -46,10 +41,7 @@
         "yet_to_play": [
             "Matthew Stafford"
         ],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "AJ Barner"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -73,9 +65,7 @@
             "Davante Adams",
             "DJ Moore"
         ],
-        "in_play": [
-            "Christian McCaffrey"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -95,9 +85,7 @@
         "rushing_yards": 304,
         "total_yards": 666,
         "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -120,9 +108,7 @@
         "yet_to_play": [
             "Blake Corum"
         ],
-        "in_play": [
-            "Sam Darnold"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -135,9 +121,7 @@
             "Puka Nacua",
             "Khalil Shakir"
         ],
-        "in_play": [
-            "Deebo Samuel"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -148,8 +132,6 @@
         "yet_to_play": [
             "Tyler Higbee"
         ],
-        "in_play": [
-            "Cooper Kupp"
-        ]
+        "in_play": []
     }
 ]
