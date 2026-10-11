@@ -11,14 +11,31 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 206,
+        "receiving_yards": 205,
         "rushing_yards": 141,
-        "total_yards": 663,
+        "total_yards": 662,
         "yet_to_play": [
             "Keon Coleman"
         ],
         "in_play": [
             "Trey McBride"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 331,
+        "receiving_yards": 270,
+        "rushing_yards": 48,
+        "total_yards": 649,
+        "yet_to_play": [
+            "Bijan Robinson",
+            "Mark Andrews",
+            "Kyren Williams"
+        ],
+        "in_play": [
+            "Emanuel Wilson",
+            "Mike Evans",
+            "Jaylen Waddle"
         ]
     },
     {
@@ -35,23 +52,6 @@
             "Michael Wilson",
             "George Kittle",
             "Amon-Ra St. Brown"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 331,
-        "receiving_yards": 270,
-        "rushing_yards": 38,
-        "total_yards": 639,
-        "yet_to_play": [
-            "Bijan Robinson",
-            "Mark Andrews",
-            "Kyren Williams"
-        ],
-        "in_play": [
-            "Emanuel Wilson",
-            "Mike Evans",
-            "Jaylen Waddle"
         ]
     },
     {
@@ -74,8 +74,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 51,
         "receiving_yards": 461,
-        "rushing_yards": 29,
-        "total_yards": 541,
+        "rushing_yards": 33,
+        "total_yards": 545,
         "yet_to_play": [
             "Dalton Kincaid"
         ],
@@ -100,9 +100,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 296,
-        "rushing_yards": 98,
-        "total_yards": 394,
+        "receiving_yards": 312,
+        "rushing_yards": 124,
+        "total_yards": 436,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -114,11 +114,27 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 75,
+        "receiving_yards": 235,
+        "rushing_yards": 12,
+        "total_yards": 322,
+        "yet_to_play": [
+            "Blake Corum"
+        ],
+        "in_play": [
+            "Sam Darnold",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Sam LaPorta"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
-        "passing_yards": 7,
-        "receiving_yards": 215,
+        "passing_yards": 19,
+        "receiving_yards": 209,
         "rushing_yards": 86,
-        "total_yards": 308,
+        "total_yards": 314,
         "yet_to_play": [
             "James Cook",
             "Drake London"
@@ -145,27 +161,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 59,
-        "receiving_yards": 223,
-        "rushing_yards": 12,
-        "total_yards": 294,
-        "yet_to_play": [
-            "Blake Corum"
-        ],
-        "in_play": [
-            "Sam Darnold",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Sam LaPorta"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 87,
         "receiving_yards": 122,
-        "rushing_yards": 81,
-        "total_yards": 290,
+        "rushing_yards": 82,
+        "total_yards": 291,
         "yet_to_play": [
             "Tyler Higbee"
         ],
