@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 102,
+        "receiving_yards": 123,
         "rushing_yards": 25,
-        "total_yards": 458,
+        "total_yards": 479,
         "yet_to_play": [
             "Bijan Robinson",
             "Emanuel Wilson",
@@ -17,6 +17,22 @@
             "Nico Collins",
             "Garrett Wilson",
             "Ja'Marr Chase"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 79,
+        "receiving_yards": 227,
+        "rushing_yards": 110,
+        "total_yards": 416,
+        "yet_to_play": [],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Ollie Gordon",
+            "Malik Nabers",
+            "Isaiah Williams",
+            "Chris Bell"
         ]
     },
     {
@@ -36,22 +52,6 @@
             "Denzel Boston",
             "Wan'Dale Robinson",
             "Malik Washington"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 69,
-        "receiving_yards": 227,
-        "rushing_yards": 110,
-        "total_yards": 406,
-        "yet_to_play": [],
-        "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Ollie Gordon",
-            "Malik Nabers",
-            "Isaiah Williams",
-            "Chris Bell"
         ]
     },
     {
@@ -96,9 +96,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 148,
+        "receiving_yards": 162,
         "rushing_yards": 83,
-        "total_yards": 231,
+        "total_yards": 245,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 100,
+        "passing_yards": 108,
         "receiving_yards": 86,
         "rushing_yards": 38,
-        "total_yards": 224,
+        "total_yards": 232,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -135,9 +135,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 168,
+        "receiving_yards": 159,
         "rushing_yards": 5,
-        "total_yards": 173,
+        "total_yards": 164,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
@@ -175,9 +175,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 115,
+        "receiving_yards": 116,
         "rushing_yards": 14,
-        "total_yards": 129,
+        "total_yards": 130,
         "yet_to_play": [
             "Justin Herbert",
             "RJ Harvey",
@@ -196,9 +196,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 87,
+        "receiving_yards": 90,
         "rushing_yards": 37,
-        "total_yards": 124,
+        "total_yards": 127,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
@@ -216,9 +216,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 73,
-        "rushing_yards": 22,
-        "total_yards": 95,
+        "receiving_yards": 101,
+        "rushing_yards": 24,
+        "total_yards": 125,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
