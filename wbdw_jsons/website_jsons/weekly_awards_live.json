@@ -27,9 +27,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 293,
-        "rushing_yards": 90,
-        "total_yards": 714,
+        "receiving_yards": 305,
+        "rushing_yards": 92,
+        "total_yards": 728,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -44,9 +44,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 223,
+        "receiving_yards": 239,
         "rushing_yards": 141,
-        "total_yards": 680,
+        "total_yards": 696,
         "yet_to_play": [
             "Keon Coleman"
         ],
@@ -57,9 +57,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 367,
-        "receiving_yards": 182,
+        "receiving_yards": 187,
         "rushing_yards": 101,
-        "total_yards": 650,
+        "total_yards": 655,
         "yet_to_play": [
             "Derrick Henry",
             "Davante Adams",
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 112,
+        "passing_yards": 116,
         "receiving_yards": 292,
         "rushing_yards": 32,
-        "total_yards": 436,
+        "total_yards": 440,
         "yet_to_play": [
             "Blake Corum"
         ],
@@ -164,8 +164,8 @@
         "owner": "Chad Hill",
         "passing_yards": 87,
         "receiving_yards": 122,
-        "rushing_yards": 88,
-        "total_yards": 297,
+        "rushing_yards": 84,
+        "total_yards": 293,
         "yet_to_play": [
             "Tyler Higbee"
         ],
