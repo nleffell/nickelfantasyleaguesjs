@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 190,
-        "receiving_yards": 261,
+        "receiving_yards": 270,
         "rushing_yards": 244,
-        "total_yards": 695,
+        "total_yards": 704,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -19,8 +19,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 374,
         "receiving_yards": 131,
-        "rushing_yards": 104,
-        "total_yards": 609,
+        "rushing_yards": 101,
+        "total_yards": 606,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -30,9 +30,7 @@
         ],
         "in_play": [
             "Drake Maye",
-            "Justin Jefferson",
-            "DK Metcalf",
-            "Juwan Johnson"
+            "DK Metcalf"
         ]
     },
     {
@@ -50,7 +48,6 @@
             "Cam Skattebo",
             "Roman Wilson",
             "Denzel Boston",
-            "Wan'Dale Robinson",
             "Malik Washington"
         ]
     },
@@ -69,7 +66,6 @@
             "Jaylen Waddle"
         ],
         "in_play": [
-            "Nico Collins",
             "Garrett Wilson",
             "Ja'Marr Chase"
         ]
@@ -77,9 +73,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 367,
-        "receiving_yards": 153,
+        "receiving_yards": 159,
         "rushing_yards": 58,
-        "total_yards": 578,
+        "total_yards": 584,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -89,9 +85,7 @@
         ],
         "in_play": [
             "Jordan Love",
-            "Isaiah Likely",
-            "Tony Pollard",
-            "Dalton Schultz"
+            "Isaiah Likely"
         ]
     },
     {
@@ -111,8 +105,7 @@
             "Romeo Doubs",
             "Matthew Golden",
             "Christian Watson",
-            "Tyler Warren",
-            "Chris Olave"
+            "Tyler Warren"
         ]
     },
     {
@@ -126,7 +119,6 @@
             "Kendrick Bourne"
         ],
         "in_play": [
-            "Aaron Jones",
             "Kalif Raymond",
             "Tee Higgins",
             "Kenyon Sadiq",
@@ -157,8 +149,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 215,
-        "rushing_yards": 85,
-        "total_yards": 300,
+        "rushing_yards": 86,
+        "total_yards": 301,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
@@ -189,8 +181,7 @@
         "in_play": [
             "Quinshon Judkins",
             "Jaylen Warren",
-            "Colston Loveland",
-            "David Montgomery"
+            "Colston Loveland"
         ]
     },
     {
@@ -208,17 +199,15 @@
             "Tyson Bagent",
             "Mike Washington",
             "Luther Burden",
-            "T.J. Hockenson",
-            "Alvin Kamara",
             "Kaleb Johnson"
         ]
     },
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 181,
+        "receiving_yards": 197,
         "rushing_yards": -6,
-        "total_yards": 175,
+        "total_yards": 191,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
@@ -227,8 +216,6 @@
             "Sam LaPorta"
         ],
         "in_play": [
-            "Carnell Tate",
-            "Devaughn Vele",
             "Harold Fannin",
             "Tre Tucker"
         ]
