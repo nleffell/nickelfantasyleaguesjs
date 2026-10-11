@@ -23,8 +23,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 45,
-        "rushing_yards": 49,
-        "total_yards": 410,
+        "rushing_yards": 53,
+        "total_yards": 414,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -40,10 +40,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 46,
+        "passing_yards": 57,
         "receiving_yards": 227,
-        "rushing_yards": 98,
-        "total_yards": 371,
+        "rushing_yards": 99,
+        "total_yards": 383,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -57,9 +57,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 78,
-        "rushing_yards": 204,
-        "total_yards": 282,
+        "receiving_yards": 81,
+        "rushing_yards": 223,
+        "total_yards": 304,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -75,10 +75,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 92,
+        "passing_yards": 96,
         "receiving_yards": 51,
         "rushing_yards": 101,
-        "total_yards": 244,
+        "total_yards": 248,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -116,9 +116,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 126,
-        "rushing_yards": 49,
-        "total_yards": 175,
+        "receiving_yards": 130,
+        "rushing_yards": 82,
+        "total_yards": 212,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -153,11 +153,31 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 42,
+        "receiving_yards": 77,
+        "rushing_yards": 22,
+        "total_yards": 141,
+        "yet_to_play": [
+            "Jeremiyah Love",
+            "Cooper Kupp",
+            "Tyler Higbee"
+        ],
+        "in_play": [
+            "Tyson Bagent",
+            "Mike Washington",
+            "Luther Burden",
+            "T.J. Hockenson",
+            "Alvin Kamara",
+            "Kaleb Johnson"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 115,
-        "rushing_yards": 11,
-        "total_yards": 126,
+        "rushing_yards": 12,
+        "total_yards": 127,
         "yet_to_play": [
             "Justin Herbert",
             "RJ Harvey",
@@ -191,26 +211,6 @@
             "Jaylen Warren",
             "Colston Loveland",
             "David Montgomery"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 18,
-        "receiving_yards": 64,
-        "rushing_yards": 22,
-        "total_yards": 104,
-        "yet_to_play": [
-            "Jeremiyah Love",
-            "Cooper Kupp",
-            "Tyler Higbee"
-        ],
-        "in_play": [
-            "Tyson Bagent",
-            "Mike Washington",
-            "Luther Burden",
-            "T.J. Hockenson",
-            "Alvin Kamara",
-            "Kaleb Johnson"
         ]
     },
     {
