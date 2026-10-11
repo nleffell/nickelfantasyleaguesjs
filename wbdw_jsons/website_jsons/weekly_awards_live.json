@@ -42,8 +42,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 381,
         "receiving_yards": 143,
-        "rushing_yards": 121,
-        "total_yards": 645,
+        "rushing_yards": 124,
+        "total_yards": 648,
         "yet_to_play": [
             "Zay Flowers"
         ],
@@ -86,6 +86,22 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 331,
+        "rushing_yards": 166,
+        "total_yards": 497,
+        "yet_to_play": [
+            "Matthew Stafford"
+        ],
+        "in_play": [
+            "Jahmyr Gibbs",
+            "Jaxon Smith-Njigba",
+            "Jameson Williams",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 46,
         "receiving_yards": 134,
@@ -98,27 +114,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 331,
-        "rushing_yards": 141,
-        "total_yards": 472,
-        "yet_to_play": [
-            "Matthew Stafford"
-        ],
-        "in_play": [
-            "Jahmyr Gibbs",
-            "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "AJ Barner"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 91,
+        "passing_yards": 102,
         "receiving_yards": 209,
         "rushing_yards": 86,
-        "total_yards": 386,
+        "total_yards": 397,
         "yet_to_play": [
             "James Cook",
             "Drake London"
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 71,
+        "passing_yards": 79,
         "receiving_yards": 284,
-        "rushing_yards": 16,
-        "total_yards": 371,
+        "rushing_yards": 17,
+        "total_yards": 380,
         "yet_to_play": [
             "Blake Corum"
         ],
