@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 190,
-        "receiving_yards": 286,
-        "rushing_yards": 263,
-        "total_yards": 739,
+        "receiving_yards": 303,
+        "rushing_yards": 265,
+        "total_yards": 758,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -18,9 +18,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 182,
-        "rushing_yards": 109,
-        "total_yards": 607,
+        "receiving_yards": 188,
+        "rushing_yards": 108,
+        "total_yards": 612,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -37,8 +37,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 374,
         "receiving_yards": 131,
-        "rushing_yards": 100,
-        "total_yards": 605,
+        "rushing_yards": 99,
+        "total_yards": 604,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -169,8 +169,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 121,
-        "rushing_yards": 151,
-        "total_yards": 272,
+        "rushing_yards": 156,
+        "total_yards": 277,
         "yet_to_play": [
             "Josh Allen",
             "Deebo Samuel",
@@ -205,9 +205,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 197,
+        "receiving_yards": 201,
         "rushing_yards": -6,
-        "total_yards": 191,
+        "total_yards": 195,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
