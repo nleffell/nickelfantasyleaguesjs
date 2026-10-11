@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 190,
-        "receiving_yards": 249,
-        "rushing_yards": 220,
-        "total_yards": 659,
+        "receiving_yards": 261,
+        "rushing_yards": 221,
+        "total_yards": 672,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow",
@@ -18,9 +18,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 175,
-        "rushing_yards": 104,
-        "total_yards": 595,
+        "receiving_yards": 182,
+        "rushing_yards": 105,
+        "total_yards": 603,
         "yet_to_play": [
             "Keon Coleman",
             "Trey McBride"
@@ -37,9 +37,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 222,
+        "receiving_yards": 237,
         "rushing_yards": 25,
-        "total_yards": 578,
+        "total_yards": 593,
         "yet_to_play": [
             "Bijan Robinson",
             "Emanuel Wilson",
@@ -56,10 +56,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 344,
+        "passing_yards": 359,
         "receiving_yards": 131,
         "rushing_yards": 101,
-        "total_yards": 576,
+        "total_yards": 591,
         "yet_to_play": [
             "J.K. Dobbins",
             "Michael Wilson",
@@ -76,10 +76,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 359,
+        "passing_yards": 367,
         "receiving_yards": 136,
-        "rushing_yards": 57,
-        "total_yards": 552,
+        "rushing_yards": 58,
+        "total_yards": 561,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -119,8 +119,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 103,
-        "rushing_yards": 282,
-        "total_yards": 385,
+        "rushing_yards": 298,
+        "total_yards": 401,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -137,9 +137,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 243,
+        "receiving_yards": 251,
         "rushing_yards": 93,
-        "total_yards": 336,
+        "total_yards": 344,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -197,8 +197,8 @@
         "owner": "Chad Hill",
         "passing_yards": 87,
         "receiving_yards": 116,
-        "rushing_yards": 37,
-        "total_yards": 240,
+        "rushing_yards": 56,
+        "total_yards": 259,
         "yet_to_play": [
             "Jeremiyah Love",
             "Cooper Kupp",
