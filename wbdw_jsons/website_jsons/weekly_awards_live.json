@@ -19,8 +19,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 380,
-        "rushing_yards": 94,
-        "total_yards": 805,
+        "rushing_yards": 95,
+        "total_yards": 806,
         "yet_to_play": [
             "Bijan Robinson",
             "Mark Andrews",
@@ -44,9 +44,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 316,
-        "receiving_yards": 251,
+        "receiving_yards": 260,
         "rushing_yards": 141,
-        "total_yards": 708,
+        "total_yards": 717,
         "yet_to_play": [
             "Keon Coleman"
         ],
@@ -57,9 +57,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 437,
+        "receiving_yards": 441,
         "rushing_yards": 260,
-        "total_yards": 697,
+        "total_yards": 701,
         "yet_to_play": [
             "Matthew Stafford"
         ],
@@ -72,10 +72,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 122,
+        "passing_yards": 121,
         "receiving_yards": 461,
         "rushing_yards": 89,
-        "total_yards": 672,
+        "total_yards": 671,
         "yet_to_play": [
             "Dalton Kincaid"
         ],
@@ -83,6 +83,22 @@
             "Justin Herbert",
             "RJ Harvey",
             "Ladd McConkey"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 367,
+        "receiving_yards": 187,
+        "rushing_yards": 112,
+        "total_yards": 666,
+        "yet_to_play": [
+            "Derrick Henry",
+            "Davante Adams",
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Courtland Sutton"
         ]
     },
     {
@@ -95,22 +111,6 @@
         "in_play": [
             "Brock Purdy",
             "Kendrick Bourne"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 367,
-        "receiving_yards": 187,
-        "rushing_yards": 105,
-        "total_yards": 659,
-        "yet_to_play": [
-            "Derrick Henry",
-            "Davante Adams",
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Courtland Sutton"
         ]
     },
     {
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 147,
+        "passing_yards": 151,
         "receiving_yards": 311,
         "rushing_yards": 32,
-        "total_yards": 490,
+        "total_yards": 494,
         "yet_to_play": [
             "Blake Corum"
         ],
