@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 407,
-        "rushing_yards": 178,
-        "total_yards": 916,
+        "rushing_yards": 179,
+        "total_yards": 917,
         "yet_to_play": [
             "Kyren Williams"
         ],
@@ -37,8 +37,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 367,
         "receiving_yards": 212,
-        "rushing_yards": 190,
-        "total_yards": 769,
+        "rushing_yards": 196,
+        "total_yards": 775,
         "yet_to_play": [
             "Davante Adams",
             "DJ Moore"
@@ -92,9 +92,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 271,
-        "receiving_yards": 296,
+        "receiving_yards": 295,
         "rushing_yards": 87,
-        "total_yards": 654,
+        "total_yards": 653,
         "yet_to_play": [
             "James Cook"
         ],
