@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 424,
+        "receiving_yards": 434,
         "rushing_yards": 181,
-        "total_yards": 936,
+        "total_yards": 946,
         "yet_to_play": [
             "Kyren Williams"
         ],
@@ -16,9 +16,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 381,
-        "receiving_yards": 306,
+        "receiving_yards": 314,
         "rushing_yards": 178,
-        "total_yards": 865,
+        "total_yards": 873,
         "yet_to_play": [],
         "in_play": [
             "Zay Flowers"
@@ -37,8 +37,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 367,
         "receiving_yards": 212,
-        "rushing_yards": 196,
-        "total_yards": 775,
+        "rushing_yards": 206,
+        "total_yards": 785,
         "yet_to_play": [
             "Davante Adams",
             "DJ Moore"
