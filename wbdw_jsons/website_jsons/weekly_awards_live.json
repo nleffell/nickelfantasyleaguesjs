@@ -8,10 +8,7 @@
         "yet_to_play": [
             "Kyren Williams"
         ],
-        "in_play": [
-            "Bijan Robinson",
-            "Mark Andrews"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -20,9 +17,7 @@
         "rushing_yards": 178,
         "total_yards": 872,
         "yet_to_play": [],
-        "in_play": [
-            "Zay Flowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -34,9 +29,7 @@
             "Davante Adams",
             "DJ Moore"
         ],
-        "in_play": [
-            "Derrick Henry"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -70,6 +63,17 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 271,
+        "receiving_yards": 327,
+        "rushing_yards": 87,
+        "total_yards": 685,
+        "yet_to_play": [
+            "James Cook"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 121,
         "receiving_yards": 461,
@@ -88,19 +92,6 @@
         "total_yards": 666,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 271,
-        "receiving_yards": 307,
-        "rushing_yards": 87,
-        "total_yards": 665,
-        "yet_to_play": [
-            "James Cook"
-        ],
-        "in_play": [
-            "Drake London"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
