@@ -1,5 +1,19 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 331,
+        "receiving_yards": 393,
+        "rushing_yards": 176,
+        "total_yards": 900,
+        "yet_to_play": [
+            "Kyren Williams"
+        ],
+        "in_play": [
+            "Bijan Robinson",
+            "Mark Andrews"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 381,
         "receiving_yards": 296,
@@ -8,20 +22,6 @@
         "yet_to_play": [],
         "in_play": [
             "Zay Flowers"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 331,
-        "receiving_yards": 393,
-        "rushing_yards": 127,
-        "total_yards": 851,
-        "yet_to_play": [
-            "Kyren Williams"
-        ],
-        "in_play": [
-            "Bijan Robinson",
-            "Mark Andrews"
         ]
     },
     {
