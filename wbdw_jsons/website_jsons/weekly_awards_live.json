@@ -55,8 +55,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 271,
         "receiving_yards": 334,
-        "rushing_yards": 152,
-        "total_yards": 757,
+        "rushing_yards": 177,
+        "total_yards": 782,
         "yet_to_play": [],
         "in_play": [
             "James Cook"
@@ -94,6 +94,19 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 129,
+        "receiving_yards": 251,
+        "rushing_yards": 232,
+        "total_yards": 612,
+        "yet_to_play": [],
+        "in_play": [
+            "Josh Allen",
+            "Puka Nacua",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 195,
         "receiving_yards": 364,
@@ -102,19 +115,6 @@
         "yet_to_play": [],
         "in_play": [
             "Blake Corum"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 98,
-        "receiving_yards": 251,
-        "rushing_yards": 210,
-        "total_yards": 559,
-        "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Puka Nacua",
-            "Khalil Shakir"
         ]
     },
     {
