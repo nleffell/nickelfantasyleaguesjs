@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 445,
+        "receiving_yards": 446,
         "rushing_yards": 206,
-        "total_yards": 982,
+        "total_yards": 983,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -21,10 +21,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 98,
+        "passing_yards": 99,
         "receiving_yards": 476,
         "rushing_yards": 260,
-        "total_yards": 834,
+        "total_yards": 835,
         "yet_to_play": [],
         "in_play": [
             "Matthew Stafford"
