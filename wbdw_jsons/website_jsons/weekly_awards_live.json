@@ -22,6 +22,19 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 210,
+        "receiving_yards": 378,
+        "rushing_yards": 301,
+        "total_yards": 889,
+        "yet_to_play": [],
+        "in_play": [
+            "Josh Allen",
+            "Puka Nacua",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 381,
         "receiving_yards": 313,
@@ -43,24 +56,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 210,
-        "receiving_yards": 378,
-        "rushing_yards": 269,
-        "total_yards": 857,
-        "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Puka Nacua",
-            "Khalil Shakir"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 271,
         "receiving_yards": 334,
-        "rushing_yards": 195,
-        "total_yards": 800,
+        "rushing_yards": 198,
+        "total_yards": 803,
         "yet_to_play": [],
         "in_play": [
             "James Cook"
