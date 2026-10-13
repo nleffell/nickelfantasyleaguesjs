@@ -1,24 +1,24 @@
 [
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 331,
-        "receiving_yards": 450,
-        "rushing_yards": 223,
-        "total_yards": 1004,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
-        "passing_yards": 240,
+        "passing_yards": 274,
         "receiving_yards": 476,
         "rushing_yards": 260,
-        "total_yards": 976,
+        "total_yards": 1010,
         "yet_to_play": [],
         "in_play": [
             "Matthew Stafford"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 331,
+        "receiving_yards": 450,
+        "rushing_yards": 226,
+        "total_yards": 1007,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams"
         ]
     },
     {
@@ -33,9 +33,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 367,
-        "receiving_yards": 229,
+        "receiving_yards": 234,
         "rushing_yards": 228,
-        "total_yards": 824,
+        "total_yards": 829,
         "yet_to_play": [],
         "in_play": [
             "Davante Adams",
@@ -96,9 +96,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 129,
-        "receiving_yards": 263,
+        "receiving_yards": 262,
         "rushing_yards": 233,
-        "total_yards": 625,
+        "total_yards": 624,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
@@ -120,9 +120,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 87,
-        "receiving_yards": 184,
+        "receiving_yards": 214,
         "rushing_yards": 84,
-        "total_yards": 355,
+        "total_yards": 385,
         "yet_to_play": [],
         "in_play": [
             "Tyler Higbee"
