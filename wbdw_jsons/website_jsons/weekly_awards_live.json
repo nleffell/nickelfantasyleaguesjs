@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 331,
-        "receiving_yards": 442,
+        "receiving_yards": 440,
         "rushing_yards": 196,
-        "total_yards": 969,
+        "total_yards": 967,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -52,6 +52,17 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 271,
+        "receiving_yards": 334,
+        "rushing_yards": 119,
+        "total_yards": 724,
+        "yet_to_play": [],
+        "in_play": [
+            "James Cook"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 316,
         "receiving_yards": 260,
@@ -60,17 +71,6 @@
         "yet_to_play": [],
         "in_play": [
             "Keon Coleman"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 271,
-        "receiving_yards": 334,
-        "rushing_yards": 103,
-        "total_yards": 708,
-        "yet_to_play": [],
-        "in_play": [
-            "James Cook"
         ]
     },
     {
@@ -97,8 +97,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 195,
         "receiving_yards": 311,
-        "rushing_yards": 34,
-        "total_yards": 540,
+        "rushing_yards": 35,
+        "total_yards": 541,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum"
@@ -107,9 +107,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 7,
-        "receiving_yards": 183,
-        "rushing_yards": 179,
-        "total_yards": 369,
+        "receiving_yards": 184,
+        "rushing_yards": 185,
+        "total_yards": 376,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
@@ -120,9 +120,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 87,
-        "receiving_yards": 139,
+        "receiving_yards": 140,
         "rushing_yards": 84,
-        "total_yards": 310,
+        "total_yards": 311,
         "yet_to_play": [],
         "in_play": [
             "Tyler Higbee"
