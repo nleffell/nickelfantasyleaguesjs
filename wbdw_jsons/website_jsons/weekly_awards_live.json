@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 336,
+        "passing_yards": 378,
         "receiving_yards": 476,
         "rushing_yards": 260,
-        "total_yards": 1072,
+        "total_yards": 1114,
         "yet_to_play": [],
         "in_play": [
             "Matthew Stafford"
@@ -14,8 +14,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 467,
-        "rushing_yards": 227,
-        "total_yards": 1025,
+        "rushing_yards": 230,
+        "total_yards": 1028,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -45,9 +45,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 209,
-        "receiving_yards": 352,
+        "receiving_yards": 373,
         "rushing_yards": 269,
-        "total_yards": 830,
+        "total_yards": 851,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
