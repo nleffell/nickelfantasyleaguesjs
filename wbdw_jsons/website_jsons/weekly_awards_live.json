@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 331,
         "receiving_yards": 440,
-        "rushing_yards": 195,
-        "total_yards": 966,
+        "rushing_yards": 196,
+        "total_yards": 967,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams"
@@ -32,6 +32,17 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 61,
+        "receiving_yards": 476,
+        "rushing_yards": 260,
+        "total_yards": 797,
+        "yet_to_play": [],
+        "in_play": [
+            "Matthew Stafford"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 190,
         "receiving_yards": 337,
@@ -39,17 +50,6 @@
         "total_yards": 790,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 52,
-        "receiving_yards": 476,
-        "rushing_yards": 260,
-        "total_yards": 788,
-        "yet_to_play": [],
-        "in_play": [
-            "Matthew Stafford"
-        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -96,9 +96,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 195,
-        "receiving_yards": 321,
-        "rushing_yards": 38,
-        "total_yards": 554,
+        "receiving_yards": 330,
+        "rushing_yards": 48,
+        "total_yards": 573,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum"
