@@ -6,9 +6,7 @@
         "rushing_yards": 260,
         "total_yards": 1119,
         "yet_to_play": [],
-        "in_play": [
-            "Matthew Stafford"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -17,9 +15,7 @@
         "rushing_yards": 230,
         "total_yards": 1028,
         "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -28,11 +24,7 @@
         "rushing_yards": 301,
         "total_yards": 889,
         "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Puka Nacua",
-            "Khalil Shakir"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -50,10 +42,7 @@
         "rushing_yards": 228,
         "total_yards": 858,
         "yet_to_play": [],
-        "in_play": [
-            "Davante Adams",
-            "Konata Mumpfield"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -62,9 +51,7 @@
         "rushing_yards": 198,
         "total_yards": 803,
         "yet_to_play": [],
-        "in_play": [
-            "James Cook"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -82,9 +69,7 @@
         "rushing_yards": 141,
         "total_yards": 724,
         "yet_to_play": [],
-        "in_play": [
-            "Keon Coleman"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -93,9 +78,7 @@
         "rushing_yards": 89,
         "total_yards": 678,
         "yet_to_play": [],
-        "in_play": [
-            "Dalton Kincaid"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -113,9 +96,7 @@
         "rushing_yards": 51,
         "total_yards": 610,
         "yet_to_play": [],
-        "in_play": [
-            "Blake Corum"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -124,8 +105,6 @@
         "rushing_yards": 84,
         "total_yards": 385,
         "yet_to_play": [],
-        "in_play": [
-            "Tyler Higbee"
-        ]
+        "in_play": []
     }
 ]
