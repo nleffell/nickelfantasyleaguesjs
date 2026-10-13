@@ -5,10 +5,10 @@
         "receiving_yards": 440,
         "rushing_yards": 181,
         "total_yards": 952,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Kyren Williams"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -25,11 +25,11 @@
         "receiving_yards": 212,
         "rushing_yards": 228,
         "total_yards": 807,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Davante Adams",
             "Konata Mumpfield"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -42,14 +42,14 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 0,
+        "passing_yards": 11,
         "receiving_yards": 476,
         "rushing_yards": 260,
-        "total_yards": 736,
-        "yet_to_play": [
+        "total_yards": 747,
+        "yet_to_play": [],
+        "in_play": [
             "Matthew Stafford"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -57,10 +57,10 @@
         "receiving_yards": 260,
         "rushing_yards": 141,
         "total_yards": 717,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Keon Coleman"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -68,10 +68,10 @@
         "receiving_yards": 327,
         "rushing_yards": 90,
         "total_yards": 688,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "James Cook"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -79,10 +79,10 @@
         "receiving_yards": 461,
         "rushing_yards": 89,
         "total_yards": 671,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Dalton Kincaid"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -99,23 +99,23 @@
         "receiving_yards": 311,
         "rushing_yards": 32,
         "total_yards": 538,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Blake Corum"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 160,
+        "receiving_yards": 168,
         "rushing_yards": 171,
-        "total_yards": 331,
-        "yet_to_play": [
+        "total_yards": 339,
+        "yet_to_play": [],
+        "in_play": [
             "Josh Allen",
             "Puka Nacua",
             "Khalil Shakir"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -123,9 +123,9 @@
         "receiving_yards": 131,
         "rushing_yards": 84,
         "total_yards": 302,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Tyler Higbee"
-        ],
-        "in_play": []
+        ]
     }
 ]
