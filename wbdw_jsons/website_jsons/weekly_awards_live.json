@@ -12,10 +12,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 153,
+        "passing_yards": 225,
         "receiving_yards": 476,
         "rushing_yards": 260,
-        "total_yards": 889,
+        "total_yards": 961,
         "yet_to_play": [],
         "in_play": [
             "Matthew Stafford"
@@ -96,9 +96,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 195,
-        "receiving_yards": 330,
+        "receiving_yards": 364,
         "rushing_yards": 51,
-        "total_yards": 576,
+        "total_yards": 610,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum"
@@ -107,9 +107,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 98,
-        "receiving_yards": 238,
+        "receiving_yards": 248,
         "rushing_yards": 210,
-        "total_yards": 546,
+        "total_yards": 556,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
@@ -120,9 +120,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 87,
-        "receiving_yards": 156,
+        "receiving_yards": 184,
         "rushing_yards": 84,
-        "total_yards": 327,
+        "total_yards": 355,
         "yet_to_play": [],
         "in_play": [
             "Tyler Higbee"
