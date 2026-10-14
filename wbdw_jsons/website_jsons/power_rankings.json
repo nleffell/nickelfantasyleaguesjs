@@ -35,20 +35,20 @@
         "TE Starter Rank": 9,
         "FLEX Starter Rank": 11,
         "Backup QB Rank": 6,
-        "projected_points": 2029.1,
-        "qb_proj": 310.4,
-        "rb_proj": 463.9,
-        "wr_proj": 435.5,
-        "te_proj": 158.9,
+        "projected_points": 2026.9,
+        "qb_proj": 308.9,
+        "rb_proj": 463.70000000000005,
+        "wr_proj": 435.79999999999995,
+        "te_proj": 158.1,
         "flex_proj": 660.4
     },
     {
         "Team": "Russini\u2019s Receipts",
         "Owner": "Chad Hill",
-        "Overall Value": 22022.5,
+        "Overall Value": 22025.5,
         "Starter Value": 17059.25,
         "QB Value": 1531.0,
-        "RB Value": 7342.5,
+        "RB Value": 7345.5,
         "WR Value": 8520.0,
         "TE Value": 239.5,
         "Draft Capital Value": 4389.5,
@@ -60,7 +60,7 @@
         "Average Age": 26.6,
         "Starter Average Age": 25.2,
         "QB Average Age": 27.0,
-        "RB Average Age": 24.7,
+        "RB Average Age": 24.9,
         "WR Average Age": 26.6,
         "TE Average Age": 31.6,
         "Top Valued Draft Pick": "2027 1st",
@@ -78,12 +78,12 @@
         "TE Starter Rank": 12,
         "FLEX Starter Rank": 12,
         "Backup QB Rank": 12,
-        "projected_points": 1369.7,
-        "qb_proj": 228.2,
-        "rb_proj": 275.5,
-        "wr_proj": 347.0,
-        "te_proj": 109.6,
-        "flex_proj": 409.4
+        "projected_points": 1369.5,
+        "qb_proj": 228.1,
+        "rb_proj": 274.8,
+        "wr_proj": 347.8,
+        "te_proj": 109.9,
+        "flex_proj": 408.9
     },
     {
         "Team": "Teamy McTeamface",
@@ -121,12 +121,12 @@
         "TE Starter Rank": 2,
         "FLEX Starter Rank": 10,
         "Backup QB Rank": 9,
-        "projected_points": 1646.0,
-        "qb_proj": 212.4,
-        "rb_proj": 306.1,
-        "wr_proj": 402.0,
-        "te_proj": 207.4,
-        "flex_proj": 518.1
+        "projected_points": 1647.9,
+        "qb_proj": 211.8,
+        "rb_proj": 306.6,
+        "wr_proj": 403.5,
+        "te_proj": 206.8,
+        "flex_proj": 519.2
     },
     {
         "Team": "Darts Inside",
@@ -164,12 +164,12 @@
         "TE Starter Rank": 3,
         "FLEX Starter Rank": 5,
         "Backup QB Rank": 11,
-        "projected_points": 1569.2,
-        "qb_proj": 169.0,
-        "rb_proj": 279.0,
-        "wr_proj": 464.4,
-        "te_proj": 161.7,
-        "flex_proj": 495.1
+        "projected_points": 1570.7,
+        "qb_proj": 168.9,
+        "rb_proj": 279.2,
+        "wr_proj": 465.8,
+        "te_proj": 161.6,
+        "flex_proj": 495.20000000000005
     },
     {
         "Team": "Damn She Purdy",
@@ -207,12 +207,12 @@
         "TE Starter Rank": 8,
         "FLEX Starter Rank": 6,
         "Backup QB Rank": 5,
-        "projected_points": 1727.5,
-        "qb_proj": 222.3,
-        "rb_proj": 368.2,
-        "wr_proj": 457.6,
-        "te_proj": 128.0,
-        "flex_proj": 551.4
+        "projected_points": 1729.2,
+        "qb_proj": 222.7,
+        "rb_proj": 368.7,
+        "wr_proj": 457.8,
+        "te_proj": 128.4,
+        "flex_proj": 551.6
     },
     {
         "Team": "Team Name Redacted",
@@ -250,12 +250,12 @@
         "TE Starter Rank": 7,
         "FLEX Starter Rank": 9,
         "Backup QB Rank": 3,
-        "projected_points": 1493.3,
-        "qb_proj": 224.1,
-        "rb_proj": 211.9,
-        "wr_proj": 480.0,
+        "projected_points": 1490.9,
+        "qb_proj": 223.0,
+        "rb_proj": 212.0,
+        "wr_proj": 479.3,
         "te_proj": 97.3,
-        "flex_proj": 480.0
+        "flex_proj": 479.3
     },
     {
         "Team": "I\u2019m All En",
@@ -293,12 +293,12 @@
         "TE Starter Rank": 4,
         "FLEX Starter Rank": 8,
         "Backup QB Rank": 1,
-        "projected_points": 2109.9,
-        "qb_proj": 278.0,
-        "rb_proj": 360.5,
-        "wr_proj": 652.0,
+        "projected_points": 2104.5,
+        "qb_proj": 276.7,
+        "rb_proj": 354.7,
+        "wr_proj": 652.4000000000001,
         "te_proj": 114.6,
-        "flex_proj": 704.8
+        "flex_proj": 706.1
     },
     {
         "Team": "Dan Patrick and the Gang",
@@ -336,12 +336,12 @@
         "TE Starter Rank": 11,
         "FLEX Starter Rank": 4,
         "Backup QB Rank": 7,
-        "projected_points": 2079.9,
-        "qb_proj": 223.8,
-        "rb_proj": 474.5,
-        "wr_proj": 587.5,
-        "te_proj": 110.0,
-        "flex_proj": 684.1
+        "projected_points": 2080.1,
+        "qb_proj": 223.7,
+        "rb_proj": 475.3,
+        "wr_proj": 587.0,
+        "te_proj": 109.6,
+        "flex_proj": 684.5
     },
     {
         "Team": "Ron Mexico ",
@@ -379,12 +379,12 @@
         "TE Starter Rank": 1,
         "FLEX Starter Rank": 7,
         "Backup QB Rank": 10,
-        "projected_points": 2380.1,
-        "qb_proj": 219.8,
-        "rb_proj": 545.2,
-        "wr_proj": 608.0,
-        "te_proj": 207.2,
-        "flex_proj": 799.9
+        "projected_points": 2352.2000000000003,
+        "qb_proj": 219.6,
+        "rb_proj": 529.9000000000001,
+        "wr_proj": 607.2,
+        "te_proj": 206.8,
+        "flex_proj": 788.7
     },
     {
         "Team": "no team name",
@@ -422,12 +422,12 @@
         "TE Starter Rank": 5,
         "FLEX Starter Rank": 2,
         "Backup QB Rank": 8,
-        "projected_points": 2059.9,
-        "qb_proj": 189.8,
-        "rb_proj": 445.6,
-        "wr_proj": 603.7,
-        "te_proj": 151.0,
-        "flex_proj": 669.8
+        "projected_points": 2064.4,
+        "qb_proj": 189.5,
+        "rb_proj": 447.6,
+        "wr_proj": 605.3,
+        "te_proj": 149.9,
+        "flex_proj": 672.1
     },
     {
         "Team": "Anyone Want Bijan?",
@@ -465,12 +465,12 @@
         "TE Starter Rank": 6,
         "FLEX Starter Rank": 1,
         "Backup QB Rank": 4,
-        "projected_points": 2014.4,
-        "qb_proj": 225.9,
-        "rb_proj": 497.7,
-        "wr_proj": 448.9,
-        "te_proj": 140.5,
-        "flex_proj": 701.4
+        "projected_points": 2013.2,
+        "qb_proj": 225.7,
+        "rb_proj": 497.3,
+        "wr_proj": 449.9,
+        "te_proj": 139.9,
+        "flex_proj": 700.4
     },
     {
         "Team": "Good Morning Ladies",
@@ -508,11 +508,11 @@
         "TE Starter Rank": 10,
         "FLEX Starter Rank": 3,
         "Backup QB Rank": 2,
-        "projected_points": 1866.2,
-        "qb_proj": 226.2,
-        "rb_proj": 245.9,
-        "wr_proj": 623.4,
-        "te_proj": 147.3,
-        "flex_proj": 623.4
+        "projected_points": 1867.8,
+        "qb_proj": 226.6,
+        "rb_proj": 246.39999999999998,
+        "wr_proj": 623.6,
+        "te_proj": 147.6,
+        "flex_proj": 623.6
     }
 ]
