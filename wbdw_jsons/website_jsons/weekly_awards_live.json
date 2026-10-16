@@ -42,6 +42,27 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 12,
+        "total_yards": 12,
+        "yet_to_play": [
+            "Drake Maye",
+            "Bhayshul Tuten",
+            "Zay Flowers",
+            "DK Metcalf",
+            "DeVonta Smith",
+            "Juwan Johnson",
+            "George Kittle",
+            "Xavier Worthy",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "J.K. Dobbins"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 11,
@@ -60,27 +81,6 @@
         "in_play": [
             "Jaxon Smith-Njigba",
             "AJ Barner"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 8,
-        "total_yards": 8,
-        "yet_to_play": [
-            "Drake Maye",
-            "Bhayshul Tuten",
-            "Zay Flowers",
-            "DK Metcalf",
-            "DeVonta Smith",
-            "Juwan Johnson",
-            "George Kittle",
-            "Xavier Worthy",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "J.K. Dobbins"
         ]
     },
     {
