@@ -21,6 +21,27 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 15,
+        "rushing_yards": 45,
+        "total_yards": 60,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Mark Andrews",
+            "Mike Evans",
+            "Kyren Williams",
+            "Terry McLaurin"
+        ],
+        "in_play": [
+            "Emanuel Wilson",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 60,
@@ -39,27 +60,6 @@
         "in_play": [
             "Jaxon Smith-Njigba",
             "AJ Barner"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 15,
-        "rushing_yards": 33,
-        "total_yards": 48,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Mark Andrews",
-            "Mike Evans",
-            "Kyren Williams",
-            "Terry McLaurin"
-        ],
-        "in_play": [
-            "Emanuel Wilson",
-            "Jaylen Waddle"
         ]
     },
     {
