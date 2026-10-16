@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 53,
+        "receiving_yards": 0,
+        "rushing_yards": 0,
+        "total_yards": 53,
+        "yet_to_play": [
+            "Blake Corum",
+            "Dameon Pierce",
+            "Carnell Tate",
+            "Parker Washington",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Omarion Hampton",
+            "Ted Hurst",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Sam Darnold"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
         "receiving_yards": 15,
@@ -42,32 +63,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 32,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 32,
-        "yet_to_play": [
-            "Blake Corum",
-            "Dameon Pierce",
-            "Carnell Tate",
-            "Parker Washington",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Omarion Hampton",
-            "Ted Hurst",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Sam Darnold"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 13,
+        "receiving_yards": 34,
         "rushing_yards": 0,
-        "total_yards": 13,
+        "total_yards": 34,
         "yet_to_play": [
             "Bryce Young",
             "Jeremiyah Love",
