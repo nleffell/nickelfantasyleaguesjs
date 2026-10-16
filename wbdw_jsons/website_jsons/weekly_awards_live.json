@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 15,
+        "rushing_yards": 30,
+        "total_yards": 45,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Mark Andrews",
+            "Mike Evans",
+            "Kyren Williams",
+            "Terry McLaurin"
+        ],
+        "in_play": [
+            "Emanuel Wilson",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -18,27 +39,6 @@
         ],
         "in_play": [
             "J.K. Dobbins"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 15,
-        "rushing_yards": 19,
-        "total_yards": 34,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Mark Andrews",
-            "Mike Evans",
-            "Kyren Williams",
-            "Terry McLaurin"
-        ],
-        "in_play": [
-            "Emanuel Wilson",
-            "Jaylen Waddle"
         ]
     },
     {
