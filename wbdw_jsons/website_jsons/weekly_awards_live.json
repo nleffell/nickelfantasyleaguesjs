@@ -1,5 +1,85 @@
 [
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 20,
+        "receiving_yards": 0,
+        "rushing_yards": 0,
+        "total_yards": 20,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Dameon Pierce",
+            "Carnell Tate",
+            "Parker Washington",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Omarion Hampton",
+            "Ted Hurst",
+            "Tre Tucker"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 0,
+        "receiving_yards": 8,
+        "rushing_yards": 0,
+        "total_yards": 8,
+        "yet_to_play": [
+            "Bryce Young",
+            "Jeremiyah Love",
+            "Alvin Kamara",
+            "Luther Burden",
+            "Cooper Kupp",
+            "Dontayvion Wicks",
+            "Tyler Higbee",
+            "Ty Johnson",
+            "Kaleb Johnson",
+            "DeMario Douglas"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 5,
+        "total_yards": 5,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Bijan Robinson",
+            "Emanuel Wilson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Jaylen Waddle",
+            "Mark Andrews",
+            "Mike Evans",
+            "Kyren Williams",
+            "Terry McLaurin"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 5,
+        "rushing_yards": 0,
+        "total_yards": 5,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "D'Andre Swift",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Chris Godwin",
+            "Tetairoa McMillan",
+            "Brock Bowers",
+            "Pat Freiermuth",
+            "Darren Waller",
+            "AJ Barner"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -60,26 +140,6 @@
         "in_play": []
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Bryce Young",
-            "Jeremiyah Love",
-            "Alvin Kamara",
-            "Luther Burden",
-            "Cooper Kupp",
-            "Dontayvion Wicks",
-            "Tyler Higbee",
-            "Ty Johnson",
-            "Kaleb Johnson",
-            "DeMario Douglas"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -120,26 +180,6 @@
         "in_play": []
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Emanuel Wilson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Jaylen Waddle",
-            "Mark Andrews",
-            "Mike Evans",
-            "Kyren Williams",
-            "Terry McLaurin"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -156,46 +196,6 @@
             "Kendre Miller",
             "Cam Skattebo",
             "Jake Ferguson"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Matthew Stafford",
-            "D'Andre Swift",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Chris Godwin",
-            "Tetairoa McMillan",
-            "Brock Bowers",
-            "Pat Freiermuth",
-            "Darren Waller",
-            "AJ Barner"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Dameon Pierce",
-            "Carnell Tate",
-            "Parker Washington",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Omarion Hampton",
-            "Ted Hurst",
-            "Tre Tucker"
         ],
         "in_play": []
     },
