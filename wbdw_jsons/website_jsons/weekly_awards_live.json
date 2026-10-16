@@ -1,10 +1,10 @@
 [
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 238,
+        "passing_yards": 273,
         "receiving_yards": 0,
         "rushing_yards": 19,
-        "total_yards": 257,
+        "total_yards": 292,
         "yet_to_play": [
             "Blake Corum",
             "Dameon Pierce",
@@ -23,9 +23,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 137,
+        "receiving_yards": 145,
         "rushing_yards": 0,
-        "total_yards": 137,
+        "total_yards": 145,
         "yet_to_play": [
             "Matthew Stafford",
             "D'Andre Swift",
@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 0,
+        "receiving_yards": 50,
+        "rushing_yards": 0,
+        "total_yards": 50,
+        "yet_to_play": [
+            "Bryce Young",
+            "Jeremiyah Love",
+            "Alvin Kamara",
+            "Luther Burden",
+            "Dontayvion Wicks",
+            "Tyler Higbee",
+            "Ty Johnson",
+            "Kaleb Johnson",
+            "DeMario Douglas"
+        ],
+        "in_play": [
+            "Cooper Kupp"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 5,
@@ -81,27 +102,6 @@
         ],
         "in_play": [
             "J.K. Dobbins"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 33,
-        "rushing_yards": 0,
-        "total_yards": 33,
-        "yet_to_play": [
-            "Bryce Young",
-            "Jeremiyah Love",
-            "Alvin Kamara",
-            "Luther Burden",
-            "Dontayvion Wicks",
-            "Tyler Higbee",
-            "Ty Johnson",
-            "Kaleb Johnson",
-            "DeMario Douglas"
-        ],
-        "in_play": [
-            "Cooper Kupp"
         ]
     },
     {
