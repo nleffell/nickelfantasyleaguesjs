@@ -1,10 +1,10 @@
 [
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 53,
+        "passing_yards": 52,
         "receiving_yards": 0,
         "rushing_yards": 0,
-        "total_yards": 53,
+        "total_yards": 52,
         "yet_to_play": [
             "Blake Corum",
             "Dameon Pierce",
@@ -65,9 +65,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 34,
+        "receiving_yards": 33,
         "rushing_yards": 0,
-        "total_yards": 34,
+        "total_yards": 33,
         "yet_to_play": [
             "Bryce Young",
             "Jeremiyah Love",
