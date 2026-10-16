@@ -16,9 +16,7 @@
             "Ted Hurst",
             "Tre Tucker"
         ],
-        "in_play": [
-            "Sam Darnold"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -36,10 +34,7 @@
             "Pat Freiermuth",
             "Darren Waller"
         ],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "AJ Barner"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -57,10 +52,7 @@
             "Kyren Williams",
             "Terry McLaurin"
         ],
-        "in_play": [
-            "Emanuel Wilson",
-            "Jaylen Waddle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -79,9 +71,7 @@
             "Kaleb Johnson",
             "DeMario Douglas"
         ],
-        "in_play": [
-            "Cooper Kupp"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -100,9 +90,7 @@
             "Xavier Worthy",
             "Michael Wilson"
         ],
-        "in_play": [
-            "J.K. Dobbins"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
