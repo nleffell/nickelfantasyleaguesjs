@@ -44,9 +44,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 281,
-        "receiving_yards": 272,
+        "receiving_yards": 278,
         "rushing_yards": 105,
-        "total_yards": 658,
+        "total_yards": 664,
         "yet_to_play": [],
         "in_play": [
             "Mike Washington",
@@ -72,9 +72,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
-        "receiving_yards": 148,
+        "receiving_yards": 155,
         "rushing_yards": 179,
-        "total_yards": 633,
+        "total_yards": 640,
         "yet_to_play": [
             "Mike Evans",
             "Terry McLaurin"
@@ -85,16 +85,33 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 187,
+        "passing_yards": 216,
         "receiving_yards": 333,
         "rushing_yards": 44,
-        "total_yards": 564,
+        "total_yards": 593,
         "yet_to_play": [
             "Javonte Williams"
         ],
         "in_play": [
             "Matthew Stafford",
             "Brock Bowers"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 191,
+        "receiving_yards": 250,
+        "rushing_yards": 98,
+        "total_yards": 539,
+        "yet_to_play": [
+            "CeeDee Lamb",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
+            "Khalil Shakir",
+            "Puka Nacua"
         ]
     },
     {
@@ -113,23 +130,6 @@
             "Ashton Jeanty",
             "Dalton Kincaid",
             "Ladd McConkey"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 175,
-        "receiving_yards": 218,
-        "rushing_yards": 98,
-        "total_yards": 491,
-        "yet_to_play": [
-            "CeeDee Lamb",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
-            "Khalil Shakir",
-            "Puka Nacua"
         ]
     },
     {
