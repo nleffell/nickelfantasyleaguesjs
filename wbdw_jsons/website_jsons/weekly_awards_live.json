@@ -19,9 +19,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
-        "receiving_yards": 125,
+        "receiving_yards": 153,
         "rushing_yards": 46,
-        "total_yards": 449,
+        "total_yards": 477,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -33,6 +33,25 @@
             "Devaughn Vele",
             "Harold Fannin",
             "Ted Hurst"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 294,
+        "rushing_yards": 40,
+        "total_yards": 334,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "Javonte Williams",
+            "Brock Bowers"
+        ],
+        "in_play": [
+            "D'Andre Swift",
+            "Chris Godwin",
+            "Tetairoa McMillan",
+            "Pat Freiermuth",
+            "Darren Waller"
         ]
     },
     {
@@ -55,30 +74,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 273,
-        "rushing_yards": 40,
-        "total_yards": 313,
-        "yet_to_play": [
-            "Matthew Stafford",
-            "Javonte Williams",
-            "Brock Bowers"
-        ],
-        "in_play": [
-            "D'Andre Swift",
-            "Chris Godwin",
-            "Tetairoa McMillan",
-            "Pat Freiermuth",
-            "Darren Waller"
-        ]
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 132,
+        "passing_yards": 162,
         "receiving_yards": 102,
         "rushing_yards": 22,
-        "total_yards": 256,
+        "total_yards": 286,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -95,10 +95,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 37,
+        "passing_yards": 56,
         "receiving_yards": 138,
-        "rushing_yards": 64,
-        "total_yards": 239,
+        "rushing_yards": 68,
+        "total_yards": 262,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
@@ -136,9 +136,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 117,
+        "receiving_yards": 126,
         "rushing_yards": 90,
-        "total_yards": 207,
+        "total_yards": 216,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -156,9 +156,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 97,
+        "receiving_yards": 96,
         "rushing_yards": 66,
-        "total_yards": 163,
+        "total_yards": 162,
         "yet_to_play": [
             "Patrick Mahomes",
             "George Pickens",
