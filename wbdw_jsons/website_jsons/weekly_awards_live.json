@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
-        "receiving_yards": 105,
+        "receiving_yards": 109,
         "rushing_yards": 106,
-        "total_yards": 517,
+        "total_yards": 521,
         "yet_to_play": [
             "Mike Evans",
             "Kyren Williams",
@@ -38,9 +38,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 264,
+        "receiving_yards": 263,
         "rushing_yards": 24,
-        "total_yards": 288,
+        "total_yards": 287,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -56,10 +56,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 117,
+        "passing_yards": 128,
         "receiving_yards": 102,
         "rushing_yards": 22,
-        "total_yards": 241,
+        "total_yards": 252,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -77,9 +77,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 69,
-        "receiving_yards": 87,
+        "receiving_yards": 89,
         "rushing_yards": 84,
-        "total_yards": 240,
+        "total_yards": 242,
         "yet_to_play": [
             "George Kittle",
             "Xavier Worthy",
@@ -91,6 +91,26 @@
             "DK Metcalf",
             "DeVonta Smith",
             "Juwan Johnson"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 173,
+        "rushing_yards": 63,
+        "total_yards": 236,
+        "yet_to_play": [
+            "Jordan Love",
+            "Christian McCaffrey",
+            "Davante Adams",
+            "Travis Kelce",
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "Keenan Allen",
+            "Isaiah Likely",
+            "Tony Pollard"
         ]
     },
     {
@@ -111,26 +131,6 @@
             "A.J. Brown",
             "Josh Downs",
             "Rome Odunze"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 162,
-        "rushing_yards": 63,
-        "total_yards": 225,
-        "yet_to_play": [
-            "Jordan Love",
-            "Christian McCaffrey",
-            "Davante Adams",
-            "Travis Kelce",
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "Keenan Allen",
-            "Isaiah Likely",
-            "Tony Pollard"
         ]
     },
     {
@@ -174,6 +174,26 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 105,
+        "rushing_yards": 54,
+        "total_yards": 159,
+        "yet_to_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
+            "CeeDee Lamb",
+            "Khalil Shakir",
+            "Puka Nacua",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Jaylen Warren",
+            "Rico Dowdle",
+            "Colston Loveland"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 41,
@@ -194,31 +214,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 81,
-        "rushing_yards": 51,
-        "total_yards": 132,
-        "yet_to_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
-            "CeeDee Lamb",
-            "Khalil Shakir",
-            "Puka Nacua",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Jaylen Warren",
-            "Rico Dowdle",
-            "Colston Loveland"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 45,
+        "receiving_yards": 57,
         "rushing_yards": 23,
-        "total_yards": 68,
+        "total_yards": 80,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
