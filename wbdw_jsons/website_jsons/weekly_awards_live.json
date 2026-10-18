@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 338,
+        "receiving_yards": 348,
         "rushing_yards": 105,
-        "total_yards": 678,
+        "total_yards": 688,
         "yet_to_play": [
             "George Kittle"
         ],
@@ -17,8 +17,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 283,
-        "rushing_yards": 79,
-        "total_yards": 640,
+        "rushing_yards": 83,
+        "total_yards": 644,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum",
@@ -57,9 +57,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 102,
-        "receiving_yards": 225,
-        "rushing_yards": 179,
-        "total_yards": 506,
+        "receiving_yards": 234,
+        "rushing_yards": 194,
+        "total_yards": 530,
         "yet_to_play": [
             "Tucker Kraft"
         ],
@@ -114,6 +114,23 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 112,
+        "receiving_yards": 162,
+        "rushing_yards": 95,
+        "total_yards": 369,
+        "yet_to_play": [
+            "CeeDee Lamb",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
+            "Khalil Shakir",
+            "Puka Nacua"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 236,
@@ -124,23 +141,6 @@
         ],
         "in_play": [
             "Kendrick Bourne"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 77,
-        "receiving_yards": 162,
-        "rushing_yards": 92,
-        "total_yards": 331,
-        "yet_to_play": [
-            "CeeDee Lamb",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
-            "Khalil Shakir",
-            "Puka Nacua"
         ]
     },
     {
@@ -164,9 +164,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 104,
+        "receiving_yards": 125,
         "rushing_yards": 162,
-        "total_yards": 266,
+        "total_yards": 287,
         "yet_to_play": [
             "Dak Prescott",
             "Jake Ferguson"
