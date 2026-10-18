@@ -37,8 +37,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 150,
-        "rushing_yards": 0,
-        "total_yards": 150,
+        "rushing_yards": 4,
+        "total_yards": 154,
         "yet_to_play": [
             "Matthew Stafford",
             "D'Andre Swift",
@@ -54,9 +54,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 53,
+        "receiving_yards": 58,
         "rushing_yards": 80,
-        "total_yards": 133,
+        "total_yards": 138,
         "yet_to_play": [
             "Drake Maye",
             "Zay Flowers",
@@ -73,8 +73,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 83,
-        "rushing_yards": 0,
-        "total_yards": 83,
+        "rushing_yards": 11,
+        "total_yards": 94,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey",
@@ -108,11 +108,30 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 60,
+        "rushing_yards": 0,
+        "total_yards": 60,
+        "yet_to_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Khalil Shakir",
+            "Puka Nacua",
+            "Rico Dowdle",
+            "Rachaad White",
+            "Colston Loveland"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 0,
-        "rushing_yards": 55,
-        "total_yards": 55,
+        "rushing_yards": 56,
+        "total_yards": 56,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
@@ -146,29 +165,10 @@
         "in_play": []
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 44,
-        "rushing_yards": 0,
-        "total_yards": 44,
-        "yet_to_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Khalil Shakir",
-            "Puka Nacua",
-            "Rico Dowdle",
-            "Rachaad White",
-            "Colston Loveland"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 1,
+        "receiving_yards": -2,
+        "rushing_yards": 3,
         "total_yards": 1,
         "yet_to_play": [
             "Patrick Mahomes",
