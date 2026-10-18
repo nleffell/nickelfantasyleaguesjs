@@ -17,6 +17,25 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 235,
+        "receiving_yards": 189,
+        "rushing_yards": 106,
+        "total_yards": 530,
+        "yet_to_play": [
+            "George Kittle",
+            "Xavier Worthy",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Zay Flowers",
+            "DK Metcalf",
+            "DeVonta Smith",
+            "Juwan Johnson"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 198,
@@ -36,30 +55,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 221,
-        "receiving_yards": 189,
-        "rushing_yards": 106,
-        "total_yards": 516,
-        "yet_to_play": [
-            "George Kittle",
-            "Xavier Worthy",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "Zay Flowers",
-            "DK Metcalf",
-            "DeVonta Smith",
-            "Juwan Johnson"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 226,
-        "receiving_yards": 192,
+        "receiving_yards": 218,
         "rushing_yards": 80,
-        "total_yards": 498,
+        "total_yards": 524,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -77,9 +77,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 96,
-        "receiving_yards": 219,
+        "receiving_yards": 225,
         "rushing_yards": 108,
-        "total_yards": 423,
+        "total_yards": 429,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
@@ -117,8 +117,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 203,
-        "rushing_yards": 119,
-        "total_yards": 322,
+        "rushing_yards": 124,
+        "total_yards": 327,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey",
@@ -136,9 +136,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 203,
-        "rushing_yards": 101,
-        "total_yards": 304,
+        "receiving_yards": 208,
+        "rushing_yards": 100,
+        "total_yards": 308,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -156,9 +156,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 150,
+        "receiving_yards": 206,
         "rushing_yards": 79,
-        "total_yards": 229,
+        "total_yards": 285,
         "yet_to_play": [
             "Patrick Mahomes",
             "George Pickens",
@@ -177,8 +177,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 56,
-        "rushing_yards": 151,
-        "total_yards": 207,
+        "rushing_yards": 148,
+        "total_yards": 204,
         "yet_to_play": [
             "Dak Prescott",
             "Keon Coleman",
@@ -197,8 +197,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 131,
-        "rushing_yards": 56,
-        "total_yards": 187,
+        "rushing_yards": 61,
+        "total_yards": 192,
         "yet_to_play": [
             "Josh Allen",
             "Keaton Mitchell",
