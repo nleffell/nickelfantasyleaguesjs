@@ -9,9 +9,21 @@
             "George Kittle"
         ],
         "in_play": [
-            "DK Metcalf",
             "Xavier Worthy",
             "Michael Wilson"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 278,
+        "receiving_yards": 283,
+        "rushing_yards": 79,
+        "total_yards": 640,
+        "yet_to_play": [],
+        "in_play": [
+            "Blake Corum",
+            "Omarion Hampton",
+            "Tre Tucker"
         ]
     },
     {
@@ -26,20 +38,6 @@
             "Tyler Higbee",
             "Ty Johnson",
             "Jalen Royals"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 278,
-        "receiving_yards": 269,
-        "rushing_yards": 71,
-        "total_yards": 618,
-        "yet_to_play": [],
-        "in_play": [
-            "Blake Corum",
-            "Omarion Hampton",
-            "Ted Hurst",
-            "Tre Tucker"
         ]
     },
     {
@@ -82,9 +80,21 @@
         ],
         "in_play": [
             "Patrick Mahomes",
-            "Emeka Egbuka",
-            "Michael Mayer",
-            "Cade Otton"
+            "Michael Mayer"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 60,
+        "receiving_yards": 310,
+        "rushing_yards": 44,
+        "total_yards": 414,
+        "yet_to_play": [
+            "Javonte Williams"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Brock Bowers"
         ]
     },
     {
@@ -104,22 +114,6 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 40,
-        "receiving_yards": 310,
-        "rushing_yards": 44,
-        "total_yards": 394,
-        "yet_to_play": [
-            "Javonte Williams"
-        ],
-        "in_play": [
-            "Matthew Stafford",
-            "Chris Godwin",
-            "Brock Bowers",
-            "Pat Freiermuth"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 231,
@@ -129,17 +123,15 @@
             "Brock Purdy"
         ],
         "in_play": [
-            "Bucky Irving",
-            "Kendrick Bourne",
-            "Darnell Washington"
+            "Kendrick Bourne"
         ]
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 74,
-        "receiving_yards": 146,
+        "passing_yards": 77,
+        "receiving_yards": 150,
         "rushing_yards": 92,
-        "total_yards": 312,
+        "total_yards": 319,
         "yet_to_play": [
             "CeeDee Lamb",
             "Rachaad White"
@@ -147,18 +139,16 @@
         "in_play": [
             "Josh Allen",
             "Keaton Mitchell",
-            "Jaylen Warren",
             "Khalil Shakir",
-            "Puka Nacua",
-            "Rico Dowdle"
+            "Puka Nacua"
         ]
     },
     {
         "owner": "Ryan Shannon",
         "passing_yards": 49,
-        "receiving_yards": 123,
+        "receiving_yards": 126,
         "rushing_yards": 135,
-        "total_yards": 307,
+        "total_yards": 310,
         "yet_to_play": [
             "Christian Watson",
             "MarShawn Lloyd",
