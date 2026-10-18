@@ -70,10 +70,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 73,
+        "passing_yards": 77,
         "receiving_yards": 312,
         "rushing_yards": 79,
-        "total_yards": 464,
+        "total_yards": 468,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -116,9 +116,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 231,
+        "receiving_yards": 236,
         "rushing_yards": 101,
-        "total_yards": 332,
+        "total_yards": 337,
         "yet_to_play": [
             "Brock Purdy"
         ],
