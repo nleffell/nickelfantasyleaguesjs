@@ -20,8 +20,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 125,
-        "rushing_yards": 33,
-        "total_yards": 436,
+        "rushing_yards": 43,
+        "total_yards": 446,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -36,11 +36,30 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 121,
+        "receiving_yards": 113,
+        "rushing_yards": 84,
+        "total_yards": 318,
+        "yet_to_play": [
+            "George Kittle",
+            "Xavier Worthy",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Zay Flowers",
+            "DK Metcalf",
+            "DeVonta Smith",
+            "Juwan Johnson"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 263,
-        "rushing_yards": 24,
-        "total_yards": 287,
+        "rushing_yards": 26,
+        "total_yards": 289,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -75,22 +94,23 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 69,
-        "receiving_yards": 89,
-        "rushing_yards": 84,
-        "total_yards": 242,
+        "owner": "Brian Fuquay",
+        "passing_yards": 37,
+        "receiving_yards": 138,
+        "rushing_yards": 64,
+        "total_yards": 239,
         "yet_to_play": [
-            "George Kittle",
-            "Xavier Worthy",
-            "Michael Wilson"
+            "Kenneth Walker",
+            "Tucker Kraft",
+            "James Cook"
         ],
         "in_play": [
-            "Drake Maye",
-            "Zay Flowers",
-            "DK Metcalf",
-            "DeVonta Smith",
-            "Juwan Johnson"
+            "Cam Ward",
+            "Jonathan Taylor",
+            "Drake London",
+            "A.J. Brown",
+            "Josh Downs",
+            "Rome Odunze"
         ]
     },
     {
@@ -114,31 +134,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 37,
-        "receiving_yards": 123,
-        "rushing_yards": 65,
-        "total_yards": 225,
-        "yet_to_play": [
-            "Kenneth Walker",
-            "Tucker Kraft",
-            "James Cook"
-        ],
-        "in_play": [
-            "Cam Ward",
-            "Jonathan Taylor",
-            "Drake London",
-            "A.J. Brown",
-            "Josh Downs",
-            "Rome Odunze"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 97,
-        "rushing_yards": 84,
-        "total_yards": 181,
+        "receiving_yards": 112,
+        "rushing_yards": 90,
+        "total_yards": 202,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
