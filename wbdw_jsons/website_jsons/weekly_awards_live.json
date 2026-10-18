@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 306,
         "receiving_yards": 109,
-        "rushing_yards": 106,
-        "total_yards": 521,
+        "rushing_yards": 119,
+        "total_yards": 534,
         "yet_to_play": [
             "Mike Evans",
             "Kyren Williams",
@@ -20,8 +20,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 125,
-        "rushing_yards": 43,
-        "total_yards": 446,
+        "rushing_yards": 46,
+        "total_yards": 449,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -37,10 +37,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 121,
-        "receiving_yards": 113,
+        "passing_yards": 130,
+        "receiving_yards": 119,
         "rushing_yards": 84,
-        "total_yards": 318,
+        "total_yards": 333,
         "yet_to_play": [
             "George Kittle",
             "Xavier Worthy",
@@ -57,9 +57,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 263,
+        "receiving_yards": 273,
         "rushing_yards": 26,
-        "total_yards": 289,
+        "total_yards": 299,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -75,10 +75,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 128,
+        "passing_yards": 127,
         "receiving_yards": 102,
         "rushing_yards": 22,
-        "total_yards": 252,
+        "total_yards": 251,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -197,8 +197,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 41,
-        "rushing_yards": 97,
-        "total_yards": 138,
+        "rushing_yards": 100,
+        "total_yards": 141,
         "yet_to_play": [
             "Dak Prescott",
             "Keon Coleman",
@@ -217,8 +217,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 57,
-        "rushing_yards": 23,
-        "total_yards": 80,
+        "rushing_yards": 24,
+        "total_yards": 81,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
