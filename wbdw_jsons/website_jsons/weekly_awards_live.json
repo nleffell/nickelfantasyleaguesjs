@@ -19,9 +19,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
-        "receiving_yards": 86,
+        "receiving_yards": 102,
         "rushing_yards": 19,
-        "total_yards": 383,
+        "total_yards": 399,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -38,9 +38,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 198,
-        "rushing_yards": 7,
-        "total_yards": 205,
+        "receiving_yards": 206,
+        "rushing_yards": 15,
+        "total_yards": 221,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -58,8 +58,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 138,
-        "rushing_yards": 45,
-        "total_yards": 183,
+        "rushing_yards": 46,
+        "total_yards": 184,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey",
@@ -96,9 +96,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 48,
-        "receiving_yards": 80,
+        "receiving_yards": 83,
         "rushing_yards": 5,
-        "total_yards": 133,
+        "total_yards": 136,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -114,31 +114,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 31,
-        "rushing_yards": 66,
-        "total_yards": 97,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Keon Coleman",
-            "Trey McBride",
-            "Jake Ferguson"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Kendre Miller",
-            "Cam Skattebo"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 80,
-        "rushing_yards": 2,
-        "total_yards": 82,
+        "receiving_yards": 96,
+        "rushing_yards": 15,
+        "total_yards": 111,
         "yet_to_play": [
             "Josh Allen",
             "Keaton Mitchell",
@@ -154,11 +134,31 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 31,
+        "rushing_yards": 71,
+        "total_yards": 102,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Keon Coleman",
+            "Trey McBride",
+            "Jake Ferguson"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Kendre Miller",
+            "Cam Skattebo"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 27,
         "receiving_yards": 33,
-        "rushing_yards": 9,
-        "total_yards": 69,
+        "rushing_yards": 10,
+        "total_yards": 70,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
