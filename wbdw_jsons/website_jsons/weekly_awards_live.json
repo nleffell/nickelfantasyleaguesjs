@@ -95,10 +95,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 67,
+        "passing_yards": 86,
         "receiving_yards": 91,
-        "rushing_yards": 7,
-        "total_yards": 165,
+        "rushing_yards": 18,
+        "total_yards": 195,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -116,9 +116,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 60,
+        "receiving_yards": 84,
         "rushing_yards": 81,
-        "total_yards": 141,
+        "total_yards": 165,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -151,6 +151,26 @@
             "A.J. Brown",
             "Josh Downs",
             "Rome Odunze"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 1,
+        "receiving_yards": 65,
+        "rushing_yards": 66,
+        "total_yards": 132,
+        "yet_to_play": [
+            "Patrick Mahomes",
+            "George Pickens",
+            "Michael Mayer",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Braelon Allen",
+            "Malik Nabers",
+            "Emeka Egbuka",
+            "Kyle Pitts",
+            "Cade Otton"
         ]
     },
     {
@@ -191,26 +211,6 @@
             "Jaylen Warren",
             "Rico Dowdle",
             "Colston Loveland"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 49,
-        "rushing_yards": 56,
-        "total_yards": 105,
-        "yet_to_play": [
-            "Patrick Mahomes",
-            "George Pickens",
-            "Michael Mayer",
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Braelon Allen",
-            "Malik Nabers",
-            "Emeka Egbuka",
-            "Kyle Pitts",
-            "Cade Otton"
         ]
     },
     {
