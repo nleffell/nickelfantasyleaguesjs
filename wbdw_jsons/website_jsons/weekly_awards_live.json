@@ -1,10 +1,22 @@
 [
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 278,
+        "receiving_yards": 376,
+        "rushing_yards": 114,
+        "total_yards": 768,
+        "yet_to_play": [],
+        "in_play": [
+            "Omarion Hampton",
+            "Tre Tucker"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 272,
         "receiving_yards": 398,
-        "rushing_yards": 98,
-        "total_yards": 768,
+        "rushing_yards": 95,
+        "total_yards": 765,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -39,18 +51,6 @@
         "in_play": [
             "Kenneth Walker",
             "James Cook"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 278,
-        "receiving_yards": 332,
-        "rushing_yards": 114,
-        "total_yards": 724,
-        "yet_to_play": [],
-        "in_play": [
-            "Omarion Hampton",
-            "Tre Tucker"
         ]
     },
     {
@@ -92,6 +92,24 @@
         "in_play": []
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 313,
+        "receiving_yards": 177,
+        "rushing_yards": 142,
+        "total_yards": 632,
+        "yet_to_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Dalton Kincaid",
+            "Ladd McConkey"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 255,
         "receiving_yards": 260,
@@ -105,24 +123,6 @@
             "Josh Allen",
             "Keaton Mitchell",
             "Khalil Shakir"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 269,
-        "receiving_yards": 177,
-        "rushing_yards": 142,
-        "total_yards": 588,
-        "yet_to_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
-        ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Dalton Kincaid",
-            "Ladd McConkey"
         ]
     },
     {
