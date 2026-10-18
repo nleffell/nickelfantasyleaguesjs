@@ -30,8 +30,8 @@
         "owner": "Chad Hill",
         "passing_yards": 281,
         "receiving_yards": 255,
-        "rushing_yards": 85,
-        "total_yards": 621,
+        "rushing_yards": 100,
+        "total_yards": 636,
         "yet_to_play": [],
         "in_play": [
             "Mike Washington",
@@ -71,9 +71,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 81,
-        "receiving_yards": 312,
+        "receiving_yards": 324,
         "rushing_yards": 79,
-        "total_yards": 472,
+        "total_yards": 484,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -131,24 +131,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 236,
-        "rushing_yards": 101,
-        "total_yards": 337,
-        "yet_to_play": [
-            "Brock Purdy"
-        ],
-        "in_play": [
-            "Kendrick Bourne"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
-        "passing_yards": 54,
-        "receiving_yards": 131,
+        "passing_yards": 90,
+        "receiving_yards": 155,
         "rushing_yards": 135,
-        "total_yards": 320,
+        "total_yards": 380,
         "yet_to_play": [
             "Christian Watson",
             "MarShawn Lloyd",
@@ -159,6 +146,19 @@
             "Ashton Jeanty",
             "Dalton Kincaid",
             "Ladd McConkey"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 244,
+        "rushing_yards": 101,
+        "total_yards": 345,
+        "yet_to_play": [
+            "Brock Purdy"
+        ],
+        "in_play": [
+            "Kendrick Bourne"
         ]
     },
     {
