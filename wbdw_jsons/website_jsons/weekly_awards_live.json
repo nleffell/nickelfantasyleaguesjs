@@ -38,9 +38,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 177,
-        "rushing_yards": 6,
-        "total_yards": 183,
+        "receiving_yards": 198,
+        "rushing_yards": 7,
+        "total_yards": 205,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -94,6 +94,26 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 48,
+        "receiving_yards": 80,
+        "rushing_yards": 5,
+        "total_yards": 133,
+        "yet_to_play": [
+            "Mike Washington",
+            "Tyler Higbee",
+            "Ty Johnson",
+            "Jalen Royals"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Alvin Kamara",
+            "Luther Burden",
+            "Dontayvion Wicks",
+            "Jaleel McLaughlin"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 31,
@@ -111,26 +131,6 @@
             "Wan'Dale Robinson",
             "Kendre Miller",
             "Cam Skattebo"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 21,
-        "receiving_yards": 58,
-        "rushing_yards": 5,
-        "total_yards": 84,
-        "yet_to_play": [
-            "Mike Washington",
-            "Tyler Higbee",
-            "Ty Johnson",
-            "Jalen Royals"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Alvin Kamara",
-            "Luther Burden",
-            "Dontayvion Wicks",
-            "Jaleel McLaughlin"
         ]
     },
     {
@@ -154,31 +154,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 74,
-        "total_yards": 74,
-        "yet_to_play": [
-            "Brock Purdy",
-            "Kendrick Bourne"
-        ],
-        "in_play": [
-            "Bucky Irving",
-            "Kalif Raymond",
-            "Jalen Coker",
-            "Dallas Goedert",
-            "Kenyon Sadiq",
-            "Darnell Washington",
-            "Noah Fant"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 27,
-        "receiving_yards": 2,
-        "rushing_yards": 2,
-        "total_yards": 31,
+        "receiving_yards": 33,
+        "rushing_yards": 9,
+        "total_yards": 69,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
@@ -194,11 +174,31 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 68,
+        "total_yards": 68,
+        "yet_to_play": [
+            "Brock Purdy",
+            "Kendrick Bourne"
+        ],
+        "in_play": [
+            "Bucky Irving",
+            "Kalif Raymond",
+            "Jalen Coker",
+            "Dallas Goedert",
+            "Kenyon Sadiq",
+            "Darnell Washington",
+            "Noah Fant"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": -2,
-        "rushing_yards": 21,
-        "total_yards": 19,
+        "rushing_yards": 22,
+        "total_yards": 20,
         "yet_to_play": [
             "Patrick Mahomes",
             "George Pickens",
@@ -217,8 +217,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 0,
-        "rushing_yards": 11,
-        "total_yards": 11,
+        "rushing_yards": 15,
+        "total_yards": 15,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
