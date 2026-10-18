@@ -58,8 +58,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 102,
         "receiving_yards": 257,
-        "rushing_yards": 214,
-        "total_yards": 573,
+        "rushing_yards": 217,
+        "total_yards": 576,
         "yet_to_play": [
             "Tucker Kraft"
         ],
@@ -70,10 +70,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 81,
+        "passing_yards": 140,
         "receiving_yards": 324,
-        "rushing_yards": 79,
-        "total_yards": 484,
+        "rushing_yards": 89,
+        "total_yards": 553,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -81,6 +81,22 @@
         "in_play": [
             "Patrick Mahomes",
             "Michael Mayer"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 313,
+        "rushing_yards": 134,
+        "total_yards": 447,
+        "yet_to_play": [
+            "Jordan Love",
+            "Christian McCaffrey"
+        ],
+        "in_play": [
+            "Davante Adams",
+            "Travis Kelce",
+            "Cody White"
         ]
     },
     {
@@ -112,22 +128,6 @@
             "Keaton Mitchell",
             "Khalil Shakir",
             "Puka Nacua"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 273,
-        "rushing_yards": 134,
-        "total_yards": 407,
-        "yet_to_play": [
-            "Jordan Love",
-            "Christian McCaffrey"
-        ],
-        "in_play": [
-            "Davante Adams",
-            "Travis Kelce",
-            "Cody White"
         ]
     },
     {
