@@ -12,7 +12,6 @@
         ],
         "in_play": [
             "Drake Maye",
-            "Zay Flowers",
             "DK Metcalf",
             "DeVonta Smith",
             "Juwan Johnson"
@@ -31,8 +30,7 @@
         ],
         "in_play": [
             "Bijan Robinson",
-            "Garrett Wilson",
-            "Mark Andrews"
+            "Garrett Wilson"
         ]
     },
     {
@@ -50,16 +48,15 @@
             "Dameon Pierce",
             "Carnell Tate",
             "Devaughn Vele",
-            "Harold Fannin",
             "Ted Hurst"
         ]
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 226,
+        "passing_yards": 235,
         "receiving_yards": 218,
         "rushing_yards": 83,
-        "total_yards": 527,
+        "total_yards": 536,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -70,8 +67,7 @@
             "Bryce Young",
             "Alvin Kamara",
             "Luther Burden",
-            "Dontayvion Wicks",
-            "Jaleel McLaughlin"
+            "Dontayvion Wicks"
         ]
     },
     {
@@ -95,11 +91,30 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 227,
+        "rushing_yards": 130,
+        "total_yards": 357,
+        "yet_to_play": [
+            "Jordan Love",
+            "Christian McCaffrey",
+            "Davante Adams",
+            "Travis Kelce",
+            "Cody White"
+        ],
+        "in_play": [
+            "Keenan Allen",
+            "Isaiah Likely",
+            "Tony Pollard"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 301,
-        "rushing_yards": 42,
-        "total_yards": 343,
+        "rushing_yards": 44,
+        "total_yards": 345,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -111,26 +126,6 @@
             "Tetairoa McMillan",
             "Pat Freiermuth",
             "Darren Waller"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 203,
-        "rushing_yards": 129,
-        "total_yards": 332,
-        "yet_to_play": [
-            "Jordan Love",
-            "Christian McCaffrey",
-            "Davante Adams",
-            "Travis Kelce",
-            "Cody White"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "Keenan Allen",
-            "Isaiah Likely",
-            "Tony Pollard"
         ]
     },
     {
@@ -177,8 +172,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 62,
-        "rushing_yards": 148,
-        "total_yards": 210,
+        "rushing_yards": 155,
+        "total_yards": 217,
         "yet_to_play": [
             "Dak Prescott",
             "Keon Coleman",
@@ -187,7 +182,6 @@
         ],
         "in_play": [
             "Rhamondre Stevenson",
-            "Denzel Boston",
             "Wan'Dale Robinson",
             "Kendre Miller",
             "Cam Skattebo"
