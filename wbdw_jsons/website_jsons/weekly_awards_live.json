@@ -17,8 +17,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 292,
-        "rushing_yards": 108,
-        "total_yards": 678,
+        "rushing_yards": 109,
+        "total_yards": 679,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum",
@@ -86,9 +86,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 313,
+        "receiving_yards": 329,
         "rushing_yards": 134,
-        "total_yards": 447,
+        "total_yards": 463,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey"
@@ -97,6 +97,20 @@
             "Davante Adams",
             "Travis Kelce",
             "Cody White"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 96,
+        "receiving_yards": 310,
+        "rushing_yards": 44,
+        "total_yards": 450,
+        "yet_to_play": [
+            "Javonte Williams"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Brock Bowers"
         ]
     },
     {
@@ -115,20 +129,6 @@
             "Ashton Jeanty",
             "Dalton Kincaid",
             "Ladd McConkey"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 72,
-        "receiving_yards": 310,
-        "rushing_yards": 44,
-        "total_yards": 426,
-        "yet_to_play": [
-            "Javonte Williams"
-        ],
-        "in_play": [
-            "Matthew Stafford",
-            "Brock Bowers"
         ]
     },
     {
