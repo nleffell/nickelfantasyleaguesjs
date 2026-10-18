@@ -6,31 +6,40 @@
         "rushing_yards": 105,
         "total_yards": 657,
         "yet_to_play": [
-            "George Kittle",
-            "Xavier Worthy"
+            "George Kittle"
         ],
         "in_play": [
             "DK Metcalf",
-            "DeVonta Smith",
-            "Juwan Johnson",
+            "Xavier Worthy",
             "Michael Wilson"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 281,
+        "receiving_yards": 232,
+        "rushing_yards": 84,
+        "total_yards": 597,
+        "yet_to_play": [],
+        "in_play": [
+            "Mike Washington",
+            "Tyler Higbee",
+            "Ty Johnson",
+            "Jalen Royals"
         ]
     },
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 240,
-        "rushing_yards": 69,
-        "total_yards": 587,
-        "yet_to_play": [
-            "Omarion Hampton",
-            "Tre Tucker"
-        ],
+        "rushing_yards": 68,
+        "total_yards": 586,
+        "yet_to_play": [],
         "in_play": [
             "Blake Corum",
-            "Dameon Pierce",
-            "Devaughn Vele",
-            "Ted Hurst"
+            "Omarion Hampton",
+            "Ted Hurst",
+            "Tre Tucker"
         ]
     },
     {
@@ -48,51 +57,33 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 281,
-        "receiving_yards": 218,
-        "rushing_yards": 81,
-        "total_yards": 580,
-        "yet_to_play": [
-            "Mike Washington",
-            "Ty Johnson",
-            "Jalen Royals"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Alvin Kamara",
-            "Dontayvion Wicks",
-            "Tyler Higbee"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 102,
         "receiving_yards": 225,
         "rushing_yards": 135,
         "total_yards": 462,
         "yet_to_play": [
-            "Kenneth Walker",
-            "Tucker Kraft",
-            "James Cook"
+            "Tucker Kraft"
         ],
-        "in_play": []
+        "in_play": [
+            "Kenneth Walker",
+            "James Cook"
+        ]
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 30,
+        "passing_yards": 46,
         "receiving_yards": 299,
         "rushing_yards": 79,
-        "total_yards": 408,
+        "total_yards": 424,
         "yet_to_play": [
-            "Patrick Mahomes",
             "George Pickens",
-            "Michael Mayer",
             "Antonio Williams"
         ],
         "in_play": [
-            "Malik Nabers",
+            "Patrick Mahomes",
             "Emeka Egbuka",
+            "Michael Mayer",
             "Cade Otton"
         ]
     },
@@ -104,13 +95,12 @@
         "total_yards": 400,
         "yet_to_play": [
             "Jordan Love",
-            "Christian McCaffrey",
-            "Travis Kelce",
-            "Cody White"
+            "Christian McCaffrey"
         ],
         "in_play": [
             "Davante Adams",
-            "Isaiah Likely"
+            "Travis Kelce",
+            "Cody White"
         ]
     },
     {
@@ -120,67 +110,60 @@
         "rushing_yards": 44,
         "total_yards": 354,
         "yet_to_play": [
-            "Javonte Williams",
-            "Brock Bowers"
+            "Javonte Williams"
         ],
         "in_play": [
             "Matthew Stafford",
             "Chris Godwin",
-            "Tetairoa McMillan",
-            "Pat Freiermuth",
-            "Darren Waller"
+            "Brock Bowers",
+            "Pat Freiermuth"
         ]
     },
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 214,
-        "rushing_yards": 100,
-        "total_yards": 314,
+        "rushing_yards": 101,
+        "total_yards": 315,
         "yet_to_play": [
             "Brock Purdy"
         ],
         "in_play": [
             "Bucky Irving",
-            "Jalen Coker",
             "Kendrick Bourne",
-            "Dallas Goedert",
-            "Darnell Washington",
-            "Noah Fant"
+            "Darnell Washington"
         ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 88,
+        "receiving_yards": 104,
         "rushing_yards": 162,
-        "total_yards": 250,
+        "total_yards": 266,
         "yet_to_play": [
             "Dak Prescott",
-            "Keon Coleman",
             "Jake Ferguson"
         ],
         "in_play": [
-            "Trey McBride",
-            "Kendre Miller",
-            "Cam Skattebo"
+            "Keon Coleman",
+            "Trey McBride"
         ]
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 2,
-        "receiving_yards": 150,
-        "rushing_yards": 77,
-        "total_yards": 229,
+        "passing_yards": 20,
+        "receiving_yards": 153,
+        "rushing_yards": 83,
+        "total_yards": 256,
         "yet_to_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
             "CeeDee Lamb",
-            "Khalil Shakir",
             "Rachaad White"
         ],
         "in_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
             "Jaylen Warren",
+            "Khalil Shakir",
             "Puka Nacua",
             "Rico Dowdle"
         ]
@@ -188,21 +171,19 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 88,
+        "receiving_yards": 92,
         "rushing_yards": 120,
-        "total_yards": 208,
+        "total_yards": 212,
         "yet_to_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
             "Christian Watson",
-            "Dalton Kincaid",
-            "Ladd McConkey",
             "MarShawn Lloyd",
             "Matthew Golden"
         ],
         "in_play": [
-            "Chuba Hubbard",
-            "Chris Olave"
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Dalton Kincaid",
+            "Ladd McConkey"
         ]
     }
 ]
