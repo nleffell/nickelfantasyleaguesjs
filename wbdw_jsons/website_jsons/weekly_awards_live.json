@@ -28,6 +28,20 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 102,
+        "receiving_yards": 294,
+        "rushing_yards": 331,
+        "total_yards": 727,
+        "yet_to_play": [
+            "Tucker Kraft"
+        ],
+        "in_play": [
+            "Kenneth Walker",
+            "James Cook"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 332,
@@ -37,20 +51,6 @@
         "in_play": [
             "Omarion Hampton",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 102,
-        "receiving_yards": 294,
-        "rushing_yards": 320,
-        "total_yards": 716,
-        "yet_to_play": [
-            "Tucker Kraft"
-        ],
-        "in_play": [
-            "Kenneth Walker",
-            "James Cook"
         ]
     },
     {
@@ -93,10 +93,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 237,
+        "passing_yards": 252,
         "receiving_yards": 257,
         "rushing_yards": 98,
-        "total_yards": 592,
+        "total_yards": 607,
         "yet_to_play": [
             "CeeDee Lamb",
             "Rachaad White"
@@ -154,9 +154,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 159,
+        "receiving_yards": 174,
         "rushing_yards": 162,
-        "total_yards": 321,
+        "total_yards": 336,
         "yet_to_play": [
             "Dak Prescott",
             "Jake Ferguson"
