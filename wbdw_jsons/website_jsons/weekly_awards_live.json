@@ -77,8 +77,8 @@
         "owner": "Chad Hill",
         "passing_yards": 162,
         "receiving_yards": 102,
-        "rushing_yards": 22,
-        "total_yards": 286,
+        "rushing_yards": 54,
+        "total_yards": 318,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -95,10 +95,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 56,
+        "passing_yards": 59,
         "receiving_yards": 138,
         "rushing_yards": 68,
-        "total_yards": 262,
+        "total_yards": 265,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
@@ -196,9 +196,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 41,
+        "receiving_yards": 56,
         "rushing_yards": 100,
-        "total_yards": 141,
+        "total_yards": 156,
         "yet_to_play": [
             "Dak Prescott",
             "Keon Coleman",
