@@ -1,23 +1,10 @@
 [
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 235,
-        "receiving_yards": 394,
-        "rushing_yards": 105,
-        "total_yards": 734,
-        "yet_to_play": [
-            "George Kittle"
-        ],
-        "in_play": [
-            "Xavier Worthy"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
-        "passing_yards": 233,
+        "passing_yards": 272,
         "receiving_yards": 398,
         "rushing_yards": 98,
-        "total_yards": 729,
+        "total_yards": 768,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -25,6 +12,19 @@
         "in_play": [
             "Patrick Mahomes",
             "Michael Mayer"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 235,
+        "receiving_yards": 392,
+        "rushing_yards": 105,
+        "total_yards": 732,
+        "yet_to_play": [
+            "George Kittle"
+        ],
+        "in_play": [
+            "Xavier Worthy"
         ]
     },
     {
@@ -40,6 +40,20 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 102,
+        "receiving_yards": 294,
+        "rushing_yards": 320,
+        "total_yards": 716,
+        "yet_to_play": [
+            "Tucker Kraft"
+        ],
+        "in_play": [
+            "Kenneth Walker",
+            "James Cook"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 281,
         "receiving_yards": 295,
@@ -50,20 +64,6 @@
             "Mike Washington",
             "Ty Johnson",
             "Jalen Royals"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 102,
-        "receiving_yards": 263,
-        "rushing_yards": 290,
-        "total_yards": 655,
-        "yet_to_play": [
-            "Tucker Kraft"
-        ],
-        "in_play": [
-            "Kenneth Walker",
-            "James Cook"
         ]
     },
     {
@@ -92,11 +92,27 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 237,
+        "receiving_yards": 257,
+        "rushing_yards": 98,
+        "total_yards": 592,
+        "yet_to_play": [
+            "CeeDee Lamb",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 269,
-        "receiving_yards": 163,
+        "receiving_yards": 177,
         "rushing_yards": 142,
-        "total_yards": 574,
+        "total_yards": 588,
         "yet_to_play": [
             "Christian Watson",
             "MarShawn Lloyd",
@@ -110,27 +126,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 191,
-        "receiving_yards": 251,
-        "rushing_yards": 98,
-        "total_yards": 540,
-        "yet_to_play": [
-            "CeeDee Lamb",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
-            "Khalil Shakir"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 345,
+        "receiving_yards": 358,
         "rushing_yards": 134,
-        "total_yards": 479,
+        "total_yards": 492,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey"
