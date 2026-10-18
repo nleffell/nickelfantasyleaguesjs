@@ -6,9 +6,7 @@
         "rushing_yards": 114,
         "total_yards": 768,
         "yet_to_play": [],
-        "in_play": [
-            "Tre Tucker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -20,9 +18,7 @@
             "George Pickens",
             "Antonio Williams"
         ],
-        "in_play": [
-            "Michael Mayer"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -44,9 +40,7 @@
         "yet_to_play": [
             "Tucker Kraft"
         ],
-        "in_play": [
-            "James Cook"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -55,10 +49,7 @@
         "rushing_yards": 127,
         "total_yards": 703,
         "yet_to_play": [],
-        "in_play": [
-            "Mike Washington",
-            "Ty Johnson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -69,9 +60,7 @@
         "yet_to_play": [
             "Javonte Williams"
         ],
-        "in_play": [
-            "Brock Bowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -96,11 +85,7 @@
             "MarShawn Lloyd",
             "Matthew Golden"
         ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Dalton Kincaid"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -112,10 +97,7 @@
             "CeeDee Lamb",
             "Rachaad White"
         ],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -127,9 +109,7 @@
             "Jordan Love",
             "Christian McCaffrey"
         ],
-        "in_play": [
-            "Cody White"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -152,8 +132,6 @@
             "Dak Prescott",
             "Jake Ferguson"
         ],
-        "in_play": [
-            "Keon Coleman"
-        ]
+        "in_play": []
     }
 ]
