@@ -19,9 +19,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
-        "receiving_yards": 190,
-        "rushing_yards": 48,
-        "total_yards": 516,
+        "receiving_yards": 198,
+        "rushing_yards": 50,
+        "total_yards": 526,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -37,10 +37,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 174,
+        "passing_yards": 181,
         "receiving_yards": 153,
         "rushing_yards": 105,
-        "total_yards": 432,
+        "total_yards": 439,
         "yet_to_play": [
             "George Kittle",
             "Xavier Worthy",
@@ -57,9 +57,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 171,
-        "receiving_yards": 165,
-        "rushing_yards": 51,
-        "total_yards": 387,
+        "receiving_yards": 183,
+        "rushing_yards": 67,
+        "total_yards": 421,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -76,10 +76,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 88,
+        "passing_yards": 96,
         "receiving_yards": 177,
         "rushing_yards": 86,
-        "total_yards": 351,
+        "total_yards": 359,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
@@ -117,8 +117,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 203,
-        "rushing_yards": 102,
-        "total_yards": 305,
+        "rushing_yards": 113,
+        "total_yards": 316,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey",
@@ -136,9 +136,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 148,
+        "receiving_yards": 166,
         "rushing_yards": 98,
-        "total_yards": 246,
+        "total_yards": 264,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -196,9 +196,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 110,
+        "receiving_yards": 115,
         "rushing_yards": 56,
-        "total_yards": 166,
+        "total_yards": 171,
         "yet_to_play": [
             "Josh Allen",
             "Keaton Mitchell",
