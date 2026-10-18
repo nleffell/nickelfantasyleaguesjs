@@ -18,6 +18,25 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 281,
+        "receiving_yards": 218,
+        "rushing_yards": 83,
+        "total_yards": 582,
+        "yet_to_play": [
+            "Mike Washington",
+            "Ty Johnson",
+            "Jalen Royals"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Alvin Kamara",
+            "Luther Burden",
+            "Dontayvion Wicks",
+            "Tyler Higbee"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
         "receiving_yards": 138,
@@ -48,25 +67,6 @@
             "Dameon Pierce",
             "Devaughn Vele",
             "Ted Hurst"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 254,
-        "receiving_yards": 218,
-        "rushing_yards": 83,
-        "total_yards": 555,
-        "yet_to_play": [
-            "Mike Washington",
-            "Ty Johnson",
-            "Jalen Royals"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Alvin Kamara",
-            "Luther Burden",
-            "Dontayvion Wicks",
-            "Tyler Higbee"
         ]
     },
     {
@@ -166,8 +166,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 62,
-        "rushing_yards": 155,
-        "total_yards": 217,
+        "rushing_yards": 162,
+        "total_yards": 224,
         "yet_to_play": [
             "Dak Prescott",
             "Keon Coleman",
@@ -204,8 +204,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 86,
-        "rushing_yards": 93,
-        "total_yards": 179,
+        "rushing_yards": 110,
+        "total_yards": 196,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
