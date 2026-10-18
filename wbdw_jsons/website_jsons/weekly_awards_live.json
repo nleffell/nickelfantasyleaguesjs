@@ -38,9 +38,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 241,
-        "rushing_yards": 15,
-        "total_yards": 256,
+        "receiving_yards": 247,
+        "rushing_yards": 21,
+        "total_yards": 268,
         "yet_to_play": [
             "Matthew Stafford",
             "Javonte Williams",
@@ -52,6 +52,25 @@
             "Tetairoa McMillan",
             "Pat Freiermuth",
             "Darren Waller"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 61,
+        "receiving_yards": 87,
+        "rushing_yards": 84,
+        "total_yards": 232,
+        "yet_to_play": [
+            "George Kittle",
+            "Xavier Worthy",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Zay Flowers",
+            "DK Metcalf",
+            "DeVonta Smith",
+            "Juwan Johnson"
         ]
     },
     {
@@ -95,25 +114,6 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 51,
-        "receiving_yards": 70,
-        "rushing_yards": 84,
-        "total_yards": 205,
-        "yet_to_play": [
-            "George Kittle",
-            "Xavier Worthy",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "Zay Flowers",
-            "DK Metcalf",
-            "DeVonta Smith",
-            "Juwan Johnson"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 37,
         "receiving_yards": 115,
@@ -137,8 +137,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 97,
-        "rushing_yards": 81,
-        "total_yards": 178,
+        "rushing_yards": 84,
+        "total_yards": 181,
         "yet_to_play": [
             "Brock Purdy",
             "Kendrick Bourne"
@@ -174,6 +174,26 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 41,
+        "rushing_yards": 99,
+        "total_yards": 140,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Keon Coleman",
+            "Trey McBride",
+            "Jake Ferguson"
+        ],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Kendre Miller",
+            "Cam Skattebo"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 81,
@@ -191,26 +211,6 @@
             "Jaylen Warren",
             "Rico Dowdle",
             "Colston Loveland"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 41,
-        "rushing_yards": 85,
-        "total_yards": 126,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Keon Coleman",
-            "Trey McBride",
-            "Jake Ferguson"
-        ],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Kendre Miller",
-            "Cam Skattebo"
         ]
     },
     {
