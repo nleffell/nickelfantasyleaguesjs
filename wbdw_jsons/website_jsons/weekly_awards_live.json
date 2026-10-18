@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 388,
+        "receiving_yards": 394,
         "rushing_yards": 105,
-        "total_yards": 728,
+        "total_yards": 734,
         "yet_to_play": [
             "George Kittle"
         ],
@@ -14,11 +14,26 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 216,
+        "receiving_yards": 398,
+        "rushing_yards": 89,
+        "total_yards": 703,
+        "yet_to_play": [
+            "George Pickens",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Michael Mayer"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
-        "receiving_yards": 292,
+        "receiving_yards": 295,
         "rushing_yards": 111,
-        "total_yards": 681,
+        "total_yards": 684,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum",
@@ -27,18 +42,17 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 210,
-        "receiving_yards": 355,
-        "rushing_yards": 89,
-        "total_yards": 654,
-        "yet_to_play": [
-            "George Pickens",
-            "Antonio Williams"
-        ],
+        "owner": "Chad Hill",
+        "passing_yards": 281,
+        "receiving_yards": 267,
+        "rushing_yards": 104,
+        "total_yards": 652,
+        "yet_to_play": [],
         "in_play": [
-            "Patrick Mahomes",
-            "Michael Mayer"
+            "Mike Washington",
+            "Tyler Higbee",
+            "Ty Johnson",
+            "Jalen Royals"
         ]
     },
     {
@@ -56,31 +70,49 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 281,
-        "receiving_yards": 260,
-        "rushing_yards": 101,
-        "total_yards": 642,
-        "yet_to_play": [],
-        "in_play": [
-            "Mike Washington",
-            "Tyler Higbee",
-            "Ty Johnson",
-            "Jalen Royals"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
-        "receiving_yards": 141,
-        "rushing_yards": 156,
-        "total_yards": 603,
+        "receiving_yards": 148,
+        "rushing_yards": 173,
+        "total_yards": 627,
         "yet_to_play": [
             "Mike Evans",
             "Terry McLaurin"
         ],
         "in_play": [
             "Kyren Williams"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 137,
+        "receiving_yards": 318,
+        "rushing_yards": 44,
+        "total_yards": 499,
+        "yet_to_play": [
+            "Javonte Williams"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Brock Bowers"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 176,
+        "receiving_yards": 163,
+        "rushing_yards": 145,
+        "total_yards": 484,
+        "yet_to_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Dalton Kincaid",
+            "Ladd McConkey"
         ]
     },
     {
@@ -100,25 +132,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 121,
-        "receiving_yards": 310,
-        "rushing_yards": 44,
-        "total_yards": 475,
-        "yet_to_play": [
-            "Javonte Williams"
-        ],
-        "in_play": [
-            "Matthew Stafford",
-            "Brock Bowers"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 175,
-        "receiving_yards": 171,
+        "receiving_yards": 173,
         "rushing_yards": 98,
-        "total_yards": 444,
+        "total_yards": 446,
         "yet_to_play": [
             "CeeDee Lamb",
             "Rachaad White"
@@ -128,24 +146,6 @@
             "Keaton Mitchell",
             "Khalil Shakir",
             "Puka Nacua"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 126,
-        "receiving_yards": 163,
-        "rushing_yards": 145,
-        "total_yards": 434,
-        "yet_to_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
-        ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Dalton Kincaid",
-            "Ladd McConkey"
         ]
     },
     {
