@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 273,
+        "receiving_yards": 317,
         "rushing_yards": 105,
-        "total_yards": 613,
+        "total_yards": 657,
         "yet_to_play": [
             "George Kittle",
             "Xavier Worthy"
@@ -34,11 +34,25 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 306,
+        "receiving_yards": 141,
+        "rushing_yards": 137,
+        "total_yards": 584,
+        "yet_to_play": [
+            "Mike Evans",
+            "Terry McLaurin"
+        ],
+        "in_play": [
+            "Kyren Williams"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 281,
         "receiving_yards": 218,
-        "rushing_yards": 83,
-        "total_yards": 582,
+        "rushing_yards": 81,
+        "total_yards": 580,
         "yet_to_play": [
             "Mike Washington",
             "Ty Johnson",
@@ -52,31 +66,35 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 306,
-        "receiving_yards": 138,
-        "rushing_yards": 132,
-        "total_yards": 576,
-        "yet_to_play": [
-            "Mike Evans",
-            "Terry McLaurin"
-        ],
-        "in_play": [
-            "Kyren Williams"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 102,
         "receiving_yards": 225,
-        "rushing_yards": 108,
-        "total_yards": 435,
+        "rushing_yards": 135,
+        "total_yards": 462,
         "yet_to_play": [
             "Kenneth Walker",
             "Tucker Kraft",
             "James Cook"
         ],
         "in_play": []
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 30,
+        "receiving_yards": 299,
+        "rushing_yards": 79,
+        "total_yards": 408,
+        "yet_to_play": [
+            "Patrick Mahomes",
+            "George Pickens",
+            "Michael Mayer",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Malik Nabers",
+            "Emeka Egbuka",
+            "Cade Otton"
+        ]
     },
     {
         "owner": "Tyler Smith",
@@ -96,29 +114,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 299,
-        "rushing_yards": 79,
-        "total_yards": 378,
-        "yet_to_play": [
-            "Patrick Mahomes",
-            "George Pickens",
-            "Michael Mayer",
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Malik Nabers",
-            "Emeka Egbuka",
-            "Cade Otton"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
-        "passing_yards": 6,
+        "passing_yards": 9,
         "receiving_yards": 301,
         "rushing_yards": 44,
-        "total_yards": 351,
+        "total_yards": 354,
         "yet_to_play": [
             "Javonte Williams",
             "Brock Bowers"
@@ -167,11 +167,30 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 2,
+        "receiving_yards": 150,
+        "rushing_yards": 77,
+        "total_yards": 229,
+        "yet_to_play": [
+            "Josh Allen",
+            "Keaton Mitchell",
+            "CeeDee Lamb",
+            "Khalil Shakir",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Jaylen Warren",
+            "Puka Nacua",
+            "Rico Dowdle"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 86,
+        "receiving_yards": 88,
         "rushing_yards": 120,
-        "total_yards": 206,
+        "total_yards": 208,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
@@ -184,25 +203,6 @@
         "in_play": [
             "Chuba Hubbard",
             "Chris Olave"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 131,
-        "rushing_yards": 68,
-        "total_yards": 199,
-        "yet_to_play": [
-            "Josh Allen",
-            "Keaton Mitchell",
-            "CeeDee Lamb",
-            "Khalil Shakir",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Jaylen Warren",
-            "Puka Nacua",
-            "Rico Dowdle"
         ]
     }
 ]
