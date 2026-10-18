@@ -2,19 +2,19 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 240,
-        "rushing_yards": 106,
-        "total_yards": 581,
+        "receiving_yards": 257,
+        "rushing_yards": 105,
+        "total_yards": 597,
         "yet_to_play": [
             "George Kittle",
-            "Xavier Worthy",
-            "Michael Wilson"
+            "Xavier Worthy"
         ],
         "in_play": [
             "Drake Maye",
             "DK Metcalf",
             "DeVonta Smith",
-            "Juwan Johnson"
+            "Juwan Johnson",
+            "Michael Wilson"
         ]
     },
     {
@@ -25,28 +25,27 @@
         "total_yards": 576,
         "yet_to_play": [
             "Mike Evans",
-            "Kyren Williams",
             "Terry McLaurin"
         ],
         "in_play": [
             "Bijan Robinson",
-            "Garrett Wilson"
+            "Garrett Wilson",
+            "Kyren Williams"
         ]
     },
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 227,
-        "rushing_yards": 54,
-        "total_yards": 559,
+        "rushing_yards": 69,
+        "total_yards": 574,
         "yet_to_play": [
-            "Blake Corum",
             "Omarion Hampton",
             "Tre Tucker"
         ],
         "in_play": [
+            "Blake Corum",
             "Dameon Pierce",
-            "Carnell Tate",
             "Devaughn Vele",
             "Ted Hurst"
         ]
@@ -59,7 +58,6 @@
         "total_yards": 555,
         "yet_to_play": [
             "Mike Washington",
-            "Tyler Higbee",
             "Ty Johnson",
             "Jalen Royals"
         ],
@@ -67,7 +65,8 @@
             "Bryce Young",
             "Alvin Kamara",
             "Luther Burden",
-            "Dontayvion Wicks"
+            "Dontayvion Wicks",
+            "Tyler Higbee"
         ]
     },
     {
@@ -82,11 +81,8 @@
             "James Cook"
         ],
         "in_play": [
-            "Cam Ward",
-            "Jonathan Taylor",
             "Drake London",
             "A.J. Brown",
-            "Josh Downs",
             "Rome Odunze"
         ]
     },
@@ -99,14 +95,12 @@
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey",
-            "Davante Adams",
             "Travis Kelce",
             "Cody White"
         ],
         "in_play": [
-            "Keenan Allen",
-            "Isaiah Likely",
-            "Tony Pollard"
+            "Davante Adams",
+            "Isaiah Likely"
         ]
     },
     {
@@ -132,15 +126,15 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 6,
-        "receiving_yards": 301,
+        "receiving_yards": 314,
         "rushing_yards": 44,
-        "total_yards": 351,
+        "total_yards": 364,
         "yet_to_play": [
-            "Matthew Stafford",
             "Javonte Williams",
             "Brock Bowers"
         ],
         "in_play": [
+            "Matthew Stafford",
             "D'Andre Swift",
             "Chris Godwin",
             "Tetairoa McMillan",
@@ -155,13 +149,13 @@
         "rushing_yards": 100,
         "total_yards": 314,
         "yet_to_play": [
-            "Brock Purdy",
-            "Kendrick Bourne"
+            "Brock Purdy"
         ],
         "in_play": [
             "Bucky Irving",
             "Kalif Raymond",
             "Jalen Coker",
+            "Kendrick Bourne",
             "Dallas Goedert",
             "Kenyon Sadiq",
             "Darnell Washington",
@@ -177,12 +171,11 @@
         "yet_to_play": [
             "Dak Prescott",
             "Keon Coleman",
-            "Trey McBride",
             "Jake Ferguson"
         ],
         "in_play": [
             "Rhamondre Stevenson",
-            "Wan'Dale Robinson",
+            "Trey McBride",
             "Kendre Miller",
             "Cam Skattebo"
         ]
@@ -198,11 +191,11 @@
             "Keaton Mitchell",
             "CeeDee Lamb",
             "Khalil Shakir",
-            "Puka Nacua",
             "Rachaad White"
         ],
         "in_play": [
             "Jaylen Warren",
+            "Puka Nacua",
             "Rico Dowdle",
             "Colston Loveland"
         ]
