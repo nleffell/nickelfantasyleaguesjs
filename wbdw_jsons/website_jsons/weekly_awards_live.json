@@ -36,6 +36,25 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 142,
+        "receiving_yards": 119,
+        "rushing_yards": 105,
+        "total_yards": 366,
+        "yet_to_play": [
+            "George Kittle",
+            "Xavier Worthy",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "Zay Flowers",
+            "DK Metcalf",
+            "DeVonta Smith",
+            "Juwan Johnson"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 294,
@@ -55,30 +74,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 130,
-        "receiving_yards": 119,
-        "rushing_yards": 84,
-        "total_yards": 333,
-        "yet_to_play": [
-            "George Kittle",
-            "Xavier Worthy",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "Zay Flowers",
-            "DK Metcalf",
-            "DeVonta Smith",
-            "Juwan Johnson"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 162,
         "receiving_yards": 102,
-        "rushing_yards": 54,
-        "total_yards": 318,
+        "rushing_yards": 36,
+        "total_yards": 300,
         "yet_to_play": [
             "Mike Washington",
             "Tyler Higbee",
@@ -177,8 +177,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 105,
-        "rushing_yards": 54,
-        "total_yards": 159,
+        "rushing_yards": 56,
+        "total_yards": 161,
         "yet_to_play": [
             "Josh Allen",
             "Keaton Mitchell",
