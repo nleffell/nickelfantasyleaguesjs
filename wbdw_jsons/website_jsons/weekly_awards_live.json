@@ -16,9 +16,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
-        "receiving_yards": 283,
-        "rushing_yards": 88,
-        "total_yards": 649,
+        "receiving_yards": 292,
+        "rushing_yards": 92,
+        "total_yards": 662,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum",
@@ -56,10 +56,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 151,
+        "passing_yards": 146,
         "receiving_yards": 355,
         "rushing_yards": 89,
-        "total_yards": 595,
+        "total_yards": 590,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -86,9 +86,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 318,
+        "receiving_yards": 313,
         "rushing_yards": 134,
-        "total_yards": 452,
+        "total_yards": 447,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey"
@@ -97,6 +97,24 @@
             "Davante Adams",
             "Travis Kelce",
             "Cody White"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 126,
+        "receiving_yards": 155,
+        "rushing_yards": 147,
+        "total_yards": 428,
+        "yet_to_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Dalton Kincaid",
+            "Ladd McConkey"
         ]
     },
     {
@@ -111,24 +129,6 @@
         "in_play": [
             "Matthew Stafford",
             "Brock Bowers"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 121,
-        "receiving_yards": 155,
-        "rushing_yards": 147,
-        "total_yards": 423,
-        "yet_to_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
-        ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Dalton Kincaid",
-            "Ladd McConkey"
         ]
     },
     {
@@ -164,9 +164,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 125,
+        "receiving_yards": 129,
         "rushing_yards": 162,
-        "total_yards": 287,
+        "total_yards": 291,
         "yet_to_play": [
             "Dak Prescott",
             "Jake Ferguson"
