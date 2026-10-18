@@ -31,9 +31,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 281,
-        "receiving_yards": 239,
+        "receiving_yards": 245,
         "rushing_yards": 84,
-        "total_yards": 604,
+        "total_yards": 610,
         "yet_to_play": [],
         "in_play": [
             "Mike Washington",
@@ -60,8 +60,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 102,
         "receiving_yards": 225,
-        "rushing_yards": 142,
-        "total_yards": 469,
+        "rushing_yards": 175,
+        "total_yards": 502,
         "yet_to_play": [
             "Tucker Kraft"
         ],
@@ -72,10 +72,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 67,
-        "receiving_yards": 303,
+        "passing_yards": 73,
+        "receiving_yards": 312,
         "rushing_yards": 79,
-        "total_yards": 449,
+        "total_yards": 464,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -106,9 +106,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 9,
-        "receiving_yards": 301,
+        "receiving_yards": 310,
         "rushing_yards": 44,
-        "total_yards": 354,
+        "total_yards": 363,
         "yet_to_play": [
             "Javonte Williams"
         ],
@@ -122,9 +122,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 229,
+        "receiving_yards": 231,
         "rushing_yards": 101,
-        "total_yards": 330,
+        "total_yards": 332,
         "yet_to_play": [
             "Brock Purdy"
         ],
@@ -132,6 +132,24 @@
             "Bucky Irving",
             "Kendrick Bourne",
             "Darnell Washington"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 49,
+        "receiving_yards": 116,
+        "rushing_yards": 135,
+        "total_yards": 300,
+        "yet_to_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Dalton Kincaid",
+            "Ladd McConkey"
         ]
     },
     {
@@ -147,24 +165,6 @@
         "in_play": [
             "Keon Coleman",
             "Trey McBride"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 33,
-        "receiving_yards": 92,
-        "rushing_yards": 134,
-        "total_yards": 259,
-        "yet_to_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
-        ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Dalton Kincaid",
-            "Ladd McConkey"
         ]
     },
     {
