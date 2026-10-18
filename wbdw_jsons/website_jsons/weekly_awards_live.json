@@ -17,8 +17,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 292,
-        "rushing_yards": 109,
-        "total_yards": 679,
+        "rushing_yards": 110,
+        "total_yards": 680,
         "yet_to_play": [],
         "in_play": [
             "Blake Corum",
@@ -56,6 +56,20 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 102,
+        "receiving_yards": 263,
+        "rushing_yards": 245,
+        "total_yards": 610,
+        "yet_to_play": [
+            "Tucker Kraft"
+        ],
+        "in_play": [
+            "Kenneth Walker",
+            "James Cook"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
         "receiving_yards": 141,
@@ -67,20 +81,6 @@
         ],
         "in_play": [
             "Kyren Williams"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 102,
-        "receiving_yards": 263,
-        "rushing_yards": 232,
-        "total_yards": 597,
-        "yet_to_play": [
-            "Tucker Kraft"
-        ],
-        "in_play": [
-            "Kenneth Walker",
-            "James Cook"
         ]
     },
     {
@@ -100,25 +100,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 96,
-        "receiving_yards": 310,
-        "rushing_yards": 44,
-        "total_yards": 450,
-        "yet_to_play": [
-            "Javonte Williams"
-        ],
-        "in_play": [
-            "Matthew Stafford",
-            "Brock Bowers"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 126,
-        "receiving_yards": 155,
+        "receiving_yards": 181,
         "rushing_yards": 147,
-        "total_yards": 428,
+        "total_yards": 454,
         "yet_to_play": [
             "Christian Watson",
             "MarShawn Lloyd",
@@ -133,10 +119,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 144,
+        "passing_yards": 181,
         "receiving_yards": 171,
-        "rushing_yards": 96,
-        "total_yards": 411,
+        "rushing_yards": 98,
+        "total_yards": 450,
         "yet_to_play": [
             "CeeDee Lamb",
             "Rachaad White"
@@ -146,6 +132,20 @@
             "Keaton Mitchell",
             "Khalil Shakir",
             "Puka Nacua"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 96,
+        "receiving_yards": 310,
+        "rushing_yards": 44,
+        "total_yards": 450,
+        "yet_to_play": [
+            "Javonte Williams"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Brock Bowers"
         ]
     },
     {
@@ -164,9 +164,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 134,
+        "receiving_yards": 145,
         "rushing_yards": 162,
-        "total_yards": 296,
+        "total_yards": 307,
         "yet_to_play": [
             "Dak Prescott",
             "Jake Ferguson"
