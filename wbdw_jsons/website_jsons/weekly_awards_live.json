@@ -30,8 +30,8 @@
         "owner": "Chad Hill",
         "passing_yards": 281,
         "receiving_yards": 255,
-        "rushing_yards": 84,
-        "total_yards": 620,
+        "rushing_yards": 85,
+        "total_yards": 621,
         "yet_to_play": [],
         "in_play": [
             "Mike Washington",
@@ -70,10 +70,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 77,
+        "passing_yards": 81,
         "receiving_yards": 312,
         "rushing_yards": 79,
-        "total_yards": 468,
+        "total_yards": 472,
         "yet_to_play": [
             "George Pickens",
             "Antonio Williams"
@@ -85,10 +85,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 60,
+        "passing_yards": 72,
         "receiving_yards": 310,
         "rushing_yards": 44,
-        "total_yards": 414,
+        "total_yards": 426,
         "yet_to_play": [
             "Javonte Williams"
         ],
@@ -100,9 +100,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 272,
+        "receiving_yards": 273,
         "rushing_yards": 134,
-        "total_yards": 406,
+        "total_yards": 407,
         "yet_to_play": [
             "Jordan Love",
             "Christian McCaffrey"
@@ -129,9 +129,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 77,
-        "receiving_yards": 150,
+        "receiving_yards": 162,
         "rushing_yards": 92,
-        "total_yards": 319,
+        "total_yards": 331,
         "yet_to_play": [
             "CeeDee Lamb",
             "Rachaad White"
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 49,
-        "receiving_yards": 126,
+        "passing_yards": 54,
+        "receiving_yards": 131,
         "rushing_yards": 135,
-        "total_yards": 310,
+        "total_yards": 320,
         "yet_to_play": [
             "Christian Watson",
             "MarShawn Lloyd",
