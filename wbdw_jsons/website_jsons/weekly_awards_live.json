@@ -9,8 +9,7 @@
             "George Kittle"
         ],
         "in_play": [
-            "Xavier Worthy",
-            "Michael Wilson"
+            "Xavier Worthy"
         ]
     },
     {
@@ -31,12 +30,11 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
-        "receiving_yards": 321,
+        "receiving_yards": 332,
         "rushing_yards": 114,
-        "total_yards": 713,
+        "total_yards": 724,
         "yet_to_play": [],
         "in_play": [
-            "Blake Corum",
             "Omarion Hampton",
             "Tre Tucker"
         ]
@@ -50,9 +48,22 @@
         "yet_to_play": [],
         "in_play": [
             "Mike Washington",
-            "Tyler Higbee",
             "Ty Johnson",
             "Jalen Royals"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 102,
+        "receiving_yards": 263,
+        "rushing_yards": 290,
+        "total_yards": 655,
+        "yet_to_play": [
+            "Tucker Kraft"
+        ],
+        "in_play": [
+            "Kenneth Walker",
+            "James Cook"
         ]
     },
     {
@@ -65,22 +76,7 @@
             "Javonte Williams"
         ],
         "in_play": [
-            "Matthew Stafford",
             "Brock Bowers"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 102,
-        "receiving_yards": 263,
-        "rushing_yards": 279,
-        "total_yards": 644,
-        "yet_to_play": [
-            "Tucker Kraft"
-        ],
-        "in_play": [
-            "Kenneth Walker",
-            "James Cook"
         ]
     },
     {
@@ -93,16 +89,14 @@
             "Mike Evans",
             "Terry McLaurin"
         ],
-        "in_play": [
-            "Kyren Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 258,
+        "passing_yards": 269,
         "receiving_yards": 163,
         "rushing_yards": 142,
-        "total_yards": 563,
+        "total_yards": 574,
         "yet_to_play": [
             "Christian Watson",
             "MarShawn Lloyd",
@@ -128,8 +122,7 @@
         "in_play": [
             "Josh Allen",
             "Keaton Mitchell",
-            "Khalil Shakir",
-            "Puka Nacua"
+            "Khalil Shakir"
         ]
     },
     {
@@ -143,7 +136,6 @@
             "Christian McCaffrey"
         ],
         "in_play": [
-            "Davante Adams",
             "Travis Kelce",
             "Cody White"
         ]
@@ -157,9 +149,7 @@
         "yet_to_play": [
             "Brock Purdy"
         ],
-        "in_play": [
-            "Kendrick Bourne"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -172,8 +162,7 @@
             "Jake Ferguson"
         ],
         "in_play": [
-            "Keon Coleman",
-            "Trey McBride"
+            "Keon Coleman"
         ]
     }
 ]
