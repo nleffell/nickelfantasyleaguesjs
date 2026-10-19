@@ -33,6 +33,19 @@
         "in_play": []
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 313,
+        "receiving_yards": 278,
+        "rushing_yards": 140,
+        "total_yards": 731,
+        "yet_to_play": [],
+        "in_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 102,
         "receiving_yards": 294,
@@ -41,19 +54,6 @@
         "yet_to_play": [],
         "in_play": [
             "Tucker Kraft"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 313,
-        "receiving_yards": 250,
-        "rushing_yards": 140,
-        "total_yards": 703,
-        "yet_to_play": [],
-        "in_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
         ]
     },
     {
@@ -74,6 +74,19 @@
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 154,
+        "receiving_yards": 358,
+        "rushing_yards": 134,
+        "total_yards": 646,
+        "yet_to_play": [
+            "Christian McCaffrey"
+        ],
+        "in_play": [
+            "Jordan Love"
         ]
     },
     {
@@ -99,19 +112,6 @@
         ],
         "in_play": [
             "CeeDee Lamb"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 119,
-        "receiving_yards": 358,
-        "rushing_yards": 134,
-        "total_yards": 611,
-        "yet_to_play": [
-            "Christian McCaffrey"
-        ],
-        "in_play": [
-            "Jordan Love"
         ]
     },
     {
