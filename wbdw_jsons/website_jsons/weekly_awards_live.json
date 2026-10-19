@@ -16,8 +16,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 313,
         "receiving_yards": 345,
-        "rushing_yards": 146,
-        "total_yards": 804,
+        "rushing_yards": 152,
+        "total_yards": 810,
         "yet_to_play": [],
         "in_play": [
             "Christian Watson",
@@ -27,10 +27,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 268,
+        "passing_yards": 276,
         "receiving_yards": 358,
         "rushing_yards": 148,
-        "total_yards": 774,
+        "total_yards": 782,
         "yet_to_play": [
             "Christian McCaffrey"
         ],
@@ -50,9 +50,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 102,
-        "receiving_yards": 323,
+        "receiving_yards": 331,
         "rushing_yards": 331,
-        "total_yards": 756,
+        "total_yards": 764,
         "yet_to_play": [],
         "in_play": [
             "Tucker Kraft"
