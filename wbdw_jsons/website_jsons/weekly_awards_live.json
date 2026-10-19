@@ -15,10 +15,11 @@
         "rushing_yards": 95,
         "total_yards": 765,
         "yet_to_play": [
-            "George Pickens",
             "Antonio Williams"
         ],
-        "in_play": []
+        "in_play": [
+            "George Pickens"
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -37,10 +38,10 @@
         "receiving_yards": 294,
         "rushing_yards": 331,
         "total_yards": 727,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Tucker Kraft"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -52,15 +53,28 @@
         "in_play": []
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 313,
+        "receiving_yards": 244,
+        "rushing_yards": 137,
+        "total_yards": 694,
+        "yet_to_play": [],
+        "in_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 222,
         "receiving_yards": 380,
         "rushing_yards": 54,
         "total_yards": 656,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Javonte Williams"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -75,41 +89,30 @@
         "in_play": []
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 313,
-        "receiving_yards": 177,
-        "rushing_yards": 142,
-        "total_yards": 632,
-        "yet_to_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 255,
         "receiving_yards": 260,
         "rushing_yards": 95,
         "total_yards": 610,
         "yet_to_play": [
-            "CeeDee Lamb",
             "Rachaad White"
         ],
-        "in_play": []
+        "in_play": [
+            "CeeDee Lamb"
+        ]
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 0,
+        "passing_yards": 89,
         "receiving_yards": 358,
         "rushing_yards": 134,
-        "total_yards": 492,
+        "total_yards": 581,
         "yet_to_play": [
-            "Jordan Love",
             "Christian McCaffrey"
         ],
-        "in_play": []
+        "in_play": [
+            "Jordan Love"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -128,10 +131,10 @@
         "receiving_yards": 174,
         "rushing_yards": 162,
         "total_yards": 345,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Dak Prescott",
             "Jake Ferguson"
-        ],
-        "in_play": []
+        ]
     }
 ]
