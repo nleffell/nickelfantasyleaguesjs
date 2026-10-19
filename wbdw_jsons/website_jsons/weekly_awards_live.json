@@ -66,6 +66,17 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 222,
+        "receiving_yards": 389,
+        "rushing_yards": 54,
+        "total_yards": 665,
+        "yet_to_play": [],
+        "in_play": [
+            "Javonte Williams"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 158,
         "receiving_yards": 358,
@@ -76,17 +87,6 @@
         ],
         "in_play": [
             "Jordan Love"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 222,
-        "receiving_yards": 380,
-        "rushing_yards": 54,
-        "total_yards": 656,
-        "yet_to_play": [],
-        "in_play": [
-            "Javonte Williams"
         ]
     },
     {
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 42,
+        "passing_yards": 64,
         "receiving_yards": 174,
         "rushing_yards": 162,
-        "total_yards": 378,
+        "total_yards": 400,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
