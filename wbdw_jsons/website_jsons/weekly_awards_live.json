@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 272,
-        "receiving_yards": 414,
+        "receiving_yards": 421,
         "rushing_yards": 95,
-        "total_yards": 781,
+        "total_yards": 788,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 131,
+        "passing_yards": 141,
         "receiving_yards": 187,
         "rushing_yards": 169,
-        "total_yards": 487,
+        "total_yards": 497,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
