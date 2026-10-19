@@ -92,9 +92,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 255,
-        "receiving_yards": 300,
+        "receiving_yards": 314,
         "rushing_yards": 95,
-        "total_yards": 650,
+        "total_yards": 664,
         "yet_to_play": [
             "Rachaad White"
         ],
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 110,
+        "passing_yards": 124,
         "receiving_yards": 180,
         "rushing_yards": 169,
-        "total_yards": 459,
+        "total_yards": 473,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
