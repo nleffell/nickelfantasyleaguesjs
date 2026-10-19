@@ -8,9 +8,7 @@
         "yet_to_play": [
             "Antonio Williams"
         ],
-        "in_play": [
-            "George Pickens"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -19,11 +17,7 @@
         "rushing_yards": 152,
         "total_yards": 810,
         "yet_to_play": [],
-        "in_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -34,9 +28,7 @@
         "yet_to_play": [
             "Christian McCaffrey"
         ],
-        "in_play": [
-            "Jordan Love"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -54,9 +46,7 @@
         "rushing_yards": 331,
         "total_yards": 764,
         "yet_to_play": [],
-        "in_play": [
-            "Tucker Kraft"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -85,9 +75,7 @@
         "rushing_yards": 85,
         "total_yards": 696,
         "yet_to_play": [],
-        "in_play": [
-            "Javonte Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -98,9 +86,7 @@
         "yet_to_play": [
             "Rachaad White"
         ],
-        "in_play": [
-            "CeeDee Lamb"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -121,10 +107,7 @@
         "rushing_yards": 169,
         "total_yards": 614,
         "yet_to_play": [],
-        "in_play": [
-            "Dak Prescott",
-            "Jake Ferguson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
