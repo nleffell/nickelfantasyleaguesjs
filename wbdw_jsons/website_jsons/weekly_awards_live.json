@@ -82,8 +82,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 222,
         "receiving_yards": 389,
-        "rushing_yards": 80,
-        "total_yards": 691,
+        "rushing_yards": 85,
+        "total_yards": 696,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams"
@@ -92,9 +92,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 255,
-        "receiving_yards": 314,
+        "receiving_yards": 323,
         "rushing_yards": 95,
-        "total_yards": 664,
+        "total_yards": 673,
         "yet_to_play": [
             "Rachaad White"
         ],
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 192,
+        "passing_yards": 209,
         "receiving_yards": 187,
         "rushing_yards": 169,
-        "total_yards": 548,
+        "total_yards": 565,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
