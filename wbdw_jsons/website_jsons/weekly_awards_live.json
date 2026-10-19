@@ -2,9 +2,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 272,
-        "receiving_yards": 464,
+        "receiving_yards": 471,
         "rushing_yards": 95,
-        "total_yards": 831,
+        "total_yards": 838,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -92,9 +92,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 255,
-        "receiving_yards": 331,
+        "receiving_yards": 330,
         "rushing_yards": 95,
-        "total_yards": 681,
+        "total_yards": 680,
         "yet_to_play": [
             "Rachaad White"
         ],
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 246,
+        "passing_yards": 258,
         "receiving_yards": 187,
         "rushing_yards": 169,
-        "total_yards": 602,
+        "total_yards": 614,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
