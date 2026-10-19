@@ -1,5 +1,18 @@
 [
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 272,
+        "receiving_yards": 443,
+        "rushing_yards": 95,
+        "total_yards": 810,
+        "yet_to_play": [
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "George Pickens"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 313,
         "receiving_yards": 345,
@@ -10,19 +23,6 @@
             "Christian Watson",
             "MarShawn Lloyd",
             "Matthew Golden"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 272,
-        "receiving_yards": 421,
-        "rushing_yards": 95,
-        "total_yards": 788,
-        "yet_to_play": [
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "George Pickens"
         ]
     },
     {
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 146,
+        "passing_yards": 179,
         "receiving_yards": 187,
         "rushing_yards": 169,
-        "total_yards": 502,
+        "total_yards": 535,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
