@@ -22,6 +22,19 @@
         "in_play": []
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 313,
+        "receiving_yards": 303,
+        "rushing_yards": 140,
+        "total_yards": 756,
+        "yet_to_play": [],
+        "in_play": [
+            "Christian Watson",
+            "MarShawn Lloyd",
+            "Matthew Golden"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 102,
         "receiving_yards": 303,
@@ -30,19 +43,6 @@
         "yet_to_play": [],
         "in_play": [
             "Tucker Kraft"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 313,
-        "receiving_yards": 282,
-        "rushing_yards": 140,
-        "total_yards": 735,
-        "yet_to_play": [],
-        "in_play": [
-            "Christian Watson",
-            "MarShawn Lloyd",
-            "Matthew Golden"
         ]
     },
     {
@@ -66,6 +66,19 @@
         "in_play": []
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 190,
+        "receiving_yards": 358,
+        "rushing_yards": 148,
+        "total_yards": 696,
+        "yet_to_play": [
+            "Christian McCaffrey"
+        ],
+        "in_play": [
+            "Jordan Love"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 222,
         "receiving_yards": 389,
@@ -74,19 +87,6 @@
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 169,
-        "receiving_yards": 358,
-        "rushing_yards": 147,
-        "total_yards": 674,
-        "yet_to_play": [
-            "Christian McCaffrey"
-        ],
-        "in_play": [
-            "Jordan Love"
         ]
     },
     {
