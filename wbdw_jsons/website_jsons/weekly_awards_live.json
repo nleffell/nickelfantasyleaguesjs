@@ -1,5 +1,18 @@
 [
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 272,
+        "receiving_yards": 414,
+        "rushing_yards": 95,
+        "total_yards": 781,
+        "yet_to_play": [
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "George Pickens"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 376,
@@ -7,19 +20,6 @@
         "total_yards": 768,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 272,
-        "receiving_yards": 398,
-        "rushing_yards": 95,
-        "total_yards": 765,
-        "yet_to_play": [
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "George Pickens"
-        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -69,8 +69,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 222,
         "receiving_yards": 389,
-        "rushing_yards": 54,
-        "total_yards": 665,
+        "rushing_yards": 65,
+        "total_yards": 676,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams"
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 64,
+        "passing_yards": 80,
         "receiving_yards": 174,
         "rushing_yards": 162,
-        "total_yards": 400,
+        "total_yards": 416,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
