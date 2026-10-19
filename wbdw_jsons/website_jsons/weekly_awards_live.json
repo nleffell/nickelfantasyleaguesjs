@@ -55,8 +55,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 222,
         "receiving_yards": 380,
-        "rushing_yards": 50,
-        "total_yards": 652,
+        "rushing_yards": 54,
+        "total_yards": 656,
         "yet_to_play": [
             "Javonte Williams"
         ],
@@ -124,10 +124,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 0,
+        "passing_yards": 9,
         "receiving_yards": 174,
         "rushing_yards": 162,
-        "total_yards": 336,
+        "total_yards": 345,
         "yet_to_play": [
             "Dak Prescott",
             "Jake Ferguson"
