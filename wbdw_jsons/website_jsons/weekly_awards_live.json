@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 276,
-        "receiving_yards": 408,
-        "rushing_yards": 205,
-        "total_yards": 889,
+        "receiving_yards": 411,
+        "rushing_yards": 210,
+        "total_yards": 897,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey"
@@ -102,10 +102,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 261,
+        "passing_yards": 264,
         "receiving_yards": 263,
         "rushing_yards": 129,
-        "total_yards": 653,
+        "total_yards": 656,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy"
