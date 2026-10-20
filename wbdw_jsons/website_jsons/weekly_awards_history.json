@@ -204,6 +204,13 @@
                 "value": 1119.0,
                 "amount": 50
             }
+        },
+        "6": {
+            "most combined yards": {
+                "owner": "Tyler Smith",
+                "value": 897.0,
+                "amount": 50
+            }
         }
     }
 }
