@@ -5,10 +5,10 @@
         "receiving_yards": 471,
         "rushing_yards": 95,
         "total_yards": 838,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Antonio Williams"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -25,10 +25,10 @@
         "receiving_yards": 374,
         "rushing_yards": 157,
         "total_yards": 807,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Christian McCaffrey"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -54,10 +54,10 @@
         "receiving_yards": 403,
         "rushing_yards": 105,
         "total_yards": 743,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "George Kittle"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -78,27 +78,27 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 306,
+        "receiving_yards": 206,
+        "rushing_yards": 179,
+        "total_yards": 691,
+        "yet_to_play": [],
+        "in_play": [
+            "Mike Evans",
+            "Terry McLaurin"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 255,
         "receiving_yards": 330,
-        "rushing_yards": 95,
-        "total_yards": 680,
-        "yet_to_play": [
+        "rushing_yards": 97,
+        "total_yards": 682,
+        "yet_to_play": [],
+        "in_play": [
             "Rachaad White"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 306,
-        "receiving_yards": 179,
-        "rushing_yards": 179,
-        "total_yards": 664,
-        "yet_to_play": [
-            "Mike Evans",
-            "Terry McLaurin"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -115,9 +115,9 @@
         "receiving_yards": 263,
         "rushing_yards": 101,
         "total_yards": 415,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Brock Purdy"
-        ],
-        "in_play": []
+        ]
     }
 ]
