@@ -3,108 +3,108 @@
         "place": "1st",
         "owner": "Kyle Nester",
         "team_name": "Ron Mexico ",
-        "record": "10-0",
-        "points": "839",
+        "record": "11-1",
+        "points": "958",
         "agg_record": "52-3-0",
-        "max_points_for": 952.2
+        "max_points_for": 1104.88
     },
     {
         "place": "2nd",
         "owner": "Victor Dankens",
         "team_name": "Good Morning Ladies",
-        "record": "9-1",
-        "points": "747",
+        "record": "11-1",
+        "points": "902",
         "agg_record": "41-14-0",
-        "max_points_for": 854.46
+        "max_points_for": 1015.16
     },
     {
         "place": "3rd",
         "owner": "TJ Pickeral",
         "team_name": "I\u2019m All En",
-        "record": "8-2",
-        "points": "732",
+        "record": "10-2",
+        "points": "855",
         "agg_record": "38-17-0",
-        "max_points_for": 832.74
+        "max_points_for": 972.14
     },
     {
         "place": "4th",
-        "owner": "Nick Janowicz",
-        "team_name": "Dan Patrick and the Gang",
-        "record": "7-3",
-        "points": "767",
-        "agg_record": "40-15-0",
-        "max_points_for": 936.58
+        "owner": "Tyler Smith",
+        "team_name": "Grandpa and the Gang",
+        "record": "8-4",
+        "points": "814",
+        "agg_record": "32-23-0",
+        "max_points_for": 982.22
     },
     {
         "place": "5th",
-        "owner": "Tyler Smith",
-        "team_name": "Grandpa and the Gang",
-        "record": "7-3",
-        "points": "678",
-        "agg_record": "32-23-0",
-        "max_points_for": 838.78
+        "owner": "Nick Janowicz",
+        "team_name": "Dan Patrick and the Gang",
+        "record": "7-5",
+        "points": "861",
+        "agg_record": "40-15-0",
+        "max_points_for": 1055.22
     },
     {
         "place": "6th",
         "owner": "Brian Fuquay",
         "team_name": "Anyone Want Bijan?",
-        "record": "6-4",
-        "points": "706",
+        "record": "7-5",
+        "points": "831",
         "agg_record": "33-22-0",
-        "max_points_for": 777.68
+        "max_points_for": 939.8
     },
     {
         "place": "7th",
-        "owner": "Jon Knicely",
-        "team_name": "Teamy McTeamface",
-        "record": "3-7",
-        "points": "568",
-        "agg_record": "16-39-0",
-        "max_points_for": 724.12
+        "owner": "Ryan Shannon",
+        "team_name": "no team name",
+        "record": "4-8",
+        "points": "751",
+        "agg_record": "24-31-0",
+        "max_points_for": 996.68
     },
     {
         "place": "8th",
-        "owner": "Ryan Shannon",
-        "team_name": "no team name",
-        "record": "2-8",
-        "points": "625",
-        "agg_record": "24-31-0",
-        "max_points_for": 842.56
+        "owner": "Nick Leffell",
+        "team_name": "Team Name Redacted",
+        "record": "4-8",
+        "points": "607",
+        "agg_record": "12-43-0",
+        "max_points_for": 795.0
     },
     {
         "place": "9th",
         "owner": "Patrick Neafsey",
         "team_name": "Darts Inside",
-        "record": "2-8",
-        "points": "593",
+        "record": "3-9",
+        "points": "715",
         "agg_record": "16-39-0",
-        "max_points_for": 687.38
+        "max_points_for": 811.6
     },
     {
         "place": "10th",
-        "owner": "Brad Lowe",
-        "team_name": "Damn She Purdy",
-        "record": "2-8",
-        "points": "561",
-        "agg_record": "14-41-0",
-        "max_points_for": 704.28
+        "owner": "Jon Knicely",
+        "team_name": "Teamy McTeamface",
+        "record": "3-9",
+        "points": "643",
+        "agg_record": "16-39-0",
+        "max_points_for": 861.28
     },
     {
         "place": "11th",
-        "owner": "Chad Hill",
-        "team_name": "Russini\u2019s Receipts",
-        "record": "2-8",
-        "points": "494",
-        "agg_record": "12-43-0",
-        "max_points_for": 589.9
+        "owner": "Brad Lowe",
+        "team_name": "Damn She Purdy",
+        "record": "2-10",
+        "points": "647",
+        "agg_record": "14-41-0",
+        "max_points_for": 798.24
     },
     {
         "place": "12th",
-        "owner": "Nick Leffell",
-        "team_name": "Team Name Redacted",
-        "record": "2-8",
-        "points": "474",
+        "owner": "Chad Hill",
+        "team_name": "Russini\u2019s Receipts",
+        "record": "2-10",
+        "points": "591",
         "agg_record": "12-43-0",
-        "max_points_for": 622.24
+        "max_points_for": 706.14
     }
 ]
