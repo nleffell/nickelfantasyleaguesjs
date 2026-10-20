@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 276,
-        "receiving_yards": 396,
-        "rushing_yards": 198,
-        "total_yards": 870,
+        "receiving_yards": 400,
+        "rushing_yards": 205,
+        "total_yards": 881,
         "yet_to_play": [],
         "in_play": [
             "Christian McCaffrey"
@@ -31,6 +31,17 @@
         "in_play": []
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 235,
+        "receiving_yards": 461,
+        "rushing_yards": 105,
+        "total_yards": 801,
+        "yet_to_play": [],
+        "in_play": [
+            "George Kittle"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 278,
         "receiving_yards": 376,
@@ -38,17 +49,6 @@
         "total_yards": 768,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 235,
-        "receiving_yards": 426,
-        "rushing_yards": 105,
-        "total_yards": 766,
-        "yet_to_play": [],
-        "in_play": [
-            "George Kittle"
-        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -101,6 +101,17 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 253,
+        "receiving_yards": 263,
+        "rushing_yards": 123,
+        "total_yards": 639,
+        "yet_to_play": [],
+        "in_play": [
+            "Brock Purdy"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 258,
         "receiving_yards": 187,
@@ -108,16 +119,5 @@
         "total_yards": 614,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 214,
-        "receiving_yards": 263,
-        "rushing_yards": 121,
-        "total_yards": 598,
-        "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy"
-        ]
     }
 ]
