@@ -6,20 +6,16 @@
         "rushing_yards": 210,
         "total_yards": 897,
         "yet_to_play": [],
-        "in_play": [
-            "Christian McCaffrey"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
         "passing_yards": 272,
-        "receiving_yards": 522,
+        "receiving_yards": 521,
         "rushing_yards": 95,
-        "total_yards": 889,
+        "total_yards": 888,
         "yet_to_play": [],
-        "in_play": [
-            "Antonio Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -37,9 +33,7 @@
         "rushing_yards": 105,
         "total_yards": 801,
         "yet_to_play": [],
-        "in_play": [
-            "George Kittle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -66,10 +60,7 @@
         "rushing_yards": 179,
         "total_yards": 761,
         "yet_to_play": [],
-        "in_play": [
-            "Mike Evans",
-            "Terry McLaurin"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -78,9 +69,7 @@
         "rushing_yards": 122,
         "total_yards": 737,
         "yet_to_play": [],
-        "in_play": [
-            "Rachaad White"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -107,9 +96,7 @@
         "rushing_yards": 129,
         "total_yards": 656,
         "yet_to_play": [],
-        "in_play": [
-            "Brock Purdy"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
