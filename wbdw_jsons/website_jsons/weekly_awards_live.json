@@ -22,9 +22,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 276,
-        "receiving_yards": 358,
+        "receiving_yards": 368,
         "rushing_yards": 146,
-        "total_yards": 780,
+        "total_yards": 790,
         "yet_to_play": [
             "Christian McCaffrey"
         ],
@@ -91,9 +91,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
-        "receiving_yards": 155,
+        "receiving_yards": 179,
         "rushing_yards": 179,
-        "total_yards": 640,
+        "total_yards": 664,
         "yet_to_play": [
             "Mike Evans",
             "Terry McLaurin"
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 0,
+        "passing_yards": 34,
         "receiving_yards": 263,
         "rushing_yards": 101,
-        "total_yards": 364,
+        "total_yards": 398,
         "yet_to_play": [
             "Brock Purdy"
         ],
