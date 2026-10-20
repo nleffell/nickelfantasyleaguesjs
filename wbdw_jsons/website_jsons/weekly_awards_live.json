@@ -22,8 +22,8 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 276,
-        "receiving_yards": 374,
-        "rushing_yards": 160,
+        "receiving_yards": 371,
+        "rushing_yards": 163,
         "total_yards": 810,
         "yet_to_play": [],
         "in_play": [
@@ -49,6 +49,17 @@
         "in_play": []
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 235,
+        "receiving_yards": 415,
+        "rushing_yards": 105,
+        "total_yards": 755,
+        "yet_to_play": [],
+        "in_play": [
+            "George Kittle"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 306,
         "receiving_yards": 260,
@@ -58,17 +69,6 @@
         "in_play": [
             "Mike Evans",
             "Terry McLaurin"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 235,
-        "receiving_yards": 403,
-        "rushing_yards": 105,
-        "total_yards": 743,
-        "yet_to_play": [],
-        "in_play": [
-            "George Kittle"
         ]
     },
     {
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 105,
+        "passing_yards": 114,
         "receiving_yards": 263,
-        "rushing_yards": 101,
-        "total_yards": 469,
+        "rushing_yards": 108,
+        "total_yards": 485,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy"
