@@ -72,6 +72,17 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 255,
+        "receiving_yards": 335,
+        "rushing_yards": 117,
+        "total_yards": 707,
+        "yet_to_play": [],
+        "in_play": [
+            "Rachaad White"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 281,
         "receiving_yards": 295,
@@ -88,17 +99,6 @@
         "total_yards": 696,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 255,
-        "receiving_yards": 335,
-        "rushing_yards": 103,
-        "total_yards": 693,
-        "yet_to_play": [],
-        "in_play": [
-            "Rachaad White"
-        ]
     },
     {
         "owner": "Brad Lowe",
