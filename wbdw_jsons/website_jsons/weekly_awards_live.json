@@ -1,5 +1,16 @@
 [
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 276,
+        "receiving_yards": 396,
+        "rushing_yards": 184,
+        "total_yards": 856,
+        "yet_to_play": [],
+        "in_play": [
+            "Christian McCaffrey"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 272,
         "receiving_yards": 471,
@@ -8,17 +19,6 @@
         "yet_to_play": [],
         "in_play": [
             "Antonio Williams"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 276,
-        "receiving_yards": 383,
-        "rushing_yards": 175,
-        "total_yards": 834,
-        "yet_to_play": [],
-        "in_play": [
-            "Christian McCaffrey"
         ]
     },
     {
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 171,
+        "passing_yards": 194,
         "receiving_yards": 263,
         "rushing_yards": 108,
-        "total_yards": 542,
+        "total_yards": 565,
         "yet_to_play": [],
         "in_play": [
             "Brock Purdy"
