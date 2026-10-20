@@ -11,6 +11,17 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 276,
+        "receiving_yards": 371,
+        "rushing_yards": 164,
+        "total_yards": 811,
+        "yet_to_play": [],
+        "in_play": [
+            "Christian McCaffrey"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 313,
         "receiving_yards": 345,
@@ -18,17 +29,6 @@
         "total_yards": 810,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 276,
-        "receiving_yards": 371,
-        "rushing_yards": 163,
-        "total_yards": 810,
-        "yet_to_play": [],
-        "in_play": [
-            "Christian McCaffrey"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
