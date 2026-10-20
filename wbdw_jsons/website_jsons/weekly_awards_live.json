@@ -22,9 +22,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 276,
-        "receiving_yards": 368,
-        "rushing_yards": 146,
-        "total_yards": 790,
+        "receiving_yards": 374,
+        "rushing_yards": 157,
+        "total_yards": 807,
         "yet_to_play": [
             "Christian McCaffrey"
         ],
@@ -51,9 +51,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 235,
-        "receiving_yards": 392,
+        "receiving_yards": 403,
         "rushing_yards": 105,
-        "total_yards": 732,
+        "total_yards": 743,
         "yet_to_play": [
             "George Kittle"
         ],
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 34,
+        "passing_yards": 51,
         "receiving_yards": 263,
         "rushing_yards": 101,
-        "total_yards": 398,
+        "total_yards": 415,
         "yet_to_play": [
             "Brock Purdy"
         ],
