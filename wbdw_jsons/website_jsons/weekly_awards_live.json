@@ -1,10 +1,10 @@
 [
     {
         "owner": "Victor Dankens",
-        "passing_yards": 223,
+        "passing_yards": 253,
         "receiving_yards": 0,
         "rushing_yards": 22,
-        "total_yards": 245,
+        "total_yards": 275,
         "yet_to_play": [
             "J.K. Dobbins",
             "Ollie Gordon",
@@ -105,6 +105,27 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 56,
+        "rushing_yards": 0,
+        "total_yards": 56,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Dameon Pierce",
+            "Carnell Tate",
+            "Ted Hurst",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Sam LaPorta",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Eli Raridon"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 40,
@@ -123,27 +144,6 @@
         "in_play": [
             "A.J. Brown",
             "Rome Odunze"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 26,
-        "rushing_yards": 0,
-        "total_yards": 26,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Dameon Pierce",
-            "Carnell Tate",
-            "Ted Hurst",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Sam LaPorta",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Eli Raridon"
         ]
     },
     {
