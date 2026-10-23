@@ -1,12 +1,11 @@
 [
     {
         "owner": "Victor Dankens",
-        "passing_yards": 26,
+        "passing_yards": 33,
         "receiving_yards": 0,
         "rushing_yards": 0,
-        "total_yards": 26,
+        "total_yards": 33,
         "yet_to_play": [
-            "Drake Maye",
             "J.K. Dobbins",
             "Ollie Gordon",
             "Zay Flowers",
@@ -17,18 +16,19 @@
             "Amon-Ra St. Brown",
             "Michael Wilson"
         ],
-        "in_play": []
+        "in_play": [
+            "Drake Maye"
+        ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 19,
-        "rushing_yards": 0,
-        "total_yards": 19,
+        "rushing_yards": 1,
+        "total_yards": 20,
         "yet_to_play": [
             "Kyler Murray",
             "Kendre Miller",
-            "Rhamondre Stevenson",
             "KC Concepcion",
             "Denzel Boston",
             "Wan'Dale Robinson",
@@ -37,7 +37,9 @@
             "Breece Hall",
             "Malik Washington"
         ],
-        "in_play": []
+        "in_play": [
+            "Rhamondre Stevenson"
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -89,15 +91,16 @@
             "Bryce Young",
             "Mike Washington",
             "Alvin Kamara",
-            "Luther Burden",
-            "DeMario Douglas",
             "Cooper Kupp",
             "T.J. Hockenson",
             "Dontayvion Wicks",
             "Adonai Mitchell",
             "Tyler Higbee"
         ],
-        "in_play": []
+        "in_play": [
+            "Luther Burden",
+            "DeMario Douglas"
+        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -112,12 +115,13 @@
             "CeeDee Lamb",
             "Christian Kirk",
             "Puka Nacua",
-            "Colston Loveland",
             "Quinshon Judkins",
             "Theo Johnson",
             "Evan Engram"
         ],
-        "in_play": []
+        "in_play": [
+            "Colston Loveland"
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -130,14 +134,15 @@
             "Jonathan Taylor",
             "Kenneth Walker",
             "Drake London",
-            "A.J. Brown",
             "Josh Downs",
             "Tucker Kraft",
             "Saquon Barkley",
-            "Rome Odunze",
             "Chase Brown"
         ],
-        "in_play": []
+        "in_play": [
+            "A.J. Brown",
+            "Rome Odunze"
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -148,7 +153,6 @@
         "yet_to_play": [
             "Malik Willis",
             "Bijan Robinson",
-            "Roschon Johnson",
             "Nico Collins",
             "Garrett Wilson",
             "Ja'Marr Chase",
@@ -157,7 +161,9 @@
             "Tyler Allgeier",
             "Jaylen Waddle"
         ],
-        "in_play": []
+        "in_play": [
+            "Roschon Johnson"
+        ]
     },
     {
         "owner": "Kyle Nester",
@@ -173,11 +179,12 @@
             "Chris Godwin",
             "Tetairoa McMillan",
             "Brock Bowers",
-            "D'Andre Swift",
             "Jameson Williams",
             "Pat Freiermuth"
         ],
-        "in_play": []
+        "in_play": [
+            "D'Andre Swift"
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -194,10 +201,11 @@
             "Devaughn Vele",
             "Harold Fannin",
             "Sam LaPorta",
-            "Tre Tucker",
-            "Eli Raridon"
+            "Tre Tucker"
         ],
-        "in_play": []
+        "in_play": [
+            "Eli Raridon"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -214,10 +222,11 @@
             "Jordan Addison",
             "Dallas Goedert",
             "Kenyon Sadiq",
-            "Mike Gesicki",
-            "Kalif Raymond"
+            "Mike Gesicki"
         ],
-        "in_play": []
+        "in_play": [
+            "Kalif Raymond"
+        ]
     },
     {
         "owner": "Tyler Smith",
