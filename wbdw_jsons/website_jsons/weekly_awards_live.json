@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 104,
+        "receiving_yards": 0,
+        "rushing_yards": 7,
+        "total_yards": 111,
+        "yet_to_play": [
+            "J.K. Dobbins",
+            "Ollie Gordon",
+            "Zay Flowers",
+            "DK Metcalf",
+            "Justin Jefferson",
+            "George Kittle",
+            "DeVonta Smith",
+            "Amon-Ra St. Brown",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Drake Maye"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 0,
         "receiving_yards": 83,
@@ -18,27 +39,6 @@
         "in_play": [
             "Luther Burden",
             "DeMario Douglas"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 76,
-        "receiving_yards": 0,
-        "rushing_yards": 7,
-        "total_yards": 83,
-        "yet_to_play": [
-            "J.K. Dobbins",
-            "Ollie Gordon",
-            "Zay Flowers",
-            "DK Metcalf",
-            "Justin Jefferson",
-            "George Kittle",
-            "DeVonta Smith",
-            "Amon-Ra St. Brown",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Drake Maye"
         ]
     },
     {
@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 27,
+        "rushing_yards": 0,
+        "total_yards": 27,
+        "yet_to_play": [
+            "Sam Darnold",
+            "Blake Corum",
+            "Dameon Pierce",
+            "Carnell Tate",
+            "Ted Hurst",
+            "Devaughn Vele",
+            "Harold Fannin",
+            "Sam LaPorta",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Eli Raridon"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -81,27 +102,6 @@
         ],
         "in_play": [
             "D'Andre Swift"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 15,
-        "rushing_yards": 0,
-        "total_yards": 15,
-        "yet_to_play": [
-            "Sam Darnold",
-            "Blake Corum",
-            "Dameon Pierce",
-            "Carnell Tate",
-            "Ted Hurst",
-            "Devaughn Vele",
-            "Harold Fannin",
-            "Sam LaPorta",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Eli Raridon"
         ]
     },
     {
