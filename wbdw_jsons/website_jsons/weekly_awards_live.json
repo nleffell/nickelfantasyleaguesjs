@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Chad Hill",
+        "passing_yards": 0,
+        "receiving_yards": 83,
+        "rushing_yards": 6,
+        "total_yards": 89,
+        "yet_to_play": [
+            "Bryce Young",
+            "Mike Washington",
+            "Alvin Kamara",
+            "Cooper Kupp",
+            "T.J. Hockenson",
+            "Dontayvion Wicks",
+            "Adonai Mitchell",
+            "Tyler Higbee"
+        ],
+        "in_play": [
+            "Luther Burden",
+            "DeMario Douglas"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 76,
         "receiving_yards": 0,
@@ -18,27 +39,6 @@
         ],
         "in_play": [
             "Drake Maye"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 83,
-        "rushing_yards": 0,
-        "total_yards": 83,
-        "yet_to_play": [
-            "Bryce Young",
-            "Mike Washington",
-            "Alvin Kamara",
-            "Cooper Kupp",
-            "T.J. Hockenson",
-            "Dontayvion Wicks",
-            "Adonai Mitchell",
-            "Tyler Higbee"
-        ],
-        "in_play": [
-            "Luther Burden",
-            "DeMario Douglas"
         ]
     },
     {
@@ -66,8 +66,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 0,
-        "rushing_yards": 22,
-        "total_yards": 22,
+        "rushing_yards": 21,
+        "total_yards": 21,
         "yet_to_play": [
             "C.J. Stroud",
             "Jahmyr Gibbs",
@@ -128,9 +128,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 5,
+        "receiving_yards": 6,
         "rushing_yards": 0,
-        "total_yards": 5,
+        "total_yards": 6,
         "yet_to_play": [
             "Jared Goff",
             "Jonathan Taylor",
