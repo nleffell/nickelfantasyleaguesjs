@@ -1,10 +1,10 @@
 [
     {
         "owner": "Victor Dankens",
-        "passing_yards": 274,
+        "passing_yards": 275,
         "receiving_yards": 0,
         "rushing_yards": 26,
-        "total_yards": 300,
+        "total_yards": 301,
         "yet_to_play": [
             "J.K. Dobbins",
             "Ollie Gordon",
@@ -23,9 +23,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 0,
-        "receiving_yards": 136,
+        "receiving_yards": 137,
         "rushing_yards": 7,
-        "total_yards": 143,
+        "total_yards": 144,
         "yet_to_play": [
             "Bryce Young",
             "Mike Washington",
@@ -45,8 +45,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 80,
-        "rushing_yards": 23,
-        "total_yards": 103,
+        "rushing_yards": 22,
+        "total_yards": 102,
         "yet_to_play": [
             "Kyler Murray",
             "Kendre Miller",
