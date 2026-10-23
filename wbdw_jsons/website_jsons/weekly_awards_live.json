@@ -63,11 +63,32 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 83,
+        "rushing_yards": 0,
+        "total_yards": 83,
+        "yet_to_play": [
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Drake London",
+            "Josh Downs",
+            "Tucker Kraft",
+            "Saquon Barkley",
+            "Chase Brown"
+        ],
+        "in_play": [
+            "A.J. Brown",
+            "Rome Odunze"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 12,
-        "rushing_yards": 68,
-        "total_yards": 80,
+        "rushing_yards": 70,
+        "total_yards": 82,
         "yet_to_play": [
             "C.J. Stroud",
             "Jahmyr Gibbs",
@@ -102,27 +123,6 @@
         ],
         "in_play": [
             "Colston Loveland"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 61,
-        "rushing_yards": 0,
-        "total_yards": 61,
-        "yet_to_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Drake London",
-            "Josh Downs",
-            "Tucker Kraft",
-            "Saquon Barkley",
-            "Chase Brown"
-        ],
-        "in_play": [
-            "A.J. Brown",
-            "Rome Odunze"
         ]
     },
     {
