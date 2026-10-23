@@ -21,6 +21,27 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 0,
+        "receiving_yards": 26,
+        "rushing_yards": 0,
+        "total_yards": 26,
+        "yet_to_play": [
+            "Bryce Young",
+            "Mike Washington",
+            "Alvin Kamara",
+            "Cooper Kupp",
+            "T.J. Hockenson",
+            "Dontayvion Wicks",
+            "Adonai Mitchell",
+            "Tyler Higbee"
+        ],
+        "in_play": [
+            "Luther Burden",
+            "DeMario Douglas"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 19,
@@ -39,6 +60,27 @@
         ],
         "in_play": [
             "Rhamondre Stevenson"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 3,
+        "total_yards": 3,
+        "yet_to_play": [
+            "C.J. Stroud",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Chris Godwin",
+            "Tetairoa McMillan",
+            "Brock Bowers",
+            "Jameson Williams",
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "D'Andre Swift"
         ]
     },
     {
@@ -80,27 +122,6 @@
             "Ryan Flournoy"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Bryce Young",
-            "Mike Washington",
-            "Alvin Kamara",
-            "Cooper Kupp",
-            "T.J. Hockenson",
-            "Dontayvion Wicks",
-            "Adonai Mitchell",
-            "Tyler Higbee"
-        ],
-        "in_play": [
-            "Luther Burden",
-            "DeMario Douglas"
-        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -163,27 +184,6 @@
         ],
         "in_play": [
             "Roschon Johnson"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "C.J. Stroud",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Chris Godwin",
-            "Tetairoa McMillan",
-            "Brock Bowers",
-            "Jameson Williams",
-            "Pat Freiermuth"
-        ],
-        "in_play": [
-            "D'Andre Swift"
         ]
     },
     {
