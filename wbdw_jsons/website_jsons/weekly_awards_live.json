@@ -22,10 +22,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 32,
+        "passing_yards": 36,
         "receiving_yards": 0,
         "rushing_yards": 0,
-        "total_yards": 32,
+        "total_yards": 36,
         "yet_to_play": [
             "J.K. Dobbins",
             "Ollie Gordon",
@@ -44,9 +44,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 19,
-        "rushing_yards": 1,
-        "total_yards": 20,
+        "receiving_yards": 23,
+        "rushing_yards": 5,
+        "total_yards": 28,
         "yet_to_play": [
             "Kyler Murray",
             "Kendre Miller",
