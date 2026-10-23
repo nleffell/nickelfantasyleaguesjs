@@ -1,10 +1,10 @@
 [
     {
         "owner": "Victor Dankens",
-        "passing_yards": 104,
+        "passing_yards": 103,
         "receiving_yards": 0,
-        "rushing_yards": 7,
-        "total_yards": 111,
+        "rushing_yards": 22,
+        "total_yards": 125,
         "yet_to_play": [
             "J.K. Dobbins",
             "Ollie Gordon",
@@ -65,9 +65,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 27,
+        "receiving_yards": 26,
         "rushing_yards": 0,
-        "total_yards": 27,
+        "total_yards": 26,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
