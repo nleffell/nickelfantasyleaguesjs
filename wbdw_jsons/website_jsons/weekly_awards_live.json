@@ -1,5 +1,45 @@
 [
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 26,
+        "receiving_yards": 0,
+        "rushing_yards": 0,
+        "total_yards": 26,
+        "yet_to_play": [
+            "Drake Maye",
+            "J.K. Dobbins",
+            "Ollie Gordon",
+            "Zay Flowers",
+            "DK Metcalf",
+            "Justin Jefferson",
+            "George Kittle",
+            "DeVonta Smith",
+            "Amon-Ra St. Brown",
+            "Michael Wilson"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 19,
+        "rushing_yards": 0,
+        "total_yards": 19,
+        "yet_to_play": [
+            "Kyler Murray",
+            "Kendre Miller",
+            "Rhamondre Stevenson",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Trey McBride",
+            "Woody Marks",
+            "Breece Hall",
+            "Malik Washington"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -16,26 +56,6 @@
             "Emeka Egbuka",
             "Omar Cooper",
             "Michael Mayer"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Drake Maye",
-            "J.K. Dobbins",
-            "Ollie Gordon",
-            "Zay Flowers",
-            "DK Metcalf",
-            "Justin Jefferson",
-            "George Kittle",
-            "DeVonta Smith",
-            "Amon-Ra St. Brown",
-            "Michael Wilson"
         ],
         "in_play": []
     },
@@ -136,26 +156,6 @@
             "Kyren Williams",
             "Tyler Allgeier",
             "Jaylen Waddle"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Kyler Murray",
-            "Kendre Miller",
-            "Rhamondre Stevenson",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Trey McBride",
-            "Woody Marks",
-            "Breece Hall",
-            "Malik Washington"
         ],
         "in_play": []
     },
