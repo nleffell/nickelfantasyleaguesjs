@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 22,
+        "total_yards": 22,
+        "yet_to_play": [
+            "C.J. Stroud",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Chris Godwin",
+            "Tetairoa McMillan",
+            "Brock Bowers",
+            "Jameson Williams",
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "D'Andre Swift"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 15,
@@ -105,24 +126,24 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
+        "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 11,
-        "total_yards": 11,
+        "receiving_yards": 5,
+        "rushing_yards": 0,
+        "total_yards": 5,
         "yet_to_play": [
-            "C.J. Stroud",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Chris Godwin",
-            "Tetairoa McMillan",
-            "Brock Bowers",
-            "Jameson Williams",
-            "Pat Freiermuth"
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Drake London",
+            "Josh Downs",
+            "Tucker Kraft",
+            "Saquon Barkley",
+            "Chase Brown"
         ],
         "in_play": [
-            "D'Andre Swift"
+            "A.J. Brown",
+            "Rome Odunze"
         ]
     },
     {
@@ -164,27 +185,6 @@
             "Ryan Flournoy"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Drake London",
-            "Josh Downs",
-            "Tucker Kraft",
-            "Saquon Barkley",
-            "Chase Brown"
-        ],
-        "in_play": [
-            "A.J. Brown",
-            "Rome Odunze"
-        ]
     },
     {
         "owner": "Nick Janowicz",
