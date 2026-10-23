@@ -65,9 +65,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 13,
-        "rushing_yards": 69,
-        "total_yards": 82,
+        "receiving_yards": 12,
+        "rushing_yards": 67,
+        "total_yards": 79,
         "yet_to_play": [
             "C.J. Stroud",
             "Jahmyr Gibbs",
@@ -81,6 +81,27 @@
         ],
         "in_play": [
             "D'Andre Swift"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 69,
+        "rushing_yards": 0,
+        "total_yards": 69,
+        "yet_to_play": [
+            "Jameis Winston",
+            "Rico Dowdle",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Christian Kirk",
+            "Puka Nacua",
+            "Quinshon Judkins",
+            "Theo Johnson",
+            "Evan Engram"
+        ],
+        "in_play": [
+            "Colston Loveland"
         ]
     },
     {
@@ -102,27 +123,6 @@
         "in_play": [
             "A.J. Brown",
             "Rome Odunze"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 60,
-        "rushing_yards": 0,
-        "total_yards": 60,
-        "yet_to_play": [
-            "Jameis Winston",
-            "Rico Dowdle",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Christian Kirk",
-            "Puka Nacua",
-            "Quinshon Judkins",
-            "Theo Johnson",
-            "Evan Engram"
-        ],
-        "in_play": [
-            "Colston Loveland"
         ]
     },
     {
@@ -150,8 +150,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 0,
         "receiving_yards": 0,
-        "rushing_yards": 9,
-        "total_yards": 9,
+        "rushing_yards": 13,
+        "total_yards": 13,
         "yet_to_play": [
             "Malik Willis",
             "Bijan Robinson",
