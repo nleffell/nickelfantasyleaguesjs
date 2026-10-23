@@ -24,8 +24,8 @@
         "owner": "Chad Hill",
         "passing_yards": 0,
         "receiving_yards": 105,
-        "rushing_yards": 6,
-        "total_yards": 111,
+        "rushing_yards": 7,
+        "total_yards": 112,
         "yet_to_play": [
             "Bryce Young",
             "Mike Washington",
@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 37,
+        "total_yards": 37,
+        "yet_to_play": [
+            "C.J. Stroud",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Chris Godwin",
+            "Tetairoa McMillan",
+            "Brock Bowers",
+            "Jameson Williams",
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "D'Andre Swift"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 26,
@@ -84,27 +105,6 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 21,
-        "total_yards": 21,
-        "yet_to_play": [
-            "C.J. Stroud",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Chris Godwin",
-            "Tetairoa McMillan",
-            "Brock Bowers",
-            "Jameson Williams",
-            "Pat Freiermuth"
-        ],
-        "in_play": [
-            "D'Andre Swift"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 11,
@@ -123,6 +123,27 @@
         ],
         "in_play": [
             "Colston Loveland"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 9,
+        "total_yards": 9,
+        "yet_to_play": [
+            "Malik Willis",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews",
+            "Kyren Williams",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Roschon Johnson"
         ]
     },
     {
@@ -185,27 +206,6 @@
             "Ryan Flournoy"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Malik Willis",
-            "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews",
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
-        ],
-        "in_play": [
-            "Roschon Johnson"
-        ]
     },
     {
         "owner": "Brad Lowe",
