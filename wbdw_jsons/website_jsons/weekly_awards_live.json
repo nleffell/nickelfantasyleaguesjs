@@ -17,15 +17,30 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 292,
-        "receiving_yards": 322,
+        "receiving_yards": 347,
         "rushing_yards": 128,
-        "total_yards": 742,
+        "total_yards": 767,
         "yet_to_play": [
             "George Pickens"
         ],
         "in_play": [
             "Josh Jacobs",
             "Michael Mayer"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 229,
+        "receiving_yards": 160,
+        "rushing_yards": 281,
+        "total_yards": 670,
+        "yet_to_play": [
+            "Darius Cooper",
+            "Travis Kelce"
+        ],
+        "in_play": [
+            "Jordan Love",
+            "Courtland Sutton"
         ]
     },
     {
@@ -37,21 +52,6 @@
         "yet_to_play": [],
         "in_play": [
             "Trey McBride"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 204,
-        "receiving_yards": 160,
-        "rushing_yards": 281,
-        "total_yards": 645,
-        "yet_to_play": [
-            "Darius Cooper",
-            "Travis Kelce"
-        ],
-        "in_play": [
-            "Jordan Love",
-            "Courtland Sutton"
         ]
     },
     {
@@ -143,10 +143,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 95,
-        "receiving_yards": 222,
+        "passing_yards": 94,
+        "receiving_yards": 273,
         "rushing_yards": 53,
-        "total_yards": 370,
+        "total_yards": 420,
         "yet_to_play": [
             "Makai Lemon"
         ],
