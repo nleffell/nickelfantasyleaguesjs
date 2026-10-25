@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 216,
-        "rushing_yards": 55,
-        "total_yards": 592,
+        "receiving_yards": 235,
+        "rushing_yards": 76,
+        "total_yards": 632,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -21,9 +21,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 102,
-        "receiving_yards": 181,
+        "receiving_yards": 213,
         "rushing_yards": 69,
-        "total_yards": 352,
+        "total_yards": 384,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -77,8 +77,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 62,
-        "rushing_yards": 158,
-        "total_yards": 220,
+        "rushing_yards": 161,
+        "total_yards": 223,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -92,6 +92,46 @@
             "Isaiah Likely",
             "Tony Pollard",
             "Jordan Mason"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 90,
+        "receiving_yards": 33,
+        "rushing_yards": 89,
+        "total_yards": 212,
+        "yet_to_play": [
+            "Dallas Goedert",
+            "Kendrick Bourne"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jalen Coker",
+            "Jordan Addison",
+            "Mike Gesicki"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 114,
+        "receiving_yards": 27,
+        "rushing_yards": 63,
+        "total_yards": 204,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Malik Willis",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews"
         ]
     },
     {
@@ -115,51 +155,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 79,
-        "receiving_yards": 33,
-        "rushing_yards": 85,
-        "total_yards": 197,
-        "yet_to_play": [
-            "Dallas Goedert",
-            "Kendrick Bourne"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jalen Coker",
-            "Jordan Addison",
-            "Mike Gesicki"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 105,
-        "receiving_yards": 27,
-        "rushing_yards": 63,
-        "total_yards": 195,
-        "yet_to_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
-        ],
-        "in_play": [
-            "Malik Willis",
-            "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 130,
-        "rushing_yards": 59,
-        "total_yards": 189,
+        "rushing_yards": 62,
+        "total_yards": 192,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -195,9 +195,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 47,
-        "receiving_yards": 19,
+        "receiving_yards": 26,
         "rushing_yards": 78,
-        "total_yards": 144,
+        "total_yards": 151,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
