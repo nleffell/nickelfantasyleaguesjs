@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 407,
+        "receiving_yards": 424,
         "rushing_yards": 156,
-        "total_yards": 884,
+        "total_yards": 901,
         "yet_to_play": [
             "Xavier Worthy"
         ],
@@ -31,9 +31,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 331,
+        "receiving_yards": 337,
         "rushing_yards": 164,
-        "total_yards": 645,
+        "total_yards": 651,
         "yet_to_play": [],
         "in_play": [
             "Trey McBride"
@@ -68,6 +68,21 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 138,
+        "receiving_yards": 278,
+        "rushing_yards": 134,
+        "total_yards": 550,
+        "yet_to_play": [
+            "Kenneth Walker",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Tucker Kraft"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 200,
@@ -78,21 +93,6 @@
             "Kyren Williams",
             "Tyler Allgeier",
             "Jaylen Waddle"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 121,
-        "receiving_yards": 278,
-        "rushing_yards": 134,
-        "total_yards": 533,
-        "yet_to_play": [
-            "Kenneth Walker",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Tucker Kraft"
         ]
     },
     {
@@ -113,8 +113,8 @@
         "owner": "Chad Hill",
         "passing_yards": 163,
         "receiving_yards": 245,
-        "rushing_yards": 42,
-        "total_yards": 450,
+        "rushing_yards": 40,
+        "total_yards": 448,
         "yet_to_play": [
             "Jalen Royals",
             "Cooper Kupp"
@@ -161,8 +161,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 14,
         "receiving_yards": 149,
-        "rushing_yards": 46,
-        "total_yards": 209,
+        "rushing_yards": 48,
+        "total_yards": 211,
         "yet_to_play": [
             "Makai Lemon"
         ],
