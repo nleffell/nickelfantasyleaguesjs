@@ -7,13 +7,13 @@
         "total_yards": 474,
         "yet_to_play": [
             "J.K. Dobbins",
-            "Ollie Gordon",
-            "Zay Flowers",
             "Xavier Worthy",
             "Amon-Ra St. Brown",
             "Michael Wilson"
         ],
         "in_play": [
+            "Ollie Gordon",
+            "Zay Flowers",
             "Justin Jefferson",
             "George Kittle"
         ]
@@ -22,16 +22,16 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 150,
-        "rushing_yards": 142,
-        "total_yards": 292,
+        "rushing_yards": 150,
+        "total_yards": 300,
         "yet_to_play": [
-            "Jameis Winston",
-            "Quinshon Judkins",
             "CeeDee Lamb",
             "Puka Nacua",
             "Evan Engram"
         ],
         "in_play": [
+            "Jameis Winston",
+            "Quinshon Judkins",
             "Christian Kirk",
             "Deion Burks"
         ]
@@ -43,54 +43,73 @@
         "rushing_yards": 12,
         "total_yards": 222,
         "yet_to_play": [
-            "Bryce Young",
             "Mike Washington",
             "Jalen Royals",
             "Cooper Kupp",
-            "Adonai Mitchell",
             "Tyler Higbee"
         ],
         "in_play": [
-            "T.J. Hockenson"
+            "Bryce Young",
+            "T.J. Hockenson",
+            "Adonai Mitchell"
         ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 128,
+        "receiving_yards": 133,
         "rushing_yards": 39,
-        "total_yards": 167,
+        "total_yards": 172,
         "yet_to_play": [
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Kyler Murray",
             "KC Concepcion",
             "Denzel Boston",
             "Wan'Dale Robinson",
-            "Trey McBride",
             "Woody Marks",
             "Jaylin Noel",
             "Malik Washington"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 122,
+        "rushing_yards": 44,
+        "total_yards": 166,
+        "yet_to_play": [
+            "Jared Goff",
+            "Kenneth Walker",
+            "Tucker Kraft",
+            "Saquon Barkley"
         ],
         "in_play": [
-            "Kyler Murray"
+            "Jonathan Taylor",
+            "Drake London",
+            "Josh Downs",
+            "Chase Brown"
         ]
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 53,
-        "rushing_yards": 89,
-        "total_yards": 142,
+        "rushing_yards": 90,
+        "total_yards": 143,
         "yet_to_play": [
             "Jordan Love",
-            "Derrick Henry",
             "Courtland Sutton",
             "Darius Cooper",
-            "Isaiah Likely",
-            "Tony Pollard",
             "Travis Kelce"
         ],
         "in_play": [
             "Christian McCaffrey",
+            "Derrick Henry",
             "Keenan Allen",
+            "Isaiah Likely",
+            "Tony Pollard",
             "Jordan Mason"
         ]
     },
@@ -104,31 +123,13 @@
             "Sam Darnold",
             "Blake Corum",
             "Dameon Pierce",
-            "Carnell Tate",
-            "Ted Hurst",
-            "Harold Fannin",
             "Sam LaPorta",
             "Tre Tucker"
         ],
-        "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 117,
-        "rushing_yards": 1,
-        "total_yards": 118,
-        "yet_to_play": [
-            "Jared Goff",
-            "Kenneth Walker",
-            "Tucker Kraft",
-            "Saquon Barkley",
-            "Chase Brown"
-        ],
         "in_play": [
-            "Jonathan Taylor",
-            "Drake London",
-            "Josh Downs"
+            "Carnell Tate",
+            "Ted Hurst",
+            "Harold Fannin"
         ]
     },
     {
@@ -138,56 +139,77 @@
         "rushing_yards": 78,
         "total_yards": 109,
         "yet_to_play": [
-            "C.J. Stroud",
             "Jahmyr Gibbs",
             "Javonte Williams",
             "Jaxon Smith-Njigba",
             "Jameson Williams",
-            "Tetairoa McMillan",
             "Brock Bowers",
-            "Chris Godwin",
             "AJ Barner"
         ],
-        "in_play": []
+        "in_play": [
+            "C.J. Stroud",
+            "Tetairoa McMillan",
+            "Chris Godwin"
+        ]
     },
     {
         "owner": "Brad Lowe",
         "passing_yards": 40,
-        "receiving_yards": 0,
-        "rushing_yards": 38,
-        "total_yards": 78,
+        "receiving_yards": 4,
+        "rushing_yards": 55,
+        "total_yards": 99,
         "yet_to_play": [
-            "Bucky Irving",
-            "Tee Higgins",
-            "Jalen Coker",
             "Dallas Goedert",
-            "Kendrick Bourne",
-            "Mike Gesicki"
+            "Kendrick Bourne"
         ],
         "in_play": [
             "Brock Purdy",
+            "Bucky Irving",
             "Aaron Jones",
-            "Jordan Addison"
+            "Tee Higgins",
+            "Jalen Coker",
+            "Jordan Addison",
+            "Mike Gesicki"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 9,
+        "receiving_yards": 79,
+        "rushing_yards": 10,
+        "total_yards": 98,
+        "yet_to_play": [
+            "Josh Jacobs",
+            "George Pickens",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Malik Nabers",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Cade Otton"
         ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 51,
-        "receiving_yards": 0,
+        "receiving_yards": 9,
         "rushing_yards": 13,
-        "total_yards": 64,
+        "total_yards": 73,
         "yet_to_play": [
-            "Malik Willis",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews",
             "Kyren Williams",
             "Tyler Allgeier",
             "Jaylen Waddle"
         ],
         "in_play": [
-            "Bijan Robinson"
+            "Malik Willis",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews"
         ]
     },
     {
@@ -199,35 +221,15 @@
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
-            "Chuba Hubbard",
             "Matthew Golden",
             "Christian Watson",
             "RJ Harvey",
-            "Ja'Kobi Lane",
             "Makai Lemon"
         ],
         "in_play": [
-            "Tyler Warren"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 27,
-        "rushing_yards": 0,
-        "total_yards": 27,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Josh Jacobs",
-            "Braelon Allen",
-            "Malik Nabers",
-            "George Pickens",
-            "Omar Cooper",
-            "Cade Otton",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Kyle Pitts"
+            "Chuba Hubbard",
+            "Tyler Warren",
+            "Ja'Kobi Lane"
         ]
     }
 ]
