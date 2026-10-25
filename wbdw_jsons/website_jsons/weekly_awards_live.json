@@ -6,11 +6,11 @@
         "rushing_yards": 144,
         "total_yards": 791,
         "yet_to_play": [
-            "Xavier Worthy",
-            "Amon-Ra St. Brown"
+            "Xavier Worthy"
         ],
         "in_play": [
             "J.K. Dobbins",
+            "Amon-Ra St. Brown",
             "Michael Wilson"
         ]
     },
@@ -18,21 +18,22 @@
         "owner": "Nick Leffell",
         "passing_yards": 292,
         "receiving_yards": 305,
-        "rushing_yards": 117,
-        "total_yards": 714,
+        "rushing_yards": 120,
+        "total_yards": 717,
         "yet_to_play": [
-            "Josh Jacobs",
-            "George Pickens",
-            "Michael Mayer"
+            "George Pickens"
         ],
-        "in_play": []
+        "in_play": [
+            "Josh Jacobs",
+            "Michael Mayer"
+        ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 317,
+        "receiving_yards": 322,
         "rushing_yards": 164,
-        "total_yards": 631,
+        "total_yards": 636,
         "yet_to_play": [],
         "in_play": [
             "Trey McBride"
@@ -55,28 +56,27 @@
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 179,
-        "rushing_yards": 113,
-        "total_yards": 500,
-        "yet_to_play": [
-            "Kyren Williams"
-        ],
+        "rushing_yards": 115,
+        "total_yards": 502,
+        "yet_to_play": [],
         "in_play": [
+            "Kyren Williams",
             "Tyler Allgeier",
             "Jaylen Waddle"
         ]
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 31,
+        "passing_yards": 58,
         "receiving_yards": 154,
         "rushing_yards": 281,
-        "total_yards": 466,
+        "total_yards": 493,
         "yet_to_play": [
-            "Jordan Love",
             "Darius Cooper",
             "Travis Kelce"
         ],
         "in_play": [
+            "Jordan Love",
             "Courtland Sutton"
         ]
     },
@@ -87,24 +87,25 @@
         "rushing_yards": 21,
         "total_yards": 429,
         "yet_to_play": [
-            "Mike Washington",
             "Jalen Royals",
-            "Cooper Kupp",
-            "Tyler Higbee"
+            "Cooper Kupp"
         ],
-        "in_play": []
+        "in_play": [
+            "Mike Washington",
+            "Tyler Higbee"
+        ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 169,
+        "receiving_yards": 173,
         "rushing_yards": 242,
-        "total_yards": 411,
+        "total_yards": 415,
         "yet_to_play": [
-            "CeeDee Lamb",
-            "Puka Nacua"
+            "CeeDee Lamb"
         ],
         "in_play": [
+            "Puka Nacua",
             "Evan Engram"
         ]
     },
@@ -115,12 +116,13 @@
         "rushing_yards": 134,
         "total_yards": 369,
         "yet_to_play": [
-            "Jared Goff",
             "Kenneth Walker",
-            "Tucker Kraft",
             "Saquon Barkley"
         ],
-        "in_play": []
+        "in_play": [
+            "Jared Goff",
+            "Tucker Kraft"
+        ]
     },
     {
         "owner": "Kyle Nester",
@@ -129,14 +131,15 @@
         "rushing_yards": 82,
         "total_yards": 314,
         "yet_to_play": [
-            "Jahmyr Gibbs",
             "Javonte Williams",
             "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "Brock Bowers",
             "AJ Barner"
         ],
-        "in_play": []
+        "in_play": [
+            "Jahmyr Gibbs",
+            "Jameson Williams",
+            "Brock Bowers"
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -146,12 +149,13 @@
         "total_yards": 270,
         "yet_to_play": [
             "Sam Darnold",
+            "Dameon Pierce"
+        ],
+        "in_play": [
             "Blake Corum",
-            "Dameon Pierce",
             "Sam LaPorta",
             "Tre Tucker"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -160,13 +164,13 @@
         "rushing_yards": 35,
         "total_yards": 168,
         "yet_to_play": [
+            "Makai Lemon"
+        ],
+        "in_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
             "Matthew Golden",
             "Christian Watson",
-            "Makai Lemon"
-        ],
-        "in_play": [
             "RJ Harvey"
         ]
     }
