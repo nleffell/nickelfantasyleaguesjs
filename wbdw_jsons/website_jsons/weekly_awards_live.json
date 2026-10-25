@@ -17,9 +17,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 292,
-        "receiving_yards": 360,
-        "rushing_yards": 138,
-        "total_yards": 790,
+        "receiving_yards": 368,
+        "rushing_yards": 152,
+        "total_yards": 812,
         "yet_to_play": [
             "George Pickens"
         ],
@@ -31,9 +31,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 394,
+        "receiving_yards": 420,
         "rushing_yards": 164,
-        "total_yards": 708,
+        "total_yards": 734,
         "yet_to_play": [],
         "in_play": [
             "Trey McBride"
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 243,
+        "passing_yards": 258,
         "receiving_yards": 179,
         "rushing_yards": 281,
-        "total_yards": 703,
+        "total_yards": 718,
         "yet_to_play": [
             "Darius Cooper",
             "Travis Kelce"
@@ -72,9 +72,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 208,
-        "receiving_yards": 254,
-        "rushing_yards": 203,
-        "total_yards": 665,
+        "receiving_yards": 276,
+        "rushing_yards": 204,
+        "total_yards": 688,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams",
@@ -97,10 +97,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 215,
-        "receiving_yards": 291,
-        "rushing_yards": 55,
-        "total_yards": 561,
+        "passing_yards": 227,
+        "receiving_yards": 298,
+        "rushing_yards": 60,
+        "total_yards": 585,
         "yet_to_play": [
             "Makai Lemon"
         ],
@@ -115,9 +115,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 215,
+        "receiving_yards": 227,
         "rushing_yards": 161,
-        "total_yards": 529,
+        "total_yards": 541,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba",
