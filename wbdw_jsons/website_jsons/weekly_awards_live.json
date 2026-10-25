@@ -21,9 +21,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 103,
-        "receiving_yards": 266,
-        "rushing_yards": 77,
-        "total_yards": 446,
+        "receiving_yards": 285,
+        "rushing_yards": 78,
+        "total_yards": 466,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -135,6 +135,26 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 108,
+        "receiving_yards": 41,
+        "rushing_yards": 78,
+        "total_yards": 227,
+        "yet_to_play": [
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Jameson Williams",
+            "Brock Bowers",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "C.J. Stroud",
+            "Tetairoa McMillan",
+            "Chris Godwin"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 90,
         "receiving_yards": 33,
@@ -174,31 +194,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 90,
-        "receiving_yards": 41,
-        "rushing_yards": 78,
-        "total_yards": 209,
-        "yet_to_play": [
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "Brock Bowers",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "C.J. Stroud",
-            "Tetairoa McMillan",
-            "Chris Godwin"
-        ]
-    },
-    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 156,
+        "receiving_yards": 177,
         "rushing_yards": 0,
-        "total_yards": 156,
+        "total_yards": 177,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
