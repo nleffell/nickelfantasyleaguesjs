@@ -3,8 +3,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 321,
         "receiving_yards": 272,
-        "rushing_yards": 96,
-        "total_yards": 689,
+        "rushing_yards": 98,
+        "total_yards": 691,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -42,8 +42,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 130,
         "receiving_yards": 291,
-        "rushing_yards": 130,
-        "total_yards": 551,
+        "rushing_yards": 131,
+        "total_yards": 552,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -59,10 +59,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 178,
+        "passing_yards": 189,
         "receiving_yards": 144,
         "rushing_yards": 135,
-        "total_yards": 457,
+        "total_yards": 468,
         "yet_to_play": [
             "Dallas Goedert",
             "Kendrick Bourne"
@@ -98,9 +98,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 161,
-        "rushing_yards": 222,
-        "total_yards": 383,
+        "receiving_yards": 169,
+        "rushing_yards": 237,
+        "total_yards": 406,
         "yet_to_play": [
             "CeeDee Lamb",
             "Puka Nacua",
@@ -156,8 +156,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 94,
-        "rushing_yards": 228,
-        "total_yards": 322,
+        "rushing_yards": 232,
+        "total_yards": 326,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
