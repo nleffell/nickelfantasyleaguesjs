@@ -41,8 +41,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 150,
-        "rushing_yards": 199,
-        "total_yards": 349,
+        "rushing_yards": 200,
+        "total_yards": 350,
         "yet_to_play": [
             "CeeDee Lamb",
             "Puka Nacua",
@@ -97,8 +97,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 72,
-        "rushing_yards": 180,
-        "total_yards": 252,
+        "rushing_yards": 181,
+        "total_yards": 253,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -116,10 +116,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 33,
+        "passing_yards": 43,
         "receiving_yards": 168,
         "rushing_yards": 35,
-        "total_yards": 236,
+        "total_yards": 246,
         "yet_to_play": [
             "Josh Jacobs",
             "George Pickens",
@@ -157,9 +157,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 137,
+        "receiving_yards": 147,
         "rushing_yards": 67,
-        "total_yards": 204,
+        "total_yards": 214,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -175,10 +175,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 47,
+        "passing_yards": 90,
         "receiving_yards": 41,
         "rushing_yards": 78,
-        "total_yards": 166,
+        "total_yards": 209,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
