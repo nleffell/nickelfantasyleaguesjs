@@ -3,8 +3,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 321,
         "receiving_yards": 252,
-        "rushing_yards": 84,
-        "total_yards": 657,
+        "rushing_yards": 89,
+        "total_yards": 662,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -22,8 +22,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 103,
         "receiving_yards": 291,
-        "rushing_yards": 78,
-        "total_yards": 472,
+        "rushing_yards": 84,
+        "total_yards": 478,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -39,10 +39,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 87,
-        "receiving_yards": 207,
+        "passing_yards": 102,
+        "receiving_yards": 212,
         "rushing_yards": 71,
-        "total_yards": 365,
+        "total_yards": 385,
         "yet_to_play": [
             "Josh Jacobs",
             "George Pickens",
@@ -77,10 +77,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 106,
+        "passing_yards": 107,
         "receiving_yards": 218,
         "rushing_yards": 12,
-        "total_yards": 336,
+        "total_yards": 337,
         "yet_to_play": [
             "Mike Washington",
             "Jalen Royals",
@@ -114,6 +114,45 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 168,
+        "rushing_yards": 95,
+        "total_yards": 263,
+        "yet_to_play": [
+            "Jared Goff",
+            "Kenneth Walker",
+            "Tucker Kraft",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "Drake London",
+            "Josh Downs",
+            "Chase Brown"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 90,
+        "receiving_yards": 68,
+        "rushing_yards": 96,
+        "total_yards": 254,
+        "yet_to_play": [
+            "Dallas Goedert",
+            "Kendrick Bourne"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jalen Coker",
+            "Jordan Addison",
+            "Mike Gesicki"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 72,
@@ -135,50 +174,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 90,
-        "receiving_yards": 62,
-        "rushing_yards": 96,
-        "total_yards": 248,
-        "yet_to_play": [
-            "Dallas Goedert",
-            "Kendrick Bourne"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jalen Coker",
-            "Jordan Addison",
-            "Mike Gesicki"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 156,
-        "rushing_yards": 91,
-        "total_yards": 247,
-        "yet_to_play": [
-            "Jared Goff",
-            "Kenneth Walker",
-            "Tucker Kraft",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jonathan Taylor",
-            "Drake London",
-            "Josh Downs",
-            "Chase Brown"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 108,
-        "receiving_yards": 52,
+        "receiving_yards": 53,
         "rushing_yards": 78,
-        "total_yards": 238,
+        "total_yards": 239,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
