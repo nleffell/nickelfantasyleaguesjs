@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 202,
+        "receiving_yards": 216,
         "rushing_yards": 55,
-        "total_yards": 578,
+        "total_yards": 592,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -16,6 +16,25 @@
             "Zay Flowers",
             "Justin Jefferson",
             "George Kittle"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 102,
+        "receiving_yards": 181,
+        "rushing_yards": 69,
+        "total_yards": 352,
+        "yet_to_play": [
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Kyler Murray",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Woody Marks",
+            "Jaylin Noel",
+            "Malik Washington"
         ]
     },
     {
@@ -34,25 +53,6 @@
             "Quinshon Judkins",
             "Christian Kirk",
             "Deion Burks"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 92,
-        "receiving_yards": 176,
-        "rushing_yards": 57,
-        "total_yards": 325,
-        "yet_to_play": [
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Kyler Murray",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Woody Marks",
-            "Jaylin Noel",
-            "Malik Washington"
         ]
     },
     {
@@ -77,8 +77,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 62,
-        "rushing_yards": 159,
-        "total_yards": 221,
+        "rushing_yards": 158,
+        "total_yards": 220,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -115,6 +115,46 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 79,
+        "receiving_yards": 33,
+        "rushing_yards": 85,
+        "total_yards": 197,
+        "yet_to_play": [
+            "Dallas Goedert",
+            "Kendrick Bourne"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jalen Coker",
+            "Jordan Addison",
+            "Mike Gesicki"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 105,
+        "receiving_yards": 27,
+        "rushing_yards": 63,
+        "total_yards": 195,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Malik Willis",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 130,
@@ -131,46 +171,6 @@
             "Drake London",
             "Josh Downs",
             "Chase Brown"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 84,
-        "receiving_yards": 27,
-        "rushing_yards": 63,
-        "total_yards": 174,
-        "yet_to_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
-        ],
-        "in_play": [
-            "Malik Willis",
-            "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 75,
-        "receiving_yards": 33,
-        "rushing_yards": 62,
-        "total_yards": 170,
-        "yet_to_play": [
-            "Dallas Goedert",
-            "Kendrick Bourne"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jalen Coker",
-            "Jordan Addison",
-            "Mike Gesicki"
         ]
     },
     {
