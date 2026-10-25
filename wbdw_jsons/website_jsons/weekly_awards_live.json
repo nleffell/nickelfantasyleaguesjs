@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 394,
-        "rushing_yards": 149,
-        "total_yards": 864,
+        "receiving_yards": 406,
+        "rushing_yards": 156,
+        "total_yards": 883,
         "yet_to_play": [
             "Xavier Worthy"
         ],
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 289,
+        "passing_yards": 288,
         "receiving_yards": 187,
         "rushing_yards": 140,
-        "total_yards": 616,
+        "total_yards": 615,
         "yet_to_play": [
             "Dallas Goedert"
         ],
@@ -68,6 +68,19 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 208,
+        "receiving_yards": 200,
+        "rushing_yards": 132,
+        "total_yards": 540,
+        "yet_to_play": [],
+        "in_play": [
+            "Kyren Williams",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 121,
         "receiving_yards": 278,
@@ -83,16 +96,17 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 208,
-        "receiving_yards": 200,
-        "rushing_yards": 123,
-        "total_yards": 531,
-        "yet_to_play": [],
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 208,
+        "rushing_yards": 249,
+        "total_yards": 457,
+        "yet_to_play": [
+            "CeeDee Lamb"
+        ],
         "in_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
+            "Puka Nacua",
+            "Evan Engram"
         ]
     },
     {
@@ -108,20 +122,6 @@
         "in_play": [
             "Mike Washington",
             "Tyler Higbee"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 197,
-        "rushing_yards": 249,
-        "total_yards": 446,
-        "yet_to_play": [
-            "CeeDee Lamb"
-        ],
-        "in_play": [
-            "Puka Nacua",
-            "Evan Engram"
         ]
     },
     {
