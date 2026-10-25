@@ -21,9 +21,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 103,
-        "receiving_yards": 285,
+        "receiving_yards": 291,
         "rushing_yards": 78,
-        "total_yards": 466,
+        "total_yards": 472,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -74,6 +74,26 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 43,
+        "receiving_yards": 195,
+        "rushing_yards": 71,
+        "total_yards": 309,
+        "yet_to_play": [
+            "Josh Jacobs",
+            "George Pickens",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Malik Nabers",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Cade Otton"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 128,
         "receiving_yards": 59,
@@ -112,26 +132,6 @@
             "Isaiah Likely",
             "Tony Pollard",
             "Jordan Mason"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 43,
-        "receiving_yards": 168,
-        "rushing_yards": 35,
-        "total_yards": 246,
-        "yet_to_play": [
-            "Josh Jacobs",
-            "George Pickens",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Malik Nabers",
-            "Kyle Pitts",
-            "Omar Cooper",
-            "Cade Otton"
         ]
     },
     {
@@ -178,8 +178,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 147,
-        "rushing_yards": 67,
-        "total_yards": 214,
+        "rushing_yards": 71,
+        "total_yards": 218,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
