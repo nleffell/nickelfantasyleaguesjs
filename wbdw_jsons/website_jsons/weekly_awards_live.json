@@ -41,10 +41,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 258,
+        "passing_yards": 267,
         "receiving_yards": 179,
         "rushing_yards": 281,
-        "total_yards": 718,
+        "total_yards": 727,
         "yet_to_play": [
             "Darius Cooper",
             "Travis Kelce"
@@ -73,13 +73,30 @@
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 276,
-        "rushing_yards": 204,
-        "total_yards": 688,
+        "rushing_yards": 208,
+        "total_yards": 692,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams",
             "Tyler Allgeier",
             "Jaylen Waddle"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 242,
+        "receiving_yards": 322,
+        "rushing_yards": 60,
+        "total_yards": 624,
+        "yet_to_play": [
+            "Makai Lemon"
+        ],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Matthew Golden",
+            "Christian Watson",
+            "RJ Harvey"
         ]
     },
     {
@@ -93,23 +110,6 @@
         ],
         "in_play": [
             "Kendrick Bourne"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 227,
-        "receiving_yards": 298,
-        "rushing_yards": 60,
-        "total_yards": 585,
-        "yet_to_play": [
-            "Makai Lemon"
-        ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Matthew Golden",
-            "Christian Watson",
-            "RJ Harvey"
         ]
     },
     {
