@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 121,
-        "rushing_yards": 54,
-        "total_yards": 496,
+        "receiving_yards": 127,
+        "rushing_yards": 55,
+        "total_yards": 503,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -22,8 +22,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 150,
-        "rushing_yards": 152,
-        "total_yards": 302,
+        "rushing_yards": 187,
+        "total_yards": 337,
         "yet_to_play": [
             "CeeDee Lamb",
             "Puka Nacua",
@@ -34,6 +34,25 @@
             "Quinshon Judkins",
             "Christian Kirk",
             "Deion Burks"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 19,
+        "receiving_yards": 166,
+        "rushing_yards": 50,
+        "total_yards": 235,
+        "yet_to_play": [
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Kyler Murray",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Woody Marks",
+            "Jaylin Noel",
+            "Malik Washington"
         ]
     },
     {
@@ -55,30 +74,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 13,
-        "receiving_yards": 143,
-        "rushing_yards": 42,
-        "total_yards": 198,
-        "yet_to_play": [
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Kyler Murray",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Woody Marks",
-            "Jaylin Noel",
-            "Malik Washington"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 58,
-        "rushing_yards": 114,
-        "total_yards": 172,
+        "rushing_yards": 117,
+        "total_yards": 175,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -97,9 +97,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
-        "receiving_yards": 122,
+        "receiving_yards": 125,
         "rushing_yards": 44,
-        "total_yards": 166,
+        "total_yards": 169,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
@@ -115,10 +115,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 9,
+        "passing_yards": 12,
         "receiving_yards": 129,
         "rushing_yards": 10,
-        "total_yards": 148,
+        "total_yards": 151,
         "yet_to_play": [
             "Josh Jacobs",
             "George Pickens",
@@ -134,31 +134,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 62,
-        "receiving_yards": 15,
-        "rushing_yards": 61,
-        "total_yards": 138,
-        "yet_to_play": [
-            "Dallas Goedert",
-            "Kendrick Bourne"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jalen Coker",
-            "Jordan Addison",
-            "Mike Gesicki"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 84,
         "receiving_yards": 15,
-        "rushing_yards": 28,
-        "total_yards": 127,
+        "rushing_yards": 43,
+        "total_yards": 142,
         "yet_to_play": [
             "Kyren Williams",
             "Tyler Allgeier",
@@ -174,11 +154,31 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 64,
+        "receiving_yards": 15,
+        "rushing_yards": 61,
+        "total_yards": 140,
+        "yet_to_play": [
+            "Dallas Goedert",
+            "Kendrick Bourne"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jalen Coker",
+            "Jordan Addison",
+            "Mike Gesicki"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 125,
+        "receiving_yards": 137,
         "rushing_yards": 0,
-        "total_yards": 125,
+        "total_yards": 137,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
@@ -194,10 +194,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 19,
+        "passing_yards": 22,
         "receiving_yards": 12,
         "rushing_yards": 78,
-        "total_yards": 109,
+        "total_yards": 112,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
