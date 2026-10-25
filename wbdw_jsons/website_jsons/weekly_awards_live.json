@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 424,
+        "receiving_yards": 423,
         "rushing_yards": 156,
-        "total_yards": 901,
+        "total_yards": 900,
         "yet_to_play": [
             "Xavier Worthy"
         ],
@@ -17,9 +17,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 292,
-        "receiving_yards": 315,
+        "receiving_yards": 322,
         "rushing_yards": 124,
-        "total_yards": 731,
+        "total_yards": 738,
         "yet_to_play": [
             "George Pickens"
         ],
@@ -40,6 +40,21 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 191,
+        "receiving_yards": 160,
+        "rushing_yards": 281,
+        "total_yards": 632,
+        "yet_to_play": [
+            "Darius Cooper",
+            "Travis Kelce"
+        ],
+        "in_play": [
+            "Jordan Love",
+            "Courtland Sutton"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 288,
         "receiving_yards": 187,
@@ -53,26 +68,24 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 156,
-        "receiving_yards": 154,
-        "rushing_yards": 281,
-        "total_yards": 591,
-        "yet_to_play": [
-            "Darius Cooper",
-            "Travis Kelce"
-        ],
+        "owner": "Nick Janowicz",
+        "passing_yards": 208,
+        "receiving_yards": 200,
+        "rushing_yards": 145,
+        "total_yards": 553,
+        "yet_to_play": [],
         "in_play": [
-            "Jordan Love",
-            "Courtland Sutton"
+            "Kyren Williams",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
         ]
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 138,
+        "passing_yards": 137,
         "receiving_yards": 278,
         "rushing_yards": 134,
-        "total_yards": 550,
+        "total_yards": 549,
         "yet_to_play": [
             "Kenneth Walker",
             "Saquon Barkley"
@@ -83,24 +96,11 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 208,
-        "receiving_yards": 200,
-        "rushing_yards": 142,
-        "total_yards": 550,
-        "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 216,
+        "receiving_yards": 234,
         "rushing_yards": 249,
-        "total_yards": 465,
+        "total_yards": 483,
         "yet_to_play": [
             "CeeDee Lamb"
         ],
@@ -145,8 +145,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 278,
-        "rushing_yards": 26,
-        "total_yards": 304,
+        "rushing_yards": 45,
+        "total_yards": 323,
         "yet_to_play": [
             "Sam Darnold",
             "Dameon Pierce"
@@ -160,9 +160,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 14,
-        "receiving_yards": 157,
+        "receiving_yards": 185,
         "rushing_yards": 48,
-        "total_yards": 219,
+        "total_yards": 247,
         "yet_to_play": [
             "Makai Lemon"
         ],
