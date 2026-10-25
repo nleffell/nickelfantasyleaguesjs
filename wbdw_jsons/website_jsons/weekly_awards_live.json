@@ -19,9 +19,7 @@
         "yet_to_play": [
             "George Pickens"
         ],
-        "in_play": [
-            "Michael Mayer"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -63,9 +61,7 @@
         "rushing_yards": 231,
         "total_yards": 715,
         "yet_to_play": [],
-        "in_play": [
-            "Kyren Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -76,10 +72,7 @@
         "yet_to_play": [
             "Makai Lemon"
         ],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -103,9 +96,7 @@
             "Jaxon Smith-Njigba",
             "AJ Barner"
         ],
-        "in_play": [
-            "Brock Bowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -117,10 +108,7 @@
             "Sam Darnold",
             "Dameon Pierce"
         ],
-        "in_play": [
-            "Blake Corum",
-            "Tre Tucker"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -131,9 +119,7 @@
         "yet_to_play": [
             "CeeDee Lamb"
         ],
-        "in_play": [
-            "Puka Nacua"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -145,9 +131,6 @@
             "Jalen Royals",
             "Cooper Kupp"
         ],
-        "in_play": [
-            "Mike Washington",
-            "Tyler Higbee"
-        ]
+        "in_play": []
     }
 ]
