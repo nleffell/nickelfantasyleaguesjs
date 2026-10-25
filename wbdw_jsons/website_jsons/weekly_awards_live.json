@@ -8,11 +8,7 @@
         "yet_to_play": [
             "Xavier Worthy"
         ],
-        "in_play": [
-            "J.K. Dobbins",
-            "Amon-Ra St. Brown",
-            "Michael Wilson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -24,7 +20,6 @@
             "George Pickens"
         ],
         "in_play": [
-            "Josh Jacobs",
             "Michael Mayer"
         ]
     },
@@ -35,9 +30,7 @@
         "rushing_yards": 164,
         "total_yards": 742,
         "yet_to_play": [],
-        "in_play": [
-            "Trey McBride"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -49,10 +42,7 @@
             "Darius Cooper",
             "Travis Kelce"
         ],
-        "in_play": [
-            "Jordan Love",
-            "Courtland Sutton"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -64,22 +54,17 @@
             "Kenneth Walker",
             "Saquon Barkley"
         ],
-        "in_play": [
-            "Jared Goff",
-            "Tucker Kraft"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 276,
-        "rushing_yards": 224,
-        "total_yards": 708,
+        "rushing_yards": 231,
+        "total_yards": 715,
         "yet_to_play": [],
         "in_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
+            "Kyren Williams"
         ]
     },
     {
@@ -93,10 +78,7 @@
         ],
         "in_play": [
             "Kirk Cousins",
-            "Ashton Jeanty",
-            "Matthew Golden",
-            "Christian Watson",
-            "RJ Harvey"
+            "Ashton Jeanty"
         ]
     },
     {
@@ -108,9 +90,7 @@
         "yet_to_play": [
             "Dallas Goedert"
         ],
-        "in_play": [
-            "Kendrick Bourne"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -124,8 +104,6 @@
             "AJ Barner"
         ],
         "in_play": [
-            "Jahmyr Gibbs",
-            "Jameson Williams",
             "Brock Bowers"
         ]
     },
@@ -141,7 +119,6 @@
         ],
         "in_play": [
             "Blake Corum",
-            "Sam LaPorta",
             "Tre Tucker"
         ]
     },
@@ -155,8 +132,7 @@
             "CeeDee Lamb"
         ],
         "in_play": [
-            "Puka Nacua",
-            "Evan Engram"
+            "Puka Nacua"
         ]
     },
     {
