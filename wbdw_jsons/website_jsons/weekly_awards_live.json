@@ -3,8 +3,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 321,
         "receiving_yards": 272,
-        "rushing_yards": 89,
-        "total_yards": 682,
+        "rushing_yards": 96,
+        "total_yards": 689,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -16,6 +16,25 @@
             "Zay Flowers",
             "Justin Jefferson",
             "George Kittle"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 103,
+        "receiving_yards": 291,
+        "rushing_yards": 121,
+        "total_yards": 515,
+        "yet_to_play": [
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Kyler Murray",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Wan'Dale Robinson",
+            "Woody Marks",
+            "Jaylin Noel",
+            "Malik Washington"
         ]
     },
     {
@@ -39,30 +58,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 103,
-        "receiving_yards": 291,
-        "rushing_yards": 83,
-        "total_yards": 477,
-        "yet_to_play": [
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Kyler Murray",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
-            "Woody Marks",
-            "Jaylin Noel",
-            "Malik Washington"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 160,
+        "receiving_yards": 161,
         "rushing_yards": 214,
-        "total_yards": 374,
+        "total_yards": 375,
         "yet_to_play": [
             "CeeDee Lamb",
             "Puka Nacua",
@@ -77,10 +77,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 121,
+        "passing_yards": 137,
         "receiving_yards": 218,
         "rushing_yards": 12,
-        "total_yards": 351,
+        "total_yards": 367,
         "yet_to_play": [
             "Mike Washington",
             "Jalen Royals",
@@ -91,6 +91,26 @@
             "Bryce Young",
             "T.J. Hockenson",
             "Adonai Mitchell"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 145,
+        "receiving_yards": 98,
+        "rushing_yards": 109,
+        "total_yards": 352,
+        "yet_to_play": [
+            "Kyren Williams",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
+        ],
+        "in_play": [
+            "Malik Willis",
+            "Bijan Robinson",
+            "Nico Collins",
+            "Garrett Wilson",
+            "Ja'Marr Chase",
+            "Mark Andrews"
         ]
     },
     {
@@ -114,23 +134,24 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 128,
-        "receiving_yards": 73,
-        "rushing_yards": 107,
-        "total_yards": 308,
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 88,
+        "rushing_yards": 211,
+        "total_yards": 299,
         "yet_to_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
+            "Jordan Love",
+            "Courtland Sutton",
+            "Darius Cooper",
+            "Travis Kelce"
         ],
         "in_play": [
-            "Malik Willis",
-            "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews"
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Keenan Allen",
+            "Isaiah Likely",
+            "Tony Pollard",
+            "Jordan Mason"
         ]
     },
     {
@@ -153,32 +174,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 88,
-        "rushing_yards": 188,
-        "total_yards": 276,
-        "yet_to_play": [
-            "Jordan Love",
-            "Courtland Sutton",
-            "Darius Cooper",
-            "Travis Kelce"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Keenan Allen",
-            "Isaiah Likely",
-            "Tony Pollard",
-            "Jordan Mason"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
-        "passing_yards": 108,
+        "passing_yards": 114,
         "receiving_yards": 79,
         "rushing_yards": 78,
-        "total_yards": 265,
+        "total_yards": 271,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -216,8 +216,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 93,
-        "rushing_yards": 23,
-        "total_yards": 116,
+        "rushing_yards": 28,
+        "total_yards": 121,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
