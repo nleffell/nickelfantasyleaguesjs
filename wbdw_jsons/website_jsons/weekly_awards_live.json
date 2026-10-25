@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 272,
+        "receiving_yards": 283,
         "rushing_yards": 98,
-        "total_yards": 691,
+        "total_yards": 702,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -21,9 +21,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 193,
-        "receiving_yards": 280,
+        "receiving_yards": 284,
         "rushing_yards": 116,
-        "total_yards": 589,
+        "total_yards": 593,
         "yet_to_play": [
             "Josh Jacobs",
             "George Pickens",
@@ -116,9 +116,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 145,
-        "receiving_yards": 117,
+        "receiving_yards": 125,
         "rushing_yards": 109,
-        "total_yards": 371,
+        "total_yards": 379,
         "yet_to_play": [
             "Kyren Williams",
             "Tyler Allgeier",
@@ -137,8 +137,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": 220,
-        "rushing_yards": 115,
-        "total_yards": 335,
+        "rushing_yards": 130,
+        "total_yards": 350,
         "yet_to_play": [
             "Jared Goff",
             "Kenneth Walker",
