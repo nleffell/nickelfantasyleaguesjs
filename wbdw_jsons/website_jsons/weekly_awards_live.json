@@ -25,9 +25,7 @@
             "George Pickens",
             "Michael Mayer"
         ],
-        "in_play": [
-            "Malik Nabers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -37,9 +35,7 @@
         "total_yards": 631,
         "yet_to_play": [],
         "in_play": [
-            "Trey McBride",
-            "Woody Marks",
-            "Jaylin Noel"
+            "Trey McBride"
         ]
     },
     {
@@ -65,7 +61,6 @@
             "Kyren Williams"
         ],
         "in_play": [
-            "Nico Collins",
             "Tyler Allgeier",
             "Jaylen Waddle"
         ]
@@ -82,8 +77,7 @@
             "Travis Kelce"
         ],
         "in_play": [
-            "Courtland Sutton",
-            "Isaiah Likely"
+            "Courtland Sutton"
         ]
     },
     {
@@ -111,7 +105,6 @@
             "Puka Nacua"
         ],
         "in_play": [
-            "Jameis Winston",
             "Evan Engram"
         ]
     },
@@ -143,9 +136,7 @@
             "Brock Bowers",
             "AJ Barner"
         ],
-        "in_play": [
-            "C.J. Stroud"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
