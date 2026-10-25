@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 142,
+        "receiving_yards": 173,
         "rushing_yards": 55,
-        "total_yards": 518,
+        "total_yards": 549,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -22,8 +22,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 150,
-        "rushing_yards": 187,
-        "total_yards": 337,
+        "rushing_yards": 186,
+        "total_yards": 336,
         "yet_to_play": [
             "CeeDee Lamb",
             "Puka Nacua",
@@ -77,8 +77,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 62,
-        "rushing_yards": 140,
-        "total_yards": 202,
+        "rushing_yards": 142,
+        "total_yards": 204,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -92,6 +92,26 @@
             "Isaiah Likely",
             "Tony Pollard",
             "Jordan Mason"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 12,
+        "receiving_yards": 142,
+        "rushing_yards": 32,
+        "total_yards": 186,
+        "yet_to_play": [
+            "Josh Jacobs",
+            "George Pickens",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "Malik Nabers",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Cade Otton"
         ]
     },
     {
@@ -114,31 +134,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 12,
-        "receiving_yards": 136,
-        "rushing_yards": 13,
-        "total_yards": 161,
-        "yet_to_play": [
-            "Josh Jacobs",
-            "George Pickens",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "Malik Nabers",
-            "Kyle Pitts",
-            "Omar Cooper",
-            "Cade Otton"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
-        "passing_yards": 64,
+        "passing_yards": 75,
         "receiving_yards": 24,
         "rushing_yards": 61,
-        "total_yards": 149,
+        "total_yards": 160,
         "yet_to_play": [
             "Dallas Goedert",
             "Kendrick Bourne"
@@ -216,8 +216,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 62,
-        "rushing_yards": 9,
-        "total_yards": 71,
+        "rushing_yards": 13,
+        "total_yards": 75,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
