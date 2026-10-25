@@ -3,47 +3,41 @@
         "owner": "Victor Dankens",
         "passing_yards": 321,
         "receiving_yards": 326,
-        "rushing_yards": 136,
-        "total_yards": 783,
+        "rushing_yards": 144,
+        "total_yards": 791,
         "yet_to_play": [
-            "J.K. Dobbins",
             "Xavier Worthy",
-            "Amon-Ra St. Brown",
-            "Michael Wilson"
+            "Amon-Ra St. Brown"
         ],
         "in_play": [
-            "George Kittle"
+            "J.K. Dobbins",
+            "Michael Wilson"
         ]
     },
     {
         "owner": "Nick Leffell",
         "passing_yards": 292,
-        "receiving_yards": 294,
+        "receiving_yards": 296,
         "rushing_yards": 116,
-        "total_yards": 702,
+        "total_yards": 704,
         "yet_to_play": [
             "Josh Jacobs",
             "George Pickens",
             "Michael Mayer"
         ],
         "in_play": [
-            "Malik Nabers",
-            "Kyle Pitts"
+            "Malik Nabers"
         ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 315,
+        "receiving_yards": 317,
         "rushing_yards": 164,
-        "total_yards": 629,
-        "yet_to_play": [
-            "Trey McBride"
-        ],
+        "total_yards": 631,
+        "yet_to_play": [],
         "in_play": [
-            "KC Concepcion",
-            "Denzel Boston",
-            "Wan'Dale Robinson",
+            "Trey McBride",
             "Woody Marks",
             "Jaylin Noel"
         ]
@@ -55,11 +49,10 @@
         "rushing_yards": 140,
         "total_yards": 616,
         "yet_to_play": [
-            "Dallas Goedert",
-            "Kendrick Bourne"
+            "Dallas Goedert"
         ],
         "in_play": [
-            "Brock Purdy"
+            "Kendrick Bourne"
         ]
     },
     {
@@ -69,13 +62,12 @@
         "rushing_yards": 113,
         "total_yards": 497,
         "yet_to_play": [
-            "Kyren Williams",
-            "Tyler Allgeier",
-            "Jaylen Waddle"
+            "Kyren Williams"
         ],
         "in_play": [
-            "Bijan Robinson",
-            "Nico Collins"
+            "Nico Collins",
+            "Tyler Allgeier",
+            "Jaylen Waddle"
         ]
     },
     {
@@ -86,14 +78,12 @@
         "total_yards": 435,
         "yet_to_play": [
             "Jordan Love",
-            "Courtland Sutton",
             "Darius Cooper",
             "Travis Kelce"
         ],
         "in_play": [
-            "Christian McCaffrey",
-            "Isaiah Likely",
-            "Tony Pollard"
+            "Courtland Sutton",
+            "Isaiah Likely"
         ]
     },
     {
@@ -118,13 +108,11 @@
         "total_yards": 411,
         "yet_to_play": [
             "CeeDee Lamb",
-            "Puka Nacua",
-            "Evan Engram"
+            "Puka Nacua"
         ],
         "in_play": [
             "Jameis Winston",
-            "Quinshon Judkins",
-            "Christian Kirk"
+            "Evan Engram"
         ]
     },
     {
@@ -139,9 +127,7 @@
             "Tucker Kraft",
             "Saquon Barkley"
         ],
-        "in_play": [
-            "Drake London"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -174,10 +160,7 @@
             "Sam LaPorta",
             "Tre Tucker"
         ],
-        "in_play": [
-            "Carnell Tate",
-            "Harold Fannin"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -190,9 +173,10 @@
             "Ashton Jeanty",
             "Matthew Golden",
             "Christian Watson",
-            "RJ Harvey",
             "Makai Lemon"
         ],
-        "in_play": []
+        "in_play": [
+            "RJ Harvey"
+        ]
     }
 ]
