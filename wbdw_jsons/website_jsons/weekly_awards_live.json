@@ -39,9 +39,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 298,
-        "rushing_yards": 148,
-        "total_yards": 596,
+        "receiving_yards": 311,
+        "rushing_yards": 164,
+        "total_yards": 625,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -56,10 +56,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 240,
+        "passing_yards": 245,
         "receiving_yards": 187,
         "rushing_yards": 138,
-        "total_yards": 565,
+        "total_yards": 570,
         "yet_to_play": [
             "Dallas Goedert",
             "Kendrick Bourne"
@@ -74,8 +74,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 176,
-        "rushing_yards": 107,
-        "total_yards": 491,
+        "rushing_yards": 112,
+        "total_yards": 496,
         "yet_to_play": [
             "Kyren Williams",
             "Tyler Allgeier",
@@ -107,6 +107,25 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 134,
+        "rushing_yards": 280,
+        "total_yards": 414,
+        "yet_to_play": [
+            "Jordan Love",
+            "Courtland Sutton",
+            "Darius Cooper",
+            "Travis Kelce"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Isaiah Likely",
+            "Tony Pollard"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 169,
@@ -121,25 +140,6 @@
             "Jameis Winston",
             "Quinshon Judkins",
             "Christian Kirk"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 129,
-        "rushing_yards": 280,
-        "total_yards": 409,
-        "yet_to_play": [
-            "Jordan Love",
-            "Courtland Sutton",
-            "Darius Cooper",
-            "Travis Kelce"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Isaiah Likely",
-            "Tony Pollard"
         ]
     },
     {
@@ -161,10 +161,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 142,
+        "passing_yards": 150,
         "receiving_yards": 79,
-        "rushing_yards": 80,
-        "total_yards": 301,
+        "rushing_yards": 82,
+        "total_yards": 311,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -180,9 +180,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 216,
+        "receiving_yards": 234,
         "rushing_yards": 0,
-        "total_yards": 216,
+        "total_yards": 234,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
