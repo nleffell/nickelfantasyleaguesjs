@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 488,
-        "rushing_yards": 158,
-        "total_yards": 967,
+        "receiving_yards": 503,
+        "rushing_yards": 157,
+        "total_yards": 981,
         "yet_to_play": [
             "Xavier Worthy"
         ],
@@ -31,12 +31,27 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 360,
+        "receiving_yards": 367,
         "rushing_yards": 164,
-        "total_yards": 674,
+        "total_yards": 681,
         "yet_to_play": [],
         "in_play": [
             "Trey McBride"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 262,
+        "receiving_yards": 278,
+        "rushing_yards": 134,
+        "total_yards": 674,
+        "yet_to_play": [
+            "Kenneth Walker",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Tucker Kraft"
         ]
     },
     {
@@ -52,21 +67,6 @@
         "in_play": [
             "Jordan Love",
             "Courtland Sutton"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 248,
-        "receiving_yards": 278,
-        "rushing_yards": 134,
-        "total_yards": 660,
-        "yet_to_play": [
-            "Kenneth Walker",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Tucker Kraft"
         ]
     },
     {
@@ -86,8 +86,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 227,
-        "rushing_yards": 179,
-        "total_yards": 614,
+        "rushing_yards": 182,
+        "total_yards": 617,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams",
@@ -98,9 +98,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 199,
-        "rushing_yards": 135,
-        "total_yards": 487,
+        "receiving_yards": 209,
+        "rushing_yards": 137,
+        "total_yards": 499,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba",
@@ -143,10 +143,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 98,
+        "passing_yards": 106,
         "receiving_yards": 277,
-        "rushing_yards": 53,
-        "total_yards": 428,
+        "rushing_yards": 54,
+        "total_yards": 437,
         "yet_to_play": [
             "Makai Lemon"
         ],
