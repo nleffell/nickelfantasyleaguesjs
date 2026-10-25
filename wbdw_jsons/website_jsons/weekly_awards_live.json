@@ -17,9 +17,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 292,
-        "receiving_yards": 347,
+        "receiving_yards": 360,
         "rushing_yards": 128,
-        "total_yards": 767,
+        "total_yards": 780,
         "yet_to_play": [
             "George Pickens"
         ],
@@ -98,9 +98,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 209,
+        "receiving_yards": 215,
         "rushing_yards": 137,
-        "total_yards": 499,
+        "total_yards": 505,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba",
@@ -127,26 +127,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 163,
-        "receiving_yards": 244,
-        "rushing_yards": 40,
-        "total_yards": 447,
-        "yet_to_play": [
-            "Jalen Royals",
-            "Cooper Kupp"
-        ],
-        "in_play": [
-            "Mike Washington",
-            "Tyler Higbee"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
-        "passing_yards": 106,
+        "passing_yards": 125,
         "receiving_yards": 277,
         "rushing_yards": 54,
-        "total_yards": 437,
+        "total_yards": 456,
         "yet_to_play": [
             "Makai Lemon"
         ],
@@ -156,6 +141,21 @@
             "Matthew Golden",
             "Christian Watson",
             "RJ Harvey"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 163,
+        "receiving_yards": 244,
+        "rushing_yards": 42,
+        "total_yards": 449,
+        "yet_to_play": [
+            "Jalen Royals",
+            "Cooper Kupp"
+        ],
+        "in_play": [
+            "Mike Washington",
+            "Tyler Higbee"
         ]
     },
     {
