@@ -3,8 +3,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 321,
         "receiving_yards": 283,
-        "rushing_yards": 98,
-        "total_yards": 702,
+        "rushing_yards": 105,
+        "total_yards": 709,
         "yet_to_play": [
             "J.K. Dobbins",
             "Xavier Worthy",
@@ -20,10 +20,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 193,
+        "passing_yards": 266,
         "receiving_yards": 284,
         "rushing_yards": 116,
-        "total_yards": 593,
+        "total_yards": 666,
         "yet_to_play": [
             "Josh Jacobs",
             "George Pickens",
@@ -60,9 +60,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 189,
-        "receiving_yards": 144,
+        "receiving_yards": 187,
         "rushing_yards": 135,
-        "total_yards": 468,
+        "total_yards": 511,
         "yet_to_play": [
             "Dallas Goedert",
             "Kendrick Bourne"
@@ -96,29 +96,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 169,
-        "rushing_yards": 237,
-        "total_yards": 406,
-        "yet_to_play": [
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "Evan Engram"
-        ],
-        "in_play": [
-            "Jameis Winston",
-            "Quinshon Judkins",
-            "Christian Kirk",
-            "Deion Burks"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 145,
-        "receiving_yards": 125,
+        "receiving_yards": 160,
         "rushing_yards": 109,
-        "total_yards": 379,
+        "total_yards": 414,
         "yet_to_play": [
             "Kyren Williams",
             "Tyler Allgeier",
@@ -134,30 +116,29 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
+        "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 220,
-        "rushing_yards": 130,
-        "total_yards": 350,
+        "receiving_yards": 169,
+        "rushing_yards": 236,
+        "total_yards": 405,
         "yet_to_play": [
-            "Jared Goff",
-            "Kenneth Walker",
-            "Tucker Kraft",
-            "Saquon Barkley"
+            "CeeDee Lamb",
+            "Puka Nacua",
+            "Evan Engram"
         ],
         "in_play": [
-            "Jonathan Taylor",
-            "Drake London",
-            "Josh Downs",
-            "Chase Brown"
+            "Jameis Winston",
+            "Quinshon Judkins",
+            "Christian Kirk",
+            "Deion Burks"
         ]
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 94,
-        "rushing_yards": 232,
-        "total_yards": 326,
+        "receiving_yards": 115,
+        "rushing_yards": 258,
+        "total_yards": 373,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -171,6 +152,25 @@
             "Isaiah Likely",
             "Tony Pollard",
             "Jordan Mason"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 201,
+        "rushing_yards": 134,
+        "total_yards": 335,
+        "yet_to_play": [
+            "Jared Goff",
+            "Kenneth Walker",
+            "Tucker Kraft",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "Drake London",
+            "Josh Downs",
+            "Chase Brown"
         ]
     },
     {
