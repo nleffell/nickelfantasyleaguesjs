@@ -18,8 +18,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 292,
         "receiving_yards": 360,
-        "rushing_yards": 136,
-        "total_yards": 788,
+        "rushing_yards": 138,
+        "total_yards": 790,
         "yet_to_play": [
             "George Pickens"
         ],
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 234,
+        "passing_yards": 243,
         "receiving_yards": 179,
         "rushing_yards": 281,
-        "total_yards": 694,
+        "total_yards": 703,
         "yet_to_play": [
             "Darius Cooper",
             "Travis Kelce"
@@ -96,28 +96,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 153,
-        "receiving_yards": 215,
-        "rushing_yards": 160,
-        "total_yards": 528,
-        "yet_to_play": [
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Jahmyr Gibbs",
-            "Jameson Williams",
-            "Brock Bowers"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
-        "passing_yards": 178,
-        "receiving_yards": 282,
+        "passing_yards": 215,
+        "receiving_yards": 291,
         "rushing_yards": 55,
-        "total_yards": 515,
+        "total_yards": 561,
         "yet_to_play": [
             "Makai Lemon"
         ],
@@ -127,6 +110,23 @@
             "Matthew Golden",
             "Christian Watson",
             "RJ Harvey"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 153,
+        "receiving_yards": 215,
+        "rushing_yards": 161,
+        "total_yards": 529,
+        "yet_to_play": [
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Jahmyr Gibbs",
+            "Jameson Williams",
+            "Brock Bowers"
         ]
     },
     {
@@ -161,9 +161,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 344,
+        "receiving_yards": 381,
         "rushing_yards": 69,
-        "total_yards": 413,
+        "total_yards": 450,
         "yet_to_play": [
             "Sam Darnold",
             "Dameon Pierce"
