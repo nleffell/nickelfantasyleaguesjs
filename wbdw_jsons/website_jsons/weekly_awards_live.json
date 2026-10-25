@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 430,
+        "receiving_yards": 474,
         "rushing_yards": 156,
-        "total_yards": 907,
+        "total_yards": 951,
         "yet_to_play": [
             "Xavier Worthy"
         ],
@@ -57,9 +57,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 288,
-        "receiving_yards": 191,
+        "receiving_yards": 192,
         "rushing_yards": 140,
-        "total_yards": 619,
+        "total_yards": 620,
         "yet_to_play": [
             "Dallas Goedert"
         ],
@@ -69,10 +69,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 160,
+        "passing_yards": 204,
         "receiving_yards": 278,
         "rushing_yards": 134,
-        "total_yards": 572,
+        "total_yards": 616,
         "yet_to_play": [
             "Kenneth Walker",
             "Saquon Barkley"
@@ -85,9 +85,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 208,
-        "receiving_yards": 200,
-        "rushing_yards": 145,
-        "total_yards": 553,
+        "receiving_yards": 222,
+        "rushing_yards": 152,
+        "total_yards": 582,
         "yet_to_play": [],
         "in_play": [
             "Kyren Williams",
@@ -128,8 +128,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 153,
         "receiving_yards": 169,
-        "rushing_yards": 98,
-        "total_yards": 420,
+        "rushing_yards": 120,
+        "total_yards": 442,
         "yet_to_play": [
             "Javonte Williams",
             "Jaxon Smith-Njigba",
