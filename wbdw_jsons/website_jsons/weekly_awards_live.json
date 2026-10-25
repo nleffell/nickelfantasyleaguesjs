@@ -12,8 +12,6 @@
             "Michael Wilson"
         ],
         "in_play": [
-            "Ollie Gordon",
-            "Zay Flowers",
             "George Kittle"
         ]
     },
@@ -29,19 +27,16 @@
             "Michael Mayer"
         ],
         "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
             "Malik Nabers",
-            "Kyle Pitts",
-            "Omar Cooper"
+            "Kyle Pitts"
         ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 150,
-        "receiving_yards": 311,
+        "receiving_yards": 315,
         "rushing_yards": 164,
-        "total_yards": 625,
+        "total_yards": 629,
         "yet_to_play": [
             "Trey McBride"
         ],
@@ -50,8 +45,7 @@
             "Denzel Boston",
             "Wan'Dale Robinson",
             "Woody Marks",
-            "Jaylin Noel",
-            "Malik Washington"
+            "Jaylin Noel"
         ]
     },
     {
@@ -65,29 +59,23 @@
             "Kendrick Bourne"
         ],
         "in_play": [
-            "Brock Purdy",
-            "Tee Higgins",
-            "Mike Gesicki"
+            "Brock Purdy"
         ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 176,
-        "rushing_yards": 112,
-        "total_yards": 496,
+        "rushing_yards": 113,
+        "total_yards": 497,
         "yet_to_play": [
             "Kyren Williams",
             "Tyler Allgeier",
             "Jaylen Waddle"
         ],
         "in_play": [
-            "Malik Willis",
             "Bijan Robinson",
-            "Nico Collins",
-            "Garrett Wilson",
-            "Ja'Marr Chase",
-            "Mark Andrews"
+            "Nico Collins"
         ]
     },
     {
@@ -102,16 +90,14 @@
             "Cooper Kupp",
             "Tyler Higbee"
         ],
-        "in_play": [
-            "Adonai Mitchell"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 134,
-        "rushing_yards": 280,
-        "total_yards": 414,
+        "rushing_yards": 281,
+        "total_yards": 415,
         "yet_to_play": [
             "Jordan Love",
             "Courtland Sutton",
@@ -120,7 +106,6 @@
         ],
         "in_play": [
             "Christian McCaffrey",
-            "Derrick Henry",
             "Isaiah Likely",
             "Tony Pollard"
         ]
@@ -155,8 +140,7 @@
             "Saquon Barkley"
         ],
         "in_play": [
-            "Drake London",
-            "Chase Brown"
+            "Drake London"
         ]
     },
     {
@@ -209,8 +193,6 @@
             "RJ Harvey",
             "Makai Lemon"
         ],
-        "in_play": [
-            "Ja'Kobi Lane"
-        ]
+        "in_play": []
     }
 ]
