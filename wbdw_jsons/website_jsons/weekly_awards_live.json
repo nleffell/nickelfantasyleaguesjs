@@ -22,19 +22,6 @@
         "in_play": []
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 289,
-        "rushing_yards": 150,
-        "total_yards": 742,
-        "yet_to_play": [
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 150,
         "receiving_yards": 428,
@@ -42,6 +29,19 @@
         "total_yards": 742,
         "yet_to_play": [],
         "in_play": []
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 303,
+        "receiving_yards": 289,
+        "rushing_yards": 149,
+        "total_yards": 741,
+        "yet_to_play": [
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Kenneth Walker"
+        ]
     },
     {
         "owner": "Tyler Smith",
@@ -103,10 +103,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 23,
+        "passing_yards": 34,
         "receiving_yards": 399,
         "rushing_yards": 93,
-        "total_yards": 515,
+        "total_yards": 526,
         "yet_to_play": [
             "Dameon Pierce"
         ],
@@ -128,9 +128,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 163,
-        "receiving_yards": 259,
+        "receiving_yards": 270,
         "rushing_yards": 48,
-        "total_yards": 470,
+        "total_yards": 481,
         "yet_to_play": [],
         "in_play": [
             "Jalen Royals",
