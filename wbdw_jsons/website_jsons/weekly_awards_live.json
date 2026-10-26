@@ -79,8 +79,8 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 280,
-        "rushing_yards": 204,
+        "receiving_yards": 279,
+        "rushing_yards": 205,
         "total_yards": 637,
         "yet_to_play": [
             "Javonte Williams"
@@ -103,10 +103,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 10,
+        "passing_yards": 9,
         "receiving_yards": 399,
         "rushing_yards": 93,
-        "total_yards": 502,
+        "total_yards": 501,
         "yet_to_play": [
             "Dameon Pierce"
         ],
