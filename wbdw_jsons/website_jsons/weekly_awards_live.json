@@ -22,30 +22,30 @@
         "in_play": []
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 294,
-        "rushing_yards": 157,
-        "total_yards": 754,
-        "yet_to_play": [
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 384,
+        "receiving_yards": 412,
         "rushing_yards": 213,
-        "total_yards": 750,
+        "total_yards": 778,
         "yet_to_play": [
             "Javonte Williams"
         ],
         "in_play": [
             "Jaxon Smith-Njigba",
             "AJ Barner"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 303,
+        "receiving_yards": 294,
+        "rushing_yards": 161,
+        "total_yards": 758,
+        "yet_to_play": [
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Kenneth Walker"
         ]
     },
     {
@@ -80,6 +80,19 @@
         "in_play": []
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 178,
+        "receiving_yards": 399,
+        "rushing_yards": 100,
+        "total_yards": 677,
+        "yet_to_play": [
+            "Dameon Pierce"
+        ],
+        "in_play": [
+            "Sam Darnold"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 295,
         "receiving_yards": 319,
@@ -89,19 +102,6 @@
             "Makai Lemon"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 150,
-        "receiving_yards": 399,
-        "rushing_yards": 100,
-        "total_yards": 649,
-        "yet_to_play": [
-            "Dameon Pierce"
-        ],
-        "in_play": [
-            "Sam Darnold"
-        ]
     },
     {
         "owner": "Brad Lowe",
