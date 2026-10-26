@@ -36,6 +36,19 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 274,
+        "receiving_yards": 223,
+        "rushing_yards": 281,
+        "total_yards": 778,
+        "yet_to_play": [
+            "Darius Cooper"
+        ],
+        "in_play": [
+            "Travis Kelce"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
         "receiving_yards": 304,
@@ -46,19 +59,6 @@
         ],
         "in_play": [
             "Kenneth Walker"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 274,
-        "receiving_yards": 220,
-        "rushing_yards": 281,
-        "total_yards": 775,
-        "yet_to_play": [
-            "Darius Cooper"
-        ],
-        "in_play": [
-            "Travis Kelce"
         ]
     },
     {
