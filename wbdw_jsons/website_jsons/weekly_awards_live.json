@@ -57,20 +57,11 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 208,
-        "receiving_yards": 276,
-        "rushing_yards": 231,
-        "total_yards": 715,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 335,
+        "receiving_yards": 363,
         "rushing_yards": 213,
-        "total_yards": 701,
+        "total_yards": 729,
         "yet_to_play": [
             "Javonte Williams"
         ],
@@ -78,6 +69,15 @@
             "Jaxon Smith-Njigba",
             "AJ Barner"
         ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 208,
+        "receiving_yards": 276,
+        "rushing_yards": 231,
+        "total_yards": 715,
+        "yet_to_play": [],
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -103,10 +103,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 92,
+        "passing_yards": 120,
         "receiving_yards": 399,
         "rushing_yards": 100,
-        "total_yards": 591,
+        "total_yards": 619,
         "yet_to_play": [
             "Dameon Pierce"
         ],
