@@ -5,10 +5,10 @@
         "receiving_yards": 533,
         "rushing_yards": 162,
         "total_yards": 1016,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Xavier Worthy"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -37,22 +37,24 @@
         "rushing_yards": 281,
         "total_yards": 734,
         "yet_to_play": [
-            "Darius Cooper",
-            "Travis Kelce"
+            "Darius Cooper"
         ],
-        "in_play": []
+        "in_play": [
+            "Travis Kelce"
+        ]
     },
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 283,
+        "receiving_yards": 288,
         "rushing_yards": 133,
-        "total_yards": 719,
+        "total_yards": 724,
         "yet_to_play": [
-            "Kenneth Walker",
             "Saquon Barkley"
         ],
-        "in_play": []
+        "in_play": [
+            "Kenneth Walker"
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -92,11 +94,12 @@
         "rushing_yards": 198,
         "total_yards": 621,
         "yet_to_play": [
-            "Javonte Williams",
+            "Javonte Williams"
+        ],
+        "in_play": [
             "Jaxon Smith-Njigba",
             "AJ Barner"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -105,10 +108,11 @@
         "rushing_yards": 93,
         "total_yards": 492,
         "yet_to_play": [
-            "Sam Darnold",
             "Dameon Pierce"
         ],
-        "in_play": []
+        "in_play": [
+            "Sam Darnold"
+        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -127,10 +131,10 @@
         "receiving_yards": 259,
         "rushing_yards": 48,
         "total_yards": 470,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Jalen Royals",
             "Cooper Kupp"
-        ],
-        "in_play": []
+        ]
     }
 ]
