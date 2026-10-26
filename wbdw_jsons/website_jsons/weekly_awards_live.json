@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 542,
+        "receiving_yards": 544,
         "rushing_yards": 162,
-        "total_yards": 1025,
+        "total_yards": 1027,
         "yet_to_play": [],
         "in_play": [
             "Xavier Worthy"
@@ -38,14 +38,27 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 301,
-        "rushing_yards": 163,
-        "total_yards": 767,
+        "receiving_yards": 304,
+        "rushing_yards": 166,
+        "total_yards": 773,
         "yet_to_play": [
             "Saquon Barkley"
         ],
         "in_play": [
             "Kenneth Walker"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 274,
+        "receiving_yards": 201,
+        "rushing_yards": 281,
+        "total_yards": 756,
+        "yet_to_play": [
+            "Darius Cooper"
+        ],
+        "in_play": [
+            "Travis Kelce"
         ]
     },
     {
@@ -56,19 +69,6 @@
         "total_yards": 742,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 274,
-        "receiving_yards": 183,
-        "rushing_yards": 281,
-        "total_yards": 738,
-        "yet_to_play": [
-            "Darius Cooper"
-        ],
-        "in_play": [
-            "Travis Kelce"
-        ]
     },
     {
         "owner": "Patrick Neafsey",
