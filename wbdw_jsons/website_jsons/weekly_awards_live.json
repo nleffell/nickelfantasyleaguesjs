@@ -2,9 +2,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 321,
-        "receiving_yards": 533,
+        "receiving_yards": 535,
         "rushing_yards": 162,
-        "total_yards": 1016,
+        "total_yards": 1018,
         "yet_to_play": [],
         "in_play": [
             "Xavier Worthy"
@@ -20,6 +20,19 @@
             "George Pickens"
         ],
         "in_play": []
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 303,
+        "receiving_yards": 289,
+        "rushing_yards": 150,
+        "total_yards": 742,
+        "yet_to_play": [
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Kenneth Walker"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -41,19 +54,6 @@
         ],
         "in_play": [
             "Travis Kelce"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 289,
-        "rushing_yards": 136,
-        "total_yards": 728,
-        "yet_to_play": [
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Kenneth Walker"
         ]
     },
     {
