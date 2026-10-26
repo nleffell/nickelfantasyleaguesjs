@@ -24,9 +24,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 153,
-        "receiving_yards": 412,
+        "receiving_yards": 431,
         "rushing_yards": 213,
-        "total_yards": 778,
+        "total_yards": 797,
         "yet_to_play": [
             "Javonte Williams"
         ],
@@ -58,6 +58,19 @@
         "in_play": []
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 226,
+        "receiving_yards": 399,
+        "rushing_yards": 110,
+        "total_yards": 735,
+        "yet_to_play": [
+            "Dameon Pierce"
+        ],
+        "in_play": [
+            "Sam Darnold"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 274,
         "receiving_yards": 179,
@@ -68,19 +81,6 @@
         ],
         "in_play": [
             "Travis Kelce"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 207,
-        "receiving_yards": 399,
-        "rushing_yards": 110,
-        "total_yards": 716,
-        "yet_to_play": [
-            "Dameon Pierce"
-        ],
-        "in_play": [
-            "Sam Darnold"
         ]
     },
     {
