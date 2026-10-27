@@ -33,12 +33,23 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 316,
+        "receiving_yards": 313,
         "rushing_yards": 219,
-        "total_yards": 838,
+        "total_yards": 835,
         "yet_to_play": [],
         "in_play": [
             "Saquon Barkley"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 257,
+        "receiving_yards": 399,
+        "rushing_yards": 146,
+        "total_yards": 802,
+        "yet_to_play": [],
+        "in_play": [
+            "Dameon Pierce"
         ]
     },
     {
@@ -50,17 +61,6 @@
         "yet_to_play": [],
         "in_play": [
             "Darius Cooper"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 257,
-        "receiving_yards": 399,
-        "rushing_yards": 126,
-        "total_yards": 782,
-        "yet_to_play": [],
-        "in_play": [
-            "Dameon Pierce"
         ]
     },
     {
