@@ -211,6 +211,13 @@
                 "value": 897.0,
                 "amount": 50
             }
+        },
+        "7": {
+            "most combined yards": {
+                "owner": "Victor Dankens",
+                "value": 1027.0,
+                "amount": 50
+            }
         }
     }
 }
