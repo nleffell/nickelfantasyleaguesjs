@@ -12,11 +12,22 @@
         "owner": "Kyle Nester",
         "passing_yards": 153,
         "receiving_yards": 462,
-        "rushing_yards": 262,
-        "total_yards": 877,
+        "rushing_yards": 277,
+        "total_yards": 892,
         "yet_to_play": [],
         "in_play": [
             "Javonte Williams"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 292,
+        "receiving_yards": 401,
+        "rushing_yards": 152,
+        "total_yards": 845,
+        "yet_to_play": [],
+        "in_play": [
+            "George Pickens"
         ]
     },
     {
@@ -28,17 +39,6 @@
         "yet_to_play": [],
         "in_play": [
             "Saquon Barkley"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 292,
-        "receiving_yards": 392,
-        "rushing_yards": 152,
-        "total_yards": 836,
-        "yet_to_play": [],
-        "in_play": [
-            "George Pickens"
         ]
     },
     {
