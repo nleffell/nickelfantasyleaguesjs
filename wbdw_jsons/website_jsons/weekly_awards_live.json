@@ -45,8 +45,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 257,
         "receiving_yards": 399,
-        "rushing_yards": 146,
-        "total_yards": 802,
+        "rushing_yards": 149,
+        "total_yards": 805,
         "yet_to_play": [],
         "in_play": [
             "Dameon Pierce"
@@ -73,6 +73,17 @@
         "in_play": []
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 295,
+        "receiving_yards": 369,
+        "rushing_yards": 60,
+        "total_yards": 724,
+        "yet_to_play": [],
+        "in_play": [
+            "Makai Lemon"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 208,
         "receiving_yards": 276,
@@ -82,22 +93,11 @@
         "in_play": []
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 295,
-        "receiving_yards": 345,
-        "rushing_yards": 60,
-        "total_yards": 700,
-        "yet_to_play": [],
-        "in_play": [
-            "Makai Lemon"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 288,
-        "receiving_yards": 201,
+        "receiving_yards": 206,
         "rushing_yards": 140,
-        "total_yards": 629,
+        "total_yards": 634,
         "yet_to_play": [],
         "in_play": [
             "Dallas Goedert"
