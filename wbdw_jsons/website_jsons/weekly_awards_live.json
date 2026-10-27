@@ -1,109 +1,109 @@
 [
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 321,
-        "receiving_yards": 544,
-        "rushing_yards": 162,
-        "total_yards": 1027,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 153,
-        "receiving_yards": 462,
-        "rushing_yards": 370,
-        "total_yards": 985,
+        "owner": "Tyler Smith",
+        "passing_yards": 276,
+        "receiving_yards": 411,
+        "rushing_yards": 210,
+        "total_yards": 897,
         "yet_to_play": [],
         "in_play": []
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 292,
-        "receiving_yards": 449,
-        "rushing_yards": 152,
-        "total_yards": 893,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 313,
-        "rushing_yards": 231,
-        "total_yards": 847,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 257,
-        "receiving_yards": 400,
-        "rushing_yards": 157,
-        "total_yards": 814,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 274,
-        "receiving_yards": 240,
-        "rushing_yards": 281,
-        "total_yards": 795,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 150,
-        "receiving_yards": 428,
-        "rushing_yards": 164,
-        "total_yards": 742,
+        "passing_yards": 272,
+        "receiving_yards": 521,
+        "rushing_yards": 95,
+        "total_yards": 888,
         "yet_to_play": [],
         "in_play": []
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 295,
-        "receiving_yards": 386,
-        "rushing_yards": 60,
-        "total_yards": 741,
+        "passing_yards": 313,
+        "receiving_yards": 345,
+        "rushing_yards": 152,
+        "total_yards": 810,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 235,
+        "receiving_yards": 461,
+        "rushing_yards": 105,
+        "total_yards": 801,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 278,
+        "receiving_yards": 376,
+        "rushing_yards": 114,
+        "total_yards": 768,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 102,
+        "receiving_yards": 331,
+        "rushing_yards": 331,
+        "total_yards": 764,
         "yet_to_play": [],
         "in_play": []
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 208,
+        "passing_yards": 306,
         "receiving_yards": 276,
-        "rushing_yards": 231,
-        "total_yards": 715,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 288,
-        "receiving_yards": 244,
-        "rushing_yards": 140,
-        "total_yards": 672,
+        "rushing_yards": 179,
+        "total_yards": 761,
         "yet_to_play": [],
         "in_play": []
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 313,
-        "rushing_yards": 252,
-        "total_yards": 565,
+        "passing_yards": 255,
+        "receiving_yards": 360,
+        "rushing_yards": 122,
+        "total_yards": 737,
         "yet_to_play": [],
         "in_play": []
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 163,
-        "receiving_yards": 279,
-        "rushing_yards": 48,
-        "total_yards": 490,
+        "passing_yards": 281,
+        "receiving_yards": 295,
+        "rushing_yards": 127,
+        "total_yards": 703,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 222,
+        "receiving_yards": 389,
+        "rushing_yards": 85,
+        "total_yards": 696,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 264,
+        "receiving_yards": 263,
+        "rushing_yards": 129,
+        "total_yards": 656,
+        "yet_to_play": [],
+        "in_play": []
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 258,
+        "receiving_yards": 187,
+        "rushing_yards": 169,
+        "total_yards": 614,
         "yet_to_play": [],
         "in_play": []
     }
