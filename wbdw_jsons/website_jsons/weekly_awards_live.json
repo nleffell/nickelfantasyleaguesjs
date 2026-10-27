@@ -20,6 +20,17 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 303,
+        "receiving_yards": 316,
+        "rushing_yards": 218,
+        "total_yards": 837,
+        "yet_to_play": [],
+        "in_play": [
+            "Saquon Barkley"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 292,
         "receiving_yards": 392,
@@ -31,22 +42,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 316,
-        "rushing_yards": 216,
-        "total_yards": 835,
-        "yet_to_play": [],
-        "in_play": [
-            "Saquon Barkley"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 274,
-        "receiving_yards": 223,
+        "receiving_yards": 240,
         "rushing_yards": 281,
-        "total_yards": 778,
+        "total_yards": 795,
         "yet_to_play": [],
         "in_play": [
             "Darius Cooper"
