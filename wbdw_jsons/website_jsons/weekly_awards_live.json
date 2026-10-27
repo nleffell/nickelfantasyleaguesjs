@@ -9,6 +9,17 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 153,
+        "receiving_yards": 462,
+        "rushing_yards": 236,
+        "total_yards": 851,
+        "yet_to_play": [
+            "Javonte Williams"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 292,
         "receiving_yards": 392,
@@ -16,17 +27,6 @@
         "total_yards": 836,
         "yet_to_play": [
             "George Pickens"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 153,
-        "receiving_yards": 462,
-        "rushing_yards": 215,
-        "total_yards": 830,
-        "yet_to_play": [
-            "Javonte Williams"
         ],
         "in_play": []
     },
