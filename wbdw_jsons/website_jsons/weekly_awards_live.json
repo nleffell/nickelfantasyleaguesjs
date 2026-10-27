@@ -22,9 +22,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 292,
-        "receiving_yards": 422,
+        "receiving_yards": 443,
         "rushing_yards": 152,
-        "total_yards": 866,
+        "total_yards": 887,
         "yet_to_play": [],
         "in_play": [
             "George Pickens"
@@ -106,9 +106,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 253,
+        "receiving_yards": 267,
         "rushing_yards": 252,
-        "total_yards": 505,
+        "total_yards": 519,
         "yet_to_play": [],
         "in_play": [
             "CeeDee Lamb"
