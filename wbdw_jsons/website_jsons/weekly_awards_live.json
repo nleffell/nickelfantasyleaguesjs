@@ -21,6 +21,27 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 3,
+        "rushing_yards": 4,
+        "total_yards": 7,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "George Pickens",
+            "Emeka Egbuka",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Antonio Williams",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Josh Jacobs"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 4,
         "receiving_yards": 0,
@@ -39,27 +60,6 @@
         "in_play": [
             "Bryce Young",
             "John Metchie"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 3,
-        "rushing_yards": 0,
-        "total_yards": 3,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "George Pickens",
-            "Emeka Egbuka",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Omar Cooper",
-            "Antonio Williams",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Josh Jacobs"
         ]
     },
     {
