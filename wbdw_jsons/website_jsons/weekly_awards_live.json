@@ -2,22 +2,23 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 0,
+        "receiving_yards": 4,
         "rushing_yards": 14,
-        "total_yards": 14,
+        "total_yards": 18,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
-            "Chuba Hubbard",
-            "Matthew Golden",
             "Ladd McConkey",
-            "Christian Watson",
             "Tyler Warren",
             "RJ Harvey",
             "Rashee Rice",
             "Makai Lemon"
         ],
-        "in_play": []
+        "in_play": [
+            "Chuba Hubbard",
+            "Matthew Golden",
+            "Christian Watson"
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -27,7 +28,6 @@
         "total_yards": 0,
         "yet_to_play": [
             "Joe Burrow",
-            "Josh Jacobs",
             "Braelon Allen",
             "George Pickens",
             "Emeka Egbuka",
@@ -37,7 +37,9 @@
             "Antonio Williams",
             "Michael Mayer"
         ],
-        "in_play": []
+        "in_play": [
+            "Josh Jacobs"
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -66,18 +68,19 @@
         "rushing_yards": 0,
         "total_yards": 0,
         "yet_to_play": [
-            "Bryce Young",
             "Mike Washington",
             "Jeremiyah Love",
             "Luther Burden",
             "DeMario Douglas",
-            "John Metchie",
             "T.J. Hockenson",
             "Cooper Kupp",
             "Ty Johnson",
             "Tyler Higbee"
         ],
-        "in_play": []
+        "in_play": [
+            "Bryce Young",
+            "John Metchie"
+        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -112,12 +115,13 @@
             "Drake London",
             "A.J. Brown",
             "Rome Odunze",
-            "Tucker Kraft",
             "James Cook",
             "Chase Brown",
             "Saquon Barkley"
         ],
-        "in_play": []
+        "in_play": [
+            "Tucker Kraft"
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -171,13 +175,14 @@
             "Javonte Williams",
             "Jaxon Smith-Njigba",
             "Jameson Williams",
-            "Tetairoa McMillan",
             "Brock Bowers",
             "D'Andre Swift",
             "Chris Godwin",
             "AJ Barner"
         ],
-        "in_play": []
+        "in_play": [
+            "Tetairoa McMillan"
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -210,14 +215,15 @@
             "Bucky Irving",
             "Aaron Jones",
             "Tee Higgins",
-            "Jalen Coker",
             "Jordan Addison",
             "Dallas Goedert",
             "Kendrick Bourne",
             "Mike Gesicki",
             "Kalif Raymond"
         ],
-        "in_play": []
+        "in_play": [
+            "Jalen Coker"
+        ]
     },
     {
         "owner": "Tyler Smith",
