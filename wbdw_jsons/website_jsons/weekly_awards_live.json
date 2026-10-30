@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 205,
-        "rushing_yards": 68,
-        "total_yards": 273,
+        "receiving_yards": 206,
+        "rushing_yards": 74,
+        "total_yards": 280,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
@@ -22,10 +22,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 104,
+        "passing_yards": 117,
         "receiving_yards": 10,
         "rushing_yards": 0,
-        "total_yards": 114,
+        "total_yards": 127,
         "yet_to_play": [
             "Mike Washington",
             "Jeremiyah Love",
@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 45,
+        "rushing_yards": 0,
+        "total_yards": 45,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Jameson Williams",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Chris Godwin",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Tetairoa McMillan"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 8,
@@ -81,27 +102,6 @@
         ],
         "in_play": [
             "Josh Jacobs"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 32,
-        "rushing_yards": 0,
-        "total_yards": 32,
-        "yet_to_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Chris Godwin",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Tetairoa McMillan"
         ]
     },
     {
