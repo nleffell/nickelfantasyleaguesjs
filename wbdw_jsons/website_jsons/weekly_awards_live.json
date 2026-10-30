@@ -3,8 +3,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 206,
-        "rushing_yards": 74,
-        "total_yards": 280,
+        "rushing_yards": 80,
+        "total_yards": 286,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
@@ -22,10 +22,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 117,
+        "passing_yards": 142,
         "receiving_yards": 10,
         "rushing_yards": 0,
-        "total_yards": 127,
+        "total_yards": 152,
         "yet_to_play": [
             "Mike Washington",
             "Jeremiyah Love",
@@ -65,9 +65,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 45,
+        "receiving_yards": 50,
         "rushing_yards": 0,
-        "total_yards": 45,
+        "total_yards": 50,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -102,6 +102,27 @@
         ],
         "in_play": [
             "Josh Jacobs"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 9,
+        "rushing_yards": 0,
+        "total_yards": 9,
+        "yet_to_play": [
+            "Caleb Williams",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Dallas Goedert",
+            "Kendrick Bourne",
+            "Mike Gesicki",
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Jalen Coker"
         ]
     },
     {
@@ -203,27 +224,6 @@
             "Eli Raridon"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Dallas Goedert",
-            "Kendrick Bourne",
-            "Mike Gesicki",
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Jalen Coker"
-        ]
     },
     {
         "owner": "Tyler Smith",
