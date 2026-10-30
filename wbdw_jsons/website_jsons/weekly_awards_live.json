@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 151,
+        "receiving_yards": 152,
         "rushing_yards": 30,
-        "total_yards": 181,
+        "total_yards": 182,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
@@ -22,10 +22,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 55,
-        "receiving_yards": 4,
+        "passing_yards": 61,
+        "receiving_yards": 10,
         "rushing_yards": 0,
-        "total_yards": 59,
+        "total_yards": 71,
         "yet_to_play": [
             "Mike Washington",
             "Jeremiyah Love",
@@ -65,9 +65,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 5,
+        "receiving_yards": 4,
         "rushing_yards": 14,
-        "total_yards": 19,
+        "total_yards": 18,
         "yet_to_play": [
             "Joe Burrow",
             "Braelon Allen",
