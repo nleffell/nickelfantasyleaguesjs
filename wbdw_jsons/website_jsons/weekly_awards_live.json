@@ -14,18 +14,14 @@
             "Rashee Rice",
             "Makai Lemon"
         ],
-        "in_play": [
-            "Chuba Hubbard",
-            "Matthew Golden",
-            "Christian Watson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 207,
+        "passing_yards": 208,
         "receiving_yards": 14,
         "rushing_yards": 0,
-        "total_yards": 221,
+        "total_yards": 222,
         "yet_to_play": [
             "Mike Washington",
             "Jeremiyah Love",
@@ -36,17 +32,14 @@
             "Ty Johnson",
             "Tyler Higbee"
         ],
-        "in_play": [
-            "Bryce Young",
-            "John Metchie"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 57,
+        "receiving_yards": 58,
         "rushing_yards": 0,
-        "total_yards": 57,
+        "total_yards": 58,
         "yet_to_play": [
             "Matthew Stafford",
             "Jahmyr Gibbs",
@@ -58,9 +51,7 @@
             "Chris Godwin",
             "AJ Barner"
         ],
-        "in_play": [
-            "Tetairoa McMillan"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -79,9 +70,7 @@
             "Chase Brown",
             "Saquon Barkley"
         ],
-        "in_play": [
-            "Tucker Kraft"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -100,9 +89,7 @@
             "Antonio Williams",
             "Michael Mayer"
         ],
-        "in_play": [
-            "Josh Jacobs"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -121,9 +108,7 @@
             "Mike Gesicki",
             "Kalif Raymond"
         ],
-        "in_play": [
-            "Jalen Coker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
