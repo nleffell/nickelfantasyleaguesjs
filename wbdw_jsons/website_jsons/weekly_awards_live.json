@@ -1,5 +1,25 @@
 [
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 14,
+        "total_yards": 14,
+        "yet_to_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Chuba Hubbard",
+            "Matthew Golden",
+            "Ladd McConkey",
+            "Christian Watson",
+            "Tyler Warren",
+            "RJ Harvey",
+            "Rashee Rice",
+            "Makai Lemon"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -36,26 +56,6 @@
             "DeVonta Smith",
             "Amon-Ra St. Brown",
             "Michael Wilson"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Chuba Hubbard",
-            "Matthew Golden",
-            "Ladd McConkey",
-            "Christian Watson",
-            "Tyler Warren",
-            "RJ Harvey",
-            "Rashee Rice",
-            "Makai Lemon"
         ],
         "in_play": []
     },
