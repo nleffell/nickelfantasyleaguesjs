@@ -207,11 +207,11 @@
         "TE Starter Rank": 9,
         "FLEX Starter Rank": 6,
         "Backup QB Rank": 4,
-        "projected_points": 1454.1,
+        "projected_points": 1454.2,
         "qb_proj": 188.2,
         "rb_proj": 286.79999999999995,
         "wr_proj": 406.8,
-        "te_proj": 106.2,
+        "te_proj": 106.3,
         "flex_proj": 466.1
     },
     {
@@ -250,10 +250,10 @@
         "TE Starter Rank": 3,
         "FLEX Starter Rank": 10,
         "Backup QB Rank": 1,
-        "projected_points": 1802.5,
+        "projected_points": 1802.4,
         "qb_proj": 235.2,
         "rb_proj": 298.5,
-        "wr_proj": 571.2,
+        "wr_proj": 571.1,
         "te_proj": 109.4,
         "flex_proj": 588.2
     },
@@ -379,11 +379,11 @@
         "TE Starter Rank": 11,
         "FLEX Starter Rank": 4,
         "Backup QB Rank": 6,
-        "projected_points": 1743.5,
+        "projected_points": 1743.4,
         "qb_proj": 212.4,
         "rb_proj": 379.4,
         "wr_proj": 477.2,
-        "te_proj": 104.4,
+        "te_proj": 104.3,
         "flex_proj": 570.1
     },
     {
@@ -468,8 +468,8 @@
         "projected_points": 1762.0,
         "qb_proj": 207.1,
         "rb_proj": 426.6,
-        "wr_proj": 389.2,
-        "te_proj": 116.4,
+        "wr_proj": 389.3,
+        "te_proj": 116.3,
         "flex_proj": 622.7
     },
     {
@@ -508,8 +508,8 @@
         "TE Starter Rank": 10,
         "FLEX Starter Rank": 3,
         "Backup QB Rank": 2,
-        "projected_points": 1727.9,
-        "qb_proj": 195.3,
+        "projected_points": 1728.0,
+        "qb_proj": 195.4,
         "rb_proj": 293.79999999999995,
         "wr_proj": 555.3,
         "te_proj": 126.8,
