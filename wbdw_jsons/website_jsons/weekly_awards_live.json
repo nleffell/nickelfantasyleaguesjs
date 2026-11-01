@@ -21,8 +21,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 76,
         "receiving_yards": 148,
-        "rushing_yards": 114,
-        "total_yards": 338,
+        "rushing_yards": 121,
+        "total_yards": 345,
         "yet_to_play": [
             "Stefon Diggs",
             "Puka Nacua",
@@ -58,11 +58,31 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 124,
+        "receiving_yards": 24,
+        "rushing_yards": 142,
+        "total_yards": 290,
+        "yet_to_play": [
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "George Pickens",
+            "Omar Cooper",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Cade Otton",
+            "Michael Mayer"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 112,
-        "receiving_yards": 95,
-        "rushing_yards": 67,
-        "total_yards": 274,
+        "receiving_yards": 104,
+        "rushing_yards": 74,
+        "total_yards": 290,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -79,31 +99,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 115,
-        "receiving_yards": 24,
-        "rushing_yards": 117,
-        "total_yards": 256,
-        "yet_to_play": [
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "George Pickens",
-            "Omar Cooper",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Cade Otton",
-            "Michael Mayer"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 77,
+        "passing_yards": 84,
         "receiving_yards": 75,
-        "rushing_yards": 92,
-        "total_yards": 244,
+        "rushing_yards": 94,
+        "total_yards": 253,
         "yet_to_play": [
             "Kenneth Walker",
             "Rome Odunze",
@@ -142,8 +142,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 145,
-        "rushing_yards": 38,
-        "total_yards": 183,
+        "rushing_yards": 35,
+        "total_yards": 180,
         "yet_to_play": [
             "Matthew Stafford",
             "Jaxon Smith-Njigba",
@@ -162,8 +162,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 58,
-        "rushing_yards": 100,
-        "total_yards": 158,
+        "rushing_yards": 102,
+        "total_yards": 160,
         "yet_to_play": [
             "Jayden Daniels",
             "Courtland Sutton",
@@ -182,9 +182,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 85,
-        "receiving_yards": 59,
+        "receiving_yards": 64,
         "rushing_yards": 3,
-        "total_yards": 147,
+        "total_yards": 152,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Hunter Henry",
@@ -202,9 +202,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 59,
-        "rushing_yards": 48,
-        "total_yards": 107,
+        "receiving_yards": 62,
+        "rushing_yards": 52,
+        "total_yards": 114,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
