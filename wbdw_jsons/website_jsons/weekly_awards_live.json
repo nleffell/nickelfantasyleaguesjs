@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 210,
         "receiving_yards": 343,
-        "rushing_yards": 278,
-        "total_yards": 831,
+        "rushing_yards": 289,
+        "total_yards": 842,
         "yet_to_play": [
             "Chig Okonkwo"
         ],
@@ -55,11 +55,25 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 197,
+        "receiving_yards": 264,
+        "rushing_yards": 186,
+        "total_yards": 647,
+        "yet_to_play": [],
+        "in_play": [
+            "Drake Maye",
+            "Ollie Gordon",
+            "Noah Gray",
+            "J.K. Dobbins"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
-        "passing_yards": 158,
+        "passing_yards": 157,
         "receiving_yards": 236,
         "rushing_yards": 209,
-        "total_yards": 603,
+        "total_yards": 602,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
@@ -70,17 +84,16 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 149,
-        "receiving_yards": 264,
-        "rushing_yards": 186,
-        "total_yards": 599,
+        "owner": "Jon Knicely",
+        "passing_yards": 195,
+        "receiving_yards": 283,
+        "rushing_yards": 94,
+        "total_yards": 572,
         "yet_to_play": [],
         "in_play": [
-            "Drake Maye",
-            "Ollie Gordon",
-            "Noah Gray",
-            "J.K. Dobbins"
+            "Rhamondre Stevenson",
+            "Hunter Henry",
+            "Malik Washington"
         ]
     },
     {
@@ -97,30 +110,32 @@
         "in_play": []
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 195,
-        "receiving_yards": 283,
-        "rushing_yards": 89,
-        "total_yards": 567,
-        "yet_to_play": [],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Hunter Henry",
-            "Malik Washington"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 176,
-        "rushing_yards": 189,
-        "total_yards": 541,
+        "rushing_yards": 198,
+        "total_yards": 550,
         "yet_to_play": [
             "Rome Odunze",
             "Saquon Barkley"
         ],
         "in_play": [
             "Kenneth Walker"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 209,
+        "receiving_yards": 181,
+        "rushing_yards": 110,
+        "total_yards": 500,
+        "yet_to_play": [
+            "Luther Burden",
+            "Cooper Kupp"
+        ],
+        "in_play": [
+            "DeMario Douglas",
+            "Tyler Higbee"
         ]
     },
     {
@@ -136,21 +151,6 @@
         "in_play": [
             "Courtland Sutton",
             "Travis Kelce"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 209,
-        "receiving_yards": 133,
-        "rushing_yards": 110,
-        "total_yards": 452,
-        "yet_to_play": [
-            "Luther Burden",
-            "Cooper Kupp"
-        ],
-        "in_play": [
-            "DeMario Douglas",
-            "Tyler Higbee"
         ]
     },
     {
