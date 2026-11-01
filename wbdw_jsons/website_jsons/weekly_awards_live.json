@@ -1,24 +1,10 @@
 [
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 247,
-        "receiving_yards": 488,
-        "rushing_yards": 96,
-        "total_yards": 831,
-        "yet_to_play": [
-            "Makai Lemon"
-        ],
-        "in_play": [
-            "Ladd McConkey",
-            "Rashee Rice"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
         "receiving_yards": 343,
-        "rushing_yards": 264,
-        "total_yards": 817,
+        "rushing_yards": 278,
+        "total_yards": 831,
         "yet_to_play": [
             "Chig Okonkwo"
         ],
@@ -26,6 +12,20 @@
             "Kyren Williams",
             "Jaylen Waddle",
             "Greg Dulcich"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 247,
+        "receiving_yards": 487,
+        "rushing_yards": 96,
+        "total_yards": 830,
+        "yet_to_play": [
+            "Makai Lemon"
+        ],
+        "in_play": [
+            "Ladd McConkey",
+            "Rashee Rice"
         ]
     },
     {
@@ -56,10 +56,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 151,
+        "passing_yards": 158,
         "receiving_yards": 236,
         "rushing_yards": 209,
-        "total_yards": 596,
+        "total_yards": 603,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
@@ -72,9 +72,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 149,
-        "receiving_yards": 263,
-        "rushing_yards": 180,
-        "total_yards": 592,
+        "receiving_yards": 264,
+        "rushing_yards": 186,
+        "total_yards": 599,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
@@ -99,9 +99,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 195,
-        "receiving_yards": 278,
+        "receiving_yards": 283,
         "rushing_yards": 89,
-        "total_yards": 562,
+        "total_yards": 567,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
