@@ -18,32 +18,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 194,
-        "receiving_yards": 198,
-        "rushing_yards": 187,
-        "total_yards": 579,
-        "yet_to_play": [
-            "Stefon Diggs",
-            "Puka Nacua",
-            "Colston Loveland",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "Quinshon Judkins",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Brenton Strange",
-            "Khalil Shakir"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
-        "receiving_yards": 148,
+        "receiving_yards": 163,
         "rushing_yards": 214,
-        "total_yards": 572,
+        "total_yards": 587,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -60,11 +39,32 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 194,
+        "receiving_yards": 198,
+        "rushing_yards": 189,
+        "total_yards": 581,
+        "yet_to_play": [
+            "Stefon Diggs",
+            "Puka Nacua",
+            "Colston Loveland",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "Quinshon Judkins",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Brenton Strange",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
-        "passing_yards": 216,
-        "receiving_yards": 143,
+        "passing_yards": 237,
+        "receiving_yards": 154,
         "rushing_yards": 187,
-        "total_yards": 546,
+        "total_yards": 578,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -82,9 +82,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 164,
-        "receiving_yards": 150,
-        "rushing_yards": 138,
-        "total_yards": 452,
+        "receiving_yards": 158,
+        "rushing_yards": 139,
+        "total_yards": 461,
         "yet_to_play": [
             "Kenneth Walker",
             "Rome Odunze",
@@ -102,9 +102,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 206,
+        "receiving_yards": 218,
         "rushing_yards": 190,
-        "total_yards": 396,
+        "total_yards": 408,
         "yet_to_play": [
             "Caleb Williams",
             "Dallas Goedert",
@@ -122,9 +122,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 209,
-        "receiving_yards": 81,
+        "receiving_yards": 80,
         "rushing_yards": 86,
-        "total_yards": 376,
+        "total_yards": 375,
         "yet_to_play": [
             "Luther Burden",
             "DeMario Douglas",
@@ -142,8 +142,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 229,
-        "rushing_yards": 130,
-        "total_yards": 359,
+        "rushing_yards": 136,
+        "total_yards": 365,
         "yet_to_play": [
             "Matthew Stafford",
             "Jaxon Smith-Njigba",
@@ -181,10 +181,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 185,
+        "passing_yards": 192,
         "receiving_yards": 111,
         "rushing_yards": 10,
-        "total_yards": 306,
+        "total_yards": 313,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Hunter Henry",
