@@ -38,10 +38,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 80,
+        "passing_yards": 72,
         "receiving_yards": 104,
         "rushing_yards": 15,
-        "total_yards": 199,
+        "total_yards": 191,
         "yet_to_play": [
             "Stefon Diggs",
             "Puka Nacua",
@@ -58,11 +58,31 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 81,
+        "receiving_yards": 50,
+        "rushing_yards": 42,
+        "total_yards": 173,
+        "yet_to_play": [
+            "Kenneth Walker",
+            "Rome Odunze",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Drake London",
+            "Josh Downs",
+            "James Cook",
+            "Chase Brown"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 93,
-        "rushing_yards": 14,
-        "total_yards": 107,
+        "receiving_yards": 139,
+        "rushing_yards": 18,
+        "total_yards": 157,
         "yet_to_play": [
             "Matthew Stafford",
             "Jaxon Smith-Njigba",
@@ -79,10 +99,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 58,
-        "receiving_yards": 31,
-        "rushing_yards": 15,
-        "total_yards": 104,
+        "passing_yards": 72,
+        "receiving_yards": 44,
+        "rushing_yards": 20,
+        "total_yards": 136,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -100,10 +120,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 4,
+        "passing_yards": 17,
         "receiving_yards": 27,
-        "rushing_yards": 68,
-        "total_yards": 99,
+        "rushing_yards": 80,
+        "total_yards": 124,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -119,31 +139,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 3,
-        "receiving_yards": 50,
-        "rushing_yards": 38,
-        "total_yards": 91,
-        "yet_to_play": [
-            "Kenneth Walker",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Drake London",
-            "Josh Downs",
-            "James Cook",
-            "Chase Brown"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 21,
-        "rushing_yards": 68,
-        "total_yards": 89,
+        "receiving_yards": 27,
+        "rushing_yards": 76,
+        "total_yards": 103,
         "yet_to_play": [
             "Jayden Daniels",
             "Courtland Sutton",
@@ -163,8 +163,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 36,
-        "rushing_yards": 35,
-        "total_yards": 71,
+        "rushing_yards": 33,
+        "total_yards": 69,
         "yet_to_play": [
             "Caleb Williams",
             "Dallas Goedert",
@@ -177,6 +177,27 @@
             "Jordan Addison",
             "Kendrick Bourne",
             "Mike Gesicki"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 35,
+        "rushing_yards": 28,
+        "total_yards": 63,
+        "yet_to_play": [
+            "Drake Maye",
+            "Ollie Gordon",
+            "Noah Gray",
+            "J.K. Dobbins"
+        ],
+        "in_play": [
+            "Bhayshul Tuten",
+            "Zay Flowers",
+            "DK Metcalf",
+            "Justin Jefferson",
+            "Amon-Ra St. Brown",
+            "Michael Wilson"
         ]
     },
     {
@@ -197,27 +218,6 @@
             "Wan'Dale Robinson",
             "Trey McBride",
             "Keon Coleman"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 3,
-        "rushing_yards": 28,
-        "total_yards": 31,
-        "yet_to_play": [
-            "Drake Maye",
-            "Ollie Gordon",
-            "Noah Gray",
-            "J.K. Dobbins"
-        ],
-        "in_play": [
-            "Bhayshul Tuten",
-            "Zay Flowers",
-            "DK Metcalf",
-            "Justin Jefferson",
-            "Amon-Ra St. Brown",
-            "Michael Wilson"
         ]
     },
     {
