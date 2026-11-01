@@ -11,6 +11,21 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 210,
+        "receiving_yards": 317,
+        "rushing_yards": 234,
+        "total_yards": 761,
+        "yet_to_play": [
+            "Chig Okonkwo"
+        ],
+        "in_play": [
+            "Kyren Williams",
+            "Jaylen Waddle",
+            "Greg Dulcich"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 247,
         "receiving_yards": 408,
@@ -25,26 +40,11 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 210,
-        "receiving_yards": 282,
-        "rushing_yards": 234,
-        "total_yards": 726,
-        "yet_to_play": [
-            "Chig Okonkwo"
-        ],
-        "in_play": [
-            "Kyren Williams",
-            "Jaylen Waddle",
-            "Greg Dulcich"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 219,
+        "receiving_yards": 228,
         "rushing_yards": 198,
-        "total_yards": 706,
+        "total_yards": 715,
         "yet_to_play": [
             "Stefon Diggs",
             "Colston Loveland",
@@ -82,24 +82,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 195,
-        "receiving_yards": 271,
-        "rushing_yards": 30,
-        "total_yards": 496,
-        "yet_to_play": [],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Hunter Henry",
-            "Malik Washington"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
-        "passing_yards": 20,
+        "passing_yards": 69,
         "receiving_yards": 236,
         "rushing_yards": 209,
-        "total_yards": 465,
+        "total_yards": 514,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
@@ -110,11 +97,24 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 195,
+        "receiving_yards": 271,
+        "rushing_yards": 38,
+        "total_yards": 504,
+        "yet_to_play": [],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Hunter Henry",
+            "Malik Washington"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 39,
         "receiving_yards": 249,
-        "rushing_yards": 165,
-        "total_yards": 453,
+        "rushing_yards": 161,
+        "total_yards": 449,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
