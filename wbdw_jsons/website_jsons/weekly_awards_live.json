@@ -3,8 +3,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 79,
         "receiving_yards": 270,
-        "rushing_yards": 85,
-        "total_yards": 434,
+        "rushing_yards": 84,
+        "total_yards": 433,
         "yet_to_play": [
             "Ladd McConkey",
             "Rashee Rice",
@@ -15,6 +15,26 @@
             "Ashton Jeanty",
             "Ryan Flournoy",
             "Tyler Warren"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 170,
+        "receiving_yards": 24,
+        "rushing_yards": 159,
+        "total_yards": 353,
+        "yet_to_play": [
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "George Pickens",
+            "Omar Cooper",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Cade Otton",
+            "Michael Mayer"
         ]
     },
     {
@@ -60,23 +80,23 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 124,
-        "receiving_yards": 24,
-        "rushing_yards": 159,
-        "total_yards": 307,
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 179,
+        "rushing_yards": 123,
+        "total_yards": 302,
         "yet_to_play": [
-            "Antonio Williams"
+            "Caleb Williams",
+            "Dallas Goedert",
+            "Kalif Raymond"
         ],
         "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "George Pickens",
-            "Omar Cooper",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Cade Otton",
-            "Michael Mayer"
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Kendrick Bourne",
+            "Mike Gesicki"
         ]
     },
     {
@@ -99,31 +119,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 133,
-        "rushing_yards": 123,
-        "total_yards": 256,
-        "yet_to_play": [
-            "Caleb Williams",
-            "Dallas Goedert",
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Kendrick Bourne",
-            "Mike Gesicki"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 84,
         "receiving_yards": 75,
-        "rushing_yards": 94,
-        "total_yards": 253,
+        "rushing_yards": 116,
+        "total_yards": 275,
         "yet_to_play": [
             "Kenneth Walker",
             "Rome Odunze",
@@ -141,9 +141,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 85,
-        "receiving_yards": 100,
+        "receiving_yards": 99,
         "rushing_yards": 3,
-        "total_yards": 188,
+        "total_yards": 187,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Hunter Henry",
@@ -181,9 +181,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 68,
-        "rushing_yards": 107,
-        "total_yards": 175,
+        "receiving_yards": 74,
+        "rushing_yards": 108,
+        "total_yards": 182,
         "yet_to_play": [
             "Jayden Daniels",
             "Courtland Sutton",
@@ -202,9 +202,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 69,
-        "rushing_yards": 55,
-        "total_yards": 124,
+        "receiving_yards": 77,
+        "rushing_yards": 94,
+        "total_yards": 171,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
@@ -223,9 +223,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 80,
+        "receiving_yards": 89,
         "rushing_yards": 10,
-        "total_yards": 90,
+        "total_yards": 99,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
