@@ -14,24 +14,6 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 289,
-        "receiving_yards": 210,
-        "rushing_yards": 198,
-        "total_yards": 697,
-        "yet_to_play": [
-            "Stefon Diggs",
-            "Colston Loveland",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "Khalil Shakir"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 247,
         "receiving_yards": 352,
@@ -44,6 +26,24 @@
         "in_play": [
             "Ryan Flournoy",
             "Ladd McConkey"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 289,
+        "receiving_yards": 207,
+        "rushing_yards": 198,
+        "total_yards": 694,
+        "yet_to_play": [
+            "Stefon Diggs",
+            "Colston Loveland",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "CeeDee Lamb",
+            "Puka Nacua",
+            "Khalil Shakir"
         ]
     },
     {
@@ -99,10 +99,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 9,
+        "passing_yards": 6,
         "receiving_yards": 236,
         "rushing_yards": 207,
-        "total_yards": 452,
+        "total_yards": 449,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
@@ -117,8 +117,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 199,
-        "rushing_yards": 21,
-        "total_yards": 415,
+        "rushing_yards": 20,
+        "total_yards": 414,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Hunter Henry",
@@ -187,8 +187,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 203,
-        "rushing_yards": 14,
-        "total_yards": 217,
+        "rushing_yards": 18,
+        "total_yards": 221,
         "yet_to_play": [
             "Sam Darnold",
             "Eli Raridon"
