@@ -42,9 +42,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 213,
+        "receiving_yards": 219,
         "rushing_yards": 198,
-        "total_yards": 700,
+        "total_yards": 706,
         "yet_to_play": [
             "Stefon Diggs",
             "Colston Loveland",
@@ -82,6 +82,21 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 20,
+        "receiving_yards": 236,
+        "rushing_yards": 209,
+        "total_yards": 465,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 233,
@@ -95,26 +110,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 12,
-        "receiving_yards": 236,
-        "rushing_yards": 209,
-        "total_yards": 457,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Matthew Stafford"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
         "passing_yards": 35,
         "receiving_yards": 249,
-        "rushing_yards": 142,
-        "total_yards": 426,
+        "rushing_yards": 148,
+        "total_yards": 432,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
