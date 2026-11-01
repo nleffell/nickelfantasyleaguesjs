@@ -20,9 +20,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 76,
-        "receiving_yards": 140,
-        "rushing_yards": 117,
-        "total_yards": 333,
+        "receiving_yards": 148,
+        "rushing_yards": 119,
+        "total_yards": 343,
         "yet_to_play": [
             "Stefon Diggs",
             "Puka Nacua",
@@ -79,31 +79,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 66,
-        "receiving_yards": 71,
-        "rushing_yards": 70,
-        "total_yards": 207,
-        "yet_to_play": [
-            "Kenneth Walker",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Drake London",
-            "Josh Downs",
-            "James Cook",
-            "Chase Brown"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 72,
         "receiving_yards": 24,
-        "rushing_yards": 81,
-        "total_yards": 177,
+        "rushing_yards": 117,
+        "total_yards": 213,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -119,11 +99,31 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 66,
+        "receiving_yards": 71,
+        "rushing_yards": 74,
+        "total_yards": 211,
+        "yet_to_play": [
+            "Kenneth Walker",
+            "Rome Odunze",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Drake London",
+            "Josh Downs",
+            "James Cook",
+            "Chase Brown"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 140,
-        "rushing_yards": 34,
-        "total_yards": 174,
+        "rushing_yards": 40,
+        "total_yards": 180,
         "yet_to_play": [
             "Matthew Stafford",
             "Jaxon Smith-Njigba",
@@ -139,11 +139,31 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 71,
+        "rushing_yards": 105,
+        "total_yards": 176,
+        "yet_to_play": [
+            "Caleb Williams",
+            "Dallas Goedert",
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Bucky Irving",
+            "Aaron Jones",
+            "Tee Higgins",
+            "Jordan Addison",
+            "Kendrick Bourne",
+            "Mike Gesicki"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 58,
-        "rushing_yards": 103,
-        "total_yards": 161,
+        "rushing_yards": 101,
+        "total_yards": 159,
         "yet_to_play": [
             "Jayden Daniels",
             "Courtland Sutton",
@@ -160,31 +180,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 71,
-        "rushing_yards": 87,
-        "total_yards": 158,
-        "yet_to_play": [
-            "Caleb Williams",
-            "Dallas Goedert",
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Bucky Irving",
-            "Aaron Jones",
-            "Tee Higgins",
-            "Jordan Addison",
-            "Kendrick Bourne",
-            "Mike Gesicki"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
-        "passing_yards": 68,
-        "receiving_yards": 31,
+        "passing_yards": 76,
+        "receiving_yards": 44,
         "rushing_yards": 3,
-        "total_yards": 102,
+        "total_yards": 123,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Hunter Henry",
@@ -202,9 +202,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 39,
-        "rushing_yards": 34,
-        "total_yards": 73,
+        "receiving_yards": 48,
+        "rushing_yards": 40,
+        "total_yards": 88,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
@@ -223,9 +223,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 55,
+        "receiving_yards": 64,
         "rushing_yards": 10,
-        "total_yards": 65,
+        "total_yards": 74,
         "yet_to_play": [
             "Sam Darnold",
             "Blake Corum",
