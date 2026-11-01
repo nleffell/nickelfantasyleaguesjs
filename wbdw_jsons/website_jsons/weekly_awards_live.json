@@ -42,9 +42,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 265,
+        "receiving_yards": 283,
         "rushing_yards": 198,
-        "total_yards": 752,
+        "total_yards": 770,
         "yet_to_play": [
             "Stefon Diggs",
             "Colston Loveland",
@@ -52,6 +52,21 @@
         ],
         "in_play": [
             "Puka Nacua"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 141,
+        "receiving_yards": 236,
+        "rushing_yards": 209,
+        "total_yards": 586,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford"
         ]
     },
     {
@@ -66,21 +81,6 @@
             "Kalif Raymond"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 123,
-        "receiving_yards": 236,
-        "rushing_yards": 209,
-        "total_yards": 568,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Matthew Stafford"
-        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -99,9 +99,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 195,
-        "receiving_yards": 274,
-        "rushing_yards": 46,
-        "total_yards": 515,
+        "receiving_yards": 278,
+        "rushing_yards": 62,
+        "total_yards": 535,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 53,
+        "passing_yards": 57,
         "receiving_yards": 249,
         "rushing_yards": 173,
-        "total_yards": 475,
+        "total_yards": 479,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
