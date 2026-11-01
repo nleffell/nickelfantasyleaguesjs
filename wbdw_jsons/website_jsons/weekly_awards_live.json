@@ -71,8 +71,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 175,
-        "rushing_yards": 166,
-        "total_yards": 517,
+        "rushing_yards": 167,
+        "total_yards": 518,
         "yet_to_play": [
             "Rome Odunze",
             "Saquon Barkley"
@@ -84,9 +84,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 195,
-        "receiving_yards": 240,
-        "rushing_yards": 30,
-        "total_yards": 465,
+        "receiving_yards": 263,
+        "rushing_yards": 34,
+        "total_yards": 492,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -156,9 +156,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 223,
-        "rushing_yards": 40,
-        "total_yards": 263,
+        "receiving_yards": 233,
+        "rushing_yards": 41,
+        "total_yards": 274,
         "yet_to_play": [
             "Sam Darnold"
         ],
