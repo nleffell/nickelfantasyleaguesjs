@@ -18,31 +18,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 170,
-        "receiving_yards": 24,
-        "rushing_yards": 159,
-        "total_yards": 353,
-        "yet_to_play": [
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "George Pickens",
-            "Omar Cooper",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Cade Otton",
-            "Michael Mayer"
-        ]
-    },
-    {
         "owner": "TJ Pickeral",
-        "passing_yards": 76,
+        "passing_yards": 94,
         "receiving_yards": 148,
-        "rushing_yards": 121,
-        "total_yards": 345,
+        "rushing_yards": 144,
+        "total_yards": 386,
         "yet_to_play": [
             "Stefon Diggs",
             "Puka Nacua",
@@ -59,11 +39,31 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 177,
+        "receiving_yards": 26,
+        "rushing_yards": 161,
+        "total_yards": 364,
+        "yet_to_play": [
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "George Pickens",
+            "Omar Cooper",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Cade Otton",
+            "Michael Mayer"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 138,
         "receiving_yards": 103,
-        "rushing_yards": 78,
-        "total_yards": 319,
+        "rushing_yards": 76,
+        "total_yards": 317,
         "yet_to_play": [
             "Kyren Williams",
             "Jaylen Waddle",
@@ -77,6 +77,25 @@
             "Ja'Marr Chase",
             "Mark Andrews",
             "Tyler Allgeier"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 209,
+        "receiving_yards": 54,
+        "rushing_yards": 49,
+        "total_yards": 312,
+        "yet_to_play": [
+            "Luther Burden",
+            "DeMario Douglas",
+            "Cooper Kupp",
+            "Tyler Higbee"
+        ],
+        "in_play": [
+            "Mike Washington",
+            "Jeremiyah Love",
+            "T.J. Hockenson",
+            "Ty Johnson"
         ]
     },
     {
@@ -100,30 +119,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 209,
-        "receiving_yards": 36,
-        "rushing_yards": 49,
-        "total_yards": 294,
-        "yet_to_play": [
-            "Luther Burden",
-            "DeMario Douglas",
-            "Cooper Kupp",
-            "Tyler Higbee"
-        ],
-        "in_play": [
-            "Mike Washington",
-            "Jeremiyah Love",
-            "T.J. Hockenson",
-            "Ty Johnson"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
-        "passing_yards": 84,
-        "receiving_yards": 75,
-        "rushing_yards": 116,
-        "total_yards": 275,
+        "passing_yards": 90,
+        "receiving_yards": 80,
+        "rushing_yards": 117,
+        "total_yards": 287,
         "yet_to_play": [
             "Kenneth Walker",
             "Rome Odunze",
@@ -136,6 +136,26 @@
             "Josh Downs",
             "James Cook",
             "Chase Brown"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 147,
+        "rushing_yards": 43,
+        "total_yards": 190,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jameson Williams",
+            "Brock Bowers",
+            "Chris Godwin"
         ]
     },
     {
@@ -156,26 +176,6 @@
             "Wan'Dale Robinson",
             "Trey McBride",
             "Keon Coleman"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 145,
-        "rushing_yards": 41,
-        "total_yards": 186,
-        "yet_to_play": [
-            "Matthew Stafford",
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jameson Williams",
-            "Brock Bowers",
-            "Chris Godwin"
         ]
     },
     {
@@ -202,9 +202,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 77,
+        "receiving_yards": 81,
         "rushing_yards": 94,
-        "total_yards": 171,
+        "total_yards": 175,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
