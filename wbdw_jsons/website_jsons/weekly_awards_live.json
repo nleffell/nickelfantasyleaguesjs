@@ -1,5 +1,37 @@
 [
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 367,
+        "receiving_yards": 156,
+        "rushing_yards": 187,
+        "total_yards": 710,
+        "yet_to_play": [
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Joe Burrow",
+            "George Pickens"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 289,
+        "receiving_yards": 210,
+        "rushing_yards": 198,
+        "total_yards": 697,
+        "yet_to_play": [
+            "Stefon Diggs",
+            "Colston Loveland",
+            "Rachaad White"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "CeeDee Lamb",
+            "Puka Nacua",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 247,
         "receiving_yards": 353,
@@ -15,43 +47,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 289,
-        "receiving_yards": 209,
-        "rushing_yards": 198,
-        "total_yards": 696,
-        "yet_to_play": [
-            "Stefon Diggs",
-            "Colston Loveland",
-            "Rachaad White"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "Khalil Shakir"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 320,
-        "receiving_yards": 156,
-        "rushing_yards": 187,
-        "total_yards": 663,
-        "yet_to_play": [
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Joe Burrow",
-            "George Pickens"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
-        "receiving_yards": 207,
+        "receiving_yards": 232,
         "rushing_yards": 214,
-        "total_yards": 631,
+        "total_yards": 656,
         "yet_to_play": [
             "Jaylen Waddle",
             "Chig Okonkwo",
@@ -67,9 +67,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 320,
+        "receiving_yards": 325,
         "rushing_yards": 192,
-        "total_yards": 512,
+        "total_yards": 517,
         "yet_to_play": [
             "Caleb Williams",
             "Dallas Goedert",
@@ -84,9 +84,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 176,
-        "receiving_yards": 168,
+        "receiving_yards": 175,
         "rushing_yards": 150,
-        "total_yards": 494,
+        "total_yards": 501,
         "yet_to_play": [
             "Kenneth Walker",
             "Rome Odunze",
@@ -99,10 +99,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 8,
+        "passing_yards": 9,
         "receiving_yards": 236,
-        "rushing_yards": 204,
-        "total_yards": 448,
+        "rushing_yards": 207,
+        "total_yards": 452,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
