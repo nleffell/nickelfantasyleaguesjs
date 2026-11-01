@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 247,
-        "receiving_yards": 474,
+        "receiving_yards": 483,
         "rushing_yards": 96,
-        "total_yards": 817,
+        "total_yards": 826,
         "yet_to_play": [
             "Makai Lemon"
         ],
@@ -84,10 +84,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 126,
+        "passing_yards": 133,
         "receiving_yards": 249,
         "rushing_yards": 178,
-        "total_yards": 553,
+        "total_yards": 560,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
@@ -100,8 +100,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 278,
-        "rushing_yards": 77,
-        "total_yards": 550,
+        "rushing_yards": 80,
+        "total_yards": 553,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -113,8 +113,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 178,
-        "rushing_yards": 187,
-        "total_yards": 541,
+        "rushing_yards": 189,
+        "total_yards": 543,
         "yet_to_play": [
             "Rome Odunze",
             "Saquon Barkley"
@@ -126,9 +126,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 272,
+        "receiving_yards": 280,
         "rushing_yards": 194,
-        "total_yards": 466,
+        "total_yards": 474,
         "yet_to_play": [
             "Jayden Daniels",
             "Darius Cooper"
@@ -141,9 +141,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 209,
-        "receiving_yards": 131,
+        "receiving_yards": 132,
         "rushing_yards": 110,
-        "total_yards": 450,
+        "total_yards": 451,
         "yet_to_play": [
             "Luther Burden",
             "Cooper Kupp"
@@ -156,9 +156,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 243,
+        "receiving_yards": 246,
         "rushing_yards": 105,
-        "total_yards": 348,
+        "total_yards": 351,
         "yet_to_play": [
             "Sam Darnold"
         ],
