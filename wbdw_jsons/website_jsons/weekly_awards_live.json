@@ -3,8 +3,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 462,
         "receiving_yards": 156,
-        "rushing_yards": 195,
-        "total_yards": 813,
+        "rushing_yards": 196,
+        "total_yards": 814,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -17,8 +17,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 210,
         "receiving_yards": 282,
-        "rushing_yards": 216,
-        "total_yards": 708,
+        "rushing_yards": 234,
+        "total_yards": 726,
         "yet_to_play": [
             "Chig Okonkwo"
         ],
@@ -28,6 +28,21 @@
             "Ja'Marr Chase",
             "Tyler Allgeier",
             "Greg Dulcich"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 247,
+        "receiving_yards": 382,
+        "rushing_yards": 96,
+        "total_yards": 725,
+        "yet_to_play": [
+            "Makai Lemon"
+        ],
+        "in_play": [
+            "Ryan Flournoy",
+            "Ladd McConkey",
+            "Rashee Rice"
         ]
     },
     {
@@ -44,21 +59,6 @@
         "in_play": [
             "CeeDee Lamb",
             "Puka Nacua"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 247,
-        "receiving_yards": 352,
-        "rushing_yards": 96,
-        "total_yards": 695,
-        "yet_to_play": [
-            "Makai Lemon"
-        ],
-        "in_play": [
-            "Ryan Flournoy",
-            "Ladd McConkey",
-            "Rashee Rice"
         ]
     },
     {
@@ -127,9 +127,9 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 26,
+        "passing_yards": 25,
         "receiving_yards": 249,
-        "rushing_yards": 143,
+        "rushing_yards": 144,
         "total_yards": 418,
         "yet_to_play": [],
         "in_play": [
@@ -159,9 +159,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 200,
+        "receiving_yards": 215,
         "rushing_yards": 194,
-        "total_yards": 394,
+        "total_yards": 409,
         "yet_to_play": [
             "Jayden Daniels",
             "Darius Cooper"
@@ -175,9 +175,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 209,
-        "rushing_yards": 22,
-        "total_yards": 231,
+        "receiving_yards": 208,
+        "rushing_yards": 28,
+        "total_yards": 236,
         "yet_to_play": [
             "Sam Darnold"
         ],
