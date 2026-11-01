@@ -42,9 +42,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 241,
+        "receiving_yards": 265,
         "rushing_yards": 198,
-        "total_yards": 728,
+        "total_yards": 752,
         "yet_to_play": [
             "Stefon Diggs",
             "Colston Loveland",
@@ -68,6 +68,21 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 109,
+        "receiving_yards": 236,
+        "rushing_yards": 209,
+        "total_yards": 554,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 178,
@@ -79,21 +94,6 @@
         ],
         "in_play": [
             "Kenneth Walker"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 85,
-        "receiving_yards": 236,
-        "rushing_yards": 209,
-        "total_yards": 530,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Matthew Stafford"
         ]
     },
     {
@@ -157,8 +157,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 233,
-        "rushing_yards": 72,
-        "total_yards": 305,
+        "rushing_yards": 95,
+        "total_yards": 328,
         "yet_to_play": [
             "Sam Darnold"
         ],
