@@ -2,9 +2,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 247,
-        "receiving_yards": 483,
+        "receiving_yards": 488,
         "rushing_yards": 96,
-        "total_yards": 826,
+        "total_yards": 831,
         "yet_to_play": [
             "Makai Lemon"
         ],
@@ -70,6 +70,20 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 149,
+        "receiving_yards": 259,
+        "rushing_yards": 180,
+        "total_yards": 588,
+        "yet_to_play": [],
+        "in_play": [
+            "Drake Maye",
+            "Ollie Gordon",
+            "Noah Gray",
+            "J.K. Dobbins"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 380,
@@ -83,25 +97,11 @@
         "in_play": []
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 133,
-        "receiving_yards": 249,
-        "rushing_yards": 178,
-        "total_yards": 560,
-        "yet_to_play": [],
-        "in_play": [
-            "Drake Maye",
-            "Ollie Gordon",
-            "Noah Gray",
-            "J.K. Dobbins"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 278,
-        "rushing_yards": 80,
-        "total_yards": 553,
+        "rushing_yards": 89,
+        "total_yards": 562,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -112,9 +112,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 176,
-        "receiving_yards": 178,
+        "receiving_yards": 176,
         "rushing_yards": 189,
-        "total_yards": 543,
+        "total_yards": 541,
         "yet_to_play": [
             "Rome Odunze",
             "Saquon Barkley"
@@ -141,9 +141,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 209,
-        "receiving_yards": 132,
+        "receiving_yards": 133,
         "rushing_yards": 110,
-        "total_yards": 451,
+        "total_yards": 452,
         "yet_to_play": [
             "Luther Burden",
             "Cooper Kupp"
