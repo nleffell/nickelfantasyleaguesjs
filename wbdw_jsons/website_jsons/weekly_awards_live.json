@@ -18,6 +18,25 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 209,
+        "receiving_yards": 38,
+        "rushing_yards": 45,
+        "total_yards": 292,
+        "yet_to_play": [
+            "Luther Burden",
+            "DeMario Douglas",
+            "Cooper Kupp",
+            "Tyler Higbee"
+        ],
+        "in_play": [
+            "Mike Washington",
+            "Jeremiyah Love",
+            "T.J. Hockenson",
+            "Ty Johnson"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 72,
         "receiving_yards": 104,
@@ -39,22 +58,23 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 209,
-        "receiving_yards": 14,
-        "rushing_yards": 39,
-        "total_yards": 262,
+        "owner": "Brian Fuquay",
+        "passing_yards": 65,
+        "receiving_yards": 64,
+        "rushing_yards": 68,
+        "total_yards": 197,
         "yet_to_play": [
-            "Luther Burden",
-            "DeMario Douglas",
-            "Cooper Kupp",
-            "Tyler Higbee"
+            "Kenneth Walker",
+            "Rome Odunze",
+            "Saquon Barkley"
         ],
         "in_play": [
-            "Mike Washington",
-            "Jeremiyah Love",
-            "T.J. Hockenson",
-            "Ty Johnson"
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Drake London",
+            "Josh Downs",
+            "James Cook",
+            "Chase Brown"
         ]
     },
     {
@@ -75,26 +95,6 @@
             "Jameson Williams",
             "Brock Bowers",
             "Chris Godwin"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 65,
-        "receiving_yards": 51,
-        "rushing_yards": 42,
-        "total_yards": 158,
-        "yet_to_play": [
-            "Kenneth Walker",
-            "Rome Odunze",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Drake London",
-            "Josh Downs",
-            "James Cook",
-            "Chase Brown"
         ]
     },
     {
@@ -141,10 +141,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 18,
+        "passing_yards": 37,
         "receiving_yards": 24,
-        "rushing_yards": 82,
-        "total_yards": 124,
+        "rushing_yards": 81,
+        "total_yards": 142,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -162,9 +162,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 36,
-        "rushing_yards": 39,
-        "total_yards": 75,
+        "receiving_yards": 55,
+        "rushing_yards": 64,
+        "total_yards": 119,
         "yet_to_play": [
             "Caleb Williams",
             "Dallas Goedert",
@@ -182,9 +182,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 15,
+        "receiving_yards": 37,
         "rushing_yards": 28,
-        "total_yards": 43,
+        "total_yards": 65,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
