@@ -1,5 +1,19 @@
 [
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 247,
+        "receiving_yards": 474,
+        "rushing_yards": 96,
+        "total_yards": 817,
+        "yet_to_play": [
+            "Makai Lemon"
+        ],
+        "in_play": [
+            "Ladd McConkey",
+            "Rashee Rice"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 462,
         "receiving_yards": 156,
@@ -23,20 +37,6 @@
             "Kyren Williams",
             "Jaylen Waddle",
             "Greg Dulcich"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 247,
-        "receiving_yards": 408,
-        "rushing_yards": 96,
-        "total_yards": 751,
-        "yet_to_play": [
-            "Makai Lemon"
-        ],
-        "in_play": [
-            "Ladd McConkey",
-            "Rashee Rice"
         ]
     },
     {
@@ -68,6 +68,20 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 176,
+        "receiving_yards": 175,
+        "rushing_yards": 182,
+        "total_yards": 533,
+        "yet_to_play": [
+            "Rome Odunze",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Kenneth Walker"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 85,
         "receiving_yards": 236,
@@ -83,25 +97,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 176,
-        "receiving_yards": 175,
-        "rushing_yards": 167,
-        "total_yards": 518,
-        "yet_to_play": [
-            "Rome Odunze",
-            "Saquon Barkley"
-        ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 195,
-        "receiving_yards": 272,
+        "receiving_yards": 273,
         "rushing_yards": 43,
-        "total_yards": 510,
+        "total_yards": 511,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
