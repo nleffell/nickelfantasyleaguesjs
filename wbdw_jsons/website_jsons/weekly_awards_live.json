@@ -84,9 +84,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 195,
-        "receiving_yards": 263,
-        "rushing_yards": 34,
-        "total_yards": 492,
+        "receiving_yards": 271,
+        "rushing_yards": 30,
+        "total_yards": 496,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 35,
+        "passing_yards": 39,
         "receiving_yards": 249,
         "rushing_yards": 165,
-        "total_yards": 449,
+        "total_yards": 453,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
