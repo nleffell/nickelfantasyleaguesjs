@@ -13,9 +13,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
-        "receiving_yards": 317,
-        "rushing_yards": 234,
-        "total_yards": 761,
+        "receiving_yards": 320,
+        "rushing_yards": 235,
+        "total_yards": 765,
         "yet_to_play": [
             "Chig Okonkwo"
         ],
@@ -42,9 +42,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 228,
+        "receiving_yards": 241,
         "rushing_yards": 198,
-        "total_yards": 715,
+        "total_yards": 728,
         "yet_to_play": [
             "Stefon Diggs",
             "Colston Loveland",
@@ -68,6 +68,21 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 85,
+        "receiving_yards": 236,
+        "rushing_yards": 209,
+        "total_yards": 530,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 175,
@@ -82,26 +97,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 69,
-        "receiving_yards": 236,
-        "rushing_yards": 209,
-        "total_yards": 514,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Matthew Stafford"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 195,
-        "receiving_yards": 271,
-        "rushing_yards": 38,
-        "total_yards": 504,
+        "receiving_yards": 272,
+        "rushing_yards": 43,
+        "total_yards": 510,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -111,10 +111,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 39,
+        "passing_yards": 53,
         "receiving_yards": 249,
-        "rushing_yards": 161,
-        "total_yards": 449,
+        "rushing_yards": 162,
+        "total_yards": 464,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
@@ -157,8 +157,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 233,
-        "rushing_yards": 41,
-        "total_yards": 274,
+        "rushing_yards": 40,
+        "total_yards": 273,
         "yet_to_play": [
             "Sam Darnold"
         ],
