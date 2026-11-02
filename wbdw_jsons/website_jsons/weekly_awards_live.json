@@ -13,9 +13,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 247,
-        "receiving_yards": 523,
+        "receiving_yards": 531,
         "rushing_yards": 96,
-        "total_yards": 866,
+        "total_yards": 874,
         "yet_to_play": [],
         "in_play": [
             "Makai Lemon"
@@ -105,9 +105,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 388,
+        "receiving_yards": 404,
         "rushing_yards": 192,
-        "total_yards": 580,
+        "total_yards": 596,
         "yet_to_play": [
             "Caleb Williams",
             "Kalif Raymond"
