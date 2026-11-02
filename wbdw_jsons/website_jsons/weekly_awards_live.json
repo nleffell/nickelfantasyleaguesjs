@@ -47,6 +47,18 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 177,
+        "receiving_yards": 339,
+        "rushing_yards": 217,
+        "total_yards": 733,
+        "yet_to_play": [],
+        "in_play": [
+            "Jayden Daniels",
+            "Darius Cooper"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 199,
         "receiving_yards": 264,
@@ -54,18 +66,6 @@
         "total_yards": 681,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 124,
-        "receiving_yards": 339,
-        "rushing_yards": 217,
-        "total_yards": 680,
-        "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels",
-            "Darius Cooper"
-        ]
     },
     {
         "owner": "Brian Fuquay",
