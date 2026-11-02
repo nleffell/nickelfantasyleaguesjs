@@ -6,9 +6,7 @@
         "rushing_yards": 289,
         "total_yards": 898,
         "yet_to_play": [],
-        "in_play": [
-            "Chig Okonkwo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -17,9 +15,7 @@
         "rushing_yards": 96,
         "total_yards": 889,
         "yet_to_play": [],
-        "in_play": [
-            "Makai Lemon"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -28,9 +24,7 @@
         "rushing_yards": 196,
         "total_yards": 868,
         "yet_to_play": [],
-        "in_play": [
-            "Antonio Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -41,10 +35,7 @@
         "yet_to_play": [
             "Colston Loveland"
         ],
-        "in_play": [
-            "Stefon Diggs",
-            "Rachaad White"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -53,10 +44,7 @@
         "rushing_yards": 217,
         "total_yards": 773,
         "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels",
-            "Darius Cooper"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -76,9 +64,7 @@
         "yet_to_play": [
             "Rome Odunze"
         ],
-        "in_play": [
-            "Saquon Barkley"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -99,9 +85,7 @@
             "Caleb Williams",
             "Kalif Raymond"
         ],
-        "in_play": [
-            "Dallas Goedert"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
