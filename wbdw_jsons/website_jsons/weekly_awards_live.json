@@ -35,9 +35,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 294,
+        "receiving_yards": 314,
         "rushing_yards": 214,
-        "total_yards": 797,
+        "total_yards": 817,
         "yet_to_play": [
             "Colston Loveland"
         ],
@@ -56,6 +56,18 @@
         "in_play": []
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 96,
+        "receiving_yards": 339,
+        "rushing_yards": 217,
+        "total_yards": 652,
+        "yet_to_play": [],
+        "in_play": [
+            "Jayden Daniels",
+            "Darius Cooper"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 214,
@@ -66,18 +78,6 @@
         ],
         "in_play": [
             "Saquon Barkley"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 76,
-        "receiving_yards": 339,
-        "rushing_yards": 208,
-        "total_yards": 623,
-        "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels",
-            "Darius Cooper"
         ]
     },
     {
