@@ -24,9 +24,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 462,
-        "receiving_yards": 160,
+        "receiving_yards": 180,
         "rushing_yards": 196,
-        "total_yards": 818,
+        "total_yards": 838,
         "yet_to_play": [],
         "in_play": [
             "Antonio Williams"
@@ -69,6 +69,18 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 67,
+        "receiving_yards": 339,
+        "rushing_yards": 208,
+        "total_yards": 614,
+        "yet_to_play": [],
+        "in_play": [
+            "Jayden Daniels",
+            "Darius Cooper"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 157,
         "receiving_yards": 236,
@@ -85,8 +97,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 285,
-        "rushing_yards": 113,
-        "total_yards": 593,
+        "rushing_yards": 117,
+        "total_yards": 597,
         "yet_to_play": [],
         "in_play": []
     },
@@ -102,18 +114,6 @@
         ],
         "in_play": [
             "Dallas Goedert"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 26,
-        "receiving_yards": 339,
-        "rushing_yards": 194,
-        "total_yards": 559,
-        "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels",
-            "Darius Cooper"
         ]
     },
     {
