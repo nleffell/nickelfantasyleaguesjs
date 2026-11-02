@@ -5,10 +5,10 @@
         "receiving_yards": 367,
         "rushing_yards": 289,
         "total_yards": 866,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Chig Okonkwo"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -16,34 +16,35 @@
         "receiving_yards": 489,
         "rushing_yards": 96,
         "total_yards": 832,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Makai Lemon"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
         "passing_yards": 462,
-        "receiving_yards": 156,
+        "receiving_yards": 160,
         "rushing_yards": 196,
-        "total_yards": 814,
-        "yet_to_play": [
+        "total_yards": 818,
+        "yet_to_play": [],
+        "in_play": [
             "Antonio Williams"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
         "receiving_yards": 281,
-        "rushing_yards": 198,
-        "total_yards": 768,
+        "rushing_yards": 207,
+        "total_yards": 777,
         "yet_to_play": [
-            "Stefon Diggs",
-            "Colston Loveland",
-            "Rachaad White"
+            "Colston Loveland"
         ],
-        "in_play": []
+        "in_play": [
+            "Stefon Diggs",
+            "Rachaad White"
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -74,10 +75,11 @@
         "rushing_yards": 227,
         "total_yards": 593,
         "yet_to_play": [
-            "Rome Odunze",
-            "Saquon Barkley"
+            "Rome Odunze"
         ],
-        "in_play": []
+        "in_play": [
+            "Saquon Barkley"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -96,22 +98,23 @@
         "total_yards": 572,
         "yet_to_play": [
             "Caleb Williams",
-            "Dallas Goedert",
             "Kalif Raymond"
         ],
-        "in_play": []
+        "in_play": [
+            "Dallas Goedert"
+        ]
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 0,
+        "passing_yards": 4,
         "receiving_yards": 320,
         "rushing_yards": 194,
-        "total_yards": 514,
-        "yet_to_play": [
+        "total_yards": 518,
+        "yet_to_play": [],
+        "in_play": [
             "Jayden Daniels",
             "Darius Cooper"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
