@@ -54,8 +54,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 199,
         "receiving_yards": 264,
-        "rushing_yards": 221,
-        "total_yards": 684,
+        "rushing_yards": 218,
+        "total_yards": 681,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
@@ -76,6 +76,20 @@
             "AJ Barner"
         ],
         "in_play": []
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 176,
+        "receiving_yards": 190,
+        "rushing_yards": 227,
+        "total_yards": 593,
+        "yet_to_play": [
+            "Rome Odunze",
+            "Saquon Barkley"
+        ],
+        "in_play": [
+            "Kenneth Walker"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -104,17 +118,18 @@
         "in_play": []
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 176,
-        "receiving_yards": 182,
-        "rushing_yards": 212,
-        "total_yards": 570,
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 320,
+        "rushing_yards": 194,
+        "total_yards": 514,
         "yet_to_play": [
-            "Rome Odunze",
-            "Saquon Barkley"
+            "Jayden Daniels",
+            "Darius Cooper"
         ],
         "in_play": [
-            "Kenneth Walker"
+            "Courtland Sutton",
+            "Travis Kelce"
         ]
     },
     {
@@ -129,21 +144,6 @@
         ],
         "in_play": [
             "DeMario Douglas"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 288,
-        "rushing_yards": 194,
-        "total_yards": 482,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Darius Cooper"
-        ],
-        "in_play": [
-            "Courtland Sutton",
-            "Travis Kelce"
         ]
     },
     {
