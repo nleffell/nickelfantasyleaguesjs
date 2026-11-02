@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
-        "receiving_yards": 378,
+        "receiving_yards": 399,
         "rushing_yards": 289,
-        "total_yards": 877,
+        "total_yards": 898,
         "yet_to_play": [],
         "in_play": [
             "Chig Okonkwo"
@@ -57,10 +57,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 96,
+        "passing_yards": 124,
         "receiving_yards": 339,
         "rushing_yards": 217,
-        "total_yards": 652,
+        "total_yards": 680,
         "yet_to_play": [],
         "in_play": [
             "Jayden Daniels",
@@ -84,8 +84,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 285,
-        "rushing_yards": 135,
-        "total_yards": 615,
+        "rushing_yards": 134,
+        "total_yards": 614,
         "yet_to_play": [],
         "in_play": []
     },
