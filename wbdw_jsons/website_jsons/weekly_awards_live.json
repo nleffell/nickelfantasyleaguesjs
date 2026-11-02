@@ -90,6 +90,20 @@
         "in_play": []
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 410,
+        "rushing_yards": 194,
+        "total_yards": 604,
+        "yet_to_play": [
+            "Caleb Williams",
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Dallas Goedert"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 157,
         "receiving_yards": 236,
@@ -101,20 +115,6 @@
             "AJ Barner"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 410,
-        "rushing_yards": 192,
-        "total_yards": 602,
-        "yet_to_play": [
-            "Caleb Williams",
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Dallas Goedert"
-        ]
     },
     {
         "owner": "Chad Hill",
