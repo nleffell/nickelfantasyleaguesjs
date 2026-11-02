@@ -8,10 +8,7 @@
         "yet_to_play": [
             "Chig Okonkwo"
         ],
-        "in_play": [
-            "Jaylen Waddle",
-            "Greg Dulcich"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -22,9 +19,7 @@
         "yet_to_play": [
             "Makai Lemon"
         ],
-        "in_play": [
-            "Rashee Rice"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -57,12 +52,7 @@
         "rushing_yards": 218,
         "total_yards": 681,
         "yet_to_play": [],
-        "in_play": [
-            "Drake Maye",
-            "Ollie Gordon",
-            "Noah Gray",
-            "J.K. Dobbins"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -87,9 +77,7 @@
             "Rome Odunze",
             "Saquon Barkley"
         ],
-        "in_play": [
-            "Kenneth Walker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -98,11 +86,7 @@
         "rushing_yards": 102,
         "total_yards": 582,
         "yet_to_play": [],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Hunter Henry",
-            "Malik Washington"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -127,10 +111,7 @@
             "Jayden Daniels",
             "Darius Cooper"
         ],
-        "in_play": [
-            "Courtland Sutton",
-            "Travis Kelce"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -142,9 +123,7 @@
             "Luther Burden",
             "Cooper Kupp"
         ],
-        "in_play": [
-            "DeMario Douglas"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -155,8 +134,6 @@
         "yet_to_play": [
             "Sam Darnold"
         ],
-        "in_play": [
-            "Eli Raridon"
-        ]
+        "in_play": []
     }
 ]
