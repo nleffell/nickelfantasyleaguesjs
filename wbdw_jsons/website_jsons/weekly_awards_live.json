@@ -24,9 +24,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 462,
-        "receiving_yards": 180,
+        "receiving_yards": 210,
         "rushing_yards": 196,
-        "total_yards": 838,
+        "total_yards": 868,
         "yet_to_play": [],
         "in_play": [
             "Antonio Williams"
@@ -35,9 +35,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 314,
-        "rushing_yards": 214,
-        "total_yards": 817,
+        "receiving_yards": 324,
+        "rushing_yards": 216,
+        "total_yards": 829,
         "yet_to_play": [
             "Colston Loveland"
         ],
@@ -48,10 +48,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 177,
+        "passing_yards": 217,
         "receiving_yards": 339,
         "rushing_yards": 217,
-        "total_yards": 733,
+        "total_yards": 773,
         "yet_to_play": [],
         "in_play": [
             "Jayden Daniels",
@@ -84,8 +84,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 285,
-        "rushing_yards": 134,
-        "total_yards": 614,
+        "rushing_yards": 138,
+        "total_yards": 618,
         "yet_to_play": [],
         "in_play": []
     },
