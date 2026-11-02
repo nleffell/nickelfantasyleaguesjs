@@ -35,9 +35,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 285,
+        "receiving_yards": 293,
         "rushing_yards": 211,
-        "total_yards": 785,
+        "total_yards": 793,
         "yet_to_play": [
             "Colston Loveland"
         ],
@@ -70,15 +70,24 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 67,
+        "passing_yards": 75,
         "receiving_yards": 339,
         "rushing_yards": 208,
-        "total_yards": 614,
+        "total_yards": 622,
         "yet_to_play": [],
         "in_play": [
             "Jayden Daniels",
             "Darius Cooper"
         ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 195,
+        "receiving_yards": 285,
+        "rushing_yards": 135,
+        "total_yards": 615,
+        "yet_to_play": [],
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -91,15 +100,6 @@
             "D'Andre Swift",
             "AJ Barner"
         ],
-        "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 195,
-        "receiving_yards": 285,
-        "rushing_yards": 117,
-        "total_yards": 597,
-        "yet_to_play": [],
         "in_play": []
     },
     {
