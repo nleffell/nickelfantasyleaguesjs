@@ -9,7 +9,6 @@
             "Chig Okonkwo"
         ],
         "in_play": [
-            "Kyren Williams",
             "Jaylen Waddle",
             "Greg Dulcich"
         ]
@@ -24,7 +23,6 @@
             "Makai Lemon"
         ],
         "in_play": [
-            "Ladd McConkey",
             "Rashee Rice"
         ]
     },
@@ -50,16 +48,14 @@
             "Colston Loveland",
             "Rachaad White"
         ],
-        "in_play": [
-            "Puka Nacua"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
         "passing_yards": 197,
         "receiving_yards": 264,
-        "rushing_yards": 186,
-        "total_yards": 647,
+        "rushing_yards": 203,
+        "total_yards": 664,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
@@ -79,9 +75,7 @@
             "D'Andre Swift",
             "AJ Barner"
         ],
-        "in_play": [
-            "Matthew Stafford"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -113,8 +107,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 176,
         "receiving_yards": 176,
-        "rushing_yards": 198,
-        "total_yards": 550,
+        "rushing_yards": 199,
+        "total_yards": 551,
         "yet_to_play": [
             "Rome Odunze",
             "Saquon Barkley"
@@ -134,8 +128,7 @@
             "Cooper Kupp"
         ],
         "in_play": [
-            "DeMario Douglas",
-            "Tyler Higbee"
+            "DeMario Douglas"
         ]
     },
     {
@@ -163,9 +156,6 @@
             "Sam Darnold"
         ],
         "in_play": [
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre' Harris",
             "Eli Raridon"
         ]
     }
