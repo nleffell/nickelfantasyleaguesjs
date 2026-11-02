@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
-        "receiving_yards": 343,
+        "receiving_yards": 348,
         "rushing_yards": 289,
-        "total_yards": 842,
+        "total_yards": 847,
         "yet_to_play": [
             "Chig Okonkwo"
         ],
@@ -54,8 +54,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 197,
         "receiving_yards": 264,
-        "rushing_yards": 203,
-        "total_yards": 664,
+        "rushing_yards": 208,
+        "total_yards": 669,
         "yet_to_play": [],
         "in_play": [
             "Drake Maye",
@@ -134,9 +134,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 280,
+        "receiving_yards": 288,
         "rushing_yards": 194,
-        "total_yards": 474,
+        "total_yards": 482,
         "yet_to_play": [
             "Jayden Daniels",
             "Darius Cooper"
