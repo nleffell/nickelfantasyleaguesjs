@@ -57,10 +57,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 48,
+        "passing_yards": 58,
         "receiving_yards": 410,
         "rushing_yards": 194,
-        "total_yards": 652,
+        "total_yards": 662,
         "yet_to_play": [],
         "in_play": [
             "Caleb Williams",
@@ -103,9 +103,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 209,
-        "receiving_yards": 194,
+        "receiving_yards": 204,
         "rushing_yards": 110,
-        "total_yards": 513,
+        "total_yards": 523,
         "yet_to_play": [],
         "in_play": [
             "Luther Burden",
