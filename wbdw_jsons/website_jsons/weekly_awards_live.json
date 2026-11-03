@@ -39,10 +39,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 173,
+        "passing_yards": 218,
         "receiving_yards": 415,
         "rushing_yards": 196,
-        "total_yards": 784,
+        "total_yards": 829,
         "yet_to_play": [],
         "in_play": [
             "Caleb Williams",
@@ -59,27 +59,27 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 176,
+        "receiving_yards": 301,
+        "rushing_yards": 257,
+        "total_yards": 734,
+        "yet_to_play": [],
+        "in_play": [
+            "Rome Odunze"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 157,
         "receiving_yards": 338,
-        "rushing_yards": 235,
-        "total_yards": 730,
+        "rushing_yards": 234,
+        "total_yards": 729,
         "yet_to_play": [],
         "in_play": [
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
             "AJ Barner"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 176,
-        "receiving_yards": 256,
-        "rushing_yards": 257,
-        "total_yards": 689,
-        "yet_to_play": [],
-        "in_play": [
-            "Rome Odunze"
         ]
     },
     {
