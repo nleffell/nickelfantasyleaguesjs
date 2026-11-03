@@ -103,9 +103,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 209,
-        "receiving_yards": 237,
+        "receiving_yards": 244,
         "rushing_yards": 110,
-        "total_yards": 556,
+        "total_yards": 563,
         "yet_to_play": [],
         "in_play": [
             "Luther Burden",
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 130,
+        "passing_yards": 137,
         "receiving_yards": 246,
         "rushing_yards": 111,
-        "total_yards": 487,
+        "total_yards": 494,
         "yet_to_play": [],
         "in_play": [
             "Sam Darnold"
