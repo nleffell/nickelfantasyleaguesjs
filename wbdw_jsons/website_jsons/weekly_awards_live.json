@@ -79,6 +79,19 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 157,
+        "receiving_yards": 244,
+        "rushing_yards": 224,
+        "total_yards": 625,
+        "yet_to_play": [],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 195,
         "receiving_yards": 285,
@@ -86,19 +99,6 @@
         "total_yards": 618,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 157,
-        "receiving_yards": 244,
-        "rushing_yards": 216,
-        "total_yards": 617,
-        "yet_to_play": [],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ]
     },
     {
         "owner": "Chad Hill",
