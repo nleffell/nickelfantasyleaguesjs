@@ -1,5 +1,16 @@
 [
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 289,
+        "receiving_yards": 369,
+        "rushing_yards": 253,
+        "total_yards": 911,
+        "yet_to_play": [],
+        "in_play": [
+            "Colston Loveland"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 210,
         "receiving_yards": 399,
@@ -7,17 +18,6 @@
         "total_yards": 898,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 289,
-        "receiving_yards": 355,
-        "rushing_yards": 253,
-        "total_yards": 897,
-        "yet_to_play": [],
-        "in_play": [
-            "Colston Loveland"
-        ]
     },
     {
         "owner": "Ryan Shannon",
@@ -48,14 +48,27 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 151,
+        "passing_yards": 165,
         "receiving_yards": 410,
         "rushing_yards": 196,
-        "total_yards": 757,
+        "total_yards": 771,
         "yet_to_play": [],
         "in_play": [
             "Caleb Williams",
             "Kalif Raymond"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 157,
+        "receiving_yards": 338,
+        "rushing_yards": 235,
+        "total_yards": 730,
+        "yet_to_play": [],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
         ]
     },
     {
@@ -67,19 +80,6 @@
         "yet_to_play": [],
         "in_play": [
             "Rome Odunze"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 157,
-        "receiving_yards": 295,
-        "rushing_yards": 235,
-        "total_yards": 687,
-        "yet_to_play": [],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
         ]
     },
     {
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 51,
+        "passing_yards": 94,
         "receiving_yards": 246,
         "rushing_yards": 111,
-        "total_yards": 408,
+        "total_yards": 451,
         "yet_to_play": [],
         "in_play": [
             "Sam Darnold"
