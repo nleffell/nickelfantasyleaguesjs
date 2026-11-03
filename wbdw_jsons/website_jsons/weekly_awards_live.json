@@ -18,23 +18,23 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 289,
+        "receiving_yards": 336,
+        "rushing_yards": 253,
+        "total_yards": 878,
+        "yet_to_play": [],
+        "in_play": [
+            "Colston Loveland"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 462,
         "receiving_yards": 210,
         "rushing_yards": 196,
         "total_yards": 868,
         "yet_to_play": [],
-        "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 289,
-        "receiving_yards": 324,
-        "rushing_yards": 253,
-        "total_yards": 866,
-        "yet_to_play": [
-            "Colston Loveland"
-        ],
         "in_play": []
     },
     {
@@ -61,10 +61,35 @@
         "receiving_yards": 214,
         "rushing_yards": 257,
         "total_yards": 647,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Rome Odunze"
-        ],
-        "in_play": []
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 20,
+        "receiving_yards": 410,
+        "rushing_yards": 194,
+        "total_yards": 624,
+        "yet_to_play": [],
+        "in_play": [
+            "Caleb Williams",
+            "Kalif Raymond"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 157,
+        "receiving_yards": 244,
+        "rushing_yards": 218,
+        "total_yards": 619,
+        "yet_to_play": [],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -76,41 +101,16 @@
         "in_play": []
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 0,
-        "receiving_yards": 410,
-        "rushing_yards": 194,
-        "total_yards": 604,
-        "yet_to_play": [
-            "Caleb Williams",
-            "Kalif Raymond"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 157,
-        "receiving_yards": 236,
-        "rushing_yards": 209,
-        "total_yards": 602,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 209,
         "receiving_yards": 181,
         "rushing_yards": 110,
         "total_yards": 500,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Luther Burden",
             "Cooper Kupp"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -118,9 +118,9 @@
         "receiving_yards": 246,
         "rushing_yards": 105,
         "total_yards": 351,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Sam Darnold"
-        ],
-        "in_play": []
+        ]
     }
 ]
