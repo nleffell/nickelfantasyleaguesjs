@@ -11,9 +11,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 289,
-        "receiving_yards": 351,
+        "receiving_yards": 355,
         "rushing_yards": 253,
-        "total_yards": 893,
+        "total_yards": 897,
         "yet_to_play": [],
         "in_play": [
             "Colston Loveland"
@@ -56,6 +56,18 @@
         "in_play": []
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 62,
+        "receiving_yards": 410,
+        "rushing_yards": 194,
+        "total_yards": 666,
+        "yet_to_play": [],
+        "in_play": [
+            "Caleb Williams",
+            "Kalif Raymond"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 157,
         "receiving_yards": 281,
@@ -66,18 +78,6 @@
             "Jaxon Smith-Njigba",
             "D'Andre Swift",
             "AJ Barner"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 58,
-        "receiving_yards": 410,
-        "rushing_yards": 194,
-        "total_yards": 662,
-        "yet_to_play": [],
-        "in_play": [
-            "Caleb Williams",
-            "Kalif Raymond"
         ]
     },
     {
