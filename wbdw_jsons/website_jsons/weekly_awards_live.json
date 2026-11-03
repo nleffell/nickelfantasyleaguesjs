@@ -70,6 +70,19 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 157,
+        "receiving_yards": 295,
+        "rushing_yards": 235,
+        "total_yards": 687,
+        "yet_to_play": [],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "D'Andre Swift",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 199,
         "receiving_yards": 264,
@@ -77,19 +90,6 @@
         "total_yards": 681,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 157,
-        "receiving_yards": 283,
-        "rushing_yards": 235,
-        "total_yards": 675,
-        "yet_to_play": [],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "D'Andre Swift",
-            "AJ Barner"
-        ]
     },
     {
         "owner": "Jon Knicely",
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 39,
+        "passing_yards": 51,
         "receiving_yards": 246,
         "rushing_yards": 111,
-        "total_yards": 396,
+        "total_yards": 408,
         "yet_to_play": [],
         "in_play": [
             "Sam Darnold"
