@@ -61,9 +61,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 157,
-        "receiving_yards": 338,
+        "receiving_yards": 355,
         "rushing_yards": 248,
-        "total_yards": 743,
+        "total_yards": 760,
         "yet_to_play": [],
         "in_play": [
             "Jaxon Smith-Njigba",
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 94,
+        "passing_yards": 124,
         "receiving_yards": 246,
         "rushing_yards": 111,
-        "total_yards": 451,
+        "total_yards": 481,
         "yet_to_play": [],
         "in_play": [
             "Sam Darnold"
