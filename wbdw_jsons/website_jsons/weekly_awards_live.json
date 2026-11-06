@@ -1,10 +1,31 @@
 [
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 16,
+        "rushing_yards": 0,
+        "total_yards": 16,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Keenan Allen",
+            "DJ Moore",
+            "Travis Kelce",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "Jakobi Meyers"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 0,
-        "rushing_yards": 4,
-        "total_yards": 4,
+        "rushing_yards": 5,
+        "total_yards": 5,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
@@ -222,26 +243,5 @@
             "Kalif Raymond"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Keenan Allen",
-            "DJ Moore",
-            "Travis Kelce",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "Jakobi Meyers"
-        ]
     }
 ]
