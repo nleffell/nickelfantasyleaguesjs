@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-10-27",
+    "maker": "TJ Pickeral",
+    "bet": "Trey Benson has 300+ yards in any season from 2027-2029",
+    "taker": "Nick Leffell",
+    "stake": 50,
+    "odds": 100,
+    "payout": 50,
+    "status": "Pending",
+    "winner": null
+  },
+  {
     "date": "2026-09-14",
     "maker": "Nick Janowicz",
     "bet": "Michael Pittman Jr to outscore Jake Ferguson in 2026.",
