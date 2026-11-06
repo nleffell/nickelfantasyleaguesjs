@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 4,
+        "total_yards": 4,
+        "yet_to_play": [
+            "Drake Maye",
+            "Ollie Gordon",
+            "DeVonta Smith",
+            "Amon-Ra St. Brown",
+            "George Kittle",
+            "J.K. Dobbins",
+            "Justin Jefferson",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Bhayshul Tuten",
+            "Zay Flowers"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -16,26 +37,6 @@
             "Omar Cooper",
             "Antonio Williams",
             "Michael Mayer"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Drake Maye",
-            "Bhayshul Tuten",
-            "Ollie Gordon",
-            "Zay Flowers",
-            "DeVonta Smith",
-            "Amon-Ra St. Brown",
-            "George Kittle",
-            "J.K. Dobbins",
-            "Justin Jefferson",
-            "Michael Wilson"
         ],
         "in_play": []
     },
@@ -92,12 +93,13 @@
             "CeeDee Lamb",
             "Puka Nacua",
             "Stefon Diggs",
-            "Brenton Strange",
             "Colston Loveland",
             "Keaton Mitchell",
             "Khalil Shakir"
         ],
-        "in_play": []
+        "in_play": [
+            "Brenton Strange"
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -132,12 +134,13 @@
             "Jaylen Waddle",
             "Nico Collins",
             "Ja'Marr Chase",
-            "Mark Andrews",
             "Garrett Wilson",
             "Tyler Allgeier",
             "Greg Dulcich"
         ],
-        "in_play": []
+        "in_play": [
+            "Mark Andrews"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -191,13 +194,14 @@
             "Omarion Hampton",
             "Devaughn Vele",
             "Tre' Harris",
-            "Parker Washington",
             "Sam LaPorta",
             "Harold Fannin",
             "Tre Tucker",
             "Eli Raridon"
         ],
-        "in_play": []
+        "in_play": [
+            "Parker Washington"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -228,8 +232,6 @@
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
-            "Derrick Henry",
-            "Jakobi Meyers",
             "Keenan Allen",
             "DJ Moore",
             "Travis Kelce",
@@ -237,6 +239,9 @@
             "Isaiah Likely",
             "Jordan Mason"
         ],
-        "in_play": []
+        "in_play": [
+            "Derrick Henry",
+            "Jakobi Meyers"
+        ]
     }
 ]
