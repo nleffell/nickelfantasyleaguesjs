@@ -21,6 +21,27 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 61,
+        "rushing_yards": 0,
+        "total_yards": 61,
+        "yet_to_play": [
+            "Gardner Minshew",
+            "Blake Corum",
+            "Omarion Hampton",
+            "Devaughn Vele",
+            "Tre' Harris",
+            "Sam LaPorta",
+            "Harold Fannin",
+            "Tre Tucker",
+            "Eli Raridon"
+        ],
+        "in_play": [
+            "Parker Washington"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": -3,
@@ -42,24 +63,24 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
+        "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 11,
+        "receiving_yards": 15,
         "rushing_yards": 0,
-        "total_yards": 11,
+        "total_yards": 15,
         "yet_to_play": [
-            "Gardner Minshew",
-            "Blake Corum",
-            "Omarion Hampton",
-            "Devaughn Vele",
-            "Tre' Harris",
-            "Sam LaPorta",
-            "Harold Fannin",
-            "Tre Tucker",
-            "Eli Raridon"
+            "Josh Allen",
+            "Quinshon Judkins",
+            "Rachaad White",
+            "CeeDee Lamb",
+            "Puka Nacua",
+            "Stefon Diggs",
+            "Colston Loveland",
+            "Keaton Mitchell",
+            "Khalil Shakir"
         ],
         "in_play": [
-            "Parker Washington"
+            "Brenton Strange"
         ]
     },
     {
@@ -142,27 +163,6 @@
             "Tyler Higbee"
         ],
         "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Josh Allen",
-            "Quinshon Judkins",
-            "Rachaad White",
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "Stefon Diggs",
-            "Colston Loveland",
-            "Keaton Mitchell",
-            "Khalil Shakir"
-        ],
-        "in_play": [
-            "Brenton Strange"
-        ]
     },
     {
         "owner": "Brian Fuquay",
