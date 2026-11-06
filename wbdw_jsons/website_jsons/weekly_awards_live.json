@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": -3,
-        "receiving_yards": 65,
+        "receiving_yards": 75,
         "rushing_yards": 55,
-        "total_yards": 117,
+        "total_yards": 127,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -45,8 +45,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 6,
-        "rushing_yards": 41,
-        "total_yards": 47,
+        "rushing_yards": 46,
+        "total_yards": 52,
         "yet_to_play": [
             "Drake Maye",
             "Ollie Gordon",
