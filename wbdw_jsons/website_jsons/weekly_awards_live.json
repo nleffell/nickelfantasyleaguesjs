@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": -3,
-        "receiving_yards": 76,
+        "receiving_yards": 65,
         "rushing_yards": 57,
-        "total_yards": 130,
+        "total_yards": 119,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -15,10 +15,7 @@
             "Isaiah Likely",
             "Jordan Mason"
         ],
-        "in_play": [
-            "Derrick Henry",
-            "Jakobi Meyers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -37,9 +34,7 @@
             "Tre Tucker",
             "Eli Raridon"
         ],
-        "in_play": [
-            "Parker Washington"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -57,10 +52,7 @@
             "Justin Jefferson",
             "Michael Wilson"
         ],
-        "in_play": [
-            "Bhayshul Tuten",
-            "Zay Flowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -79,9 +71,7 @@
             "Keaton Mitchell",
             "Khalil Shakir"
         ],
-        "in_play": [
-            "Brenton Strange"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -100,9 +90,7 @@
             "Tyler Allgeier",
             "Greg Dulcich"
         ],
-        "in_play": [
-            "Mark Andrews"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
