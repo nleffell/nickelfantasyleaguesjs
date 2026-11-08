@@ -20,9 +20,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 106,
+        "receiving_yards": 109,
         "rushing_yards": 37,
-        "total_yards": 414,
+        "total_yards": 417,
         "yet_to_play": [
             "Josh Jacobs",
             "Emeka Egbuka",
@@ -37,30 +37,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 67,
-        "receiving_yards": 153,
-        "rushing_yards": 127,
-        "total_yards": 347,
-        "yet_to_play": [
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "Jonah Coleman"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 112,
-        "receiving_yards": 157,
+        "receiving_yards": 191,
         "rushing_yards": 74,
-        "total_yards": 343,
+        "total_yards": 377,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -72,6 +53,25 @@
             "Travis Kelce",
             "Devin Singletary",
             "Isaiah Likely"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 67,
+        "receiving_yards": 157,
+        "rushing_yards": 127,
+        "total_yards": 351,
+        "yet_to_play": [
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "Jonah Coleman"
         ]
     },
     {
@@ -119,8 +119,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 73,
         "receiving_yards": 52,
-        "rushing_yards": 59,
-        "total_yards": 184,
+        "rushing_yards": 62,
+        "total_yards": 187,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
