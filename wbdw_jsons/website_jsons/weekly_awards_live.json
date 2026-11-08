@@ -1,5 +1,24 @@
 [
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 163,
+        "receiving_yards": 191,
+        "rushing_yards": 221,
+        "total_yards": 575,
+        "yet_to_play": [
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "Jonah Coleman"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 120,
         "receiving_yards": 301,
@@ -18,30 +37,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 163,
-        "receiving_yards": 186,
-        "rushing_yards": 221,
-        "total_yards": 570,
-        "yet_to_play": [
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "Jonah Coleman"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
-        "passing_yards": 128,
+        "passing_yards": 140,
         "receiving_yards": 240,
         "rushing_yards": 98,
-        "total_yards": 466,
+        "total_yards": 478,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -53,6 +53,25 @@
             "Travis Kelce",
             "Devin Singletary",
             "Isaiah Likely"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 271,
+        "receiving_yards": 150,
+        "rushing_yards": 39,
+        "total_yards": 460,
+        "yet_to_play": [
+            "Josh Jacobs",
+            "Emeka Egbuka",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Braelon Allen",
+            "Malik Nabers",
+            "Omar Cooper",
+            "Antonio Williams",
+            "Chris Bell"
         ]
     },
     {
@@ -74,25 +93,6 @@
             "Javonte Williams",
             "Jameson Williams",
             "Tetairoa McMillan"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 271,
-        "receiving_yards": 129,
-        "rushing_yards": 37,
-        "total_yards": 437,
-        "yet_to_play": [
-            "Josh Jacobs",
-            "Emeka Egbuka",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Braelon Allen",
-            "Malik Nabers",
-            "Omar Cooper",
-            "Antonio Williams",
-            "Chris Bell"
         ]
     },
     {
@@ -140,8 +140,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 144,
-        "rushing_yards": 118,
-        "total_yards": 262,
+        "rushing_yards": 119,
+        "total_yards": 263,
         "yet_to_play": [
             "Drake Maye",
             "George Kittle",
@@ -153,6 +153,27 @@
             "Xavier Worthy",
             "Amon-Ra St. Brown",
             "J.K. Dobbins"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 167,
+        "rushing_yards": 79,
+        "total_yards": 246,
+        "yet_to_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Ladd McConkey",
+            "Matthew Golden",
+            "Christian Watson"
+        ],
+        "in_play": [
+            "Chuba Hubbard",
+            "Rashee Rice",
+            "Makai Lemon",
+            "Chris Olave",
+            "Tyler Warren"
         ]
     },
     {
@@ -173,27 +194,6 @@
             "Alvin Kamara",
             "Adonai Mitchell",
             "Tyler Higbee"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 155,
-        "rushing_yards": 79,
-        "total_yards": 234,
-        "yet_to_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Ladd McConkey",
-            "Matthew Golden",
-            "Christian Watson"
-        ],
-        "in_play": [
-            "Chuba Hubbard",
-            "Rashee Rice",
-            "Makai Lemon",
-            "Chris Olave",
-            "Tyler Warren"
         ]
     },
     {
