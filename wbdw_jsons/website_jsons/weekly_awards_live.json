@@ -21,8 +21,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 271,
         "receiving_yards": 98,
-        "rushing_yards": 28,
-        "total_yards": 397,
+        "rushing_yards": 33,
+        "total_yards": 402,
         "yet_to_play": [
             "Josh Jacobs",
             "Emeka Egbuka",
@@ -37,30 +37,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 106,
-        "receiving_yards": 120,
-        "rushing_yards": 74,
-        "total_yards": 300,
-        "yet_to_play": [
-            "Christian McCaffrey",
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Jayden Daniels",
-            "Keenan Allen",
-            "Darius Cooper",
-            "Travis Kelce",
-            "Devin Singletary",
-            "Isaiah Likely"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 68,
-        "receiving_yards": 122,
-        "rushing_yards": 107,
-        "total_yards": 297,
+        "receiving_yards": 147,
+        "rushing_yards": 114,
+        "total_yards": 329,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -75,30 +56,30 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 66,
-        "rushing_yards": 80,
-        "total_yards": 146,
+        "owner": "Tyler Smith",
+        "passing_yards": 112,
+        "receiving_yards": 122,
+        "rushing_yards": 74,
+        "total_yards": 308,
         "yet_to_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Justin Jefferson",
-            "Michael Wilson"
+            "Christian McCaffrey",
+            "DJ Moore"
         ],
         "in_play": [
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Amon-Ra St. Brown",
-            "J.K. Dobbins"
+            "Jayden Daniels",
+            "Keenan Allen",
+            "Darius Cooper",
+            "Travis Kelce",
+            "Devin Singletary",
+            "Isaiah Likely"
         ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 108,
-        "rushing_yards": 32,
-        "total_yards": 140,
+        "rushing_yards": 46,
+        "total_yards": 154,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -114,11 +95,30 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 66,
+        "rushing_yards": 82,
+        "total_yards": 148,
+        "yet_to_play": [
+            "Drake Maye",
+            "George Kittle",
+            "Justin Jefferson",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Ollie Gordon",
+            "Xavier Worthy",
+            "Amon-Ra St. Brown",
+            "J.K. Dobbins"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 66,
         "receiving_yards": 38,
-        "rushing_yards": 35,
-        "total_yards": 139,
+        "rushing_yards": 38,
+        "total_yards": 142,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -138,8 +138,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 33,
         "receiving_yards": 22,
-        "rushing_yards": 59,
-        "total_yards": 114,
+        "rushing_yards": 56,
+        "total_yards": 111,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
