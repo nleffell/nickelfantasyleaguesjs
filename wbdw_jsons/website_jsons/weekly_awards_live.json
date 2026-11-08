@@ -3,8 +3,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 335,
         "receiving_yards": 251,
-        "rushing_yards": 75,
-        "total_yards": 661,
+        "rushing_yards": 82,
+        "total_yards": 668,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -15,6 +15,32 @@
             "Woody Marks",
             "Kyle Williams",
             "Trey McBride"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 128,
+        "receiving_yards": 344,
+        "rushing_yards": 175,
+        "total_yards": 647,
+        "yet_to_play": [],
+        "in_play": [
+            "Nico Collins",
+            "Tyler Allgeier"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 266,
+        "receiving_yards": 249,
+        "rushing_yards": 126,
+        "total_yards": 641,
+        "yet_to_play": [
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Christian McCaffrey",
+            "Keenan Allen"
         ]
     },
     {
@@ -31,32 +57,6 @@
             "Jonathan Taylor",
             "Josh Downs",
             "Tucker Kraft"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 128,
-        "receiving_yards": 344,
-        "rushing_yards": 157,
-        "total_yards": 629,
-        "yet_to_play": [],
-        "in_play": [
-            "Nico Collins",
-            "Tyler Allgeier"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 266,
-        "receiving_yards": 249,
-        "rushing_yards": 114,
-        "total_yards": 629,
-        "yet_to_play": [
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Keenan Allen"
         ]
     },
     {
@@ -144,9 +144,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 158,
+        "receiving_yards": 174,
         "rushing_yards": 119,
-        "total_yards": 277,
+        "total_yards": 293,
         "yet_to_play": [
             "Justin Jefferson"
         ],
@@ -158,10 +158,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 123,
+        "passing_yards": 42,
+        "receiving_yards": 162,
         "rushing_yards": 61,
-        "total_yards": 184,
+        "total_yards": 265,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
@@ -175,10 +175,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 15,
+        "passing_yards": 27,
         "receiving_yards": 122,
         "rushing_yards": -3,
-        "total_yards": 134,
+        "total_yards": 146,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
