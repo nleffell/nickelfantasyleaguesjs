@@ -1,5 +1,24 @@
 [
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 336,
+        "receiving_yards": 243,
+        "rushing_yards": 75,
+        "total_yards": 654,
+        "yet_to_play": [
+            "Rhamondre Stevenson",
+            "Kyle Williams",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Dak Prescott",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Jake Ferguson",
+            "Woody Marks"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 200,
@@ -43,25 +62,6 @@
             "Darius Cooper",
             "Devin Singletary",
             "Isaiah Likely"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 289,
-        "receiving_yards": 228,
-        "rushing_yards": 75,
-        "total_yards": 592,
-        "yet_to_play": [
-            "Rhamondre Stevenson",
-            "Kyle Williams",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Dak Prescott",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Jake Ferguson",
-            "Woody Marks"
         ]
     },
     {
@@ -166,9 +166,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 110,
-        "rushing_yards": 60,
-        "total_yards": 170,
+        "receiving_yards": 120,
+        "rushing_yards": 61,
+        "total_yards": 181,
         "yet_to_play": [
             "Gardner Minshew",
             "Tre Tucker",
