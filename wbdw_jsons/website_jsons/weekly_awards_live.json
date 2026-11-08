@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 120,
         "receiving_yards": 301,
-        "rushing_yards": 152,
-        "total_yards": 573,
+        "rushing_yards": 153,
+        "total_yards": 574,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -19,10 +19,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 137,
+        "passing_yards": 163,
         "receiving_yards": 186,
-        "rushing_yards": 212,
-        "total_yards": 535,
+        "rushing_yards": 221,
+        "total_yards": 570,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -40,8 +40,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 128,
         "receiving_yards": 240,
-        "rushing_yards": 93,
-        "total_yards": 461,
+        "rushing_yards": 98,
+        "total_yards": 466,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -57,10 +57,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 221,
+        "passing_yards": 228,
         "receiving_yards": 86,
-        "rushing_yards": 134,
-        "total_yards": 441,
+        "rushing_yards": 139,
+        "total_yards": 453,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
@@ -79,9 +79,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 116,
+        "receiving_yards": 129,
         "rushing_yards": 37,
-        "total_yards": 424,
+        "total_yards": 437,
         "yet_to_play": [
             "Josh Jacobs",
             "Emeka Egbuka",
@@ -98,9 +98,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 185,
-        "receiving_yards": 146,
+        "receiving_yards": 160,
         "rushing_yards": 66,
-        "total_yards": 397,
+        "total_yards": 411,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -119,9 +119,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 319,
+        "receiving_yards": 326,
         "rushing_yards": 64,
-        "total_yards": 383,
+        "total_yards": 390,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -139,9 +139,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 127,
+        "receiving_yards": 144,
         "rushing_yards": 118,
-        "total_yards": 245,
+        "total_yards": 262,
         "yet_to_play": [
             "Drake Maye",
             "George Kittle",
@@ -158,9 +158,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 189,
-        "receiving_yards": 35,
+        "receiving_yards": 38,
         "rushing_yards": 15,
-        "total_yards": 239,
+        "total_yards": 242,
         "yet_to_play": [
             "Mike Washington",
             "Luther Burden",
@@ -199,9 +199,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 77,
+        "receiving_yards": 86,
         "rushing_yards": 52,
-        "total_yards": 129,
+        "total_yards": 138,
         "yet_to_play": [
             "Gardner Minshew",
             "Omarion Hampton",
