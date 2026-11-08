@@ -39,9 +39,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 106,
-        "receiving_yards": 112,
-        "rushing_yards": 66,
-        "total_yards": 284,
+        "receiving_yards": 120,
+        "rushing_yards": 67,
+        "total_yards": 293,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -57,10 +57,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 31,
-        "receiving_yards": 93,
-        "rushing_yards": 109,
-        "total_yards": 233,
+        "passing_yards": 42,
+        "receiving_yards": 100,
+        "rushing_yards": 108,
+        "total_yards": 250,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -77,9 +77,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 110,
+        "receiving_yards": 108,
         "rushing_yards": 22,
-        "total_yards": 132,
+        "total_yards": 130,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -97,9 +97,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 43,
+        "receiving_yards": 54,
         "rushing_yards": 73,
-        "total_yards": 116,
+        "total_yards": 127,
         "yet_to_play": [
             "Drake Maye",
             "George Kittle",
@@ -115,10 +115,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 56,
-        "receiving_yards": 24,
+        "passing_yards": 65,
+        "receiving_yards": 34,
         "rushing_yards": 24,
-        "total_yards": 104,
+        "total_yards": 123,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -138,8 +138,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 29,
         "receiving_yards": 9,
-        "rushing_yards": 50,
-        "total_yards": 88,
+        "rushing_yards": 53,
+        "total_yards": 91,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
@@ -159,8 +159,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 61,
-        "rushing_yards": 0,
-        "total_yards": 61,
+        "rushing_yards": 4,
+        "total_yards": 65,
         "yet_to_play": [
             "Gardner Minshew",
             "Omarion Hampton",
