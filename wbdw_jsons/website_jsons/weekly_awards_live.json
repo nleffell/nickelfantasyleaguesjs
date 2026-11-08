@@ -1,10 +1,10 @@
 [
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 113,
-        "receiving_yards": 292,
-        "rushing_yards": 138,
-        "total_yards": 543,
+        "passing_yards": 120,
+        "receiving_yards": 301,
+        "rushing_yards": 143,
+        "total_yards": 564,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -21,8 +21,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 130,
         "receiving_yards": 176,
-        "rushing_yards": 190,
-        "total_yards": 496,
+        "rushing_yards": 197,
+        "total_yards": 503,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -34,6 +34,25 @@
             "Kenneth Walker",
             "Josh Downs",
             "Jonah Coleman"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 128,
+        "receiving_yards": 240,
+        "rushing_yards": 93,
+        "total_yards": 461,
+        "yet_to_play": [
+            "Christian McCaffrey",
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Jayden Daniels",
+            "Keenan Allen",
+            "Darius Cooper",
+            "Travis Kelce",
+            "Devin Singletary",
+            "Isaiah Likely"
         ]
     },
     {
@@ -56,30 +75,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 128,
-        "receiving_yards": 197,
-        "rushing_yards": 92,
-        "total_yards": 417,
-        "yet_to_play": [
-            "Christian McCaffrey",
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Jayden Daniels",
-            "Keenan Allen",
-            "Darius Cooper",
-            "Travis Kelce",
-            "Devin Singletary",
-            "Isaiah Likely"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
-        "passing_yards": 163,
+        "passing_yards": 202,
         "receiving_yards": 73,
         "rushing_yards": 128,
-        "total_yards": 364,
+        "total_yards": 403,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
@@ -98,9 +98,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 278,
-        "rushing_yards": 62,
-        "total_yards": 340,
+        "receiving_yards": 300,
+        "rushing_yards": 69,
+        "total_yards": 369,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -117,10 +117,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 139,
-        "receiving_yards": 118,
+        "passing_yards": 161,
+        "receiving_yards": 125,
         "rushing_yards": 67,
-        "total_yards": 324,
+        "total_yards": 353,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -157,6 +157,25 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 120,
+        "rushing_yards": 115,
+        "total_yards": 235,
+        "yet_to_play": [
+            "Drake Maye",
+            "George Kittle",
+            "Justin Jefferson",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Ollie Gordon",
+            "Xavier Worthy",
+            "Amon-Ra St. Brown",
+            "J.K. Dobbins"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 155,
@@ -175,25 +194,6 @@
             "Makai Lemon",
             "Chris Olave",
             "Tyler Warren"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 120,
-        "rushing_yards": 111,
-        "total_yards": 231,
-        "yet_to_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Justin Jefferson",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Amon-Ra St. Brown",
-            "J.K. Dobbins"
         ]
     },
     {
