@@ -1,5 +1,31 @@
 [
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 335,
+        "receiving_yards": 286,
+        "rushing_yards": 101,
+        "total_yards": 722,
+        "yet_to_play": [],
+        "in_play": [
+            "Rhamondre Stevenson",
+            "Woody Marks",
+            "Kyle Williams",
+            "Trey McBride"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 128,
+        "receiving_yards": 372,
+        "rushing_yards": 196,
+        "total_yards": 696,
+        "yet_to_play": [],
+        "in_play": [
+            "Nico Collins",
+            "Tyler Allgeier"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 271,
         "receiving_yards": 261,
@@ -10,32 +36,6 @@
         ],
         "in_play": [
             "Christian McCaffrey"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 128,
-        "receiving_yards": 372,
-        "rushing_yards": 185,
-        "total_yards": 685,
-        "yet_to_play": [],
-        "in_play": [
-            "Nico Collins",
-            "Tyler Allgeier"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 335,
-        "receiving_yards": 256,
-        "rushing_yards": 89,
-        "total_yards": 680,
-        "yet_to_play": [],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Woody Marks",
-            "Kyle Williams",
-            "Trey McBride"
         ]
     },
     {
@@ -70,9 +70,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 228,
-        "receiving_yards": 146,
+        "receiving_yards": 149,
         "rushing_yards": 187,
-        "total_yards": 561,
+        "total_yards": 564,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
@@ -85,10 +85,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 48,
+        "passing_yards": 54,
         "receiving_yards": 405,
-        "rushing_yards": 90,
-        "total_yards": 543,
+        "rushing_yards": 96,
+        "total_yards": 555,
         "yet_to_play": [],
         "in_play": [
             "Kirk Cousins",
@@ -113,11 +113,26 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 90,
+        "receiving_yards": 234,
+        "rushing_yards": 119,
+        "total_yards": 443,
+        "yet_to_play": [
+            "Justin Jefferson"
+        ],
+        "in_play": [
+            "Drake Maye",
+            "George Kittle",
+            "Michael Wilson"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 276,
         "receiving_yards": 82,
-        "rushing_yards": 50,
-        "total_yards": 408,
+        "rushing_yards": 49,
+        "total_yards": 407,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -129,18 +144,18 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 60,
-        "receiving_yards": 211,
-        "rushing_yards": 119,
-        "total_yards": 390,
-        "yet_to_play": [
-            "Justin Jefferson"
-        ],
+        "owner": "Patrick Neafsey",
+        "passing_yards": 75,
+        "receiving_yards": 172,
+        "rushing_yards": 67,
+        "total_yards": 314,
+        "yet_to_play": [],
         "in_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Michael Wilson"
+            "Gardner Minshew",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Tre Tucker",
+            "Eli Raridon"
         ]
     },
     {
@@ -158,21 +173,6 @@
         "in_play": [
             "Brock Purdy",
             "Zach Charbonnet"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 52,
-        "receiving_yards": 172,
-        "rushing_yards": 67,
-        "total_yards": 291,
-        "yet_to_play": [],
-        "in_play": [
-            "Gardner Minshew",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Tre Tucker",
-            "Eli Raridon"
         ]
     }
 ]
