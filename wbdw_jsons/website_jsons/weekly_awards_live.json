@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 128,
-        "receiving_yards": 370,
+        "receiving_yards": 375,
         "rushing_yards": 178,
-        "total_yards": 676,
+        "total_yards": 681,
         "yet_to_play": [],
         "in_play": [
             "Nico Collins",
@@ -15,8 +15,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 335,
         "receiving_yards": 256,
-        "rushing_yards": 77,
-        "total_yards": 668,
+        "rushing_yards": 88,
+        "total_yards": 679,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -27,10 +27,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 266,
+        "passing_yards": 271,
         "receiving_yards": 249,
         "rushing_yards": 147,
-        "total_yards": 662,
+        "total_yards": 667,
         "yet_to_play": [
             "DJ Moore"
         ],
@@ -71,8 +71,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 145,
-        "rushing_yards": 185,
-        "total_yards": 558,
+        "rushing_yards": 187,
+        "total_yards": 560,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
@@ -87,8 +87,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 48,
         "receiving_yards": 405,
-        "rushing_yards": 84,
-        "total_yards": 537,
+        "rushing_yards": 90,
+        "total_yards": 543,
         "yet_to_play": [],
         "in_play": [
             "Kirk Cousins",
