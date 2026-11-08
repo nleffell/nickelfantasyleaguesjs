@@ -3,8 +3,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 335,
         "receiving_yards": 292,
-        "rushing_yards": 104,
-        "total_yards": 731,
+        "rushing_yards": 123,
+        "total_yards": 750,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -68,6 +68,22 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 228,
+        "receiving_yards": 181,
+        "rushing_yards": 189,
+        "total_yards": 598,
+        "yet_to_play": [
+            "D'Andre Swift",
+            "Chris Godwin"
+        ],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 474,
@@ -83,19 +99,18 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 228,
-        "receiving_yards": 150,
-        "rushing_yards": 189,
-        "total_yards": 567,
+        "owner": "Victor Dankens",
+        "passing_yards": 168,
+        "receiving_yards": 233,
+        "rushing_yards": 119,
+        "total_yards": 520,
         "yet_to_play": [
-            "D'Andre Swift",
-            "Chris Godwin"
+            "Justin Jefferson"
         ],
         "in_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
+            "Drake Maye",
+            "George Kittle",
+            "Michael Wilson"
         ]
     },
     {
@@ -110,21 +125,6 @@
         "in_play": [
             "Josh Jacobs",
             "Michael Mayer"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 123,
-        "receiving_yards": 233,
-        "rushing_yards": 119,
-        "total_yards": 475,
-        "yet_to_play": [
-            "Justin Jefferson"
-        ],
-        "in_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Michael Wilson"
         ]
     },
     {
@@ -146,9 +146,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 80,
-        "receiving_yards": 172,
+        "receiving_yards": 200,
         "rushing_yards": 67,
-        "total_yards": 319,
+        "total_yards": 347,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
