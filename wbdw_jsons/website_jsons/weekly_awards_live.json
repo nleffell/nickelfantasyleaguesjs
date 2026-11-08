@@ -1,5 +1,18 @@
 [
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 271,
+        "receiving_yards": 261,
+        "rushing_yards": 163,
+        "total_yards": 695,
+        "yet_to_play": [
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Christian McCaffrey"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 128,
         "receiving_yards": 372,
@@ -26,19 +39,6 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 271,
-        "receiving_yards": 249,
-        "rushing_yards": 156,
-        "total_yards": 676,
-        "yet_to_play": [
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Christian McCaffrey"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 200,
@@ -55,9 +55,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 461,
+        "receiving_yards": 474,
         "rushing_yards": 113,
-        "total_yards": 574,
+        "total_yards": 587,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -70,9 +70,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 228,
-        "receiving_yards": 145,
+        "receiving_yards": 146,
         "rushing_yards": 187,
-        "total_yards": 560,
+        "total_yards": 561,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
@@ -115,9 +115,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 46,
+        "receiving_yards": 82,
         "rushing_yards": 50,
-        "total_yards": 372,
+        "total_yards": 408,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 24,
+        "passing_yards": 60,
         "receiving_yards": 211,
         "rushing_yards": 119,
-        "total_yards": 354,
+        "total_yards": 390,
         "yet_to_play": [
             "Justin Jefferson"
         ],
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 112,
+        "passing_yards": 124,
         "receiving_yards": 131,
-        "rushing_yards": 50,
-        "total_yards": 293,
+        "rushing_yards": 58,
+        "total_yards": 313,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
