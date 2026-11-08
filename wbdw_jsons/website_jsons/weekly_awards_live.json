@@ -18,8 +18,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 335,
         "receiving_yards": 309,
-        "rushing_yards": 157,
-        "total_yards": 801,
+        "rushing_yards": 155,
+        "total_yards": 799,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -44,8 +44,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 271,
         "receiving_yards": 261,
-        "rushing_yards": 168,
-        "total_yards": 700,
+        "rushing_yards": 170,
+        "total_yards": 702,
         "yet_to_play": [
             "DJ Moore"
         ],
@@ -101,9 +101,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 189,
-        "receiving_yards": 253,
+        "receiving_yards": 257,
         "rushing_yards": 122,
-        "total_yards": 564,
+        "total_yards": 568,
         "yet_to_play": [
             "Justin Jefferson"
         ],
@@ -130,9 +130,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 143,
+        "receiving_yards": 155,
         "rushing_yards": 42,
-        "total_yards": 461,
+        "total_yards": 473,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -141,6 +141,23 @@
             "Mike Washington",
             "DeMario Douglas",
             "Cooper Kupp"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 218,
+        "receiving_yards": 131,
+        "rushing_yards": 81,
+        "total_yards": 430,
+        "yet_to_play": [
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jordan Addison",
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Brock Purdy",
+            "Zach Charbonnet"
         ]
     },
     {
@@ -156,23 +173,6 @@
             "Tre' Harris",
             "Tre Tucker",
             "Eli Raridon"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 214,
-        "receiving_yards": 131,
-        "rushing_yards": 80,
-        "total_yards": 425,
-        "yet_to_play": [
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jordan Addison",
-            "Kalif Raymond"
-        ],
-        "in_play": [
-            "Brock Purdy",
-            "Zach Charbonnet"
         ]
     }
 ]
