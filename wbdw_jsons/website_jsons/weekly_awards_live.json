@@ -3,8 +3,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 335,
         "receiving_yards": 256,
-        "rushing_yards": 82,
-        "total_yards": 673,
+        "rushing_yards": 76,
+        "total_yards": 667,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -17,8 +17,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 128,
         "receiving_yards": 356,
-        "rushing_yards": 176,
-        "total_yards": 660,
+        "rushing_yards": 178,
+        "total_yards": 662,
         "yet_to_play": [],
         "in_play": [
             "Nico Collins",
@@ -130,10 +130,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 0,
+        "passing_yards": 24,
         "receiving_yards": 211,
         "rushing_yards": 119,
-        "total_yards": 330,
+        "total_yards": 354,
         "yet_to_play": [
             "Justin Jefferson"
         ],
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 50,
+        "passing_yards": 55,
         "receiving_yards": 165,
         "rushing_yards": 66,
-        "total_yards": 281,
+        "total_yards": 286,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
@@ -160,10 +160,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 65,
+        "passing_yards": 70,
         "receiving_yards": 122,
-        "rushing_yards": -1,
-        "total_yards": 186,
+        "rushing_yards": 16,
+        "total_yards": 208,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
