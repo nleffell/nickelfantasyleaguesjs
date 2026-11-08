@@ -17,15 +17,28 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 335,
-        "receiving_yards": 313,
-        "rushing_yards": 155,
-        "total_yards": 803,
+        "receiving_yards": 340,
+        "rushing_yards": 161,
+        "total_yards": 836,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
             "Kyle Williams",
             "Trey McBride"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 271,
+        "receiving_yards": 268,
+        "rushing_yards": 174,
+        "total_yards": 713,
+        "yet_to_play": [
+            "DJ Moore"
+        ],
+        "in_play": [
+            "Christian McCaffrey"
         ]
     },
     {
@@ -38,19 +51,6 @@
         "in_play": [
             "Nico Collins",
             "Tyler Allgeier"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 271,
-        "receiving_yards": 268,
-        "rushing_yards": 170,
-        "total_yards": 709,
-        "yet_to_play": [
-            "DJ Moore"
-        ],
-        "in_play": [
-            "Christian McCaffrey"
         ]
     },
     {
@@ -100,10 +100,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 193,
+        "passing_yards": 207,
         "receiving_yards": 257,
         "rushing_yards": 122,
-        "total_yards": 572,
+        "total_yards": 586,
         "yet_to_play": [
             "Justin Jefferson"
         ],
@@ -144,11 +144,26 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 138,
+        "receiving_yards": 241,
+        "rushing_yards": 80,
+        "total_yards": 459,
+        "yet_to_play": [],
+        "in_play": [
+            "Gardner Minshew",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Tre Tucker",
+            "Eli Raridon"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
-        "passing_yards": 225,
+        "passing_yards": 231,
         "receiving_yards": 131,
         "rushing_yards": 81,
-        "total_yards": 437,
+        "total_yards": 443,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
@@ -158,21 +173,6 @@
         "in_play": [
             "Brock Purdy",
             "Zach Charbonnet"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 107,
-        "receiving_yards": 241,
-        "rushing_yards": 80,
-        "total_yards": 428,
-        "yet_to_play": [],
-        "in_play": [
-            "Gardner Minshew",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Tre Tucker",
-            "Eli Raridon"
         ]
     }
 ]
