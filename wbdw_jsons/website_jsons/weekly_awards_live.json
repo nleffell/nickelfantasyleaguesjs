@@ -39,6 +39,21 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 86,
+        "receiving_yards": 487,
+        "rushing_yards": 99,
+        "total_yards": 672,
+        "yet_to_play": [],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Ladd McConkey",
+            "Matthew Golden",
+            "Christian Watson"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 200,
@@ -53,26 +68,11 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 48,
-        "receiving_yards": 481,
-        "rushing_yards": 105,
-        "total_yards": 634,
-        "yet_to_play": [],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Ladd McConkey",
-            "Matthew Golden",
-            "Christian Watson"
-        ]
-    },
-    {
         "owner": "Kyle Nester",
         "passing_yards": 228,
-        "receiving_yards": 188,
+        "receiving_yards": 197,
         "rushing_yards": 189,
-        "total_yards": 605,
+        "total_yards": 614,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
@@ -131,8 +131,8 @@
         "owner": "Chad Hill",
         "passing_yards": 276,
         "receiving_yards": 115,
-        "rushing_yards": 44,
-        "total_yards": 435,
+        "rushing_yards": 48,
+        "total_yards": 439,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -146,9 +146,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 80,
-        "receiving_yards": 200,
+        "receiving_yards": 223,
         "rushing_yards": 67,
-        "total_yards": 347,
+        "total_yards": 370,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
