@@ -1,5 +1,20 @@
 [
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 160,
+        "receiving_yards": 529,
+        "rushing_yards": 105,
+        "total_yards": 794,
+        "yet_to_play": [],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Ladd McConkey",
+            "Matthew Golden",
+            "Christian Watson"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 335,
         "receiving_yards": 297,
@@ -11,21 +26,6 @@
             "Woody Marks",
             "Kyle Williams",
             "Trey McBride"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 136,
-        "receiving_yards": 487,
-        "rushing_yards": 105,
-        "total_yards": 728,
-        "yet_to_play": [],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Ladd McConkey",
-            "Matthew Golden",
-            "Christian Watson"
         ]
     },
     {
@@ -116,9 +116,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 166,
+        "receiving_yards": 190,
         "rushing_yards": 45,
-        "total_yards": 482,
+        "total_yards": 506,
         "yet_to_play": [
             "Emeka Egbuka"
         ],
@@ -130,9 +130,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 123,
-        "rushing_yards": 46,
-        "total_yards": 445,
+        "receiving_yards": 143,
+        "rushing_yards": 45,
+        "total_yards": 464,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -147,8 +147,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 93,
         "receiving_yards": 241,
-        "rushing_yards": 72,
-        "total_yards": 406,
+        "rushing_yards": 80,
+        "total_yards": 414,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
@@ -160,10 +160,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 146,
+        "passing_yards": 165,
         "receiving_yards": 131,
-        "rushing_yards": 65,
-        "total_yards": 342,
+        "rushing_yards": 68,
+        "total_yards": 364,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
