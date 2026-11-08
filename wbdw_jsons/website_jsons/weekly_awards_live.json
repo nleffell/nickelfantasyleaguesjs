@@ -2,27 +2,15 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 335,
-        "receiving_yards": 286,
+        "receiving_yards": 290,
         "rushing_yards": 101,
-        "total_yards": 722,
+        "total_yards": 726,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
             "Kyle Williams",
             "Trey McBride"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 128,
-        "receiving_yards": 372,
-        "rushing_yards": 196,
-        "total_yards": 696,
-        "yet_to_play": [],
-        "in_play": [
-            "Nico Collins",
-            "Tyler Allgeier"
         ]
     },
     {
@@ -36,6 +24,18 @@
         ],
         "in_play": [
             "Christian McCaffrey"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 128,
+        "receiving_yards": 372,
+        "rushing_yards": 194,
+        "total_yards": 694,
+        "yet_to_play": [],
+        "in_play": [
+            "Nico Collins",
+            "Tyler Allgeier"
         ]
     },
     {
@@ -70,9 +70,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 228,
-        "receiving_yards": 149,
-        "rushing_yards": 187,
-        "total_yards": 564,
+        "receiving_yards": 146,
+        "rushing_yards": 189,
+        "total_yards": 563,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
@@ -85,10 +85,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 54,
+        "passing_yards": 48,
         "receiving_yards": 405,
-        "rushing_yards": 96,
-        "total_yards": 555,
+        "rushing_yards": 104,
+        "total_yards": 557,
         "yet_to_play": [],
         "in_play": [
             "Kirk Cousins",
@@ -101,9 +101,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 170,
+        "receiving_yards": 166,
         "rushing_yards": 45,
-        "total_yards": 486,
+        "total_yards": 482,
         "yet_to_play": [
             "Emeka Egbuka"
         ],
@@ -131,8 +131,8 @@
         "owner": "Chad Hill",
         "passing_yards": 276,
         "receiving_yards": 82,
-        "rushing_yards": 49,
-        "total_yards": 407,
+        "rushing_yards": 44,
+        "total_yards": 402,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 75,
+        "passing_yards": 79,
         "receiving_yards": 172,
         "rushing_yards": 67,
-        "total_yards": 314,
+        "total_yards": 318,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
@@ -160,9 +160,9 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 124,
+        "passing_yards": 123,
         "receiving_yards": 131,
-        "rushing_yards": 58,
+        "rushing_yards": 59,
         "total_yards": 313,
         "yet_to_play": [
             "Bucky Irving",
