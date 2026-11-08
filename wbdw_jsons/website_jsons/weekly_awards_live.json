@@ -70,9 +70,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 228,
-        "receiving_yards": 125,
+        "receiving_yards": 145,
         "rushing_yards": 185,
-        "total_yards": 538,
+        "total_yards": 558,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
@@ -81,6 +81,21 @@
             "Jaxon Smith-Njigba",
             "Brock Bowers",
             "AJ Barner"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 34,
+        "receiving_yards": 405,
+        "rushing_yards": 86,
+        "total_yards": 525,
+        "yet_to_play": [],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Ladd McConkey",
+            "Matthew Golden",
+            "Christian Watson"
         ]
     },
     {
@@ -98,26 +113,11 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 339,
-        "rushing_yards": 86,
-        "total_yards": 425,
-        "yet_to_play": [],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Ladd McConkey",
-            "Matthew Golden",
-            "Christian Watson"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 276,
         "receiving_yards": 46,
-        "rushing_yards": 45,
-        "total_yards": 367,
+        "rushing_yards": 50,
+        "total_yards": 372,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -146,9 +146,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 55,
-        "receiving_yards": 165,
+        "receiving_yards": 158,
         "rushing_yards": 67,
-        "total_yards": 287,
+        "total_yards": 280,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
@@ -161,9 +161,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 70,
-        "receiving_yards": 122,
-        "rushing_yards": 29,
-        "total_yards": 221,
+        "receiving_yards": 131,
+        "rushing_yards": 43,
+        "total_yards": 244,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
