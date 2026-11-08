@@ -2,9 +2,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 335,
-        "receiving_yards": 290,
-        "rushing_yards": 101,
-        "total_yards": 726,
+        "receiving_yards": 292,
+        "rushing_yards": 104,
+        "total_yards": 731,
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
@@ -53,6 +53,21 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 48,
+        "receiving_yards": 437,
+        "rushing_yards": 105,
+        "total_yards": 590,
+        "yet_to_play": [],
+        "in_play": [
+            "Kirk Cousins",
+            "Ashton Jeanty",
+            "Ladd McConkey",
+            "Matthew Golden",
+            "Christian Watson"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 474,
@@ -65,21 +80,6 @@
         ],
         "in_play": [
             "Keaton Mitchell"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 48,
-        "receiving_yards": 414,
-        "rushing_yards": 105,
-        "total_yards": 567,
-        "yet_to_play": [],
-        "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
-            "Ladd McConkey",
-            "Matthew Golden",
-            "Christian Watson"
         ]
     },
     {
@@ -114,10 +114,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 90,
-        "receiving_yards": 234,
+        "passing_yards": 123,
+        "receiving_yards": 233,
         "rushing_yards": 119,
-        "total_yards": 443,
+        "total_yards": 475,
         "yet_to_play": [
             "Justin Jefferson"
         ],
@@ -130,9 +130,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 82,
+        "receiving_yards": 115,
         "rushing_yards": 44,
-        "total_yards": 402,
+        "total_yards": 435,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -145,10 +145,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 79,
+        "passing_yards": 80,
         "receiving_yards": 172,
         "rushing_yards": 67,
-        "total_yards": 318,
+        "total_yards": 319,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
