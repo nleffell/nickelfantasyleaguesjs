@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 36,
         "receiving_yards": 273,
-        "rushing_yards": 118,
-        "total_yards": 427,
+        "rushing_yards": 123,
+        "total_yards": 432,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -57,10 +57,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 42,
-        "receiving_yards": 113,
+        "passing_yards": 68,
+        "receiving_yards": 122,
         "rushing_yards": 107,
-        "total_yards": 262,
+        "total_yards": 297,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -77,9 +77,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 54,
-        "rushing_yards": 81,
-        "total_yards": 135,
+        "receiving_yards": 66,
+        "rushing_yards": 80,
+        "total_yards": 146,
         "yet_to_play": [
             "Drake Maye",
             "George Kittle",
@@ -97,8 +97,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 108,
-        "rushing_yards": 27,
-        "total_yards": 135,
+        "rushing_yards": 32,
+        "total_yards": 140,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -116,9 +116,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 66,
-        "receiving_yards": 34,
+        "receiving_yards": 38,
         "rushing_yards": 35,
-        "total_yards": 135,
+        "total_yards": 139,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -136,10 +136,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 29,
+        "passing_yards": 33,
         "receiving_yards": 22,
-        "rushing_yards": 53,
-        "total_yards": 104,
+        "rushing_yards": 59,
+        "total_yards": 114,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
@@ -158,9 +158,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 61,
+        "receiving_yards": 73,
         "rushing_yards": 4,
-        "total_yards": 65,
+        "total_yards": 77,
         "yet_to_play": [
             "Gardner Minshew",
             "Omarion Hampton",
@@ -178,9 +178,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 40,
+        "receiving_yards": 41,
         "rushing_yards": 21,
-        "total_yards": 61,
+        "total_yards": 62,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
