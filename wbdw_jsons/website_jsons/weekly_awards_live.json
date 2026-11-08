@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 20,
-        "receiving_yards": 263,
+        "receiving_yards": 262,
         "rushing_yards": 116,
-        "total_yards": 399,
+        "total_yards": 398,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -20,9 +20,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 76,
+        "receiving_yards": 94,
         "rushing_yards": 9,
-        "total_yards": 356,
+        "total_yards": 374,
         "yet_to_play": [
             "Josh Jacobs",
             "Emeka Egbuka",
@@ -37,30 +37,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 31,
-        "receiving_yards": 93,
-        "rushing_yards": 96,
-        "total_yards": 220,
-        "yet_to_play": [
-            "Rome Odunze",
-            "Tucker Kraft",
-            "James Cook"
-        ],
-        "in_play": [
-            "Jared Goff",
-            "Jonathan Taylor",
-            "Kenneth Walker",
-            "Josh Downs",
-            "Jonah Coleman"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
-        "passing_yards": 30,
-        "receiving_yards": 95,
+        "passing_yards": 54,
+        "receiving_yards": 112,
         "rushing_yards": 66,
-        "total_yards": 191,
+        "total_yards": 232,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -75,11 +56,30 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 31,
+        "receiving_yards": 93,
+        "rushing_yards": 97,
+        "total_yards": 221,
+        "yet_to_play": [
+            "Rome Odunze",
+            "Tucker Kraft",
+            "James Cook"
+        ],
+        "in_play": [
+            "Jared Goff",
+            "Jonathan Taylor",
+            "Kenneth Walker",
+            "Josh Downs",
+            "Jonah Coleman"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 28,
-        "rushing_yards": 68,
-        "total_yards": 96,
+        "receiving_yards": 32,
+        "rushing_yards": 73,
+        "total_yards": 105,
         "yet_to_play": [
             "Drake Maye",
             "George Kittle",
@@ -95,10 +95,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 29,
+        "passing_yards": 56,
         "receiving_yards": 24,
         "rushing_yards": 22,
-        "total_yards": 75,
+        "total_yards": 102,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -117,9 +117,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 29,
-        "receiving_yards": 2,
-        "rushing_yards": 42,
-        "total_yards": 73,
+        "receiving_yards": 9,
+        "rushing_yards": 49,
+        "total_yards": 87,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
@@ -138,9 +138,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 51,
+        "receiving_yards": 65,
         "rushing_yards": 17,
-        "total_yards": 68,
+        "total_yards": 82,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -178,9 +178,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 48,
+        "receiving_yards": 60,
         "rushing_yards": 0,
-        "total_yards": 48,
+        "total_yards": 60,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
