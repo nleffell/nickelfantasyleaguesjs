@@ -56,8 +56,8 @@
         "owner": "Tyler Smith",
         "passing_yards": -3,
         "receiving_yards": 65,
-        "rushing_yards": 57,
-        "total_yards": 119,
+        "rushing_yards": 62,
+        "total_yards": 124,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -129,8 +129,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 22,
-        "rushing_yards": 0,
-        "total_yards": 22,
+        "rushing_yards": 3,
+        "total_yards": 25,
         "yet_to_play": [
             "Josh Allen",
             "Quinshon Judkins",
@@ -164,6 +164,46 @@
         "in_play": []
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 5,
+        "total_yards": 5,
+        "yet_to_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Jameson Williams",
+            "Tetairoa McMillan",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Chris Godwin",
+            "AJ Barner"
+        ],
+        "in_play": []
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 0,
+        "rushing_yards": 4,
+        "total_yards": 4,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Rhamondre Stevenson",
+            "Breece Hall",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Jake Ferguson",
+            "Woody Marks",
+            "Kyle Williams",
+            "Trey McBride"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -180,46 +220,6 @@
             "Ladd McConkey",
             "Matthew Golden",
             "Christian Watson"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Rhamondre Stevenson",
-            "Breece Hall",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Jake Ferguson",
-            "Woody Marks",
-            "Kyle Williams",
-            "Trey McBride"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Jameson Williams",
-            "Tetairoa McMillan",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Chris Godwin",
-            "AJ Barner"
         ],
         "in_play": []
     }
