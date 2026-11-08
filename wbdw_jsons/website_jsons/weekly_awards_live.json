@@ -15,10 +15,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 113,
+        "passing_yards": 136,
         "receiving_yards": 487,
         "rushing_yards": 105,
-        "total_yards": 705,
+        "total_yards": 728,
         "yet_to_play": [],
         "in_play": [
             "Kirk Cousins",
@@ -31,9 +31,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 128,
-        "receiving_yards": 372,
+        "receiving_yards": 385,
         "rushing_yards": 199,
-        "total_yards": 699,
+        "total_yards": 712,
         "yet_to_play": [],
         "in_play": [
             "Nico Collins",
@@ -54,6 +54,22 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 228,
+        "receiving_yards": 229,
+        "rushing_yards": 189,
+        "total_yards": 646,
+        "yet_to_play": [
+            "D'Andre Swift",
+            "Chris Godwin"
+        ],
+        "in_play": [
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 200,
@@ -65,22 +81,6 @@
         ],
         "in_play": [
             "Tucker Kraft"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 228,
-        "receiving_yards": 224,
-        "rushing_yards": 189,
-        "total_yards": 641,
-        "yet_to_play": [
-            "D'Andre Swift",
-            "Chris Godwin"
-        ],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
         ]
     },
     {
@@ -131,8 +131,8 @@
         "owner": "Chad Hill",
         "passing_yards": 276,
         "receiving_yards": 123,
-        "rushing_yards": 48,
-        "total_yards": 447,
+        "rushing_yards": 46,
+        "total_yards": 445,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
@@ -146,9 +146,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 93,
-        "receiving_yards": 223,
+        "receiving_yards": 241,
         "rushing_yards": 72,
-        "total_yards": 388,
+        "total_yards": 406,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
@@ -160,10 +160,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 141,
+        "passing_yards": 146,
         "receiving_yards": 131,
-        "rushing_yards": 64,
-        "total_yards": 336,
+        "rushing_yards": 65,
+        "total_yards": 342,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
