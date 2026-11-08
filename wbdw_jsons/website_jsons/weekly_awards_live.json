@@ -1,21 +1,20 @@
 [
     {
         "owner": "Jon Knicely",
-        "passing_yards": 336,
-        "receiving_yards": 243,
+        "passing_yards": 335,
+        "receiving_yards": 251,
         "rushing_yards": 75,
-        "total_yards": 654,
-        "yet_to_play": [
-            "Rhamondre Stevenson",
-            "Kyle Williams",
-            "Trey McBride"
-        ],
+        "total_yards": 661,
+        "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
+            "Rhamondre Stevenson",
             "KC Concepcion",
             "Denzel Boston",
             "Jake Ferguson",
-            "Woody Marks"
+            "Woody Marks",
+            "Kyle Williams",
+            "Trey McBride"
         ]
     },
     {
@@ -26,42 +25,38 @@
         "total_yards": 637,
         "yet_to_play": [
             "Rome Odunze",
-            "Tucker Kraft",
             "James Cook"
         ],
         "in_play": [
             "Jonathan Taylor",
-            "Josh Downs"
+            "Josh Downs",
+            "Tucker Kraft"
         ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 128,
         "receiving_yards": 344,
-        "rushing_yards": 152,
-        "total_yards": 624,
-        "yet_to_play": [
-            "Tyler Allgeier"
-        ],
+        "rushing_yards": 157,
+        "total_yards": 629,
+        "yet_to_play": [],
         "in_play": [
-            "Nico Collins"
+            "Nico Collins",
+            "Tyler Allgeier"
         ]
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 266,
         "receiving_yards": 249,
-        "rushing_yards": 105,
-        "total_yards": 620,
+        "rushing_yards": 114,
+        "total_yards": 629,
         "yet_to_play": [
-            "Christian McCaffrey",
             "DJ Moore"
         ],
         "in_play": [
-            "Keenan Allen",
-            "Darius Cooper",
-            "Devin Singletary",
-            "Isaiah Likely"
+            "Christian McCaffrey",
+            "Keenan Allen"
         ]
     },
     {
@@ -84,18 +79,18 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 228,
-        "receiving_yards": 110,
-        "rushing_yards": 176,
-        "total_yards": 514,
+        "receiving_yards": 115,
+        "rushing_yards": 185,
+        "total_yards": 528,
         "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
             "D'Andre Swift",
-            "Chris Godwin",
-            "AJ Barner"
+            "Chris Godwin"
         ],
         "in_play": [
-            "Javonte Williams"
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
         ]
     },
     {
@@ -105,12 +100,11 @@
         "rushing_yards": 40,
         "total_yards": 481,
         "yet_to_play": [
-            "Josh Jacobs",
-            "Emeka Egbuka",
-            "Michael Mayer"
+            "Emeka Egbuka"
         ],
         "in_play": [
-            "Malik Nabers"
+            "Josh Jacobs",
+            "Michael Mayer"
         ]
     },
     {
@@ -120,14 +114,14 @@
         "rushing_yards": 45,
         "total_yards": 367,
         "yet_to_play": [
-            "Mike Washington",
             "Luther Burden",
-            "DeMario Douglas",
-            "T.J. Hockenson",
-            "Cooper Kupp"
+            "T.J. Hockenson"
         ],
         "in_play": [
-            "Alvin Kamara"
+            "Mike Washington",
+            "Alvin Kamara",
+            "DeMario Douglas",
+            "Cooper Kupp"
         ]
     },
     {
@@ -136,67 +130,64 @@
         "receiving_yards": 269,
         "rushing_yards": 79,
         "total_yards": 348,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
-            "Matthew Golden",
-            "Christian Watson"
-        ],
-        "in_play": [
-            "Makai Lemon",
             "Chris Olave",
             "Tyler Warren",
-            "Ladd McConkey"
+            "Ladd McConkey",
+            "Matthew Golden",
+            "Christian Watson"
         ]
     },
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 153,
+        "receiving_yards": 158,
         "rushing_yards": 119,
-        "total_yards": 272,
+        "total_yards": 277,
         "yet_to_play": [
+            "Justin Jefferson"
+        ],
+        "in_play": [
             "Drake Maye",
             "George Kittle",
-            "Justin Jefferson",
             "Michael Wilson"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 120,
+        "receiving_yards": 123,
         "rushing_yards": 61,
-        "total_yards": 181,
-        "yet_to_play": [
-            "Gardner Minshew",
-            "Tre Tucker",
-            "Eli Raridon"
-        ],
+        "total_yards": 184,
+        "yet_to_play": [],
         "in_play": [
+            "Gardner Minshew",
             "Omarion Hampton",
             "Devaughn Vele",
             "Tre' Harris",
-            "Harold Fannin"
+            "Harold Fannin",
+            "Tre Tucker",
+            "Eli Raridon"
         ]
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 0,
+        "passing_yards": 15,
         "receiving_yards": 122,
         "rushing_yards": -3,
-        "total_yards": 119,
+        "total_yards": 134,
         "yet_to_play": [
-            "Brock Purdy",
             "Bucky Irving",
             "Aaron Jones",
             "Jordan Addison",
-            "Zach Charbonnet",
             "Kalif Raymond"
         ],
         "in_play": [
-            "Dallas Goedert"
+            "Brock Purdy",
+            "Zach Charbonnet"
         ]
     }
 ]
