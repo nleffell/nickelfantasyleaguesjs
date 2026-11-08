@@ -2,9 +2,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
-        "receiving_yards": 236,
-        "rushing_yards": 100,
-        "total_yards": 336,
+        "receiving_yards": 263,
+        "rushing_yards": 110,
+        "total_yards": 373,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -20,9 +20,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 50,
+        "receiving_yards": 72,
         "rushing_yards": 9,
-        "total_yards": 330,
+        "total_yards": 352,
         "yet_to_play": [
             "Josh Jacobs",
             "Emeka Egbuka",
@@ -39,9 +39,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 31,
-        "receiving_yards": 94,
-        "rushing_yards": 82,
-        "total_yards": 207,
+        "receiving_yards": 93,
+        "rushing_yards": 97,
+        "total_yards": 221,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -58,9 +58,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 30,
-        "receiving_yards": 92,
-        "rushing_yards": 61,
-        "total_yards": 183,
+        "receiving_yards": 95,
+        "rushing_yards": 66,
+        "total_yards": 191,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -78,8 +78,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 28,
-        "rushing_yards": 46,
-        "total_yards": 74,
+        "rushing_yards": 57,
+        "total_yards": 85,
         "yet_to_play": [
             "Drake Maye",
             "George Kittle",
@@ -96,9 +96,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 29,
-        "receiving_yards": 11,
+        "receiving_yards": 24,
         "rushing_yards": 22,
-        "total_yards": 62,
+        "total_yards": 75,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -112,6 +112,47 @@
             "Denzel Boston",
             "Malik Washington",
             "Jake Ferguson"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 28,
+        "receiving_yards": 2,
+        "rushing_yards": 42,
+        "total_yards": 72,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Chris Godwin",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jameson Williams",
+            "Tetairoa McMillan"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 46,
+        "rushing_yards": 17,
+        "total_yards": 63,
+        "yet_to_play": [
+            "Josh Allen",
+            "Colston Loveland",
+            "Keaton Mitchell",
+            "Khalil Shakir"
+        ],
+        "in_play": [
+            "Quinshon Judkins",
+            "Rachaad White",
+            "CeeDee Lamb",
+            "Puka Nacua",
+            "Stefon Diggs"
         ]
     },
     {
@@ -151,47 +192,6 @@
         "in_play": [
             "Jalen Coker",
             "Dallas Goedert"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 22,
-        "rushing_yards": 17,
-        "total_yards": 39,
-        "yet_to_play": [
-            "Josh Allen",
-            "Colston Loveland",
-            "Keaton Mitchell",
-            "Khalil Shakir"
-        ],
-        "in_play": [
-            "Quinshon Judkins",
-            "Rachaad White",
-            "CeeDee Lamb",
-            "Puka Nacua",
-            "Stefon Diggs"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 2,
-        "rushing_yards": 32,
-        "total_yards": 34,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Chris Godwin",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jameson Williams",
-            "Tetairoa McMillan"
         ]
     },
     {
