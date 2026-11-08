@@ -21,9 +21,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 128,
-        "receiving_yards": 309,
+        "receiving_yards": 314,
         "rushing_yards": 153,
-        "total_yards": 590,
+        "total_yards": 595,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -38,10 +38,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 164,
+        "passing_yards": 201,
         "receiving_yards": 240,
-        "rushing_yards": 96,
-        "total_yards": 500,
+        "rushing_yards": 102,
+        "total_yards": 543,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -53,6 +53,27 @@
             "Travis Kelce",
             "Devin Singletary",
             "Isaiah Likely"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 249,
+        "receiving_yards": 224,
+        "rushing_yards": 66,
+        "total_yards": 539,
+        "yet_to_play": [
+            "Rhamondre Stevenson",
+            "Woody Marks",
+            "Kyle Williams",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Dak Prescott",
+            "Breece Hall",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Jake Ferguson"
         ]
     },
     {
@@ -77,27 +98,6 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 175,
-        "receiving_yards": 224,
-        "rushing_yards": 66,
-        "total_yards": 465,
-        "yet_to_play": [
-            "Rhamondre Stevenson",
-            "Woody Marks",
-            "Kyle Williams",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Dak Prescott",
-            "Breece Hall",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Jake Ferguson"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 271,
         "receiving_yards": 154,
@@ -119,9 +119,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 300,
-        "rushing_yards": 86,
-        "total_yards": 386,
+        "receiving_yards": 379,
+        "rushing_yards": 85,
+        "total_yards": 464,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -138,10 +138,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 213,
+        "passing_yards": 227,
         "receiving_yards": 38,
         "rushing_yards": 17,
-        "total_yards": 268,
+        "total_yards": 282,
         "yet_to_play": [
             "Mike Washington",
             "Luther Burden",
@@ -157,30 +157,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 144,
-        "rushing_yards": 119,
-        "total_yards": 263,
-        "yet_to_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Justin Jefferson",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Amon-Ra St. Brown",
-            "J.K. Dobbins"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 182,
+        "receiving_yards": 197,
         "rushing_yards": 79,
-        "total_yards": 261,
+        "total_yards": 276,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
@@ -194,6 +175,25 @@
             "Makai Lemon",
             "Chris Olave",
             "Tyler Warren"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 153,
+        "rushing_yards": 119,
+        "total_yards": 272,
+        "yet_to_play": [
+            "Drake Maye",
+            "George Kittle",
+            "Justin Jefferson",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Ollie Gordon",
+            "Xavier Worthy",
+            "Amon-Ra St. Brown",
+            "J.K. Dobbins"
         ]
     },
     {
@@ -219,9 +219,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 97,
+        "receiving_yards": 108,
         "rushing_yards": -3,
-        "total_yards": 94,
+        "total_yards": 105,
         "yet_to_play": [
             "Brock Purdy",
             "Bucky Irving",
