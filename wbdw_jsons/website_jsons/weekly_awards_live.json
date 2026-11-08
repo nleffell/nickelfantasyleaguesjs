@@ -3,8 +3,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 120,
         "receiving_yards": 301,
-        "rushing_yards": 143,
-        "total_yards": 564,
+        "rushing_yards": 152,
+        "total_yards": 573,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -19,10 +19,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 130,
-        "receiving_yards": 176,
-        "rushing_yards": 197,
-        "total_yards": 503,
+        "passing_yards": 137,
+        "receiving_yards": 186,
+        "rushing_yards": 212,
+        "total_yards": 535,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -56,6 +56,27 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 221,
+        "receiving_yards": 86,
+        "rushing_yards": 134,
+        "total_yards": 441,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Chris Godwin",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jameson Williams",
+            "Tetairoa McMillan"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 271,
         "receiving_yards": 116,
@@ -75,32 +96,32 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 202,
-        "receiving_yards": 73,
-        "rushing_yards": 128,
-        "total_yards": 403,
+        "owner": "Jon Knicely",
+        "passing_yards": 185,
+        "receiving_yards": 146,
+        "rushing_yards": 66,
+        "total_yards": 397,
         "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Chris Godwin",
-            "AJ Barner"
+            "Rhamondre Stevenson",
+            "Woody Marks",
+            "Kyle Williams",
+            "Trey McBride"
         ],
         "in_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jameson Williams",
-            "Tetairoa McMillan"
+            "Dak Prescott",
+            "Breece Hall",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Jake Ferguson"
         ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 300,
-        "rushing_yards": 69,
-        "total_yards": 369,
+        "receiving_yards": 319,
+        "rushing_yards": 64,
+        "total_yards": 383,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -116,24 +137,22 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 161,
-        "receiving_yards": 125,
-        "rushing_yards": 67,
-        "total_yards": 353,
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 127,
+        "rushing_yards": 118,
+        "total_yards": 245,
         "yet_to_play": [
-            "Rhamondre Stevenson",
-            "Woody Marks",
-            "Kyle Williams",
-            "Trey McBride"
+            "Drake Maye",
+            "George Kittle",
+            "Justin Jefferson",
+            "Michael Wilson"
         ],
         "in_play": [
-            "Dak Prescott",
-            "Breece Hall",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Jake Ferguson"
+            "Ollie Gordon",
+            "Xavier Worthy",
+            "Amon-Ra St. Brown",
+            "J.K. Dobbins"
         ]
     },
     {
@@ -154,25 +173,6 @@
             "Alvin Kamara",
             "Adonai Mitchell",
             "Tyler Higbee"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 120,
-        "rushing_yards": 115,
-        "total_yards": 235,
-        "yet_to_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Justin Jefferson",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Amon-Ra St. Brown",
-            "J.K. Dobbins"
         ]
     },
     {
