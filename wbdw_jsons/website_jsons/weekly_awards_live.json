@@ -77,9 +77,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 108,
+        "receiving_yards": 135,
         "rushing_yards": 46,
-        "total_yards": 154,
+        "total_yards": 181,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -95,30 +95,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 0,
-        "receiving_yards": 66,
-        "rushing_yards": 82,
-        "total_yards": 148,
-        "yet_to_play": [
-            "Drake Maye",
-            "George Kittle",
-            "Justin Jefferson",
-            "Michael Wilson"
-        ],
-        "in_play": [
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Amon-Ra St. Brown",
-            "J.K. Dobbins"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
         "passing_yards": 66,
         "receiving_yards": 38,
-        "rushing_yards": 38,
-        "total_yards": 142,
+        "rushing_yards": 54,
+        "total_yards": 158,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -135,11 +116,30 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 0,
+        "receiving_yards": 66,
+        "rushing_yards": 86,
+        "total_yards": 152,
+        "yet_to_play": [
+            "Drake Maye",
+            "George Kittle",
+            "Justin Jefferson",
+            "Michael Wilson"
+        ],
+        "in_play": [
+            "Ollie Gordon",
+            "Xavier Worthy",
+            "Amon-Ra St. Brown",
+            "J.K. Dobbins"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
-        "passing_yards": 33,
+        "passing_yards": 62,
         "receiving_yards": 22,
         "rushing_yards": 56,
-        "total_yards": 111,
+        "total_yards": 140,
         "yet_to_play": [
             "Jaxon Smith-Njigba",
             "Brock Bowers",
@@ -156,31 +156,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 73,
-        "rushing_yards": 4,
-        "total_yards": 77,
-        "yet_to_play": [
-            "Gardner Minshew",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Tre Tucker",
-            "Eli Raridon"
-        ],
-        "in_play": [
-            "Blake Corum",
-            "Devaughn Vele",
-            "Sam LaPorta",
-            "Harold Fannin"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 41,
+        "receiving_yards": 73,
         "rushing_yards": 21,
-        "total_yards": 62,
+        "total_yards": 94,
         "yet_to_play": [
             "Kirk Cousins",
             "Ashton Jeanty",
@@ -197,30 +177,31 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
+        "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 60,
-        "rushing_yards": 0,
-        "total_yards": 60,
+        "receiving_yards": 73,
+        "rushing_yards": 11,
+        "total_yards": 84,
         "yet_to_play": [
-            "Brock Purdy",
-            "Bucky Irving",
-            "Aaron Jones",
-            "Jordan Addison",
-            "Zach Charbonnet",
-            "Kalif Raymond"
+            "Gardner Minshew",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Tre Tucker",
+            "Eli Raridon"
         ],
         "in_play": [
-            "Jalen Coker",
-            "Dallas Goedert"
+            "Blake Corum",
+            "Devaughn Vele",
+            "Sam LaPorta",
+            "Harold Fannin"
         ]
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 31,
+        "passing_yards": 49,
         "receiving_yards": 16,
         "rushing_yards": 0,
-        "total_yards": 47,
+        "total_yards": 65,
         "yet_to_play": [
             "Mike Washington",
             "Luther Burden",
@@ -233,6 +214,25 @@
             "Alvin Kamara",
             "Adonai Mitchell",
             "Tyler Higbee"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 0,
+        "receiving_yards": 66,
+        "rushing_yards": -3,
+        "total_yards": 63,
+        "yet_to_play": [
+            "Brock Purdy",
+            "Bucky Irving",
+            "Aaron Jones",
+            "Jordan Addison",
+            "Zach Charbonnet",
+            "Kalif Raymond"
+        ],
+        "in_play": [
+            "Jalen Coker",
+            "Dallas Goedert"
         ]
     }
 ]
