@@ -3,8 +3,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 163,
         "receiving_yards": 191,
-        "rushing_yards": 221,
-        "total_yards": 575,
+        "rushing_yards": 233,
+        "total_yards": 587,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -20,10 +20,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 120,
+        "passing_yards": 128,
         "receiving_yards": 301,
         "rushing_yards": 153,
-        "total_yards": 574,
+        "total_yards": 582,
         "yet_to_play": [
             "Nico Collins",
             "Tyler Allgeier"
@@ -38,10 +38,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 140,
+        "passing_yards": 156,
         "receiving_yards": 240,
         "rushing_yards": 98,
-        "total_yards": 478,
+        "total_yards": 494,
         "yet_to_play": [
             "Christian McCaffrey",
             "DJ Moore"
@@ -56,11 +56,32 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 185,
+        "receiving_yards": 224,
+        "rushing_yards": 66,
+        "total_yards": 475,
+        "yet_to_play": [
+            "Rhamondre Stevenson",
+            "Woody Marks",
+            "Kyle Williams",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Dak Prescott",
+            "Breece Hall",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Jake Ferguson"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 271,
-        "receiving_yards": 150,
+        "receiving_yards": 154,
         "rushing_yards": 39,
-        "total_yards": 460,
+        "total_yards": 464,
         "yet_to_play": [
             "Josh Jacobs",
             "Emeka Egbuka",
@@ -93,27 +114,6 @@
             "Javonte Williams",
             "Jameson Williams",
             "Tetairoa McMillan"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 185,
-        "receiving_yards": 160,
-        "rushing_yards": 66,
-        "total_yards": 411,
-        "yet_to_play": [
-            "Rhamondre Stevenson",
-            "Woody Marks",
-            "Kyle Williams",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Dak Prescott",
-            "Breece Hall",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Jake Ferguson"
         ]
     },
     {
