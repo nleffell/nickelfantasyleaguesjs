@@ -57,10 +57,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 67,
+        "passing_yards": 72,
         "receiving_yards": 157,
         "rushing_yards": 127,
-        "total_yards": 351,
+        "total_yards": 356,
         "yet_to_play": [
             "Rome Odunze",
             "Tucker Kraft",
@@ -77,9 +77,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 194,
+        "receiving_yards": 241,
         "rushing_yards": 58,
-        "total_yards": 252,
+        "total_yards": 299,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -95,32 +95,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 109,
-        "receiving_yards": 42,
-        "rushing_yards": 82,
-        "total_yards": 233,
-        "yet_to_play": [
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "D'Andre Swift",
-            "Chris Godwin",
-            "AJ Barner"
-        ],
-        "in_play": [
-            "Matthew Stafford",
-            "Jahmyr Gibbs",
-            "Javonte Williams",
-            "Jameson Williams",
-            "Tetairoa McMillan"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
-        "passing_yards": 95,
+        "passing_yards": 139,
         "receiving_yards": 52,
         "rushing_yards": 62,
-        "total_yards": 209,
+        "total_yards": 253,
         "yet_to_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
@@ -134,6 +113,27 @@
             "Denzel Boston",
             "Malik Washington",
             "Jake Ferguson"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 112,
+        "receiving_yards": 42,
+        "rushing_yards": 86,
+        "total_yards": 240,
+        "yet_to_play": [
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "D'Andre Swift",
+            "Chris Godwin",
+            "AJ Barner"
+        ],
+        "in_play": [
+            "Matthew Stafford",
+            "Jahmyr Gibbs",
+            "Javonte Williams",
+            "Jameson Williams",
+            "Tetairoa McMillan"
         ]
     },
     {
