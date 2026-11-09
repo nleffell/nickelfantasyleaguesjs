@@ -41,8 +41,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 279,
-        "rushing_yards": 198,
-        "total_yards": 705,
+        "rushing_yards": 200,
+        "total_yards": 707,
         "yet_to_play": [],
         "in_play": [
             "D'Andre Swift",
@@ -63,9 +63,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
-        "receiving_yards": 210,
+        "receiving_yards": 233,
         "rushing_yards": 275,
-        "total_yards": 655,
+        "total_yards": 678,
         "yet_to_play": [
             "James Cook"
         ],
@@ -88,6 +88,19 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 276,
+        "receiving_yards": 235,
+        "rushing_yards": 42,
+        "total_yards": 553,
+        "yet_to_play": [
+            "T.J. Hockenson"
+        ],
+        "in_play": [
+            "Luther Burden"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 166,
         "receiving_yards": 265,
@@ -105,19 +118,6 @@
         "yet_to_play": [],
         "in_play": [
             "Emeka Egbuka"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 276,
-        "receiving_yards": 179,
-        "rushing_yards": 42,
-        "total_yards": 497,
-        "yet_to_play": [
-            "T.J. Hockenson"
-        ],
-        "in_play": [
-            "Luther Burden"
         ]
     },
     {
