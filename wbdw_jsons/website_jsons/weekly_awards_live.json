@@ -91,8 +91,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 232,
         "receiving_yards": 183,
-        "rushing_yards": 194,
-        "total_yards": 609,
+        "rushing_yards": 211,
+        "total_yards": 626,
         "yet_to_play": [
             "Aaron Jones",
             "Jordan Addison"
@@ -105,9 +105,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 273,
+        "receiving_yards": 272,
         "rushing_yards": 42,
-        "total_yards": 591,
+        "total_yards": 590,
         "yet_to_play": [
             "T.J. Hockenson"
         ],
