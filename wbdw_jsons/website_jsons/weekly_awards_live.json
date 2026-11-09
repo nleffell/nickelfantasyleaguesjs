@@ -101,6 +101,17 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 271,
+        "receiving_yards": 245,
+        "rushing_yards": 45,
+        "total_yards": 561,
+        "yet_to_play": [],
+        "in_play": [
+            "Emeka Egbuka"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 166,
         "receiving_yards": 265,
@@ -108,17 +119,6 @@
         "total_yards": 553,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 271,
-        "receiving_yards": 224,
-        "rushing_yards": 45,
-        "total_yards": 540,
-        "yet_to_play": [],
-        "in_play": [
-            "Emeka Egbuka"
-        ]
     },
     {
         "owner": "Brad Lowe",
