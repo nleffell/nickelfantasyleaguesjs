@@ -41,13 +41,13 @@
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 279,
-        "rushing_yards": 190,
-        "total_yards": 697,
-        "yet_to_play": [
+        "rushing_yards": 194,
+        "total_yards": 701,
+        "yet_to_play": [],
+        "in_play": [
             "D'Andre Swift",
             "Chris Godwin"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -67,10 +67,11 @@
         "rushing_yards": 275,
         "total_yards": 646,
         "yet_to_play": [
-            "Rome Odunze",
             "James Cook"
         ],
-        "in_play": []
+        "in_play": [
+            "Rome Odunze"
+        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -80,10 +81,11 @@
         "total_yards": 619,
         "yet_to_play": [
             "Josh Allen",
-            "Colston Loveland",
             "Khalil Shakir"
         ],
-        "in_play": []
+        "in_play": [
+            "Colston Loveland"
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -100,22 +102,23 @@
         "receiving_yards": 207,
         "rushing_yards": 45,
         "total_yards": 523,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Emeka Egbuka"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 180,
+        "receiving_yards": 179,
         "rushing_yards": 42,
-        "total_yards": 498,
+        "total_yards": 497,
         "yet_to_play": [
-            "Luther Burden",
             "T.J. Hockenson"
         ],
-        "in_play": []
+        "in_play": [
+            "Luther Burden"
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -124,11 +127,12 @@
         "rushing_yards": 114,
         "total_yards": 477,
         "yet_to_play": [
-            "Bucky Irving",
             "Aaron Jones",
-            "Jordan Addison",
-            "Kalif Raymond"
+            "Jordan Addison"
         ],
-        "in_play": []
+        "in_play": [
+            "Bucky Irving",
+            "Kalif Raymond"
+        ]
     }
 ]
