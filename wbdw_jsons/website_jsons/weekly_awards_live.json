@@ -22,8 +22,7 @@
         "in_play": [
             "Rhamondre Stevenson",
             "Woody Marks",
-            "Kyle Williams",
-            "Trey McBride"
+            "Kyle Williams"
         ]
     },
     {
@@ -45,8 +44,7 @@
         "total_yards": 711,
         "yet_to_play": [],
         "in_play": [
-            "Nico Collins",
-            "Tyler Allgeier"
+            "Nico Collins"
         ]
     },
     {
@@ -59,10 +57,7 @@
             "D'Andre Swift",
             "Chris Godwin"
         ],
-        "in_play": [
-            "Jaxon Smith-Njigba",
-            "AJ Barner"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -74,8 +69,7 @@
             "Justin Jefferson"
         ],
         "in_play": [
-            "Drake Maye",
-            "Michael Wilson"
+            "Drake Maye"
         ]
     },
     {
@@ -115,7 +109,6 @@
         "total_yards": 553,
         "yet_to_play": [],
         "in_play": [
-            "Gardner Minshew",
             "Omarion Hampton",
             "Tre' Harris",
             "Eli Raridon"
@@ -145,8 +138,7 @@
             "T.J. Hockenson"
         ],
         "in_play": [
-            "DeMario Douglas",
-            "Cooper Kupp"
+            "DeMario Douglas"
         ]
     },
     {
@@ -161,8 +153,6 @@
             "Jordan Addison",
             "Kalif Raymond"
         ],
-        "in_play": [
-            "Zach Charbonnet"
-        ]
+        "in_play": []
     }
 ]
