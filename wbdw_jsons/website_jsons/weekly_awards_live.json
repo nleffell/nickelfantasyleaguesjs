@@ -24,10 +24,7 @@
         "rushing_yards": 233,
         "total_yards": 756,
         "yet_to_play": [],
-        "in_play": [
-            "D'Andre Swift",
-            "Chris Godwin"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -58,9 +55,7 @@
         "yet_to_play": [
             "James Cook"
         ],
-        "in_play": [
-            "Rome Odunze"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -83,9 +78,7 @@
             "Josh Allen",
             "Khalil Shakir"
         ],
-        "in_play": [
-            "Colston Loveland"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -97,10 +90,7 @@
             "Aaron Jones",
             "Jordan Addison"
         ],
-        "in_play": [
-            "Bucky Irving",
-            "Kalif Raymond"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -111,9 +101,7 @@
         "yet_to_play": [
             "T.J. Hockenson"
         ],
-        "in_play": [
-            "Luther Burden"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -122,9 +110,7 @@
         "rushing_yards": 46,
         "total_yards": 562,
         "yet_to_play": [],
-        "in_play": [
-            "Emeka Egbuka"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
