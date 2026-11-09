@@ -6,10 +6,7 @@
         "rushing_yards": 104,
         "total_yards": 919,
         "yet_to_play": [],
-        "in_play": [
-            "Matthew Golden",
-            "Christian Watson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -18,10 +15,7 @@
         "rushing_yards": 167,
         "total_yards": 857,
         "yet_to_play": [],
-        "in_play": [
-            "Rhamondre Stevenson",
-            "Kyle Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -64,9 +58,7 @@
         "yet_to_play": [
             "Justin Jefferson"
         ],
-        "in_play": [
-            "Drake Maye"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -78,9 +70,7 @@
             "Rome Odunze",
             "James Cook"
         ],
-        "in_play": [
-            "Tucker Kraft"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -102,9 +92,7 @@
         "rushing_yards": 122,
         "total_yards": 553,
         "yet_to_play": [],
-        "in_play": [
-            "Eli Raridon"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -115,9 +103,7 @@
         "yet_to_play": [
             "Emeka Egbuka"
         ],
-        "in_play": [
-            "Josh Jacobs"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -129,9 +115,7 @@
             "Luther Burden",
             "T.J. Hockenson"
         ],
-        "in_play": [
-            "DeMario Douglas"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
