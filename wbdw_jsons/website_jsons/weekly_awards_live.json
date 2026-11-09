@@ -41,8 +41,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 279,
-        "rushing_yards": 194,
-        "total_yards": 701,
+        "rushing_yards": 198,
+        "total_yards": 705,
         "yet_to_play": [],
         "in_play": [
             "D'Andre Swift",
@@ -63,9 +63,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
-        "receiving_yards": 201,
+        "receiving_yards": 210,
         "rushing_yards": 275,
-        "total_yards": 646,
+        "total_yards": 655,
         "yet_to_play": [
             "James Cook"
         ],
