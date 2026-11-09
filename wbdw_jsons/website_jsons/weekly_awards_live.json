@@ -1,10 +1,10 @@
 [
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 217,
-        "receiving_yards": 590,
+        "passing_yards": 216,
+        "receiving_yards": 599,
         "rushing_yards": 104,
-        "total_yards": 911,
+        "total_yards": 919,
         "yet_to_play": [],
         "in_play": [
             "Kirk Cousins",
@@ -29,18 +29,6 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 128,
-        "receiving_yards": 385,
-        "rushing_yards": 200,
-        "total_yards": 713,
-        "yet_to_play": [],
-        "in_play": [
-            "Nico Collins",
-            "Tyler Allgeier"
-        ]
-    },
-    {
         "owner": "Tyler Smith",
         "passing_yards": 271,
         "receiving_yards": 268,
@@ -51,6 +39,18 @@
         ],
         "in_play": [
             "Christian McCaffrey"
+        ]
+    },
+    {
+        "owner": "Nick Janowicz",
+        "passing_yards": 128,
+        "receiving_yards": 385,
+        "rushing_yards": 198,
+        "total_yards": 711,
+        "yet_to_play": [],
+        "in_play": [
+            "Nico Collins",
+            "Tyler Allgeier"
         ]
     },
     {
@@ -101,9 +101,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 486,
+        "receiving_yards": 495,
         "rushing_yards": 124,
-        "total_yards": 610,
+        "total_yards": 619,
         "yet_to_play": [
             "Josh Allen",
             "Colston Loveland",
@@ -131,8 +131,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 166,
         "receiving_yards": 256,
-        "rushing_yards": 80,
-        "total_yards": 502,
+        "rushing_yards": 93,
+        "total_yards": 515,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
