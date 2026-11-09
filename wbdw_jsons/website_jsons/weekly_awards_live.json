@@ -114,6 +114,21 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 166,
+        "receiving_yards": 253,
+        "rushing_yards": 125,
+        "total_yards": 544,
+        "yet_to_play": [],
+        "in_play": [
+            "Gardner Minshew",
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Tre Tucker",
+            "Eli Raridon"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 271,
         "receiving_yards": 207,
@@ -125,21 +140,6 @@
         "in_play": [
             "Josh Jacobs",
             "Michael Mayer"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 166,
-        "receiving_yards": 256,
-        "rushing_yards": 93,
-        "total_yards": 515,
-        "yet_to_play": [],
-        "in_play": [
-            "Gardner Minshew",
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Tre Tucker",
-            "Eli Raridon"
         ]
     },
     {
@@ -162,8 +162,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 232,
         "receiving_yards": 131,
-        "rushing_yards": 81,
-        "total_yards": 444,
+        "rushing_yards": 88,
+        "total_yards": 451,
         "yet_to_play": [
             "Bucky Irving",
             "Aaron Jones",
