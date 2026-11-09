@@ -7,8 +7,6 @@
         "total_yards": 919,
         "yet_to_play": [],
         "in_play": [
-            "Kirk Cousins",
-            "Ashton Jeanty",
             "Ladd McConkey",
             "Matthew Golden",
             "Christian Watson"
@@ -37,9 +35,7 @@
         "yet_to_play": [
             "DJ Moore"
         ],
-        "in_play": [
-            "Christian McCaffrey"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -57,30 +53,28 @@
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 279,
-        "rushing_yards": 189,
-        "total_yards": 696,
+        "rushing_yards": 190,
+        "total_yards": 697,
         "yet_to_play": [
             "D'Andre Swift",
             "Chris Godwin"
         ],
         "in_play": [
             "Jaxon Smith-Njigba",
-            "Brock Bowers",
             "AJ Barner"
         ]
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 270,
+        "passing_yards": 299,
         "receiving_yards": 271,
         "rushing_yards": 122,
-        "total_yards": 663,
+        "total_yards": 692,
         "yet_to_play": [
             "Justin Jefferson"
         ],
         "in_play": [
             "Drake Maye",
-            "George Kittle",
             "Michael Wilson"
         ]
     },
@@ -116,15 +110,14 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 166,
-        "receiving_yards": 256,
+        "receiving_yards": 265,
         "rushing_yards": 122,
-        "total_yards": 544,
+        "total_yards": 553,
         "yet_to_play": [],
         "in_play": [
             "Gardner Minshew",
             "Omarion Hampton",
             "Tre' Harris",
-            "Tre Tucker",
             "Eli Raridon"
         ]
     },
@@ -138,22 +131,20 @@
             "Emeka Egbuka"
         ],
         "in_play": [
-            "Josh Jacobs",
-            "Michael Mayer"
+            "Josh Jacobs"
         ]
     },
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 160,
+        "receiving_yards": 180,
         "rushing_yards": 42,
-        "total_yards": 478,
+        "total_yards": 498,
         "yet_to_play": [
             "Luther Burden",
             "T.J. Hockenson"
         ],
         "in_play": [
-            "Mike Washington",
             "DeMario Douglas",
             "Cooper Kupp"
         ]
@@ -171,7 +162,6 @@
             "Kalif Raymond"
         ],
         "in_play": [
-            "Brock Purdy",
             "Zach Charbonnet"
         ]
     }
