@@ -7,7 +7,6 @@
         "total_yards": 919,
         "yet_to_play": [],
         "in_play": [
-            "Ladd McConkey",
             "Matthew Golden",
             "Christian Watson"
         ]
@@ -21,7 +20,6 @@
         "yet_to_play": [],
         "in_play": [
             "Rhamondre Stevenson",
-            "Woody Marks",
             "Kyle Williams"
         ]
     },
@@ -43,9 +41,7 @@
         "rushing_yards": 198,
         "total_yards": 711,
         "yet_to_play": [],
-        "in_play": [
-            "Nico Collins"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -97,9 +93,7 @@
             "Colston Loveland",
             "Khalil Shakir"
         ],
-        "in_play": [
-            "Keaton Mitchell"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -109,8 +103,6 @@
         "total_yards": 553,
         "yet_to_play": [],
         "in_play": [
-            "Omarion Hampton",
-            "Tre' Harris",
             "Eli Raridon"
         ]
     },
