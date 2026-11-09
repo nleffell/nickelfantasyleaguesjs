@@ -21,8 +21,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 295,
-        "rushing_yards": 229,
-        "total_yards": 752,
+        "rushing_yards": 226,
+        "total_yards": 749,
         "yet_to_play": [],
         "in_play": [
             "D'Andre Swift",
@@ -101,6 +101,21 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 232,
+        "receiving_yards": 176,
+        "rushing_yards": 155,
+        "total_yards": 563,
+        "yet_to_play": [
+            "Aaron Jones",
+            "Jordan Addison"
+        ],
+        "in_play": [
+            "Bucky Irving",
+            "Kalif Raymond"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 271,
         "receiving_yards": 245,
@@ -109,21 +124,6 @@
         "yet_to_play": [],
         "in_play": [
             "Emeka Egbuka"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 232,
-        "receiving_yards": 168,
-        "rushing_yards": 155,
-        "total_yards": 555,
-        "yet_to_play": [
-            "Aaron Jones",
-            "Jordan Addison"
-        ],
-        "in_play": [
-            "Bucky Irving",
-            "Kalif Raymond"
         ]
     },
     {
