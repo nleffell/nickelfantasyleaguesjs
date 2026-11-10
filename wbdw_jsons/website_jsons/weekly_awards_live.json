@@ -1,5 +1,17 @@
 [
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 192,
+        "receiving_yards": 602,
+        "rushing_yards": 138,
+        "total_yards": 932,
+        "yet_to_play": [],
+        "in_play": [
+            "Josh Allen",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 216,
         "receiving_yards": 599,
@@ -7,18 +19,6 @@
         "total_yards": 919,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 170,
-        "receiving_yards": 580,
-        "rushing_yards": 138,
-        "total_yards": 888,
-        "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir"
-        ]
     },
     {
         "owner": "Jon Knicely",
