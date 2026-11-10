@@ -29,12 +29,23 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 271,
-        "receiving_yards": 268,
+        "receiving_yards": 283,
         "rushing_yards": 173,
-        "total_yards": 712,
+        "total_yards": 727,
         "yet_to_play": [],
         "in_play": [
             "DJ Moore"
+        ]
+    },
+    {
+        "owner": "Brian Fuquay",
+        "passing_yards": 170,
+        "receiving_yards": 261,
+        "rushing_yards": 283,
+        "total_yards": 714,
+        "yet_to_play": [],
+        "in_play": [
+            "James Cook"
         ]
     },
     {
@@ -45,17 +56,6 @@
         "total_yards": 711,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 170,
-        "receiving_yards": 261,
-        "rushing_yards": 276,
-        "total_yards": 707,
-        "yet_to_play": [],
-        "in_play": [
-            "James Cook"
-        ]
     },
     {
         "owner": "Victor Dankens",
@@ -70,10 +70,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 0,
+        "passing_yards": 15,
         "receiving_yards": 549,
         "rushing_yards": 124,
-        "total_yards": 673,
+        "total_yards": 688,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
