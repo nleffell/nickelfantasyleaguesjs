@@ -21,8 +21,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 122,
         "receiving_yards": 580,
-        "rushing_yards": 131,
-        "total_yards": 833,
+        "rushing_yards": 130,
+        "total_yards": 832,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
@@ -63,9 +63,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 299,
-        "receiving_yards": 309,
+        "receiving_yards": 310,
         "rushing_yards": 122,
-        "total_yards": 730,
+        "total_yards": 731,
         "yet_to_play": [],
         "in_play": [
             "Justin Jefferson"
