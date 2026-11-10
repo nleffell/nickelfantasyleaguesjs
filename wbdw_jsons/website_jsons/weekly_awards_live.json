@@ -19,10 +19,10 @@
     },
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 70,
-        "receiving_yards": 568,
+        "passing_yards": 122,
+        "receiving_yards": 580,
         "rushing_yards": 131,
-        "total_yards": 769,
+        "total_yards": 833,
         "yet_to_play": [],
         "in_play": [
             "Josh Allen",
@@ -52,9 +52,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 271,
-        "receiving_yards": 283,
+        "receiving_yards": 293,
         "rushing_yards": 173,
-        "total_yards": 727,
+        "total_yards": 737,
         "yet_to_play": [],
         "in_play": [
             "DJ Moore"
