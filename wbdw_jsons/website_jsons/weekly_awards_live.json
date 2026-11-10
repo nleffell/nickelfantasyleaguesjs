@@ -50,6 +50,17 @@
         "in_play": []
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 299,
+        "receiving_yards": 329,
+        "rushing_yards": 122,
+        "total_yards": 750,
+        "yet_to_play": [],
+        "in_play": [
+            "Justin Jefferson"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 271,
         "receiving_yards": 293,
@@ -58,17 +69,6 @@
         "yet_to_play": [],
         "in_play": [
             "DJ Moore"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 299,
-        "receiving_yards": 310,
-        "rushing_yards": 122,
-        "total_yards": 731,
-        "yet_to_play": [],
-        "in_play": [
-            "Justin Jefferson"
         ]
     },
     {
@@ -83,9 +83,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 232,
-        "receiving_yards": 208,
+        "receiving_yards": 224,
         "rushing_yards": 227,
-        "total_yards": 667,
+        "total_yards": 683,
         "yet_to_play": [],
         "in_play": [
             "Aaron Jones",
@@ -95,9 +95,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 294,
+        "receiving_yards": 302,
         "rushing_yards": 42,
-        "total_yards": 612,
+        "total_yards": 620,
         "yet_to_play": [],
         "in_play": [
             "T.J. Hockenson"
