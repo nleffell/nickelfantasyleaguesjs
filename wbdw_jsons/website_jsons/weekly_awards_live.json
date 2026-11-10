@@ -32,10 +32,10 @@
         "receiving_yards": 268,
         "rushing_yards": 173,
         "total_yards": 712,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "DJ Moore"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -50,12 +50,12 @@
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 261,
-        "rushing_yards": 275,
-        "total_yards": 706,
-        "yet_to_play": [
+        "rushing_yards": 276,
+        "total_yards": 707,
+        "yet_to_play": [],
+        "in_play": [
             "James Cook"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -63,10 +63,10 @@
         "receiving_yards": 271,
         "rushing_yards": 122,
         "total_yards": 692,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Justin Jefferson"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "TJ Pickeral",
@@ -74,11 +74,11 @@
         "receiving_yards": 549,
         "rushing_yards": 124,
         "total_yards": 673,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Josh Allen",
             "Khalil Shakir"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brad Lowe",
@@ -86,11 +86,11 @@
         "receiving_yards": 191,
         "rushing_yards": 211,
         "total_yards": 634,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Aaron Jones",
             "Jordan Addison"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -98,10 +98,10 @@
         "receiving_yards": 277,
         "rushing_yards": 42,
         "total_yards": 595,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "T.J. Hockenson"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
