@@ -41,11 +41,23 @@
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 261,
-        "rushing_yards": 283,
-        "total_yards": 714,
+        "rushing_yards": 289,
+        "total_yards": 720,
         "yet_to_play": [],
         "in_play": [
             "James Cook"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 24,
+        "receiving_yards": 558,
+        "rushing_yards": 131,
+        "total_yards": 713,
+        "yet_to_play": [],
+        "in_play": [
+            "Josh Allen",
+            "Khalil Shakir"
         ]
     },
     {
@@ -66,18 +78,6 @@
         "yet_to_play": [],
         "in_play": [
             "Justin Jefferson"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 15,
-        "receiving_yards": 549,
-        "rushing_yards": 124,
-        "total_yards": 688,
-        "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir"
         ]
     },
     {
