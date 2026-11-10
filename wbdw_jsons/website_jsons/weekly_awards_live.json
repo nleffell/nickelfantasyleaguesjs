@@ -6,10 +6,7 @@
         "rushing_yards": 139,
         "total_yards": 980,
         "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -36,9 +33,7 @@
         "rushing_yards": 382,
         "total_yards": 813,
         "yet_to_play": [],
-        "in_play": [
-            "James Cook"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -56,9 +51,7 @@
         "rushing_yards": 122,
         "total_yards": 750,
         "yet_to_play": [],
-        "in_play": [
-            "Justin Jefferson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -67,9 +60,7 @@
         "rushing_yards": 184,
         "total_yards": 748,
         "yet_to_play": [],
-        "in_play": [
-            "DJ Moore"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -87,21 +78,16 @@
         "rushing_yards": 227,
         "total_yards": 683,
         "yet_to_play": [],
-        "in_play": [
-            "Aaron Jones",
-            "Jordan Addison"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
         "passing_yards": 276,
-        "receiving_yards": 302,
+        "receiving_yards": 310,
         "rushing_yards": 42,
-        "total_yards": 620,
+        "total_yards": 628,
         "yet_to_play": [],
-        "in_play": [
-            "T.J. Hockenson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
