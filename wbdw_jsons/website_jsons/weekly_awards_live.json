@@ -18,6 +18,18 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 70,
+        "receiving_yards": 568,
+        "rushing_yards": 131,
+        "total_yards": 769,
+        "yet_to_play": [],
+        "in_play": [
+            "Josh Allen",
+            "Khalil Shakir"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 228,
         "receiving_yards": 295,
@@ -27,23 +39,11 @@
         "in_play": []
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 52,
-        "receiving_yards": 558,
-        "rushing_yards": 131,
-        "total_yards": 741,
-        "yet_to_play": [],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir"
-        ]
-    },
-    {
         "owner": "Brian Fuquay",
         "passing_yards": 170,
         "receiving_yards": 261,
-        "rushing_yards": 305,
-        "total_yards": 736,
+        "rushing_yards": 308,
+        "total_yards": 739,
         "yet_to_play": [],
         "in_play": [
             "James Cook"
