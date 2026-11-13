@@ -1,5 +1,26 @@
 [
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 56,
+        "receiving_yards": 15,
+        "rushing_yards": 3,
+        "total_yards": 74,
+        "yet_to_play": [
+            "Christian McCaffrey",
+            "Derrick Henry",
+            "Jakobi Meyers",
+            "Konata Mumpfield",
+            "DJ Moore",
+            "Jordan Mason",
+            "Travis Kelce",
+            "Tony Pollard"
+        ],
+        "in_play": [
+            "Jayden Daniels",
+            "Isaiah Likely"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 37,
@@ -21,24 +42,24 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 11,
-        "receiving_yards": 15,
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 17,
         "rushing_yards": 0,
-        "total_yards": 26,
+        "total_yards": 17,
         "yet_to_play": [
-            "Christian McCaffrey",
-            "Derrick Henry",
-            "Jakobi Meyers",
-            "Konata Mumpfield",
-            "DJ Moore",
-            "Jordan Mason",
-            "Travis Kelce",
-            "Tony Pollard"
+            "Trevor Lawrence",
+            "Bijan Robinson",
+            "Kyren Williams",
+            "Garrett Wilson",
+            "Nico Collins",
+            "Ja'Marr Chase",
+            "Wan'Dale Robinson",
+            "Tyler Allgeier",
+            "Mark Andrews"
         ],
         "in_play": [
-            "Jayden Daniels",
-            "Isaiah Likely"
+            "Chig Okonkwo"
         ]
     },
     {
@@ -162,27 +183,6 @@
             "Mason Taylor"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Kyren Williams",
-            "Garrett Wilson",
-            "Nico Collins",
-            "Ja'Marr Chase",
-            "Wan'Dale Robinson",
-            "Tyler Allgeier",
-            "Mark Andrews"
-        ],
-        "in_play": [
-            "Chig Okonkwo"
-        ]
     },
     {
         "owner": "Kyle Nester",
