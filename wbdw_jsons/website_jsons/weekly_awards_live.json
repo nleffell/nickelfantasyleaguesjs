@@ -1,10 +1,10 @@
 [
     {
         "owner": "Tyler Smith",
-        "passing_yards": 212,
+        "passing_yards": 249,
         "receiving_yards": 127,
-        "rushing_yards": 29,
-        "total_yards": 368,
+        "rushing_yards": 30,
+        "total_yards": 406,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -18,6 +18,27 @@
         "in_play": [
             "Jayden Daniels",
             "Isaiah Likely"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 88,
+        "rushing_yards": 47,
+        "total_yards": 135,
+        "yet_to_play": [
+            "Josh Allen",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Khalil Shakir",
+            "Brenton Strange",
+            "Rico Dowdle",
+            "Deebo Samuel",
+            "Quinshon Judkins"
+        ],
+        "in_play": [
+            "Rachaad White",
+            "Stefon Diggs"
         ]
     },
     {
@@ -39,27 +60,6 @@
         ],
         "in_play": [
             "Cam Skattebo"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 56,
-        "rushing_yards": 47,
-        "total_yards": 103,
-        "yet_to_play": [
-            "Josh Allen",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Khalil Shakir",
-            "Brenton Strange",
-            "Rico Dowdle",
-            "Deebo Samuel",
-            "Quinshon Judkins"
-        ],
-        "in_play": [
-            "Rachaad White",
-            "Stefon Diggs"
         ]
     },
     {
