@@ -24,8 +24,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 37,
-        "rushing_yards": 55,
-        "total_yards": 92,
+        "rushing_yards": 56,
+        "total_yards": 93,
         "yet_to_play": [
             "Dak Prescott",
             "Breece Hall",
@@ -33,12 +33,33 @@
             "Denzel Boston",
             "Malik Washington",
             "Hunter Henry",
-            "Woody Marks",
+            "Keon Coleman",
             "Trey McBride",
             "Quentin Johnston"
         ],
         "in_play": [
             "Cam Skattebo"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 76,
+        "rushing_yards": 0,
+        "total_yards": 76,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "LeQuint Allen",
+            "George Pickens",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Malik Nabers",
+            "Antonio Williams"
         ]
     },
     {
@@ -60,27 +81,6 @@
         "in_play": [
             "Rachaad White",
             "Stefon Diggs"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 39,
-        "rushing_yards": 0,
-        "total_yards": 39,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "LeQuint Allen",
-            "George Pickens",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Omar Cooper",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Malik Nabers",
-            "Antonio Williams"
         ]
     },
     {
