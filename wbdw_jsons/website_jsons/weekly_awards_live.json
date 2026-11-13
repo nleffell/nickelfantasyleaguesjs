@@ -15,10 +15,7 @@
             "Travis Kelce",
             "Tony Pollard"
         ],
-        "in_play": [
-            "Jayden Daniels",
-            "Isaiah Likely"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -36,10 +33,7 @@
             "Deebo Samuel",
             "Quinshon Judkins"
         ],
-        "in_play": [
-            "Rachaad White",
-            "Stefon Diggs"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -58,9 +52,7 @@
             "Trey McBride",
             "Quentin Johnston"
         ],
-        "in_play": [
-            "Cam Skattebo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -78,10 +70,7 @@
             "Omar Cooper",
             "Michael Mayer"
         ],
-        "in_play": [
-            "Malik Nabers",
-            "Antonio Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -100,9 +89,7 @@
             "Tyler Allgeier",
             "Mark Andrews"
         ],
-        "in_play": [
-            "Chig Okonkwo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
