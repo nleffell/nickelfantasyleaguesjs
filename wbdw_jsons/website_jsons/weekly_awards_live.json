@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": 3,
+        "rushing_yards": 0,
+        "total_yards": 3,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "LeQuint Allen",
+            "George Pickens",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Malik Nabers",
+            "Antonio Williams"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 0,
@@ -222,26 +243,5 @@
             "Samaje Perine"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": -3,
-        "rushing_yards": 0,
-        "total_yards": -3,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "LeQuint Allen",
-            "George Pickens",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Omar Cooper",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Malik Nabers",
-            "Antonio Williams"
-        ]
     }
 ]
