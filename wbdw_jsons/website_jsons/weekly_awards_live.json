@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 112,
-        "receiving_yards": 39,
+        "receiving_yards": 49,
         "rushing_yards": 3,
-        "total_yards": 154,
+        "total_yards": 164,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -24,8 +24,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 37,
-        "rushing_yards": 35,
-        "total_yards": 72,
+        "rushing_yards": 42,
+        "total_yards": 79,
         "yet_to_play": [
             "Dak Prescott",
             "Breece Hall",
