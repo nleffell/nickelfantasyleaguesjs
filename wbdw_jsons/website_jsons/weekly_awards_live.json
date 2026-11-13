@@ -1,10 +1,10 @@
 [
     {
         "owner": "Tyler Smith",
-        "passing_yards": 180,
+        "passing_yards": 183,
         "receiving_yards": 61,
         "rushing_yards": 23,
-        "total_yards": 264,
+        "total_yards": 267,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -24,8 +24,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 0,
         "receiving_yards": 44,
-        "rushing_yards": 59,
-        "total_yards": 103,
+        "rushing_yards": 62,
+        "total_yards": 106,
         "yet_to_play": [
             "Dak Prescott",
             "Breece Hall",
@@ -45,8 +45,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 42,
-        "rushing_yards": 37,
-        "total_yards": 79,
+        "rushing_yards": 43,
+        "total_yards": 85,
         "yet_to_play": [
             "Josh Allen",
             "Jaylen Warren",
@@ -86,9 +86,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
-        "receiving_yards": 17,
+        "receiving_yards": 20,
         "rushing_yards": 0,
-        "total_yards": 17,
+        "total_yards": 20,
         "yet_to_play": [
             "Trevor Lawrence",
             "Bijan Robinson",
