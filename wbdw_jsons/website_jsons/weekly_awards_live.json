@@ -2,9 +2,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 0,
-        "receiving_yards": 3,
+        "receiving_yards": 37,
         "rushing_yards": 23,
-        "total_yards": 26,
+        "total_yards": 60,
         "yet_to_play": [
             "Dak Prescott",
             "Breece Hall",
@@ -23,9 +23,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 11,
-        "receiving_yards": 9,
+        "receiving_yards": 15,
         "rushing_yards": 0,
-        "total_yards": 20,
+        "total_yards": 26,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -60,27 +60,6 @@
         "in_play": [
             "Rachaad White",
             "Stefon Diggs"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Braelon Allen",
-            "LeQuint Allen",
-            "George Pickens",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Omar Cooper",
-            "Michael Mayer"
-        ],
-        "in_play": [
-            "Malik Nabers",
-            "Antonio Williams"
         ]
     },
     {
@@ -243,5 +222,26 @@
             "Samaje Perine"
         ],
         "in_play": []
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 0,
+        "receiving_yards": -3,
+        "rushing_yards": 0,
+        "total_yards": -3,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Braelon Allen",
+            "LeQuint Allen",
+            "George Pickens",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Omar Cooper",
+            "Michael Mayer"
+        ],
+        "in_play": [
+            "Malik Nabers",
+            "Antonio Williams"
+        ]
     }
 ]
