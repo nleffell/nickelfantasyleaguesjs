@@ -1,10 +1,10 @@
 [
     {
         "owner": "Tyler Smith",
-        "passing_yards": 177,
+        "passing_yards": 180,
         "receiving_yards": 49,
         "rushing_yards": 11,
-        "total_yards": 237,
+        "total_yards": 240,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -44,9 +44,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 0,
-        "receiving_yards": 76,
+        "receiving_yards": 75,
         "rushing_yards": 0,
-        "total_yards": 76,
+        "total_yards": 75,
         "yet_to_play": [
             "Joe Burrow",
             "Braelon Allen",
@@ -65,9 +65,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 39,
+        "receiving_yards": 42,
         "rushing_yards": 19,
-        "total_yards": 58,
+        "total_yards": 61,
         "yet_to_play": [
             "Josh Allen",
             "Jaylen Warren",
