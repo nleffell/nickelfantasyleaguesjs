@@ -110,6 +110,23 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 100,
+        "receiving_yards": 276,
+        "rushing_yards": 198,
+        "total_yards": 574,
+        "yet_to_play": [
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "Drew Lock",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 48,
         "receiving_yards": 292,
@@ -121,23 +138,6 @@
         ],
         "in_play": [
             "George Kittle"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 62,
-        "receiving_yards": 246,
-        "rushing_yards": 190,
-        "total_yards": 498,
-        "yet_to_play": [
-            "Pat Freiermuth"
-        ],
-        "in_play": [
-            "Drew Lock",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
         ]
     },
     {
@@ -158,8 +158,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 195,
         "receiving_yards": 38,
-        "rushing_yards": 94,
-        "total_yards": 327,
+        "rushing_yards": 108,
+        "total_yards": 341,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
