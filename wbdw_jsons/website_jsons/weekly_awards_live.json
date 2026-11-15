@@ -14,7 +14,6 @@
             "James Cook",
             "Drake London",
             "Josh Downs",
-            "Tucker Kraft",
             "Gunnar Helm"
         ]
     },
@@ -32,7 +31,6 @@
         "in_play": [
             "Jakobi Meyers",
             "DJ Moore",
-            "Jordan Mason",
             "Travis Kelce",
             "Tony Pollard"
         ]
@@ -41,8 +39,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 352,
         "receiving_yards": 240,
-        "rushing_yards": 98,
-        "total_yards": 690,
+        "rushing_yards": 102,
+        "total_yards": 694,
         "yet_to_play": [
             "Kyren Williams",
             "Ja'Marr Chase",
@@ -61,8 +59,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 196,
         "receiving_yards": 227,
-        "rushing_yards": 218,
-        "total_yards": 641,
+        "rushing_yards": 220,
+        "total_yards": 643,
         "yet_to_play": [
             "Jaylen Warren",
             "CeeDee Lamb",
@@ -79,9 +77,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 348,
-        "receiving_yards": 209,
+        "receiving_yards": 218,
         "rushing_yards": 55,
-        "total_yards": 612,
+        "total_yards": 621,
         "yet_to_play": [
             "Jadarian Price",
             "Germie Bernard",
@@ -118,8 +116,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 48,
         "receiving_yards": 264,
-        "rushing_yards": 149,
-        "total_yards": 461,
+        "rushing_yards": 175,
+        "total_yards": 487,
         "yet_to_play": [
             "George Kittle",
             "DK Metcalf",
@@ -129,8 +127,25 @@
             "Bhayshul Tuten",
             "Ollie Gordon",
             "Xavier Worthy",
-            "Justin Jefferson",
             "Juwan Johnson"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 34,
+        "receiving_yards": 245,
+        "rushing_yards": 179,
+        "total_yards": 458,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Breece Hall",
+            "Woody Marks"
         ]
     },
     {
@@ -146,8 +161,6 @@
         ],
         "in_play": [
             "Chuba Hubbard",
-            "Matthew Golden",
-            "Christian Watson",
             "Chris Olave",
             "Tyler Warren",
             "Rashee Rice",
@@ -155,29 +168,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 34,
-        "receiving_yards": 235,
-        "rushing_yards": 179,
-        "total_yards": 448,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Breece Hall",
-            "Woody Marks"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 200,
-        "receiving_yards": 147,
+        "receiving_yards": 153,
         "rushing_yards": 47,
-        "total_yards": 394,
+        "total_yards": 400,
         "yet_to_play": [
             "Zonovan Knight",
             "Tyler Higbee",
@@ -188,16 +183,15 @@
             "Bryce Young",
             "Alvin Kamara",
             "Jordyn Tyson",
-            "Adonai Mitchell",
-            "Kaleb Johnson"
+            "Adonai Mitchell"
         ]
     },
     {
         "owner": "Kyle Nester",
         "passing_yards": 0,
-        "receiving_yards": 208,
+        "receiving_yards": 214,
         "rushing_yards": 153,
-        "total_yards": 361,
+        "total_yards": 367,
         "yet_to_play": [
             "Drew Lock",
             "Javonte Williams",
@@ -215,8 +209,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 38,
-        "rushing_yards": 55,
-        "total_yards": 93,
+        "rushing_yards": 61,
+        "total_yards": 99,
         "yet_to_play": [
             "Brock Purdy",
             "Zach Charbonnet",
@@ -225,9 +219,7 @@
             "Darnell Washington"
         ],
         "in_play": [
-            "Aaron Jones",
             "Jalen Coker",
-            "Savion Williams",
             "Chris Rodriguez",
             "Kenyon Sadiq"
         ]
