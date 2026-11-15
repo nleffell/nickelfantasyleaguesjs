@@ -3,8 +3,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 155,
-        "rushing_yards": 32,
-        "total_yards": 436,
+        "rushing_yards": 38,
+        "total_yards": 442,
         "yet_to_play": [
             "Christian McCaffrey",
             "Derrick Henry",
@@ -78,9 +78,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 48,
-        "receiving_yards": 109,
-        "rushing_yards": 39,
-        "total_yards": 196,
+        "receiving_yards": 122,
+        "rushing_yards": 41,
+        "total_yards": 211,
         "yet_to_play": [
             "George Kittle",
             "DK Metcalf",
@@ -133,10 +133,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 47,
-        "receiving_yards": 77,
+        "passing_yards": 80,
+        "receiving_yards": 82,
         "rushing_yards": 10,
-        "total_yards": 134,
+        "total_yards": 172,
         "yet_to_play": [
             "Kyren Williams",
             "Ja'Marr Chase",
@@ -149,6 +149,25 @@
             "Garrett Wilson",
             "Nico Collins",
             "Wan'Dale Robinson"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 10,
+        "receiving_yards": 64,
+        "rushing_yards": 1,
+        "total_yards": 75,
+        "yet_to_play": [
+            "Blake Corum",
+            "Omarion Hampton",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Kyle McCord",
+            "Devaughn Vele",
+            "Tank Dell",
+            "Parker Washington",
+            "Harold Fannin"
         ]
     },
     {
@@ -173,30 +192,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 10,
-        "receiving_yards": 31,
-        "rushing_yards": 1,
-        "total_yards": 42,
-        "yet_to_play": [
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Kyle McCord",
-            "Devaughn Vele",
-            "Tank Dell",
-            "Parker Washington",
-            "Harold Fannin"
-        ]
-    },
-    {
         "owner": "Chad Hill",
-        "passing_yards": 18,
+        "passing_yards": 24,
         "receiving_yards": 4,
         "rushing_yards": 6,
-        "total_yards": 28,
+        "total_yards": 34,
         "yet_to_play": [
             "Zonovan Knight",
             "Tyler Higbee",
