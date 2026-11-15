@@ -16,8 +16,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 347,
-        "rushing_yards": 124,
-        "total_yards": 720,
+        "rushing_yards": 128,
+        "total_yards": 724,
         "yet_to_play": [
             "Derrick Henry"
         ],
@@ -45,8 +45,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 196,
         "receiving_yards": 226,
-        "rushing_yards": 220,
-        "total_yards": 642,
+        "rushing_yards": 224,
+        "total_yards": 646,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -72,9 +72,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 209,
-        "receiving_yards": 309,
+        "receiving_yards": 310,
         "rushing_yards": 4,
-        "total_yards": 522,
+        "total_yards": 523,
         "yet_to_play": [
             "Omarion Hampton"
         ],
@@ -124,6 +124,23 @@
         ]
     },
     {
+        "owner": "Kyle Nester",
+        "passing_yards": 43,
+        "receiving_yards": 235,
+        "rushing_yards": 168,
+        "total_yards": 446,
+        "yet_to_play": [
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "Drew Lock",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 200,
         "receiving_yards": 187,
@@ -138,28 +155,11 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 43,
-        "receiving_yards": 223,
-        "rushing_yards": 168,
-        "total_yards": 434,
-        "yet_to_play": [
-            "Pat Freiermuth"
-        ],
-        "in_play": [
-            "Drew Lock",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
-        "passing_yards": 0,
+        "passing_yards": 22,
         "receiving_yards": 38,
         "rushing_yards": 92,
-        "total_yards": 130,
+        "total_yards": 152,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
