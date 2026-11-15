@@ -46,9 +46,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 248,
+        "receiving_yards": 260,
         "rushing_yards": 298,
-        "total_yards": 742,
+        "total_yards": 754,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -76,14 +76,26 @@
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 226,
-        "rushing_yards": 88,
-        "total_yards": 662,
+        "rushing_yards": 93,
+        "total_yards": 667,
         "yet_to_play": [
             "Germie Bernard"
         ],
         "in_play": [
             "Jadarian Price",
             "Michael Mayer"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 182,
+        "receiving_yards": 273,
+        "rushing_yards": 180,
+        "total_yards": 635,
+        "yet_to_play": [],
+        "in_play": [
+            "Dak Prescott",
+            "Trey McBride"
         ]
     },
     {
@@ -98,18 +110,6 @@
         "in_play": [
             "Blake Corum",
             "Tre Tucker"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 170,
-        "receiving_yards": 273,
-        "rushing_yards": 180,
-        "total_yards": 623,
-        "yet_to_play": [],
-        "in_play": [
-            "Dak Prescott",
-            "Trey McBride"
         ]
     },
     {
