@@ -1,5 +1,24 @@
 [
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 303,
+        "receiving_yards": 129,
+        "rushing_yards": 107,
+        "total_yards": 539,
+        "yet_to_play": [
+            "Colby Parkinson",
+            "Chase Brown"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "James Cook",
+            "Drake London",
+            "Josh Downs",
+            "Tucker Kraft",
+            "Gunnar Helm"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 190,
@@ -19,30 +38,11 @@
         ]
     },
     {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 85,
-        "rushing_yards": 107,
-        "total_yards": 495,
-        "yet_to_play": [
-            "Colby Parkinson",
-            "Chase Brown"
-        ],
-        "in_play": [
-            "Jonathan Taylor",
-            "James Cook",
-            "Drake London",
-            "Josh Downs",
-            "Tucker Kraft",
-            "Gunnar Helm"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
-        "passing_yards": 169,
+        "passing_yards": 210,
         "receiving_yards": 181,
         "rushing_yards": 44,
-        "total_yards": 394,
+        "total_yards": 435,
         "yet_to_play": [
             "Kyren Williams",
             "Ja'Marr Chase",
@@ -61,8 +61,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 71,
         "receiving_yards": 160,
-        "rushing_yards": 130,
-        "total_yards": 361,
+        "rushing_yards": 131,
+        "total_yards": 362,
         "yet_to_play": [
             "Jaylen Warren",
             "CeeDee Lamb",
@@ -78,10 +78,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 184,
+        "passing_yards": 183,
         "receiving_yards": 123,
         "rushing_yards": 43,
-        "total_yards": 350,
+        "total_yards": 349,
         "yet_to_play": [
             "Jadarian Price",
             "Germie Bernard",
@@ -93,6 +93,25 @@
             "Omar Cooper",
             "Kyle Pitts",
             "Josh Cameron"
+        ]
+    },
+    {
+        "owner": "Victor Dankens",
+        "passing_yards": 48,
+        "receiving_yards": 191,
+        "rushing_yards": 97,
+        "total_yards": 336,
+        "yet_to_play": [
+            "George Kittle",
+            "DK Metcalf",
+            "Zay Flowers"
+        ],
+        "in_play": [
+            "Bhayshul Tuten",
+            "Ollie Gordon",
+            "Xavier Worthy",
+            "Justin Jefferson",
+            "Juwan Johnson"
         ]
     },
     {
@@ -112,25 +131,6 @@
         "in_play": [
             "Tetairoa McMillan",
             "Darren Waller"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 48,
-        "receiving_yards": 191,
-        "rushing_yards": 94,
-        "total_yards": 333,
-        "yet_to_play": [
-            "George Kittle",
-            "DK Metcalf",
-            "Zay Flowers"
-        ],
-        "in_play": [
-            "Bhayshul Tuten",
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Justin Jefferson",
-            "Juwan Johnson"
         ]
     },
     {
@@ -154,9 +154,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 62,
-        "receiving_yards": 209,
+        "receiving_yards": 240,
         "rushing_yards": 1,
-        "total_yards": 272,
+        "total_yards": 303,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -168,6 +168,27 @@
             "Tank Dell",
             "Parker Washington",
             "Harold Fannin"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 93,
+        "rushing_yards": 66,
+        "total_yards": 159,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Ashton Jeanty",
+            "George Pickens"
+        ],
+        "in_play": [
+            "Chuba Hubbard",
+            "Matthew Golden",
+            "Christian Watson",
+            "Chris Olave",
+            "Tyler Warren",
+            "Rashee Rice",
+            "Dalton Kincaid"
         ]
     },
     {
@@ -188,27 +209,6 @@
             "Jordyn Tyson",
             "Adonai Mitchell",
             "Kaleb Johnson"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 64,
-        "rushing_yards": 66,
-        "total_yards": 130,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Ashton Jeanty",
-            "George Pickens"
-        ],
-        "in_play": [
-            "Chuba Hubbard",
-            "Matthew Golden",
-            "Christian Watson",
-            "Chris Olave",
-            "Tyler Warren",
-            "Rashee Rice",
-            "Dalton Kincaid"
         ]
     },
     {
