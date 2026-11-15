@@ -3,14 +3,31 @@
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 509,
-        "rushing_yards": 145,
-        "total_yards": 903,
+        "rushing_yards": 148,
+        "total_yards": 906,
         "yet_to_play": [
             "Derrick Henry"
         ],
         "in_play": [
             "Christian McCaffrey",
             "Konata Mumpfield"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 221,
+        "receiving_yards": 397,
+        "rushing_yards": 203,
+        "total_yards": 821,
+        "yet_to_play": [
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "Drew Lock",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
         ]
     },
     {
@@ -24,23 +41,6 @@
         ],
         "in_play": [
             "Colby Parkinson"
-        ]
-    },
-    {
-        "owner": "Kyle Nester",
-        "passing_yards": 214,
-        "receiving_yards": 390,
-        "rushing_yards": 203,
-        "total_yards": 807,
-        "yet_to_play": [
-            "Pat Freiermuth"
-        ],
-        "in_play": [
-            "Drew Lock",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
         ]
     },
     {
@@ -76,8 +76,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 226,
-        "rushing_yards": 81,
-        "total_yards": 655,
+        "rushing_yards": 82,
+        "total_yards": 656,
         "yet_to_play": [
             "Germie Bernard"
         ],
@@ -103,9 +103,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 138,
-        "receiving_yards": 262,
+        "receiving_yards": 266,
         "rushing_yards": 180,
-        "total_yards": 580,
+        "total_yards": 584,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -129,9 +129,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 48,
-        "receiving_yards": 303,
+        "receiving_yards": 318,
         "rushing_yards": 175,
-        "total_yards": 526,
+        "total_yards": 541,
         "yet_to_play": [
             "DK Metcalf",
             "Zay Flowers"
@@ -141,25 +141,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 200,
-        "receiving_yards": 204,
-        "rushing_yards": 51,
-        "total_yards": 455,
-        "yet_to_play": [],
-        "in_play": [
-            "Zonovan Knight",
-            "Tyler Higbee",
-            "Demarcus Robinson",
-            "Cooper Kupp"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
-        "passing_yards": 217,
+        "passing_yards": 270,
         "receiving_yards": 38,
-        "rushing_yards": 153,
-        "total_yards": 408,
+        "rushing_yards": 156,
+        "total_yards": 464,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
@@ -168,6 +154,20 @@
         "in_play": [
             "Brock Purdy",
             "Zach Charbonnet"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 200,
+        "receiving_yards": 204,
+        "rushing_yards": 55,
+        "total_yards": 459,
+        "yet_to_play": [],
+        "in_play": [
+            "Zonovan Knight",
+            "Tyler Higbee",
+            "Demarcus Robinson",
+            "Cooper Kupp"
         ]
     }
 ]
