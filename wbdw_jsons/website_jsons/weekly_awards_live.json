@@ -58,9 +58,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 348,
-        "receiving_yards": 218,
-        "rushing_yards": 64,
-        "total_yards": 630,
+        "receiving_yards": 226,
+        "rushing_yards": 63,
+        "total_yards": 637,
         "yet_to_play": [
             "Germie Bernard"
         ],
@@ -125,10 +125,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 54,
+        "passing_yards": 62,
         "receiving_yards": 246,
         "rushing_yards": 186,
-        "total_yards": 486,
+        "total_yards": 494,
         "yet_to_play": [
             "Pat Freiermuth"
         ],
@@ -144,8 +144,8 @@
         "owner": "Chad Hill",
         "passing_yards": 200,
         "receiving_yards": 199,
-        "rushing_yards": 47,
-        "total_yards": 446,
+        "rushing_yards": 51,
+        "total_yards": 450,
         "yet_to_play": [],
         "in_play": [
             "Zonovan Knight",
