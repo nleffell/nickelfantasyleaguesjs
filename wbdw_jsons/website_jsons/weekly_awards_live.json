@@ -16,8 +16,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 347,
-        "rushing_yards": 130,
-        "total_yards": 726,
+        "rushing_yards": 133,
+        "total_yards": 729,
         "yet_to_play": [
             "Derrick Henry"
         ],
@@ -87,8 +87,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 414,
-        "rushing_yards": 108,
-        "total_yards": 522,
+        "rushing_yards": 110,
+        "total_yards": 524,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -143,9 +143,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 200,
-        "receiving_yards": 192,
+        "receiving_yards": 199,
         "rushing_yards": 47,
-        "total_yards": 439,
+        "total_yards": 446,
         "yet_to_play": [],
         "in_play": [
             "Zonovan Knight",
