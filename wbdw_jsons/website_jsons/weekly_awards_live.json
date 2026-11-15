@@ -15,10 +15,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 224,
-        "receiving_yards": 400,
+        "passing_yards": 240,
+        "receiving_yards": 416,
         "rushing_yards": 207,
-        "total_yards": 831,
+        "total_yards": 863,
         "yet_to_play": [
             "Pat Freiermuth"
         ],
@@ -44,6 +44,20 @@
         ]
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 196,
+        "receiving_yards": 248,
+        "rushing_yards": 298,
+        "total_yards": 742,
+        "yet_to_play": [
+            "Jaylen Warren"
+        ],
+        "in_play": [
+            "CeeDee Lamb",
+            "Deebo Samuel"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 352,
         "receiving_yards": 249,
@@ -59,25 +73,11 @@
         ]
     },
     {
-        "owner": "TJ Pickeral",
-        "passing_yards": 196,
-        "receiving_yards": 248,
-        "rushing_yards": 228,
-        "total_yards": 672,
-        "yet_to_play": [
-            "Jaylen Warren"
-        ],
-        "in_play": [
-            "CeeDee Lamb",
-            "Deebo Samuel"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 226,
-        "rushing_yards": 87,
-        "total_yards": 661,
+        "rushing_yards": 88,
+        "total_yards": 662,
         "yet_to_play": [
             "Germie Bernard"
         ],
@@ -103,9 +103,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 170,
-        "receiving_yards": 266,
+        "receiving_yards": 273,
         "rushing_yards": 180,
-        "total_yards": 616,
+        "total_yards": 623,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -144,8 +144,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 270,
         "receiving_yards": 38,
-        "rushing_yards": 159,
-        "total_yards": 467,
+        "rushing_yards": 170,
+        "total_yards": 478,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
@@ -160,8 +160,8 @@
         "owner": "Chad Hill",
         "passing_yards": 200,
         "receiving_yards": 204,
-        "rushing_yards": 55,
-        "total_yards": 459,
+        "rushing_yards": 66,
+        "total_yards": 470,
         "yet_to_play": [],
         "in_play": [
             "Zonovan Knight",
