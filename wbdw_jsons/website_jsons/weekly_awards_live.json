@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 249,
-        "receiving_yards": 465,
+        "receiving_yards": 509,
         "rushing_yards": 145,
-        "total_yards": 859,
+        "total_yards": 903,
         "yet_to_play": [
             "Derrick Henry"
         ],
@@ -30,8 +30,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 352,
         "receiving_yards": 249,
-        "rushing_yards": 116,
-        "total_yards": 717,
+        "rushing_yards": 119,
+        "total_yards": 720,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mark Andrews"
@@ -44,9 +44,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 237,
+        "receiving_yards": 248,
         "rushing_yards": 228,
-        "total_yards": 661,
+        "total_yards": 672,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -59,14 +59,31 @@
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 226,
-        "rushing_yards": 70,
-        "total_yards": 644,
+        "rushing_yards": 82,
+        "total_yards": 656,
         "yet_to_play": [
             "Germie Bernard"
         ],
         "in_play": [
             "Jadarian Price",
             "Michael Mayer"
+        ]
+    },
+    {
+        "owner": "Kyle Nester",
+        "passing_yards": 123,
+        "receiving_yards": 299,
+        "rushing_yards": 198,
+        "total_yards": 620,
+        "yet_to_play": [
+            "Pat Freiermuth"
+        ],
+        "in_play": [
+            "Drew Lock",
+            "Javonte Williams",
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
         ]
     },
     {
@@ -110,23 +127,6 @@
         ]
     },
     {
-        "owner": "Kyle Nester",
-        "passing_yards": 100,
-        "receiving_yards": 276,
-        "rushing_yards": 198,
-        "total_yards": 574,
-        "yet_to_play": [
-            "Pat Freiermuth"
-        ],
-        "in_play": [
-            "Drew Lock",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
-        ]
-    },
-    {
         "owner": "Victor Dankens",
         "passing_yards": 48,
         "receiving_yards": 292,
@@ -156,10 +156,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 195,
+        "passing_yards": 206,
         "receiving_yards": 38,
-        "rushing_yards": 108,
-        "total_yards": 341,
+        "rushing_yards": 120,
+        "total_yards": 364,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
