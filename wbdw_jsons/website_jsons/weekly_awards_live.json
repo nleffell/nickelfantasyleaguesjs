@@ -2,9 +2,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 253,
+        "receiving_yards": 252,
         "rushing_yards": 243,
-        "total_yards": 799,
+        "total_yards": 798,
         "yet_to_play": [
             "Chase Brown"
         ],
@@ -15,9 +15,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 249,
-        "receiving_yards": 355,
-        "rushing_yards": 137,
-        "total_yards": 741,
+        "receiving_yards": 382,
+        "rushing_yards": 135,
+        "total_yards": 766,
         "yet_to_play": [
             "Derrick Henry"
         ],
@@ -73,8 +73,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 209,
         "receiving_yards": 319,
-        "rushing_yards": 30,
-        "total_yards": 558,
+        "rushing_yards": 45,
+        "total_yards": 573,
         "yet_to_play": [
             "Omarion Hampton"
         ],
@@ -156,10 +156,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 67,
+        "passing_yards": 114,
         "receiving_yards": 38,
         "rushing_yards": 94,
-        "total_yards": 199,
+        "total_yards": 246,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
