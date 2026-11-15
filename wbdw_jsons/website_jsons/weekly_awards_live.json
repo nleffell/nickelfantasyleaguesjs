@@ -2,9 +2,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 249,
-        "receiving_yards": 509,
+        "receiving_yards": 524,
         "rushing_yards": 148,
-        "total_yards": 906,
+        "total_yards": 921,
         "yet_to_play": [
             "Derrick Henry"
         ],
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 289,
+        "passing_yards": 304,
         "receiving_yards": 38,
         "rushing_yards": 171,
-        "total_yards": 498,
+        "total_yards": 513,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
