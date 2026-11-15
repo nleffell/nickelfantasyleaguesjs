@@ -32,8 +32,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 352,
         "receiving_yards": 247,
-        "rushing_yards": 102,
-        "total_yards": 701,
+        "rushing_yards": 107,
+        "total_yards": 706,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mark Andrews"
@@ -73,9 +73,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 209,
-        "receiving_yards": 300,
+        "receiving_yards": 309,
         "rushing_yards": 4,
-        "total_yards": 513,
+        "total_yards": 522,
         "yet_to_play": [
             "Omarion Hampton"
         ],
@@ -146,10 +146,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 0,
-        "receiving_yards": 214,
+        "passing_yards": 9,
+        "receiving_yards": 223,
         "rushing_yards": 153,
-        "total_yards": 367,
+        "total_yards": 385,
         "yet_to_play": [
             "Javonte Williams",
             "Pat Freiermuth"
@@ -165,8 +165,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 38,
-        "rushing_yards": 61,
-        "total_yards": 99,
+        "rushing_yards": 91,
+        "total_yards": 129,
         "yet_to_play": [
             "Brock Purdy",
             "Tee Higgins",
