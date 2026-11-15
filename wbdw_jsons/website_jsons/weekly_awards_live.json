@@ -6,15 +6,12 @@
         "rushing_yards": 243,
         "total_yards": 797,
         "yet_to_play": [
-            "Colby Parkinson",
             "Chase Brown"
         ],
         "in_play": [
             "Jonathan Taylor",
-            "James Cook",
-            "Drake London",
             "Josh Downs",
-            "Gunnar Helm"
+            "Colby Parkinson"
         ]
     },
     {
@@ -25,54 +22,39 @@
         "total_yards": 720,
         "yet_to_play": [
             "Christian McCaffrey",
-            "Derrick Henry",
-            "Konata Mumpfield"
+            "Derrick Henry"
         ],
         "in_play": [
-            "Jakobi Meyers",
-            "DJ Moore",
-            "Travis Kelce",
-            "Tony Pollard"
+            "Konata Mumpfield"
         ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 352,
-        "receiving_yards": 240,
+        "receiving_yards": 247,
         "rushing_yards": 102,
-        "total_yards": 694,
+        "total_yards": 701,
         "yet_to_play": [
-            "Kyren Williams",
             "Ja'Marr Chase",
-            "Tyler Allgeier",
             "Mark Andrews"
         ],
         "in_play": [
-            "Trevor Lawrence",
-            "Bijan Robinson",
-            "Garrett Wilson",
-            "Nico Collins",
-            "Wan'Dale Robinson"
+            "Kyren Williams",
+            "Tyler Allgeier"
         ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 227,
+        "receiving_yards": 226,
         "rushing_yards": 220,
-        "total_yards": 643,
+        "total_yards": 642,
         "yet_to_play": [
             "Jaylen Warren",
             "CeeDee Lamb",
             "Deebo Samuel"
         ],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir",
-            "Brenton Strange",
-            "Emmett Johnson",
-            "Quinshon Judkins"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -81,16 +63,11 @@
         "rushing_yards": 55,
         "total_yards": 621,
         "yet_to_play": [
-            "Jadarian Price",
-            "Germie Bernard",
-            "Michael Mayer"
+            "Germie Bernard"
         ],
         "in_play": [
-            "Patrick Mahomes",
-            "Braelon Allen",
-            "Omar Cooper",
-            "Kyle Pitts",
-            "Josh Cameron"
+            "Jadarian Price",
+            "Michael Mayer"
         ]
     },
     {
@@ -100,16 +77,12 @@
         "rushing_yards": 4,
         "total_yards": 513,
         "yet_to_play": [
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre Tucker"
+            "Omarion Hampton"
         ],
         "in_play": [
             "Kyle McCord",
-            "Devaughn Vele",
-            "Tank Dell",
-            "Parker Washington",
-            "Harold Fannin"
+            "Blake Corum",
+            "Tre Tucker"
         ]
     },
     {
@@ -124,28 +97,21 @@
             "Zay Flowers"
         ],
         "in_play": [
-            "Bhayshul Tuten",
-            "Ollie Gordon",
-            "Xavier Worthy",
-            "Juwan Johnson"
+            "Ollie Gordon"
         ]
     },
     {
         "owner": "Jon Knicely",
         "passing_yards": 34,
-        "receiving_yards": 248,
+        "receiving_yards": 249,
         "rushing_yards": 179,
-        "total_yards": 461,
+        "total_yards": 462,
         "yet_to_play": [
-            "Dak Prescott",
-            "Trey McBride"
+            "Dak Prescott"
         ],
         "in_play": [
-            "KC Concepcion",
-            "Denzel Boston",
             "Malik Washington",
-            "Breece Hall",
-            "Woody Marks"
+            "Trey McBride"
         ]
     },
     {
@@ -156,15 +122,11 @@
         "total_yards": 460,
         "yet_to_play": [
             "Joe Burrow",
-            "Ashton Jeanty",
             "George Pickens"
         ],
         "in_play": [
-            "Chuba Hubbard",
-            "Chris Olave",
-            "Tyler Warren",
-            "Rashee Rice",
-            "Dalton Kincaid"
+            "Ashton Jeanty",
+            "Tyler Warren"
         ]
     },
     {
@@ -174,16 +136,12 @@
         "rushing_yards": 47,
         "total_yards": 400,
         "yet_to_play": [
-            "Zonovan Knight",
-            "Tyler Higbee",
-            "Demarcus Robinson",
-            "Cooper Kupp"
+            "Demarcus Robinson"
         ],
         "in_play": [
-            "Bryce Young",
-            "Alvin Kamara",
-            "Jordyn Tyson",
-            "Adonai Mitchell"
+            "Zonovan Knight",
+            "Tyler Higbee",
+            "Cooper Kupp"
         ]
     },
     {
@@ -193,16 +151,14 @@
         "rushing_yards": 153,
         "total_yards": 367,
         "yet_to_play": [
-            "Drew Lock",
             "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "Pat Freiermuth",
-            "AJ Barner"
+            "Pat Freiermuth"
         ],
         "in_play": [
-            "Tetairoa McMillan",
-            "Darren Waller"
+            "Drew Lock",
+            "Jaxon Smith-Njigba",
+            "Brock Bowers",
+            "AJ Barner"
         ]
     },
     {
@@ -213,15 +169,12 @@
         "total_yards": 99,
         "yet_to_play": [
             "Brock Purdy",
-            "Zach Charbonnet",
             "Tee Higgins",
             "Mike Gesicki",
             "Darnell Washington"
         ],
         "in_play": [
-            "Jalen Coker",
-            "Chris Rodriguez",
-            "Kenyon Sadiq"
+            "Zach Charbonnet"
         ]
     }
 ]
