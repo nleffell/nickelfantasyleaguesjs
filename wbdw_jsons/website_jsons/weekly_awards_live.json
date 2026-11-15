@@ -2,9 +2,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 221,
+        "receiving_yards": 222,
         "rushing_yards": 150,
-        "total_yards": 674,
+        "total_yards": 675,
         "yet_to_play": [
             "Colby Parkinson",
             "Chase Brown"
@@ -61,8 +61,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 176,
         "receiving_yards": 163,
-        "rushing_yards": 158,
-        "total_yards": 497,
+        "rushing_yards": 170,
+        "total_yards": 509,
         "yet_to_play": [
             "Jaylen Warren",
             "CeeDee Lamb",
@@ -99,8 +99,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 34,
         "receiving_yards": 205,
-        "rushing_yards": 153,
-        "total_yards": 392,
+        "rushing_yards": 155,
+        "total_yards": 394,
         "yet_to_play": [
             "Dak Prescott",
             "Trey McBride"
@@ -116,9 +116,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 48,
-        "receiving_yards": 191,
+        "receiving_yards": 207,
         "rushing_yards": 124,
-        "total_yards": 363,
+        "total_yards": 379,
         "yet_to_play": [
             "George Kittle",
             "DK Metcalf",
@@ -134,10 +134,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 115,
+        "passing_yards": 131,
         "receiving_yards": 244,
         "rushing_yards": 1,
-        "total_yards": 360,
+        "total_yards": 376,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -214,9 +214,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 28,
-        "rushing_yards": 45,
-        "total_yards": 73,
+        "receiving_yards": 27,
+        "rushing_yards": 49,
+        "total_yards": 76,
         "yet_to_play": [
             "Brock Purdy",
             "Zach Charbonnet",
