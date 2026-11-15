@@ -17,8 +17,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 240,
         "receiving_yards": 416,
-        "rushing_yards": 207,
-        "total_yards": 863,
+        "rushing_yards": 212,
+        "total_yards": 868,
         "yet_to_play": [
             "Pat Freiermuth"
         ],
@@ -46,9 +46,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 260,
+        "receiving_yards": 271,
         "rushing_yards": 298,
-        "total_yards": 754,
+        "total_yards": 765,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -88,10 +88,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 182,
+        "passing_yards": 205,
         "receiving_yards": 273,
         "rushing_yards": 180,
-        "total_yards": 635,
+        "total_yards": 658,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott",
@@ -144,8 +144,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 270,
         "receiving_yards": 38,
-        "rushing_yards": 170,
-        "total_yards": 478,
+        "rushing_yards": 171,
+        "total_yards": 479,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
