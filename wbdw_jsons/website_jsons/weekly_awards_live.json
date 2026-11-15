@@ -21,9 +21,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 138,
-        "rushing_yards": 107,
-        "total_yards": 548,
+        "receiving_yards": 150,
+        "rushing_yards": 108,
+        "total_yards": 561,
         "yet_to_play": [
             "Colby Parkinson",
             "Chase Brown"
@@ -39,10 +39,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 234,
+        "passing_yards": 246,
         "receiving_yards": 210,
-        "rushing_yards": 63,
-        "total_yards": 507,
+        "rushing_yards": 65,
+        "total_yards": 521,
         "yet_to_play": [
             "Kyren Williams",
             "Ja'Marr Chase",
@@ -58,11 +58,29 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 34,
+        "receiving_yards": 199,
+        "rushing_yards": 152,
+        "total_yards": 385,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Breece Hall",
+            "Woody Marks"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 71,
         "receiving_yards": 160,
-        "rushing_yards": 136,
-        "total_yards": 367,
+        "rushing_yards": 137,
+        "total_yards": 368,
         "yet_to_play": [
             "Jaylen Warren",
             "CeeDee Lamb",
@@ -77,29 +95,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 34,
-        "receiving_yards": 181,
-        "rushing_yards": 145,
-        "total_yards": 360,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Breece Hall",
-            "Woody Marks"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
-        "passing_yards": 193,
+        "passing_yards": 194,
         "receiving_yards": 123,
         "rushing_yards": 43,
-        "total_yards": 359,
+        "total_yards": 360,
         "yet_to_play": [
             "Jadarian Price",
             "Germie Bernard",
@@ -111,6 +111,25 @@
             "Omar Cooper",
             "Kyle Pitts",
             "Josh Cameron"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 93,
+        "receiving_yards": 249,
+        "rushing_yards": 1,
+        "total_yards": 343,
+        "yet_to_play": [
+            "Blake Corum",
+            "Omarion Hampton",
+            "Tre Tucker"
+        ],
+        "in_play": [
+            "Kyle McCord",
+            "Devaughn Vele",
+            "Tank Dell",
+            "Parker Washington",
+            "Harold Fannin"
         ]
     },
     {
@@ -152,30 +171,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 93,
-        "receiving_yards": 241,
-        "rushing_yards": 1,
-        "total_yards": 335,
-        "yet_to_play": [
-            "Blake Corum",
-            "Omarion Hampton",
-            "Tre Tucker"
-        ],
-        "in_play": [
-            "Kyle McCord",
-            "Devaughn Vele",
-            "Tank Dell",
-            "Parker Washington",
-            "Harold Fannin"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 111,
+        "receiving_yards": 123,
         "rushing_yards": 77,
-        "total_yards": 188,
+        "total_yards": 200,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -194,9 +194,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 106,
-        "receiving_yards": 32,
-        "rushing_yards": 14,
-        "total_yards": 152,
+        "receiving_yards": 51,
+        "rushing_yards": 34,
+        "total_yards": 191,
         "yet_to_play": [
             "Zonovan Knight",
             "Tyler Higbee",
@@ -214,9 +214,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 3,
+        "receiving_yards": 28,
         "rushing_yards": 45,
-        "total_yards": 48,
+        "total_yards": 73,
         "yet_to_play": [
             "Brock Purdy",
             "Zach Charbonnet",
