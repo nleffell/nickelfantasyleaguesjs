@@ -46,9 +46,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 271,
+        "receiving_yards": 280,
         "rushing_yards": 298,
-        "total_yards": 765,
+        "total_yards": 774,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -75,9 +75,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 348,
-        "receiving_yards": 226,
+        "receiving_yards": 233,
         "rushing_yards": 93,
-        "total_yards": 667,
+        "total_yards": 674,
         "yet_to_play": [
             "Germie Bernard"
         ],
@@ -101,9 +101,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 209,
-        "receiving_yards": 319,
+        "receiving_yards": 328,
         "rushing_yards": 104,
-        "total_yards": 632,
+        "total_yards": 641,
         "yet_to_play": [
             "Omarion Hampton"
         ],
@@ -115,9 +115,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 470,
+        "receiving_yards": 508,
         "rushing_yards": 113,
-        "total_yards": 583,
+        "total_yards": 621,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 270,
+        "passing_yards": 289,
         "receiving_yards": 38,
         "rushing_yards": 171,
-        "total_yards": 479,
+        "total_yards": 498,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
