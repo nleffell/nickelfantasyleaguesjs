@@ -21,9 +21,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 303,
-        "receiving_yards": 48,
+        "receiving_yards": 55,
         "rushing_yards": 45,
-        "total_yards": 396,
+        "total_yards": 403,
         "yet_to_play": [
             "Colby Parkinson",
             "Chase Brown"
@@ -79,8 +79,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 85,
         "receiving_yards": 122,
-        "rushing_yards": 9,
-        "total_yards": 216,
+        "rushing_yards": 22,
+        "total_yards": 229,
         "yet_to_play": [
             "Jadarian Price",
             "Germie Bernard",
@@ -95,11 +95,29 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 104,
+        "rushing_yards": 117,
+        "total_yards": 221,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Breece Hall",
+            "Woody Marks"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 48,
         "receiving_yards": 122,
-        "rushing_yards": 45,
-        "total_yards": 215,
+        "rushing_yards": 49,
+        "total_yards": 219,
         "yet_to_play": [
             "George Kittle",
             "DK Metcalf",
@@ -114,29 +132,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 104,
-        "rushing_yards": 101,
-        "total_yards": 205,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Breece Hall",
-            "Woody Marks"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 111,
-        "receiving_yards": 82,
+        "receiving_yards": 89,
         "rushing_yards": 10,
-        "total_yards": 203,
+        "total_yards": 210,
         "yet_to_play": [
             "Kyren Williams",
             "Ja'Marr Chase",
