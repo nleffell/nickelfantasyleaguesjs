@@ -59,9 +59,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 13,
-        "receiving_yards": 105,
-        "rushing_yards": 77,
-        "total_yards": 195,
+        "receiving_yards": 117,
+        "rushing_yards": 85,
+        "total_yards": 215,
         "yet_to_play": [
             "Jaylen Warren",
             "CeeDee Lamb",
@@ -79,8 +79,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 48,
         "receiving_yards": 109,
-        "rushing_yards": 20,
-        "total_yards": 177,
+        "rushing_yards": 22,
+        "total_yards": 179,
         "yet_to_play": [
             "George Kittle",
             "DK Metcalf",
@@ -95,29 +95,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 0,
-        "receiving_yards": 67,
-        "rushing_yards": 93,
-        "total_yards": 160,
-        "yet_to_play": [
-            "Dak Prescott",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "KC Concepcion",
-            "Denzel Boston",
-            "Malik Washington",
-            "Breece Hall",
-            "Woody Marks"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
-        "passing_yards": 23,
+        "passing_yards": 35,
         "receiving_yards": 122,
         "rushing_yards": 9,
-        "total_yards": 154,
+        "total_yards": 166,
         "yet_to_play": [
             "Jadarian Price",
             "Germie Bernard",
@@ -132,11 +114,29 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 0,
+        "receiving_yards": 67,
+        "rushing_yards": 95,
+        "total_yards": 162,
+        "yet_to_play": [
+            "Dak Prescott",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "KC Concepcion",
+            "Denzel Boston",
+            "Malik Washington",
+            "Breece Hall",
+            "Woody Marks"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
-        "passing_yards": 45,
-        "receiving_yards": 37,
-        "rushing_yards": 0,
-        "total_yards": 82,
+        "passing_yards": 47,
+        "receiving_yards": 49,
+        "rushing_yards": 2,
+        "total_yards": 98,
         "yet_to_play": [
             "Kyren Williams",
             "Ja'Marr Chase",
@@ -154,9 +154,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
-        "receiving_yards": 29,
+        "receiving_yards": 31,
         "rushing_yards": 1,
-        "total_yards": 30,
+        "total_yards": 32,
         "yet_to_play": [
             "Blake Corum",
             "Omarion Hampton",
@@ -192,31 +192,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 5,
-        "receiving_yards": 4,
-        "rushing_yards": 0,
-        "total_yards": 9,
-        "yet_to_play": [
-            "Zonovan Knight",
-            "Tyler Higbee",
-            "Demarcus Robinson",
-            "Cooper Kupp"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Alvin Kamara",
-            "Jordyn Tyson",
-            "Adonai Mitchell",
-            "Kaleb Johnson"
-        ]
-    },
-    {
         "owner": "Brad Lowe",
         "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 3,
-        "total_yards": 3,
+        "receiving_yards": 3,
+        "rushing_yards": 11,
+        "total_yards": 14,
         "yet_to_play": [
             "Brock Purdy",
             "Zach Charbonnet",
@@ -230,6 +210,26 @@
             "Savion Williams",
             "Chris Rodriguez",
             "Kenyon Sadiq"
+        ]
+    },
+    {
+        "owner": "Chad Hill",
+        "passing_yards": 6,
+        "receiving_yards": 4,
+        "rushing_yards": 0,
+        "total_yards": 10,
+        "yet_to_play": [
+            "Zonovan Knight",
+            "Tyler Higbee",
+            "Demarcus Robinson",
+            "Cooper Kupp"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Alvin Kamara",
+            "Jordyn Tyson",
+            "Adonai Mitchell",
+            "Kaleb Johnson"
         ]
     }
 ]
