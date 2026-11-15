@@ -16,8 +16,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 347,
-        "rushing_yards": 128,
-        "total_yards": 724,
+        "rushing_yards": 130,
+        "total_yards": 726,
         "yet_to_play": [
             "Derrick Henry"
         ],
@@ -44,9 +44,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 226,
-        "rushing_yards": 224,
-        "total_yards": 646,
+        "receiving_yards": 237,
+        "rushing_yards": 228,
+        "total_yards": 661,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -86,15 +86,29 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 48,
-        "receiving_yards": 264,
+        "receiving_yards": 284,
         "rushing_yards": 175,
-        "total_yards": 487,
+        "total_yards": 507,
         "yet_to_play": [
             "DK Metcalf",
             "Zay Flowers"
         ],
         "in_play": [
             "George Kittle"
+        ]
+    },
+    {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 363,
+        "rushing_yards": 103,
+        "total_yards": 466,
+        "yet_to_play": [
+            "Joe Burrow"
+        ],
+        "in_play": [
+            "Ashton Jeanty",
+            "George Pickens"
         ]
     },
     {
@@ -107,20 +121,6 @@
         "in_play": [
             "Dak Prescott",
             "Trey McBride"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 358,
-        "rushing_yards": 102,
-        "total_yards": 460,
-        "yet_to_play": [
-            "Joe Burrow"
-        ],
-        "in_play": [
-            "Ashton Jeanty",
-            "George Pickens"
         ]
     },
     {
@@ -143,9 +143,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 200,
-        "receiving_yards": 187,
+        "receiving_yards": 192,
         "rushing_yards": 47,
-        "total_yards": 434,
+        "total_yards": 439,
         "yet_to_play": [],
         "in_play": [
             "Zonovan Knight",
@@ -156,10 +156,10 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 22,
+        "passing_yards": 59,
         "receiving_yards": 38,
         "rushing_yards": 92,
-        "total_yards": 152,
+        "total_yards": 189,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
