@@ -9,8 +9,6 @@
             "Chase Brown"
         ],
         "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs",
             "Colby Parkinson"
         ]
     },
@@ -32,8 +30,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 352,
         "receiving_yards": 247,
-        "rushing_yards": 107,
-        "total_yards": 706,
+        "rushing_yards": 110,
+        "total_yards": 709,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mark Andrews"
@@ -60,8 +58,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 218,
-        "rushing_yards": 55,
-        "total_yards": 621,
+        "rushing_yards": 64,
+        "total_yards": 630,
         "yet_to_play": [
             "Germie Bernard"
         ],
@@ -80,7 +78,6 @@
             "Omarion Hampton"
         ],
         "in_play": [
-            "Kyle McCord",
             "Blake Corum",
             "Tre Tucker"
         ]
@@ -96,9 +93,7 @@
             "DK Metcalf",
             "Zay Flowers"
         ],
-        "in_play": [
-            "Ollie Gordon"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -110,7 +105,6 @@
             "Dak Prescott"
         ],
         "in_play": [
-            "Malik Washington",
             "Trey McBride"
         ]
     },
@@ -125,16 +119,15 @@
             "George Pickens"
         ],
         "in_play": [
-            "Ashton Jeanty",
-            "Tyler Warren"
+            "Ashton Jeanty"
         ]
     },
     {
         "owner": "Chad Hill",
         "passing_yards": 200,
-        "receiving_yards": 153,
+        "receiving_yards": 187,
         "rushing_yards": 47,
-        "total_yards": 400,
+        "total_yards": 434,
         "yet_to_play": [
             "Demarcus Robinson"
         ],
@@ -146,10 +139,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 9,
+        "passing_yards": 43,
         "receiving_yards": 223,
         "rushing_yards": 153,
-        "total_yards": 385,
+        "total_yards": 419,
         "yet_to_play": [
             "Javonte Williams",
             "Pat Freiermuth"
@@ -165,8 +158,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 0,
         "receiving_yards": 38,
-        "rushing_yards": 91,
-        "total_yards": 129,
+        "rushing_yards": 92,
+        "total_yards": 130,
         "yet_to_play": [
             "Brock Purdy",
             "Tee Higgins",
