@@ -28,10 +28,10 @@
     },
     {
         "owner": "Kyle Nester",
-        "passing_yards": 194,
-        "receiving_yards": 370,
-        "rushing_yards": 198,
-        "total_yards": 762,
+        "passing_yards": 214,
+        "receiving_yards": 390,
+        "rushing_yards": 203,
+        "total_yards": 807,
         "yet_to_play": [
             "Pat Freiermuth"
         ],
@@ -76,8 +76,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 226,
-        "rushing_yards": 82,
-        "total_yards": 656,
+        "rushing_yards": 81,
+        "total_yards": 655,
         "yet_to_play": [
             "Germie Bernard"
         ],
@@ -158,8 +158,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 217,
         "receiving_yards": 38,
-        "rushing_yards": 127,
-        "total_yards": 382,
+        "rushing_yards": 153,
+        "total_yards": 408,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
