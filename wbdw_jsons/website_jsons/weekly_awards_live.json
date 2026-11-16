@@ -16,10 +16,10 @@
         "receiving_yards": 420,
         "rushing_yards": 236,
         "total_yards": 896,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Pat Freiermuth"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -31,49 +31,50 @@
         "in_play": []
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 303,
+        "receiving_yards": 272,
+        "rushing_yards": 253,
+        "total_yards": 828,
+        "yet_to_play": [],
+        "in_play": [
+            "Chase Brown"
+        ]
+    },
+    {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
         "receiving_yards": 329,
         "rushing_yards": 298,
         "total_yards": 823,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Jaylen Warren"
-        ],
-        "in_play": []
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 303,
-        "receiving_yards": 266,
-        "rushing_yards": 243,
-        "total_yards": 812,
-        "yet_to_play": [
-            "Chase Brown"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 352,
-        "receiving_yards": 249,
+        "receiving_yards": 281,
         "rushing_yards": 135,
-        "total_yards": 736,
+        "total_yards": 768,
         "yet_to_play": [
-            "Ja'Marr Chase",
             "Mark Andrews"
         ],
-        "in_play": []
+        "in_play": [
+            "Ja'Marr Chase"
+        ]
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 13,
+        "passing_yards": 70,
         "receiving_yards": 549,
         "rushing_yards": 113,
-        "total_yards": 675,
-        "yet_to_play": [
+        "total_yards": 732,
+        "yet_to_play": [],
+        "in_play": [
             "Joe Burrow"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -81,10 +82,10 @@
         "receiving_yards": 233,
         "rushing_yards": 93,
         "total_yards": 674,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Germie Bernard"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -103,12 +104,12 @@
         "receiving_yards": 47,
         "rushing_yards": 170,
         "total_yards": 606,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Tee Higgins",
             "Mike Gesicki",
             "Darnell Washington"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -117,10 +118,11 @@
         "rushing_yards": 175,
         "total_yards": 561,
         "yet_to_play": [
-            "DK Metcalf",
             "Zay Flowers"
         ],
-        "in_play": []
+        "in_play": [
+            "DK Metcalf"
+        ]
     },
     {
         "owner": "Chad Hill",
