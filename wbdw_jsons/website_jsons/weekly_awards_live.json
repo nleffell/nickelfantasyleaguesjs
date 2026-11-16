@@ -8,9 +8,7 @@
         "yet_to_play": [
             "Derrick Henry"
         ],
-        "in_play": [
-            "Christian McCaffrey"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -21,9 +19,7 @@
         "yet_to_play": [
             "Pat Freiermuth"
         ],
-        "in_play": [
-            "Javonte Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -32,9 +28,7 @@
         "rushing_yards": 186,
         "total_yards": 829,
         "yet_to_play": [],
-        "in_play": [
-            "Dak Prescott"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -45,10 +39,7 @@
         "yet_to_play": [
             "Jaylen Warren"
         ],
-        "in_play": [
-            "CeeDee Lamb",
-            "Deebo Samuel"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -93,9 +84,7 @@
         "yet_to_play": [
             "Joe Burrow"
         ],
-        "in_play": [
-            "George Pickens"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -119,9 +108,7 @@
             "Mike Gesicki",
             "Darnell Washington"
         ],
-        "in_play": [
-            "Brock Purdy"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -133,9 +120,7 @@
             "DK Metcalf",
             "Zay Flowers"
         ],
-        "in_play": [
-            "George Kittle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
@@ -144,8 +129,6 @@
         "rushing_yards": 66,
         "total_yards": 470,
         "yet_to_play": [],
-        "in_play": [
-            "Demarcus Robinson"
-        ]
+        "in_play": []
     }
 ]
