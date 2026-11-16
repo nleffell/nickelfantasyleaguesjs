@@ -22,19 +22,15 @@
             "Pat Freiermuth"
         ],
         "in_play": [
-            "Drew Lock",
-            "Javonte Williams",
-            "Jaxon Smith-Njigba",
-            "Brock Bowers",
-            "AJ Barner"
+            "Javonte Williams"
         ]
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 318,
+        "receiving_yards": 319,
         "rushing_yards": 298,
-        "total_yards": 812,
+        "total_yards": 813,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -68,10 +64,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 248,
+        "passing_yards": 249,
         "receiving_yards": 273,
         "rushing_yards": 181,
-        "total_yards": 702,
+        "total_yards": 703,
         "yet_to_play": [],
         "in_play": [
             "Dak Prescott"
@@ -86,10 +82,7 @@
         "yet_to_play": [
             "Germie Bernard"
         ],
-        "in_play": [
-            "Jadarian Price",
-            "Michael Mayer"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -100,9 +93,7 @@
         "yet_to_play": [
             "Omarion Hampton"
         ],
-        "in_play": [
-            "Tre Tucker"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -114,16 +105,15 @@
             "Joe Burrow"
         ],
         "in_play": [
-            "Ashton Jeanty",
             "George Pickens"
         ]
     },
     {
         "owner": "Victor Dankens",
         "passing_yards": 48,
-        "receiving_yards": 328,
+        "receiving_yards": 338,
         "rushing_yards": 175,
-        "total_yards": 551,
+        "total_yards": 561,
         "yet_to_play": [
             "DK Metcalf",
             "Zay Flowers"
@@ -134,18 +124,17 @@
     },
     {
         "owner": "Brad Lowe",
-        "passing_yards": 313,
+        "passing_yards": 323,
         "receiving_yards": 38,
         "rushing_yards": 170,
-        "total_yards": 521,
+        "total_yards": 531,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
             "Darnell Washington"
         ],
         "in_play": [
-            "Brock Purdy",
-            "Zach Charbonnet"
+            "Brock Purdy"
         ]
     },
     {
@@ -156,8 +145,7 @@
         "total_yards": 470,
         "yet_to_play": [],
         "in_play": [
-            "Demarcus Robinson",
-            "Cooper Kupp"
+            "Demarcus Robinson"
         ]
     }
 ]
