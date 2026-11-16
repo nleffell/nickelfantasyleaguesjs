@@ -53,6 +53,17 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 121,
+        "receiving_yards": 549,
+        "rushing_yards": 122,
+        "total_yards": 792,
+        "yet_to_play": [],
+        "in_play": [
+            "Joe Burrow"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 352,
         "receiving_yards": 296,
@@ -63,17 +74,6 @@
         ],
         "in_play": [
             "Ja'Marr Chase"
-        ]
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 105,
-        "receiving_yards": 549,
-        "rushing_yards": 113,
-        "total_yards": 767,
-        "yet_to_play": [],
-        "in_play": [
-            "Joe Burrow"
         ]
     },
     {
@@ -101,9 +101,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 389,
-        "receiving_yards": 57,
+        "receiving_yards": 73,
         "rushing_yards": 170,
-        "total_yards": 616,
+        "total_yards": 632,
         "yet_to_play": [],
         "in_play": [
             "Tee Higgins",
