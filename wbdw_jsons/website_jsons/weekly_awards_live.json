@@ -37,9 +37,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 240,
-        "receiving_yards": 420,
+        "receiving_yards": 428,
         "rushing_yards": 236,
-        "total_yards": 896,
+        "total_yards": 904,
         "yet_to_play": [],
         "in_play": [
             "Pat Freiermuth"
@@ -114,9 +114,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 48,
-        "receiving_yards": 338,
+        "receiving_yards": 370,
         "rushing_yards": 175,
-        "total_yards": 561,
+        "total_yards": 593,
         "yet_to_play": [
             "Zay Flowers"
         ],
