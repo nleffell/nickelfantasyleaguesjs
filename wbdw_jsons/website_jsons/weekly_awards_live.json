@@ -9,16 +9,15 @@
             "Derrick Henry"
         ],
         "in_play": [
-            "Christian McCaffrey",
-            "Konata Mumpfield"
+            "Christian McCaffrey"
         ]
     },
     {
         "owner": "Kyle Nester",
         "passing_yards": 240,
         "receiving_yards": 416,
-        "rushing_yards": 228,
-        "total_yards": 884,
+        "rushing_yards": 233,
+        "total_yards": 889,
         "yet_to_play": [
             "Pat Freiermuth"
         ],
@@ -39,16 +38,14 @@
         "yet_to_play": [
             "Chase Brown"
         ],
-        "in_play": [
-            "Colby Parkinson"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 196,
-        "receiving_yards": 280,
+        "receiving_yards": 292,
         "rushing_yards": 298,
-        "total_yards": 774,
+        "total_yards": 786,
         "yet_to_play": [
             "Jaylen Warren"
         ],
@@ -67,10 +64,7 @@
             "Ja'Marr Chase",
             "Mark Andrews"
         ],
-        "in_play": [
-            "Kyren Williams",
-            "Tyler Allgeier"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -88,14 +82,13 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 205,
+        "passing_yards": 217,
         "receiving_yards": 273,
         "rushing_yards": 180,
-        "total_yards": 658,
+        "total_yards": 670,
         "yet_to_play": [],
         "in_play": [
-            "Dak Prescott",
-            "Trey McBride"
+            "Dak Prescott"
         ]
     },
     {
@@ -108,7 +101,6 @@
             "Omarion Hampton"
         ],
         "in_play": [
-            "Blake Corum",
             "Tre Tucker"
         ]
     },
@@ -164,8 +156,6 @@
         "total_yards": 470,
         "yet_to_play": [],
         "in_play": [
-            "Zonovan Knight",
-            "Tyler Higbee",
             "Demarcus Robinson",
             "Cooper Kupp"
         ]
