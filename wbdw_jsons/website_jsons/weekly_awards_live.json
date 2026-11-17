@@ -78,6 +78,17 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 48,
+        "receiving_yards": 466,
+        "rushing_yards": 175,
+        "total_yards": 689,
+        "yet_to_play": [],
+        "in_play": [
+            "Zay Flowers"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 233,
@@ -94,17 +105,6 @@
         "total_yards": 677,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 48,
-        "receiving_yards": 451,
-        "rushing_yards": 175,
-        "total_yards": 674,
-        "yet_to_play": [],
-        "in_play": [
-            "Zay Flowers"
-        ]
     },
     {
         "owner": "Chad Hill",
