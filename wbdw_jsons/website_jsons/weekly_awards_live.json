@@ -15,9 +15,7 @@
         "rushing_yards": 135,
         "total_yards": 1049,
         "yet_to_play": [],
-        "in_play": [
-            "Mark Andrews"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -26,9 +24,7 @@
         "rushing_yards": 196,
         "total_yards": 1044,
         "yet_to_play": [],
-        "in_play": [
-            "Derrick Henry"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -73,9 +69,7 @@
         "rushing_yards": 209,
         "total_yards": 746,
         "yet_to_play": [],
-        "in_play": [
-            "Omarion Hampton"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -84,9 +78,7 @@
         "rushing_yards": 175,
         "total_yards": 689,
         "yet_to_play": [],
-        "in_play": [
-            "Zay Flowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
