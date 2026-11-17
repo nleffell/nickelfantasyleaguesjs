@@ -67,6 +67,17 @@
         "in_play": []
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 209,
+        "receiving_yards": 328,
+        "rushing_yards": 166,
+        "total_yards": 703,
+        "yet_to_play": [],
+        "in_play": [
+            "Omarion Hampton"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 348,
         "receiving_yards": 233,
@@ -74,17 +85,6 @@
         "total_yards": 684,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 209,
-        "receiving_yards": 328,
-        "rushing_yards": 140,
-        "total_yards": 677,
-        "yet_to_play": [],
-        "in_play": [
-            "Omarion Hampton"
-        ]
     },
     {
         "owner": "Brad Lowe",
