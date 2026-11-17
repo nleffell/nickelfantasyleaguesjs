@@ -9,6 +9,17 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 352,
+        "receiving_yards": 562,
+        "rushing_yards": 135,
+        "total_yards": 1049,
+        "yet_to_play": [],
+        "in_play": [
+            "Mark Andrews"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 599,
@@ -17,17 +28,6 @@
         "yet_to_play": [],
         "in_play": [
             "Derrick Henry"
-        ]
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 352,
-        "receiving_yards": 548,
-        "rushing_yards": 135,
-        "total_yards": 1035,
-        "yet_to_play": [],
-        "in_play": [
-            "Mark Andrews"
         ]
     },
     {
