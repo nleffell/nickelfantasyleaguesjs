@@ -232,6 +232,13 @@
                 "value": 980.0,
                 "amount": 50
             }
+        },
+        "10": {
+            "most combined yards": {
+                "owner": "Ryan Shannon",
+                "value": 1079.0,
+                "amount": 50
+            }
         }
     }
 }
