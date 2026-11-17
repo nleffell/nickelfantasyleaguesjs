@@ -12,23 +12,23 @@
         "owner": "Tyler Smith",
         "passing_yards": 249,
         "receiving_yards": 589,
-        "rushing_yards": 186,
-        "total_yards": 1024,
-        "yet_to_play": [
+        "rushing_yards": 184,
+        "total_yards": 1022,
+        "yet_to_play": [],
+        "in_play": [
             "Derrick Henry"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Nick Janowicz",
         "passing_yards": 352,
-        "receiving_yards": 480,
+        "receiving_yards": 487,
         "rushing_yards": 135,
-        "total_yards": 967,
-        "yet_to_play": [
+        "total_yards": 974,
+        "yet_to_play": [],
+        "in_play": [
             "Mark Andrews"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Kyle Nester",
@@ -90,10 +90,10 @@
         "receiving_yards": 328,
         "rushing_yards": 104,
         "total_yards": 641,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Omarion Hampton"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -101,10 +101,10 @@
         "receiving_yards": 392,
         "rushing_yards": 175,
         "total_yards": 615,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Zay Flowers"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
