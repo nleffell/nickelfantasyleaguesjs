@@ -63,6 +63,27 @@
         ]
     },
     {
+        "owner": "Brian Fuquay",
+        "passing_yards": 0,
+        "receiving_yards": 6,
+        "rushing_yards": 21,
+        "total_yards": 27,
+        "yet_to_play": [
+            "Jared Goff",
+            "James Cook",
+            "Rome Odunze",
+            "Treylon Burks",
+            "Gunnar Helm",
+            "Kenneth Walker",
+            "Chase Brown",
+            "Jonah Coleman"
+        ],
+        "in_play": [
+            "Jonathan Taylor",
+            "Josh Downs"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 27,
@@ -81,27 +102,6 @@
         ],
         "in_play": [
             "Tank Dell"
-        ]
-    },
-    {
-        "owner": "Brian Fuquay",
-        "passing_yards": 0,
-        "receiving_yards": 6,
-        "rushing_yards": 18,
-        "total_yards": 24,
-        "yet_to_play": [
-            "Jared Goff",
-            "James Cook",
-            "Rome Odunze",
-            "Treylon Burks",
-            "Gunnar Helm",
-            "Kenneth Walker",
-            "Chase Brown",
-            "Jonah Coleman"
-        ],
-        "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs"
         ]
     },
     {
