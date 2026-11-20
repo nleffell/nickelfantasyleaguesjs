@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 118,
+        "passing_yards": 137,
         "receiving_yards": 0,
         "rushing_yards": 4,
-        "total_yards": 122,
+        "total_yards": 141,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -18,6 +18,27 @@
         ],
         "in_play": [
             "C.J. Stroud"
+        ]
+    },
+    {
+        "owner": "TJ Pickeral",
+        "passing_yards": 0,
+        "receiving_yards": 3,
+        "rushing_yards": 45,
+        "total_yards": 48,
+        "yet_to_play": [
+            "Josh Allen",
+            "Jaylen Warren",
+            "CeeDee Lamb",
+            "Khalil Shakir",
+            "Stefon Diggs",
+            "Colston Loveland",
+            "Emmett Johnson",
+            "Deebo Samuel",
+            "Jacory Croskey-Merritt"
+        ],
+        "in_play": [
+            "David Montgomery"
         ]
     },
     {
@@ -39,27 +60,6 @@
         ],
         "in_play": [
             "Nico Collins"
-        ]
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 0,
-        "receiving_yards": 3,
-        "rushing_yards": 26,
-        "total_yards": 29,
-        "yet_to_play": [
-            "Josh Allen",
-            "Jaylen Warren",
-            "CeeDee Lamb",
-            "Khalil Shakir",
-            "Stefon Diggs",
-            "Colston Loveland",
-            "Emmett Johnson",
-            "Deebo Samuel",
-            "Jacory Croskey-Merritt"
-        ],
-        "in_play": [
-            "David Montgomery"
         ]
     },
     {
