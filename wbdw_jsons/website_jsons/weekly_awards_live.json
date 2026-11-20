@@ -3,8 +3,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 194,
         "receiving_yards": 0,
-        "rushing_yards": 28,
-        "total_yards": 222,
+        "rushing_yards": 27,
+        "total_yards": 221,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -16,16 +16,14 @@
             "Pat Freiermuth",
             "D'Andre Swift"
         ],
-        "in_play": [
-            "C.J. Stroud"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 17,
-        "rushing_yards": 92,
-        "total_yards": 109,
+        "rushing_yards": 107,
+        "total_yards": 124,
         "yet_to_play": [
             "Josh Allen",
             "Jaylen Warren",
@@ -37,9 +35,7 @@
             "Deebo Samuel",
             "Jacory Croskey-Merritt"
         ],
-        "in_play": [
-            "David Montgomery"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -58,9 +54,7 @@
             "Mike Evans",
             "Chig Okonkwo"
         ],
-        "in_play": [
-            "Nico Collins"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -78,10 +72,7 @@
             "Chase Brown",
             "Jonah Coleman"
         ],
-        "in_play": [
-            "Jonathan Taylor",
-            "Josh Downs"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -100,9 +91,7 @@
             "Tre Tucker",
             "Parker Washington"
         ],
-        "in_play": [
-            "Tank Dell"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -121,9 +110,7 @@
             "Dalton Kincaid",
             "Caleb Douglas"
         ],
-        "in_play": [
-            "Tyler Warren"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
