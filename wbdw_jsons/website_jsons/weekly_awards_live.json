@@ -52,12 +52,13 @@
             "Rashee Rice",
             "George Pickens",
             "Chris Olave",
-            "Tyler Warren",
             "Ryan Flournoy",
             "Dalton Kincaid",
             "Caleb Douglas"
         ],
-        "in_play": []
+        "in_play": [
+            "Tyler Warren"
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -87,7 +88,6 @@
         "total_yards": 0,
         "yet_to_play": [
             "Josh Allen",
-            "David Montgomery",
             "Jaylen Warren",
             "CeeDee Lamb",
             "Khalil Shakir",
@@ -97,7 +97,9 @@
             "Deebo Samuel",
             "Jacory Croskey-Merritt"
         ],
-        "in_play": []
+        "in_play": [
+            "David Montgomery"
+        ]
     },
     {
         "owner": "Brian Fuquay",
@@ -107,17 +109,18 @@
         "total_yards": 0,
         "yet_to_play": [
             "Jared Goff",
-            "Jonathan Taylor",
             "James Cook",
             "Rome Odunze",
             "Treylon Burks",
-            "Josh Downs",
             "Mason Taylor",
             "Kenneth Walker",
             "Chase Brown",
             "Jonah Coleman"
         ],
-        "in_play": []
+        "in_play": [
+            "Jonathan Taylor",
+            "Josh Downs"
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -130,14 +133,15 @@
             "Kenny Gainwell",
             "Tyler Allgeier",
             "Garrett Wilson",
-            "Nico Collins",
             "Jaylen Waddle",
             "Mark Andrews",
             "Ja'Marr Chase",
             "Mike Evans",
             "Chig Okonkwo"
         ],
-        "in_play": []
+        "in_play": [
+            "Nico Collins"
+        ]
     },
     {
         "owner": "Jon Knicely",
@@ -165,7 +169,6 @@
         "rushing_yards": 0,
         "total_yards": 0,
         "yet_to_play": [
-            "C.J. Stroud",
             "Jahmyr Gibbs",
             "Javonte Williams",
             "Chris Godwin",
@@ -176,7 +179,9 @@
             "Pat Freiermuth",
             "D'Andre Swift"
         ],
-        "in_play": []
+        "in_play": [
+            "C.J. Stroud"
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -189,14 +194,15 @@
             "Kyle Monangai",
             "Omarion Hampton",
             "Carnell Tate",
-            "Tank Dell",
             "Tre' Harris",
             "Sam LaPorta",
             "Pat Bryant",
             "Tre Tucker",
             "Parker Washington"
         ],
-        "in_play": []
+        "in_play": [
+            "Tank Dell"
+        ]
     },
     {
         "owner": "Brad Lowe",
