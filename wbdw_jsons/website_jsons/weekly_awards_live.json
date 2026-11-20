@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 16,
+        "passing_yards": 58,
         "receiving_yards": 0,
         "rushing_yards": 4,
-        "total_yards": 20,
+        "total_yards": 62,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -21,11 +21,32 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 0,
+        "receiving_yards": 42,
+        "rushing_yards": 0,
+        "total_yards": 42,
+        "yet_to_play": [
+            "Trevor Lawrence",
+            "Kenny Gainwell",
+            "Tyler Allgeier",
+            "Garrett Wilson",
+            "Jaylen Waddle",
+            "Mark Andrews",
+            "Ja'Marr Chase",
+            "Mike Evans",
+            "Chig Okonkwo"
+        ],
+        "in_play": [
+            "Nico Collins"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 0,
         "receiving_yards": -1,
-        "rushing_yards": 14,
-        "total_yards": 13,
+        "rushing_yards": 15,
+        "total_yards": 14,
         "yet_to_play": [
             "Jared Goff",
             "James Cook",
@@ -142,27 +163,6 @@
             "Dontayvion Wicks"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Trevor Lawrence",
-            "Kenny Gainwell",
-            "Tyler Allgeier",
-            "Garrett Wilson",
-            "Jaylen Waddle",
-            "Mark Andrews",
-            "Ja'Marr Chase",
-            "Mike Evans",
-            "Chig Okonkwo"
-        ],
-        "in_play": [
-            "Nico Collins"
-        ]
     },
     {
         "owner": "Jon Knicely",
