@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 134,
+        "passing_yards": 139,
         "receiving_yards": 0,
-        "rushing_yards": 4,
-        "total_yards": 138,
+        "rushing_yards": 5,
+        "total_yards": 144,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -23,9 +23,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 0,
-        "receiving_yards": 3,
+        "receiving_yards": 8,
         "rushing_yards": 68,
-        "total_yards": 71,
+        "total_yards": 76,
         "yet_to_play": [
             "Josh Allen",
             "Jaylen Warren",
