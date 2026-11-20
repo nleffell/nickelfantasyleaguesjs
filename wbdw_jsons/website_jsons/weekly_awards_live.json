@@ -1,10 +1,10 @@
 [
     {
         "owner": "Kyle Nester",
-        "passing_yards": 139,
+        "passing_yards": 166,
         "receiving_yards": 0,
         "rushing_yards": 5,
-        "total_yards": 144,
+        "total_yards": 171,
         "yet_to_play": [
             "Jahmyr Gibbs",
             "Javonte Williams",
@@ -24,8 +24,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 0,
         "receiving_yards": 8,
-        "rushing_yards": 72,
-        "total_yards": 80,
+        "rushing_yards": 74,
+        "total_yards": 82,
         "yet_to_play": [
             "Josh Allen",
             "Jaylen Warren",
@@ -60,6 +60,27 @@
         ],
         "in_play": [
             "Nico Collins"
+        ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 0,
+        "receiving_yards": 27,
+        "rushing_yards": 0,
+        "total_yards": 27,
+        "yet_to_play": [
+            "Kyle McCord",
+            "Kyle Monangai",
+            "Omarion Hampton",
+            "Carnell Tate",
+            "Tre' Harris",
+            "Sam LaPorta",
+            "Pat Bryant",
+            "Tre Tucker",
+            "Parker Washington"
+        ],
+        "in_play": [
+            "Tank Dell"
         ]
     },
     {
@@ -182,27 +203,6 @@
             "Myles Price"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 0,
-        "receiving_yards": 0,
-        "rushing_yards": 0,
-        "total_yards": 0,
-        "yet_to_play": [
-            "Kyle McCord",
-            "Kyle Monangai",
-            "Omarion Hampton",
-            "Carnell Tate",
-            "Tre' Harris",
-            "Sam LaPorta",
-            "Pat Bryant",
-            "Tre Tucker",
-            "Parker Washington"
-        ],
-        "in_play": [
-            "Tank Dell"
-        ]
     },
     {
         "owner": "Brad Lowe",
