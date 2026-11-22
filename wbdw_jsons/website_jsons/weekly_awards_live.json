@@ -38,6 +38,21 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 325,
+        "receiving_yards": 140,
+        "rushing_yards": 52,
+        "total_yards": 517,
+        "yet_to_play": [
+            "Myles Price"
+        ],
+        "in_play": [
+            "Cam Skattebo",
+            "Breece Hall",
+            "Quentin Johnston"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 276,
         "receiving_yards": 175,
@@ -52,26 +67,11 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 325,
-        "receiving_yards": 133,
-        "rushing_yards": 48,
-        "total_yards": 506,
-        "yet_to_play": [
-            "Myles Price"
-        ],
-        "in_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Quentin Johnston"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 320,
+        "receiving_yards": 326,
         "rushing_yards": 129,
-        "total_yards": 449,
+        "total_yards": 455,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -98,8 +98,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 324,
         "receiving_yards": 69,
-        "rushing_yards": 22,
-        "total_yards": 415,
+        "rushing_yards": 26,
+        "total_yards": 419,
         "yet_to_play": [
             "Antonio Williams"
         ],
