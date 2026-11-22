@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 174,
         "receiving_yards": 96,
-        "rushing_yards": 116,
-        "total_yards": 386,
+        "rushing_yards": 117,
+        "total_yards": 387,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -59,11 +59,32 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 184,
+        "receiving_yards": 103,
+        "rushing_yards": 10,
+        "total_yards": 297,
+        "yet_to_play": [
+            "Bhayshul Tuten",
+            "Justin Jefferson",
+            "George Kittle"
+        ],
+        "in_play": [
+            "Jacoby Brissett",
+            "Ollie Gordon",
+            "DeVonta Smith",
+            "Amon-Ra St. Brown",
+            "Juwan Johnson",
+            "DK Metcalf",
+            "Zay Flowers"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
-        "passing_yards": 231,
+        "passing_yards": 233,
         "receiving_yards": 51,
         "rushing_yards": 0,
-        "total_yards": 282,
+        "total_yards": 284,
         "yet_to_play": [
             "Braelon Allen",
             "LeQuint Allen",
@@ -80,24 +101,24 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 143,
-        "receiving_yards": 97,
-        "rushing_yards": 10,
-        "total_yards": 250,
+        "owner": "Jon Knicely",
+        "passing_yards": 182,
+        "receiving_yards": 46,
+        "rushing_yards": 17,
+        "total_yards": 245,
         "yet_to_play": [
-            "Bhayshul Tuten",
-            "Justin Jefferson",
-            "George Kittle"
+            "Cam Skattebo",
+            "Breece Hall",
+            "Quentin Johnston",
+            "Myles Price"
         ],
         "in_play": [
-            "Jacoby Brissett",
-            "Ollie Gordon",
-            "DeVonta Smith",
-            "Amon-Ra St. Brown",
-            "Juwan Johnson",
-            "DK Metcalf",
-            "Zay Flowers"
+            "Dak Prescott",
+            "Malik Washington",
+            "Keon Coleman",
+            "Elic Ayomanor",
+            "Trey McBride",
+            "Brevyn Spann-Ford"
         ]
     },
     {
@@ -122,24 +143,24 @@
         ]
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 182,
-        "receiving_yards": 34,
-        "rushing_yards": 21,
-        "total_yards": 237,
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 123,
+        "rushing_yards": 95,
+        "total_yards": 218,
         "yet_to_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Quentin Johnston",
-            "Myles Price"
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Jakobi Meyers",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
         ],
         "in_play": [
-            "Dak Prescott",
-            "Malik Washington",
-            "Keon Coleman",
-            "Elic Ayomanor",
-            "Trey McBride",
-            "Brevyn Spann-Ford"
+            "Derrick Henry",
+            "DJ Moore",
+            "Travis Kelce",
+            "Tony Pollard"
         ]
     },
     {
@@ -160,27 +181,6 @@
             "Chris Olave",
             "Ryan Flournoy",
             "Caleb Douglas"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 123,
-        "rushing_yards": 77,
-        "total_yards": 200,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Jakobi Meyers",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "DJ Moore",
-            "Travis Kelce",
-            "Tony Pollard"
         ]
     },
     {
@@ -208,8 +208,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 23,
         "receiving_yards": 88,
-        "rushing_yards": 12,
-        "total_yards": 123,
+        "rushing_yards": 15,
+        "total_yards": 126,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
