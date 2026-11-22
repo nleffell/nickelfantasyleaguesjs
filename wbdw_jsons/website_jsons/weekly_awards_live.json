@@ -27,8 +27,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 138,
-        "rushing_yards": 231,
-        "total_yards": 648,
+        "rushing_yards": 237,
+        "total_yards": 654,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
@@ -38,11 +38,25 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 404,
+        "rushing_yards": 190,
+        "total_yards": 594,
+        "yet_to_play": [
+            "Joe Burrow"
+        ],
+        "in_play": [
+            "Ashton Jeanty",
+            "Malachi Fields"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 325,
-        "receiving_yards": 160,
-        "rushing_yards": 61,
-        "total_yards": 546,
+        "receiving_yards": 163,
+        "rushing_yards": 64,
+        "total_yards": 552,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -67,25 +81,11 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 336,
-        "rushing_yards": 190,
-        "total_yards": 526,
-        "yet_to_play": [
-            "Joe Burrow"
-        ],
-        "in_play": [
-            "Ashton Jeanty",
-            "Malachi Fields"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 324,
-        "receiving_yards": 93,
+        "receiving_yards": 101,
         "rushing_yards": 31,
-        "total_yards": 448,
+        "total_yards": 456,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -113,9 +113,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 181,
-        "receiving_yards": 150,
+        "receiving_yards": 161,
         "rushing_yards": 79,
-        "total_yards": 410,
+        "total_yards": 421,
         "yet_to_play": [
             "Aaron Jones",
             "Tee Higgins",
