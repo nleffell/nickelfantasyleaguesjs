@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 203,
-        "receiving_yards": 218,
-        "rushing_yards": 206,
-        "total_yards": 627,
+        "receiving_yards": 242,
+        "rushing_yards": 207,
+        "total_yards": 652,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 190,
-        "rushing_yards": 152,
-        "total_yards": 536,
+        "receiving_yards": 197,
+        "rushing_yards": 164,
+        "total_yards": 555,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -42,9 +42,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 238,
-        "receiving_yards": 108,
+        "receiving_yards": 122,
         "rushing_yards": 142,
-        "total_yards": 488,
+        "total_yards": 502,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -60,10 +60,10 @@
     },
     {
         "owner": "Victor Dankens",
-        "passing_yards": 222,
+        "passing_yards": 230,
         "receiving_yards": 142,
-        "rushing_yards": 40,
-        "total_yards": 404,
+        "rushing_yards": 27,
+        "total_yards": 399,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -81,10 +81,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 241,
+        "passing_yards": 302,
         "receiving_yards": 79,
         "rushing_yards": 17,
-        "total_yards": 337,
+        "total_yards": 398,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -101,32 +101,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 162,
-        "receiving_yards": 103,
-        "rushing_yards": 63,
-        "total_yards": 328,
-        "yet_to_play": [
-            "Aaron Jones",
-            "Tee Higgins",
-            "Mike Gesicki",
-            "Kenyon Sadiq",
-            "Samaje Perine"
-        ],
-        "in_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Jalen Coker",
-            "Kalif Raymond",
-            "Dallas Goedert"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 230,
+        "receiving_yards": 270,
         "rushing_yards": 96,
-        "total_yards": 326,
+        "total_yards": 366,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -143,10 +122,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 266,
-        "receiving_yards": 51,
+        "passing_yards": 306,
+        "receiving_yards": 57,
         "rushing_yards": 0,
-        "total_yards": 317,
+        "total_yards": 363,
         "yet_to_play": [
             "Braelon Allen",
             "LeQuint Allen",
@@ -163,11 +142,32 @@
         ]
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 163,
+        "receiving_yards": 112,
+        "rushing_yards": 68,
+        "total_yards": 343,
+        "yet_to_play": [
+            "Aaron Jones",
+            "Tee Higgins",
+            "Mike Gesicki",
+            "Kenyon Sadiq",
+            "Samaje Perine"
+        ],
+        "in_play": [
+            "Caleb Williams",
+            "Bucky Irving",
+            "Jalen Coker",
+            "Kalif Raymond",
+            "Dallas Goedert"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 161,
-        "rushing_yards": 126,
-        "total_yards": 287,
+        "rushing_yards": 130,
+        "total_yards": 291,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -187,8 +187,8 @@
         "owner": "Chad Hill",
         "passing_yards": 124,
         "receiving_yards": 87,
-        "rushing_yards": 17,
-        "total_yards": 228,
+        "rushing_yards": 16,
+        "total_yards": 227,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
@@ -227,8 +227,8 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
-        "receiving_yards": 102,
-        "rushing_yards": 32,
+        "receiving_yards": 101,
+        "rushing_yards": 33,
         "total_yards": 134,
         "yet_to_play": [
             "Trevor Lawrence",
