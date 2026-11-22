@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 203,
+        "passing_yards": 213,
         "receiving_yards": 242,
         "rushing_yards": 207,
-        "total_yards": 652,
+        "total_yards": 662,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 197,
-        "rushing_yards": 164,
-        "total_yards": 555,
+        "receiving_yards": 266,
+        "rushing_yards": 170,
+        "total_yards": 630,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 238,
+        "passing_yards": 253,
         "receiving_yards": 122,
-        "rushing_yards": 142,
-        "total_yards": 502,
+        "rushing_yards": 138,
+        "total_yards": 513,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -83,8 +83,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 302,
         "receiving_yards": 79,
-        "rushing_yards": 17,
-        "total_yards": 398,
+        "rushing_yards": 18,
+        "total_yards": 399,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -98,6 +98,27 @@
             "Elic Ayomanor",
             "Trey McBride",
             "Brevyn Spann-Ford"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 324,
+        "receiving_yards": 57,
+        "rushing_yards": 0,
+        "total_yards": 381,
+        "yet_to_play": [
+            "Braelon Allen",
+            "LeQuint Allen",
+            "Malik Nabers",
+            "Michael Mayer",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Emeka Egbuka",
+            "Germie Bernard",
+            "Cade Otton",
+            "Makai Lemon"
         ]
     },
     {
@@ -118,27 +139,6 @@
             "Chris Olave",
             "Ryan Flournoy",
             "Caleb Douglas"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 306,
-        "receiving_yards": 57,
-        "rushing_yards": 0,
-        "total_yards": 363,
-        "yet_to_play": [
-            "Braelon Allen",
-            "LeQuint Allen",
-            "Malik Nabers",
-            "Michael Mayer",
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Emeka Egbuka",
-            "Germie Bernard",
-            "Cade Otton",
-            "Makai Lemon"
         ]
     },
     {
@@ -163,6 +163,27 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 193,
+        "receiving_yards": 90,
+        "rushing_yards": 16,
+        "total_yards": 299,
+        "yet_to_play": [
+            "Mike Washington",
+            "Adonai Mitchell",
+            "T.J. Hockenson"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Ty Johnson",
+            "Jordyn Tyson",
+            "Luther Burden",
+            "Alvin Kamara",
+            "Zonovan Knight",
+            "Tez Johnson"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 161,
@@ -181,27 +202,6 @@
             "DJ Moore",
             "Travis Kelce",
             "Tony Pollard"
-        ]
-    },
-    {
-        "owner": "Chad Hill",
-        "passing_yards": 124,
-        "receiving_yards": 87,
-        "rushing_yards": 16,
-        "total_yards": 227,
-        "yet_to_play": [
-            "Mike Washington",
-            "Adonai Mitchell",
-            "T.J. Hockenson"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Ty Johnson",
-            "Jordyn Tyson",
-            "Luther Burden",
-            "Alvin Kamara",
-            "Zonovan Knight",
-            "Tez Johnson"
         ]
     },
     {
