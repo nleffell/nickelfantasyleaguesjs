@@ -99,9 +99,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
-        "receiving_yards": 236,
-        "rushing_yards": 112,
-        "total_yards": 450,
+        "receiving_yards": 258,
+        "rushing_yards": 116,
+        "total_yards": 476,
         "yet_to_play": [],
         "in_play": [
             "Omarion Hampton",
@@ -115,8 +115,8 @@
         "owner": "Chad Hill",
         "passing_yards": 254,
         "receiving_yards": 129,
-        "rushing_yards": 53,
-        "total_yards": 436,
+        "rushing_yards": 73,
+        "total_yards": 456,
         "yet_to_play": [
             "T.J. Hockenson"
         ],
