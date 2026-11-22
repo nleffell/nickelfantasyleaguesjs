@@ -27,14 +27,29 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 138,
-        "rushing_yards": 226,
-        "total_yards": 643,
+        "rushing_yards": 225,
+        "total_yards": 642,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
         ],
         "in_play": [
             "Jonah Coleman"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 325,
+        "receiving_yards": 140,
+        "rushing_yards": 59,
+        "total_yards": 524,
+        "yet_to_play": [
+            "Myles Price"
+        ],
+        "in_play": [
+            "Cam Skattebo",
+            "Breece Hall",
+            "Quentin Johnston"
         ]
     },
     {
@@ -49,21 +64,6 @@
         ],
         "in_play": [
             "Bhayshul Tuten"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 325,
-        "receiving_yards": 140,
-        "rushing_yards": 49,
-        "total_yards": 514,
-        "yet_to_play": [
-            "Myles Price"
-        ],
-        "in_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Quentin Johnston"
         ]
     },
     {
@@ -83,9 +83,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 324,
-        "receiving_yards": 83,
-        "rushing_yards": 28,
-        "total_yards": 435,
+        "receiving_yards": 94,
+        "rushing_yards": 31,
+        "total_yards": 449,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -113,9 +113,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 181,
-        "receiving_yards": 140,
+        "receiving_yards": 150,
         "rushing_yards": 79,
-        "total_yards": 400,
+        "total_yards": 410,
         "yet_to_play": [
             "Aaron Jones",
             "Tee Higgins",
@@ -161,9 +161,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 23,
-        "receiving_yards": 153,
+        "receiving_yards": 154,
         "rushing_yards": 39,
-        "total_yards": 215,
+        "total_yards": 216,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
