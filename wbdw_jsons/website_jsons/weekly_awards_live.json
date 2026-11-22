@@ -42,8 +42,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 127,
-        "rushing_yards": 198,
-        "total_yards": 604,
+        "rushing_yards": 197,
+        "total_yards": 603,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -60,9 +60,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 262,
-        "receiving_yards": 168,
+        "receiving_yards": 175,
         "rushing_yards": 62,
-        "total_yards": 492,
+        "total_yards": 499,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -81,8 +81,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 133,
-        "rushing_yards": 24,
-        "total_yards": 482,
+        "rushing_yards": 35,
+        "total_yards": 493,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -117,11 +117,31 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 254,
+        "receiving_yards": 120,
+        "rushing_yards": 45,
+        "total_yards": 419,
+        "yet_to_play": [
+            "Mike Washington",
+            "Adonai Mitchell",
+            "T.J. Hockenson"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Ty Johnson",
+            "Jordyn Tyson",
+            "Luther Burden",
+            "Alvin Kamara",
+            "Tez Johnson"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 324,
         "receiving_yards": 69,
-        "rushing_yards": 0,
-        "total_yards": 393,
+        "rushing_yards": 3,
+        "total_yards": 396,
         "yet_to_play": [
             "Braelon Allen",
             "LeQuint Allen",
@@ -137,23 +157,24 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 248,
-        "receiving_yards": 99,
-        "rushing_yards": 45,
-        "total_yards": 392,
+        "owner": "Brad Lowe",
+        "passing_yards": 181,
+        "receiving_yards": 131,
+        "rushing_yards": 79,
+        "total_yards": 391,
         "yet_to_play": [
-            "Mike Washington",
-            "Adonai Mitchell",
-            "T.J. Hockenson"
+            "Aaron Jones",
+            "Tee Higgins",
+            "Mike Gesicki",
+            "Kenyon Sadiq",
+            "Samaje Perine"
         ],
         "in_play": [
-            "Bryce Young",
-            "Ty Johnson",
-            "Jordyn Tyson",
-            "Luther Burden",
-            "Alvin Kamara",
-            "Tez Johnson"
+            "Caleb Williams",
+            "Bucky Irving",
+            "Jalen Coker",
+            "Kalif Raymond",
+            "Dallas Goedert"
         ]
     },
     {
@@ -174,27 +195,6 @@
             "Derrick Henry",
             "DJ Moore",
             "Tony Pollard"
-        ]
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 181,
-        "receiving_yards": 125,
-        "rushing_yards": 79,
-        "total_yards": 385,
-        "yet_to_play": [
-            "Aaron Jones",
-            "Tee Higgins",
-            "Mike Gesicki",
-            "Kenyon Sadiq",
-            "Samaje Perine"
-        ],
-        "in_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Jalen Coker",
-            "Kalif Raymond",
-            "Dallas Goedert"
         ]
     },
     {
