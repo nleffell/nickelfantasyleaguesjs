@@ -22,8 +22,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 194,
         "receiving_yards": 297,
-        "rushing_yards": 240,
-        "total_yards": 731,
+        "rushing_yards": 244,
+        "total_yards": 735,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -58,6 +58,26 @@
         ]
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 262,
+        "receiving_yards": 167,
+        "rushing_yards": 62,
+        "total_yards": 491,
+        "yet_to_play": [
+            "Bhayshul Tuten",
+            "Justin Jefferson",
+            "George Kittle"
+        ],
+        "in_play": [
+            "Ollie Gordon",
+            "DeVonta Smith",
+            "Amon-Ra St. Brown",
+            "Juwan Johnson",
+            "DK Metcalf",
+            "Zay Flowers"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 133,
@@ -78,31 +98,11 @@
         ]
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 262,
-        "receiving_yards": 167,
-        "rushing_yards": 47,
-        "total_yards": 476,
-        "yet_to_play": [
-            "Bhayshul Tuten",
-            "Justin Jefferson",
-            "George Kittle"
-        ],
-        "in_play": [
-            "Ollie Gordon",
-            "DeVonta Smith",
-            "Amon-Ra St. Brown",
-            "Juwan Johnson",
-            "DK Metcalf",
-            "Zay Flowers"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 299,
-        "rushing_yards": 109,
-        "total_yards": 408,
+        "receiving_yards": 316,
+        "rushing_yards": 120,
+        "total_yards": 436,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -137,6 +137,26 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 182,
+        "rushing_yards": 204,
+        "total_yards": 386,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Jakobi Meyers",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "DJ Moore",
+            "Tony Pollard"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 181,
         "receiving_yards": 118,
@@ -155,26 +175,6 @@
             "Jalen Coker",
             "Kalif Raymond",
             "Dallas Goedert"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 182,
-        "rushing_yards": 189,
-        "total_yards": 371,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Jakobi Meyers",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "DJ Moore",
-            "Tony Pollard"
         ]
     },
     {
@@ -199,10 +199,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 77,
+        "passing_yards": 84,
         "receiving_yards": 147,
         "rushing_yards": 27,
-        "total_yards": 251,
+        "total_yards": 258,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
