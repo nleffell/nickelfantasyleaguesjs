@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 153,
-        "receiving_yards": 194,
+        "receiving_yards": 197,
         "rushing_yards": 187,
-        "total_yards": 534,
+        "total_yards": 537,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 87,
+        "receiving_yards": 102,
         "rushing_yards": 101,
-        "total_yards": 382,
+        "total_yards": 397,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -61,9 +61,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 143,
-        "receiving_yards": 100,
-        "rushing_yards": 8,
-        "total_yards": 251,
+        "receiving_yards": 97,
+        "rushing_yards": 10,
+        "total_yards": 250,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -77,6 +77,48 @@
             "Juwan Johnson",
             "DK Metcalf",
             "Zay Flowers"
+        ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 113,
+        "receiving_yards": 103,
+        "rushing_yards": 25,
+        "total_yards": 241,
+        "yet_to_play": [
+            "Aaron Jones",
+            "Tee Higgins",
+            "Mike Gesicki",
+            "Kenyon Sadiq",
+            "Samaje Perine"
+        ],
+        "in_play": [
+            "Caleb Williams",
+            "Bucky Irving",
+            "Jalen Coker",
+            "Kalif Raymond",
+            "Dallas Goedert"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 182,
+        "receiving_yards": 34,
+        "rushing_yards": 21,
+        "total_yards": 237,
+        "yet_to_play": [
+            "Cam Skattebo",
+            "Breece Hall",
+            "Quentin Johnston",
+            "Myles Price"
+        ],
+        "in_play": [
+            "Dak Prescott",
+            "Malik Washington",
+            "Keon Coleman",
+            "Elic Ayomanor",
+            "Trey McBride",
+            "Brevyn Spann-Ford"
         ]
     },
     {
@@ -101,53 +143,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 113,
-        "receiving_yards": 87,
-        "rushing_yards": 25,
-        "total_yards": 225,
-        "yet_to_play": [
-            "Aaron Jones",
-            "Tee Higgins",
-            "Mike Gesicki",
-            "Kenyon Sadiq",
-            "Samaje Perine"
-        ],
-        "in_play": [
-            "Caleb Williams",
-            "Bucky Irving",
-            "Jalen Coker",
-            "Kalif Raymond",
-            "Dallas Goedert"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 170,
-        "receiving_yards": 31,
-        "rushing_yards": 21,
-        "total_yards": 222,
-        "yet_to_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Quentin Johnston",
-            "Myles Price"
-        ],
-        "in_play": [
-            "Dak Prescott",
-            "Malik Washington",
-            "Keon Coleman",
-            "Elic Ayomanor",
-            "Trey McBride",
-            "Brevyn Spann-Ford"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 144,
+        "receiving_yards": 154,
         "rushing_yards": 52,
-        "total_yards": 196,
+        "total_yards": 206,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -185,10 +185,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 79,
-        "receiving_yards": 77,
+        "passing_yards": 105,
+        "receiving_yards": 78,
         "rushing_yards": 8,
-        "total_yards": 164,
+        "total_yards": 191,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
@@ -206,10 +206,10 @@
     },
     {
         "owner": "Patrick Neafsey",
-        "passing_yards": 26,
+        "passing_yards": 23,
         "receiving_yards": 88,
-        "rushing_yards": 6,
-        "total_yards": 120,
+        "rushing_yards": 12,
+        "total_yards": 123,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
