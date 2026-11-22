@@ -21,9 +21,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 297,
+        "receiving_yards": 310,
         "rushing_yards": 244,
-        "total_yards": 735,
+        "total_yards": 748,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -60,9 +60,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 262,
-        "receiving_yards": 167,
+        "receiving_yards": 168,
         "rushing_yards": 62,
-        "total_yards": 491,
+        "total_yards": 492,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -81,8 +81,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 133,
-        "rushing_yards": 25,
-        "total_yards": 483,
+        "rushing_yards": 24,
+        "total_yards": 482,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -100,9 +100,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 316,
-        "rushing_yards": 120,
-        "total_yards": 436,
+        "receiving_yards": 320,
+        "rushing_yards": 127,
+        "total_yards": 447,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -137,6 +137,26 @@
         ]
     },
     {
+        "owner": "Chad Hill",
+        "passing_yards": 248,
+        "receiving_yards": 99,
+        "rushing_yards": 45,
+        "total_yards": 392,
+        "yet_to_play": [
+            "Mike Washington",
+            "Adonai Mitchell",
+            "T.J. Hockenson"
+        ],
+        "in_play": [
+            "Bryce Young",
+            "Ty Johnson",
+            "Jordyn Tyson",
+            "Luther Burden",
+            "Alvin Kamara",
+            "Tez Johnson"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 182,
@@ -159,9 +179,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 181,
-        "receiving_yards": 118,
-        "rushing_yards": 81,
-        "total_yards": 380,
+        "receiving_yards": 125,
+        "rushing_yards": 79,
+        "total_yards": 385,
         "yet_to_play": [
             "Aaron Jones",
             "Tee Higgins",
@@ -178,31 +198,11 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 217,
-        "receiving_yards": 99,
-        "rushing_yards": 45,
-        "total_yards": 361,
-        "yet_to_play": [
-            "Mike Washington",
-            "Adonai Mitchell",
-            "T.J. Hockenson"
-        ],
-        "in_play": [
-            "Bryce Young",
-            "Ty Johnson",
-            "Jordyn Tyson",
-            "Luther Burden",
-            "Alvin Kamara",
-            "Tez Johnson"
-        ]
-    },
-    {
         "owner": "Patrick Neafsey",
-        "passing_yards": 84,
+        "passing_yards": 102,
         "receiving_yards": 147,
         "rushing_yards": 27,
-        "total_yards": 258,
+        "total_yards": 276,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
