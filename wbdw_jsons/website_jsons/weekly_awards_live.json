@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 102,
+        "receiving_yards": 116,
         "rushing_yards": 101,
-        "total_yards": 397,
+        "total_yards": 411,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 174,
+        "passing_yards": 181,
         "receiving_yards": 96,
         "rushing_yards": 117,
-        "total_yards": 387,
+        "total_yards": 394,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -62,8 +62,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 184,
         "receiving_yards": 104,
-        "rushing_yards": 10,
-        "total_yards": 298,
+        "rushing_yards": 16,
+        "total_yards": 304,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -101,6 +101,27 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 141,
+        "rushing_yards": 111,
+        "total_yards": 252,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Jakobi Meyers",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "DJ Moore",
+            "Travis Kelce",
+            "Tony Pollard"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 182,
         "receiving_yards": 46,
@@ -119,27 +140,6 @@
             "Elic Ayomanor",
             "Trey McBride",
             "Brevyn Spann-Ford"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 141,
-        "rushing_yards": 101,
-        "total_yards": 242,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Jakobi Meyers",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "DJ Moore",
-            "Travis Kelce",
-            "Tony Pollard"
         ]
     },
     {
@@ -185,10 +185,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 105,
+        "passing_yards": 112,
         "receiving_yards": 80,
         "rushing_yards": 8,
-        "total_yards": 193,
+        "total_yards": 200,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
