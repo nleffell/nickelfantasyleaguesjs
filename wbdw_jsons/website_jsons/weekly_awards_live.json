@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 41,
+        "passing_yards": 75,
         "receiving_yards": 109,
         "rushing_yards": 168,
-        "total_yards": 318,
+        "total_yards": 352,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 39,
-        "rushing_yards": 77,
-        "total_yards": 310,
+        "receiving_yards": 56,
+        "rushing_yards": 81,
+        "total_yards": 331,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 74,
+        "passing_yards": 107,
         "receiving_yards": 29,
-        "rushing_yards": 49,
-        "total_yards": 152,
+        "rushing_yards": 90,
+        "total_yards": 226,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -61,9 +61,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 111,
-        "receiving_yards": 34,
+        "receiving_yards": 53,
         "rushing_yards": 5,
-        "total_yards": 150,
+        "total_yards": 169,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -123,9 +123,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 21,
-        "receiving_yards": 85,
+        "receiving_yards": 84,
         "rushing_yards": 5,
-        "total_yards": 111,
+        "total_yards": 110,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
@@ -182,6 +182,27 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 42,
+        "rushing_yards": 43,
+        "total_yards": 85,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Jakobi Meyers",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "DJ Moore",
+            "Travis Kelce",
+            "Tony Pollard"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 82,
         "receiving_yards": 0,
@@ -200,27 +221,6 @@
             "Elic Ayomanor",
             "Trey McBride",
             "Brevyn Spann-Ford"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 37,
-        "rushing_yards": 38,
-        "total_yards": 75,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Jakobi Meyers",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "DJ Moore",
-            "Travis Kelce",
-            "Tony Pollard"
         ]
     },
     {
