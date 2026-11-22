@@ -55,8 +55,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 169,
-        "rushing_yards": 79,
-        "total_yards": 573,
+        "rushing_yards": 85,
+        "total_yards": 579,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -161,9 +161,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 106,
-        "receiving_yards": 178,
+        "receiving_yards": 197,
         "rushing_yards": 46,
-        "total_yards": 330,
+        "total_yards": 349,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
