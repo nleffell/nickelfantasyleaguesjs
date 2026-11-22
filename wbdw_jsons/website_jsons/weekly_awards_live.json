@@ -27,8 +27,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 138,
-        "rushing_yards": 226,
-        "total_yards": 643,
+        "rushing_yards": 231,
+        "total_yards": 648,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
@@ -41,8 +41,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 149,
-        "rushing_yards": 59,
-        "total_yards": 533,
+        "rushing_yards": 58,
+        "total_yards": 532,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -55,9 +55,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 276,
-        "receiving_yards": 182,
+        "receiving_yards": 183,
         "rushing_yards": 70,
-        "total_yards": 528,
+        "total_yards": 529,
         "yet_to_play": [
             "Justin Jefferson",
             "George Kittle"
@@ -160,10 +160,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 77,
+        "passing_yards": 78,
         "receiving_yards": 178,
-        "rushing_yards": 53,
-        "total_yards": 308,
+        "rushing_yards": 47,
+        "total_yards": 303,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
