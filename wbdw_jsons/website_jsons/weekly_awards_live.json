@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 213,
-        "receiving_yards": 242,
+        "passing_yards": 270,
+        "receiving_yards": 299,
         "rushing_yards": 207,
-        "total_yards": 662,
+        "total_yards": 776,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 266,
-        "rushing_yards": 170,
-        "total_yards": 630,
+        "receiving_yards": 268,
+        "rushing_yards": 175,
+        "total_yards": 637,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -41,10 +41,10 @@
     },
     {
         "owner": "Brian Fuquay",
-        "passing_yards": 253,
+        "passing_yards": 256,
         "receiving_yards": 122,
-        "rushing_yards": 138,
-        "total_yards": 513,
+        "rushing_yards": 142,
+        "total_yards": 520,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -56,6 +56,27 @@
             "Rome Odunze",
             "Gunnar Helm",
             "Saquon Barkley"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 302,
+        "receiving_yards": 86,
+        "rushing_yards": 18,
+        "total_yards": 406,
+        "yet_to_play": [
+            "Cam Skattebo",
+            "Breece Hall",
+            "Quentin Johnston",
+            "Myles Price"
+        ],
+        "in_play": [
+            "Dak Prescott",
+            "Malik Washington",
+            "Keon Coleman",
+            "Elic Ayomanor",
+            "Trey McBride",
+            "Brevyn Spann-Ford"
         ]
     },
     {
@@ -77,27 +98,6 @@
             "Juwan Johnson",
             "DK Metcalf",
             "Zay Flowers"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 302,
-        "receiving_yards": 79,
-        "rushing_yards": 18,
-        "total_yards": 399,
-        "yet_to_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Quentin Johnston",
-            "Myles Price"
-        ],
-        "in_play": [
-            "Dak Prescott",
-            "Malik Washington",
-            "Keon Coleman",
-            "Elic Ayomanor",
-            "Trey McBride",
-            "Brevyn Spann-Ford"
         ]
     },
     {
@@ -125,8 +125,8 @@
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 270,
-        "rushing_yards": 96,
-        "total_yards": 366,
+        "rushing_yards": 97,
+        "total_yards": 367,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -164,10 +164,10 @@
     },
     {
         "owner": "Chad Hill",
-        "passing_yards": 193,
+        "passing_yards": 192,
         "receiving_yards": 90,
         "rushing_yards": 16,
-        "total_yards": 299,
+        "total_yards": 298,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
@@ -187,8 +187,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 161,
-        "rushing_yards": 130,
-        "total_yards": 291,
+        "rushing_yards": 134,
+        "total_yards": 295,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -207,9 +207,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 60,
-        "receiving_yards": 147,
+        "receiving_yards": 162,
         "rushing_yards": 15,
-        "total_yards": 222,
+        "total_yards": 237,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
