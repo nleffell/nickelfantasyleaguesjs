@@ -26,9 +26,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 279,
-        "receiving_yards": 127,
-        "rushing_yards": 197,
-        "total_yards": 603,
+        "receiving_yards": 130,
+        "rushing_yards": 200,
+        "total_yards": 609,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -40,8 +40,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 276,
         "receiving_yards": 175,
-        "rushing_yards": 63,
-        "total_yards": 514,
+        "rushing_yards": 64,
+        "total_yards": 515,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -53,8 +53,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 133,
-        "rushing_yards": 35,
-        "total_yards": 493,
+        "rushing_yards": 46,
+        "total_yards": 504,
         "yet_to_play": [
             "Cam Skattebo",
             "Myles Price"
@@ -80,9 +80,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 254,
-        "receiving_yards": 120,
+        "receiving_yards": 129,
         "rushing_yards": 43,
-        "total_yards": 417,
+        "total_yards": 426,
         "yet_to_play": [
             "Mike Washington",
             "T.J. Hockenson"
@@ -90,6 +90,38 @@
         "in_play": [
             "Adonai Mitchell"
         ]
+    },
+    {
+        "owner": "Brad Lowe",
+        "passing_yards": 181,
+        "receiving_yards": 140,
+        "rushing_yards": 79,
+        "total_yards": 400,
+        "yet_to_play": [
+            "Aaron Jones",
+            "Tee Higgins",
+            "Mike Gesicki",
+            "Samaje Perine"
+        ],
+        "in_play": [
+            "Kenyon Sadiq"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 195,
+        "rushing_yards": 204,
+        "total_yards": 399,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Jakobi Meyers",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
+        ],
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -108,43 +140,11 @@
         ]
     },
     {
-        "owner": "Brad Lowe",
-        "passing_yards": 181,
-        "receiving_yards": 131,
-        "rushing_yards": 79,
-        "total_yards": 391,
-        "yet_to_play": [
-            "Aaron Jones",
-            "Tee Higgins",
-            "Mike Gesicki",
-            "Samaje Perine"
-        ],
-        "in_play": [
-            "Kenyon Sadiq"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 182,
-        "rushing_yards": 204,
-        "total_yards": 386,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Jakobi Meyers",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
-        "receiving_yards": 147,
+        "receiving_yards": 168,
         "rushing_yards": 43,
-        "total_yards": 292,
+        "total_yards": 313,
         "yet_to_play": [
             "Pat Bryant",
             "Tre Tucker",
@@ -157,10 +157,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 0,
-        "receiving_yards": 115,
+        "passing_yards": 13,
+        "receiving_yards": 123,
         "rushing_yards": 39,
-        "total_yards": 154,
+        "total_yards": 175,
         "yet_to_play": [
             "Trevor Lawrence",
             "Jaylen Waddle",
