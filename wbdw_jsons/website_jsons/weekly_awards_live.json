@@ -40,9 +40,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 325,
-        "receiving_yards": 149,
-        "rushing_yards": 58,
-        "total_yards": 532,
+        "receiving_yards": 160,
+        "rushing_yards": 61,
+        "total_yards": 546,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -69,9 +69,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 330,
+        "receiving_yards": 336,
         "rushing_yards": 190,
-        "total_yards": 520,
+        "total_yards": 526,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -100,8 +100,8 @@
         "owner": "Chad Hill",
         "passing_yards": 254,
         "receiving_yards": 129,
-        "rushing_yards": 43,
-        "total_yards": 426,
+        "rushing_yards": 50,
+        "total_yards": 433,
         "yet_to_play": [
             "T.J. Hockenson"
         ],
@@ -147,8 +147,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
         "receiving_yards": 214,
-        "rushing_yards": 67,
-        "total_yards": 383,
+        "rushing_yards": 70,
+        "total_yards": 386,
         "yet_to_play": [],
         "in_play": [
             "Omarion Hampton",
