@@ -69,9 +69,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 326,
-        "rushing_yards": 144,
-        "total_yards": 470,
+        "receiving_yards": 330,
+        "rushing_yards": 190,
+        "total_yards": 520,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -146,9 +146,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
-        "receiving_yards": 193,
+        "receiving_yards": 214,
         "rushing_yards": 67,
-        "total_yards": 362,
+        "total_yards": 383,
         "yet_to_play": [],
         "in_play": [
             "Omarion Hampton",
@@ -160,10 +160,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 53,
+        "passing_yards": 77,
         "receiving_yards": 178,
-        "rushing_yards": 39,
-        "total_yards": 270,
+        "rushing_yards": 53,
+        "total_yards": 308,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
