@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 153,
+        "passing_yards": 173,
         "receiving_yards": 206,
         "rushing_yards": 187,
-        "total_yards": 546,
+        "total_yards": 566,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -61,9 +61,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 184,
-        "receiving_yards": 103,
+        "receiving_yards": 104,
         "rushing_yards": 10,
-        "total_yards": 297,
+        "total_yards": 298,
         "yet_to_play": [
             "Bhayshul Tuten",
             "Justin Jefferson",
@@ -122,6 +122,27 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 0,
+        "receiving_yards": 141,
+        "rushing_yards": 101,
+        "total_yards": 242,
+        "yet_to_play": [
+            "Jayden Daniels",
+            "Christian McCaffrey",
+            "Jakobi Meyers",
+            "Courtland Sutton",
+            "Isaiah Likely",
+            "Jordan Mason"
+        ],
+        "in_play": [
+            "Derrick Henry",
+            "DJ Moore",
+            "Travis Kelce",
+            "Tony Pollard"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 113,
         "receiving_yards": 103,
@@ -143,32 +164,11 @@
         ]
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 0,
-        "receiving_yards": 123,
-        "rushing_yards": 95,
-        "total_yards": 218,
-        "yet_to_play": [
-            "Jayden Daniels",
-            "Christian McCaffrey",
-            "Jakobi Meyers",
-            "Courtland Sutton",
-            "Isaiah Likely",
-            "Jordan Mason"
-        ],
-        "in_play": [
-            "Derrick Henry",
-            "DJ Moore",
-            "Travis Kelce",
-            "Tony Pollard"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 160,
-        "rushing_yards": 52,
-        "total_yards": 212,
+        "rushing_yards": 57,
+        "total_yards": 217,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -186,9 +186,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 105,
-        "receiving_yards": 78,
+        "receiving_yards": 80,
         "rushing_yards": 8,
-        "total_yards": 191,
+        "total_yards": 193,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
