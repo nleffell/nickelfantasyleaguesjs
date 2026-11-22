@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 153,
-        "receiving_yards": 197,
+        "receiving_yards": 206,
         "rushing_yards": 187,
-        "total_yards": 537,
+        "total_yards": 546,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -42,9 +42,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 174,
-        "receiving_yards": 71,
-        "rushing_yards": 113,
-        "total_yards": 358,
+        "receiving_yards": 96,
+        "rushing_yards": 116,
+        "total_yards": 386,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -56,6 +56,27 @@
             "Rome Odunze",
             "Gunnar Helm",
             "Saquon Barkley"
+        ]
+    },
+    {
+        "owner": "Nick Leffell",
+        "passing_yards": 231,
+        "receiving_yards": 51,
+        "rushing_yards": 0,
+        "total_yards": 282,
+        "yet_to_play": [
+            "Braelon Allen",
+            "LeQuint Allen",
+            "Malik Nabers",
+            "Michael Mayer",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Emeka Egbuka",
+            "Germie Bernard",
+            "Cade Otton",
+            "Makai Lemon"
         ]
     },
     {
@@ -122,32 +143,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 175,
-        "receiving_yards": 51,
-        "rushing_yards": 0,
-        "total_yards": 226,
-        "yet_to_play": [
-            "Braelon Allen",
-            "LeQuint Allen",
-            "Malik Nabers",
-            "Michael Mayer",
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Emeka Egbuka",
-            "Germie Bernard",
-            "Cade Otton",
-            "Makai Lemon"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 154,
+        "receiving_yards": 160,
         "rushing_yards": 52,
-        "total_yards": 206,
+        "total_yards": 212,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
@@ -166,8 +166,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 123,
-        "rushing_yards": 73,
-        "total_yards": 196,
+        "rushing_yards": 77,
+        "total_yards": 200,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
