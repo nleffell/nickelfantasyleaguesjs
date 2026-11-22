@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 193,
         "receiving_yards": 206,
-        "rushing_yards": 187,
-        "total_yards": 586,
+        "rushing_yards": 198,
+        "total_yards": 597,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 116,
-        "rushing_yards": 103,
-        "total_yards": 413,
+        "receiving_yards": 122,
+        "rushing_yards": 119,
+        "total_yards": 435,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 181,
         "receiving_yards": 96,
-        "rushing_yards": 116,
-        "total_yards": 393,
+        "rushing_yards": 126,
+        "total_yards": 403,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -123,10 +123,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 182,
+        "passing_yards": 188,
         "receiving_yards": 46,
         "rushing_yards": 17,
-        "total_yards": 245,
+        "total_yards": 251,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -166,9 +166,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 160,
+        "receiving_yards": 170,
         "rushing_yards": 57,
-        "total_yards": 217,
+        "total_yards": 227,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
