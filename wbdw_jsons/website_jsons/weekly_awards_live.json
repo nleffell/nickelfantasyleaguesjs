@@ -27,8 +27,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 138,
-        "rushing_yards": 237,
-        "total_yards": 654,
+        "rushing_yards": 251,
+        "total_yards": 668,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
@@ -40,9 +40,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 325,
-        "receiving_yards": 169,
-        "rushing_yards": 113,
-        "total_yards": 607,
+        "receiving_yards": 170,
+        "rushing_yards": 114,
+        "total_yards": 609,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -97,6 +97,21 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 102,
+        "receiving_yards": 230,
+        "rushing_yards": 112,
+        "total_yards": 444,
+        "yet_to_play": [],
+        "in_play": [
+            "Omarion Hampton",
+            "Tre' Harris",
+            "Pat Bryant",
+            "Tre Tucker",
+            "Parker Washington"
+        ]
+    },
+    {
         "owner": "Chad Hill",
         "passing_yards": 254,
         "receiving_yards": 129,
@@ -125,21 +140,6 @@
             "Jakobi Meyers",
             "Courtland Sutton",
             "Isaiah Likely"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 102,
-        "receiving_yards": 218,
-        "rushing_yards": 111,
-        "total_yards": 431,
-        "yet_to_play": [],
-        "in_play": [
-            "Omarion Hampton",
-            "Tre' Harris",
-            "Pat Bryant",
-            "Tre Tucker",
-            "Parker Washington"
         ]
     },
     {
