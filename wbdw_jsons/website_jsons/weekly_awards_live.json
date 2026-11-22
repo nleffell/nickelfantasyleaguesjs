@@ -40,8 +40,8 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 325,
-        "receiving_yards": 140,
-        "rushing_yards": 68,
+        "receiving_yards": 149,
+        "rushing_yards": 59,
         "total_yards": 533,
         "yet_to_play": [
             "Myles Price"
@@ -147,8 +147,8 @@
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
         "receiving_yards": 177,
-        "rushing_yards": 43,
-        "total_yards": 322,
+        "rushing_yards": 63,
+        "total_yards": 342,
         "yet_to_play": [],
         "in_play": [
             "Omarion Hampton",
@@ -160,10 +160,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 23,
-        "receiving_yards": 154,
+        "passing_yards": 30,
+        "receiving_yards": 178,
         "rushing_yards": 39,
-        "total_yards": 216,
+        "total_yards": 247,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
