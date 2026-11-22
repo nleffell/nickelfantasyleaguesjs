@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 270,
-        "receiving_yards": 299,
-        "rushing_yards": 207,
-        "total_yards": 776,
+        "passing_yards": 284,
+        "receiving_yards": 312,
+        "rushing_yards": 231,
+        "total_yards": 827,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 256,
         "receiving_yards": 122,
-        "rushing_yards": 142,
-        "total_yards": 520,
+        "rushing_yards": 141,
+        "total_yards": 519,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -62,8 +62,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 302,
         "receiving_yards": 86,
-        "rushing_yards": 18,
-        "total_yards": 406,
+        "rushing_yards": 24,
+        "total_yards": 412,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -145,8 +145,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 163,
         "receiving_yards": 112,
-        "rushing_yards": 68,
-        "total_yards": 343,
+        "rushing_yards": 77,
+        "total_yards": 352,
         "yet_to_play": [
             "Aaron Jones",
             "Tee Higgins",
@@ -207,9 +207,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 60,
-        "receiving_yards": 162,
+        "receiving_yards": 147,
         "rushing_yards": 15,
-        "total_yards": 237,
+        "total_yards": 222,
         "yet_to_play": [
             "Omarion Hampton",
             "Tre' Harris",
