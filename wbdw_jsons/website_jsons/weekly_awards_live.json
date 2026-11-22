@@ -146,9 +146,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
-        "receiving_yards": 214,
-        "rushing_yards": 70,
-        "total_yards": 386,
+        "receiving_yards": 218,
+        "rushing_yards": 74,
+        "total_yards": 394,
         "yet_to_play": [],
         "in_play": [
             "Omarion Hampton",
@@ -162,8 +162,8 @@
         "owner": "Nick Janowicz",
         "passing_yards": 106,
         "receiving_yards": 178,
-        "rushing_yards": 47,
-        "total_yards": 331,
+        "rushing_yards": 46,
+        "total_yards": 330,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
