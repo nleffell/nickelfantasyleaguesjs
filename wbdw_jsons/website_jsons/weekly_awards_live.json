@@ -26,9 +26,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 279,
-        "receiving_yards": 131,
-        "rushing_yards": 200,
-        "total_yards": 610,
+        "receiving_yards": 138,
+        "rushing_yards": 215,
+        "total_yards": 632,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
@@ -98,8 +98,8 @@
         "owner": "Nick Leffell",
         "passing_yards": 324,
         "receiving_yards": 74,
-        "rushing_yards": 26,
-        "total_yards": 424,
+        "rushing_yards": 27,
+        "total_yards": 425,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -161,9 +161,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 23,
-        "receiving_yards": 123,
+        "receiving_yards": 141,
         "rushing_yards": 39,
-        "total_yards": 185,
+        "total_yards": 203,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
