@@ -1,10 +1,10 @@
 [
     {
         "owner": "TJ Pickeral",
-        "passing_yards": 140,
-        "receiving_yards": 172,
+        "passing_yards": 153,
+        "receiving_yards": 194,
         "rushing_yards": 187,
-        "total_yards": 499,
+        "total_yards": 534,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -22,9 +22,9 @@
     {
         "owner": "Kyle Nester",
         "passing_yards": 194,
-        "receiving_yards": 70,
-        "rushing_yards": 95,
-        "total_yards": 359,
+        "receiving_yards": 87,
+        "rushing_yards": 101,
+        "total_yards": 382,
         "yet_to_play": [
             "Brock Bowers"
         ],
@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 174,
         "receiving_yards": 71,
-        "rushing_yards": 112,
-        "total_yards": 357,
+        "rushing_yards": 113,
+        "total_yards": 358,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -80,6 +80,27 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 175,
+        "receiving_yards": 51,
+        "rushing_yards": 0,
+        "total_yards": 226,
+        "yet_to_play": [
+            "Braelon Allen",
+            "LeQuint Allen",
+            "Malik Nabers",
+            "Michael Mayer",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Patrick Mahomes",
+            "Emeka Egbuka",
+            "Germie Bernard",
+            "Cade Otton",
+            "Makai Lemon"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 113,
         "receiving_yards": 87,
@@ -101,32 +122,11 @@
         ]
     },
     {
-        "owner": "Nick Leffell",
-        "passing_yards": 153,
-        "receiving_yards": 44,
-        "rushing_yards": 0,
-        "total_yards": 197,
-        "yet_to_play": [
-            "Braelon Allen",
-            "LeQuint Allen",
-            "Malik Nabers",
-            "Michael Mayer",
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Patrick Mahomes",
-            "Emeka Egbuka",
-            "Germie Bernard",
-            "Cade Otton",
-            "Makai Lemon"
-        ]
-    },
-    {
         "owner": "Jon Knicely",
-        "passing_yards": 130,
+        "passing_yards": 170,
         "receiving_yards": 31,
         "rushing_yards": 21,
-        "total_yards": 182,
+        "total_yards": 222,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
@@ -143,11 +143,31 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 0,
+        "receiving_yards": 144,
+        "rushing_yards": 52,
+        "total_yards": 196,
+        "yet_to_play": [
+            "Joe Burrow",
+            "Ashton Jeanty",
+            "Malachi Fields"
+        ],
+        "in_play": [
+            "Chuba Hubbard",
+            "Rashee Rice",
+            "George Pickens",
+            "Chris Olave",
+            "Ryan Flournoy",
+            "Caleb Douglas"
+        ]
+    },
+    {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 101,
+        "receiving_yards": 123,
         "rushing_yards": 73,
-        "total_yards": 174,
+        "total_yards": 196,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -164,31 +184,11 @@
         ]
     },
     {
-        "owner": "Ryan Shannon",
-        "passing_yards": 0,
-        "receiving_yards": 108,
-        "rushing_yards": 46,
-        "total_yards": 154,
-        "yet_to_play": [
-            "Joe Burrow",
-            "Ashton Jeanty",
-            "Malachi Fields"
-        ],
-        "in_play": [
-            "Chuba Hubbard",
-            "Rashee Rice",
-            "George Pickens",
-            "Chris Olave",
-            "Ryan Flournoy",
-            "Caleb Douglas"
-        ]
-    },
-    {
         "owner": "Chad Hill",
         "passing_yards": 79,
-        "receiving_yards": 64,
-        "rushing_yards": 6,
-        "total_yards": 149,
+        "receiving_yards": 77,
+        "rushing_yards": 8,
+        "total_yards": 164,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
