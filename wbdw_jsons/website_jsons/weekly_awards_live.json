@@ -43,8 +43,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 181,
         "receiving_yards": 96,
-        "rushing_yards": 117,
-        "total_yards": 394,
+        "rushing_yards": 116,
+        "total_yards": 393,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown",
@@ -104,8 +104,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 161,
-        "rushing_yards": 111,
-        "total_yards": 272,
+        "rushing_yards": 112,
+        "total_yards": 273,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -187,8 +187,8 @@
         "owner": "Chad Hill",
         "passing_yards": 112,
         "receiving_yards": 80,
-        "rushing_yards": 8,
-        "total_yards": 200,
+        "rushing_yards": 13,
+        "total_yards": 205,
         "yet_to_play": [
             "Mike Washington",
             "Adonai Mitchell",
@@ -227,9 +227,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 0,
-        "receiving_yards": 68,
-        "rushing_yards": 24,
-        "total_yards": 92,
+        "receiving_yards": 84,
+        "rushing_yards": 28,
+        "total_yards": 112,
         "yet_to_play": [
             "Trevor Lawrence",
             "Garrett Wilson",
