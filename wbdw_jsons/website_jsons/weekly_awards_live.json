@@ -47,17 +47,15 @@
             "Myles Price"
         ],
         "in_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Quentin Johnston"
+            "Cam Skattebo"
         ]
     },
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 404,
-        "rushing_yards": 202,
-        "total_yards": 606,
+        "rushing_yards": 204,
+        "total_yards": 608,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -90,7 +88,6 @@
             "Antonio Williams"
         ],
         "in_play": [
-            "Braelon Allen",
             "LeQuint Allen",
             "Malik Nabers",
             "Michael Mayer"
@@ -104,8 +101,6 @@
         "total_yards": 484,
         "yet_to_play": [],
         "in_play": [
-            "Omarion Hampton",
-            "Tre' Harris",
             "Pat Bryant",
             "Tre Tucker",
             "Parker Washington"
@@ -115,22 +110,21 @@
         "owner": "Chad Hill",
         "passing_yards": 254,
         "receiving_yards": 129,
-        "rushing_yards": 78,
-        "total_yards": 461,
+        "rushing_yards": 87,
+        "total_yards": 470,
         "yet_to_play": [
             "T.J. Hockenson"
         ],
         "in_play": [
-            "Mike Washington",
-            "Adonai Mitchell"
+            "Mike Washington"
         ]
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 230,
+        "receiving_yards": 253,
         "rushing_yards": 204,
-        "total_yards": 434,
+        "total_yards": 457,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -154,16 +148,14 @@
             "Mike Gesicki",
             "Samaje Perine"
         ],
-        "in_play": [
-            "Kenyon Sadiq"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 114,
+        "passing_yards": 137,
         "receiving_yards": 215,
         "rushing_yards": 46,
-        "total_yards": 375,
+        "total_yards": 398,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
@@ -171,7 +163,6 @@
         ],
         "in_play": [
             "Trevor Lawrence",
-            "Garrett Wilson",
             "Jaylen Waddle"
         ]
     }
