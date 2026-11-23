@@ -27,8 +27,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 145,
-        "rushing_yards": 297,
-        "total_yards": 721,
+        "rushing_yards": 299,
+        "total_yards": 723,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
@@ -41,8 +41,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 170,
-        "rushing_yards": 129,
-        "total_yards": 624,
+        "rushing_yards": 132,
+        "total_yards": 627,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -53,9 +53,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 404,
+        "receiving_yards": 416,
         "rushing_yards": 205,
-        "total_yards": 609,
+        "total_yards": 621,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -79,6 +79,19 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 102,
+        "receiving_yards": 327,
+        "rushing_yards": 116,
+        "total_yards": 545,
+        "yet_to_play": [],
+        "in_play": [
+            "Pat Bryant",
+            "Tre Tucker",
+            "Parker Washington"
+        ]
+    },
+    {
         "owner": "Nick Leffell",
         "passing_yards": 324,
         "receiving_yards": 129,
@@ -91,19 +104,6 @@
             "LeQuint Allen",
             "Malik Nabers",
             "Michael Mayer"
-        ]
-    },
-    {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 102,
-        "receiving_yards": 288,
-        "rushing_yards": 116,
-        "total_yards": 506,
-        "yet_to_play": [],
-        "in_play": [
-            "Pat Bryant",
-            "Tre Tucker",
-            "Parker Washington"
         ]
     },
     {
