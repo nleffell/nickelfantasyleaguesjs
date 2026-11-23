@@ -41,8 +41,8 @@
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 170,
-        "rushing_yards": 132,
-        "total_yards": 627,
+        "rushing_yards": 146,
+        "total_yards": 641,
         "yet_to_play": [
             "Myles Price"
         ],
@@ -53,9 +53,9 @@
     {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 416,
+        "receiving_yards": 435,
         "rushing_yards": 205,
-        "total_yards": 621,
+        "total_yards": 640,
         "yet_to_play": [
             "Joe Burrow"
         ],
@@ -93,10 +93,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 302,
+        "passing_yards": 301,
         "receiving_yards": 215,
         "rushing_yards": 46,
-        "total_yards": 563,
+        "total_yards": 562,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
