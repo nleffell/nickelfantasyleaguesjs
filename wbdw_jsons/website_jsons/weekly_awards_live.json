@@ -107,24 +107,27 @@
         ]
     },
     {
-        "owner": "Chad Hill",
-        "passing_yards": 254,
-        "receiving_yards": 129,
-        "rushing_yards": 85,
-        "total_yards": 468,
+        "owner": "Nick Janowicz",
+        "passing_yards": 231,
+        "receiving_yards": 215,
+        "rushing_yards": 46,
+        "total_yards": 492,
         "yet_to_play": [
-            "T.J. Hockenson"
+            "Ja'Marr Chase",
+            "Mike Evans",
+            "Chig Okonkwo"
         ],
         "in_play": [
-            "Mike Washington"
+            "Trevor Lawrence",
+            "Jaylen Waddle"
         ]
     },
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 253,
+        "receiving_yards": 279,
         "rushing_yards": 204,
-        "total_yards": 457,
+        "total_yards": 483,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
@@ -137,19 +140,16 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 174,
-        "receiving_yards": 215,
-        "rushing_yards": 46,
-        "total_yards": 435,
+        "owner": "Chad Hill",
+        "passing_yards": 254,
+        "receiving_yards": 129,
+        "rushing_yards": 85,
+        "total_yards": 468,
         "yet_to_play": [
-            "Ja'Marr Chase",
-            "Mike Evans",
-            "Chig Okonkwo"
+            "T.J. Hockenson"
         ],
         "in_play": [
-            "Trevor Lawrence",
-            "Jaylen Waddle"
+            "Mike Washington"
         ]
     },
     {
