@@ -59,9 +59,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 276,
-        "receiving_yards": 241,
+        "receiving_yards": 249,
         "rushing_yards": 96,
-        "total_yards": 613,
+        "total_yards": 621,
         "yet_to_play": [],
         "in_play": [
             "Justin Jefferson",
@@ -106,8 +106,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 302,
-        "rushing_yards": 221,
-        "total_yards": 523,
+        "rushing_yards": 227,
+        "total_yards": 529,
         "yet_to_play": [
             "Jayden Daniels"
         ],
