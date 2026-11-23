@@ -35,6 +35,20 @@
         "in_play": []
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 301,
+        "receiving_yards": 296,
+        "rushing_yards": 46,
+        "total_yards": 643,
+        "yet_to_play": [
+            "Ja'Marr Chase",
+            "Chig Okonkwo"
+        ],
+        "in_play": [
+            "Mike Evans"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 435,
@@ -69,20 +83,6 @@
         ]
     },
     {
-        "owner": "Nick Janowicz",
-        "passing_yards": 301,
-        "receiving_yards": 263,
-        "rushing_yards": 46,
-        "total_yards": 610,
-        "yet_to_play": [
-            "Ja'Marr Chase",
-            "Chig Okonkwo"
-        ],
-        "in_play": [
-            "Mike Evans"
-        ]
-    },
-    {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
         "receiving_yards": 364,
@@ -95,8 +95,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 301,
-        "rushing_yards": 245,
-        "total_yards": 546,
+        "rushing_yards": 247,
+        "total_yards": 548,
         "yet_to_play": [
             "Jayden Daniels"
         ],
