@@ -42,9 +42,7 @@
         "yet_to_play": [
             "Joe Burrow"
         ],
-        "in_play": [
-            "Malachi Fields"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -55,9 +53,7 @@
         "yet_to_play": [
             "Myles Price"
         ],
-        "in_play": [
-            "Cam Skattebo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -66,9 +62,7 @@
         "rushing_yards": 116,
         "total_yards": 583,
         "yet_to_play": [],
-        "in_play": [
-            "Parker Washington"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -80,9 +74,7 @@
             "Justin Jefferson",
             "George Kittle"
         ],
-        "in_play": [
-            "Bhayshul Tuten"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -95,9 +87,7 @@
             "Mike Evans",
             "Chig Okonkwo"
         ],
-        "in_play": [
-            "Trevor Lawrence"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
@@ -108,10 +98,7 @@
         "yet_to_play": [
             "Antonio Williams"
         ],
-        "in_play": [
-            "LeQuint Allen",
-            "Malik Nabers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -124,10 +111,7 @@
             "Christian McCaffrey",
             "Jordan Mason"
         ],
-        "in_play": [
-            "Jakobi Meyers",
-            "Isaiah Likely"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
