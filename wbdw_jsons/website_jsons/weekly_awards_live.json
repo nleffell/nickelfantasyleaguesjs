@@ -2,15 +2,16 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 304,
-        "receiving_yards": 337,
-        "rushing_yards": 248,
+        "receiving_yards": 336,
+        "rushing_yards": 249,
         "total_yards": 889,
         "yet_to_play": [
             "Stefon Diggs",
-            "Deebo Samuel",
             "Jacory Croskey-Merritt"
         ],
-        "in_play": []
+        "in_play": [
+            "Deebo Samuel"
+        ]
     },
     {
         "owner": "Kyle Nester",
@@ -50,10 +51,10 @@
         "receiving_yards": 170,
         "rushing_yards": 145,
         "total_yards": 640,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Myles Price"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Victor Dankens",
@@ -61,11 +62,11 @@
         "receiving_yards": 212,
         "rushing_yards": 96,
         "total_yards": 584,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "Justin Jefferson",
             "George Kittle"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Patrick Neafsey",
@@ -84,10 +85,11 @@
         "total_yards": 576,
         "yet_to_play": [
             "Ja'Marr Chase",
-            "Mike Evans",
             "Chig Okonkwo"
         ],
-        "in_play": []
+        "in_play": [
+            "Mike Evans"
+        ]
     },
     {
         "owner": "Nick Leffell",
@@ -107,11 +109,12 @@
         "rushing_yards": 214,
         "total_yards": 516,
         "yet_to_play": [
-            "Jayden Daniels",
+            "Jayden Daniels"
+        ],
+        "in_play": [
             "Christian McCaffrey",
             "Jordan Mason"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Chad Hill",
@@ -119,23 +122,24 @@
         "receiving_yards": 129,
         "rushing_yards": 85,
         "total_yards": 468,
-        "yet_to_play": [
+        "yet_to_play": [],
+        "in_play": [
             "T.J. Hockenson"
-        ],
-        "in_play": []
+        ]
     },
     {
         "owner": "Brad Lowe",
         "passing_yards": 181,
         "receiving_yards": 161,
-        "rushing_yards": 79,
-        "total_yards": 421,
+        "rushing_yards": 83,
+        "total_yards": 425,
         "yet_to_play": [
-            "Aaron Jones",
             "Tee Higgins",
             "Mike Gesicki",
             "Samaje Perine"
         ],
-        "in_play": []
+        "in_play": [
+            "Aaron Jones"
+        ]
     }
 ]
