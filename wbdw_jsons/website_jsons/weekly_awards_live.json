@@ -73,8 +73,8 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 276,
-        "receiving_yards": 257,
-        "rushing_yards": 96,
+        "receiving_yards": 256,
+        "rushing_yards": 97,
         "total_yards": 629,
         "yet_to_play": [],
         "in_play": [
@@ -119,9 +119,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 254,
-        "receiving_yards": 168,
+        "receiving_yards": 169,
         "rushing_yards": 85,
-        "total_yards": 507,
+        "total_yards": 508,
         "yet_to_play": [],
         "in_play": [
             "T.J. Hockenson"
