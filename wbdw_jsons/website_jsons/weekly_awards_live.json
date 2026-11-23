@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 304,
-        "receiving_yards": 318,
-        "rushing_yards": 242,
-        "total_yards": 864,
+        "receiving_yards": 337,
+        "rushing_yards": 248,
+        "total_yards": 889,
         "yet_to_play": [
             "Stefon Diggs",
             "Deebo Samuel",
@@ -56,6 +56,18 @@
         "in_play": []
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 276,
+        "receiving_yards": 212,
+        "rushing_yards": 96,
+        "total_yards": 584,
+        "yet_to_play": [
+            "Justin Jefferson",
+            "George Kittle"
+        ],
+        "in_play": []
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
         "receiving_yards": 364,
@@ -65,23 +77,11 @@
         "in_play": []
     },
     {
-        "owner": "Victor Dankens",
-        "passing_yards": 276,
-        "receiving_yards": 195,
-        "rushing_yards": 96,
-        "total_yards": 567,
-        "yet_to_play": [
-            "Justin Jefferson",
-            "George Kittle"
-        ],
-        "in_play": []
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 301,
-        "receiving_yards": 215,
+        "receiving_yards": 229,
         "rushing_yards": 46,
-        "total_yards": 562,
+        "total_yards": 576,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
@@ -104,8 +104,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 302,
-        "rushing_yards": 204,
-        "total_yards": 506,
+        "rushing_yards": 214,
+        "total_yards": 516,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
