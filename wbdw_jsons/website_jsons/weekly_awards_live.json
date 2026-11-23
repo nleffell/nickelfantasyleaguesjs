@@ -69,20 +69,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 102,
-        "receiving_yards": 364,
-        "rushing_yards": 116,
-        "total_yards": 582,
-        "yet_to_play": [],
-        "in_play": []
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 301,
-        "receiving_yards": 229,
+        "receiving_yards": 263,
         "rushing_yards": 46,
-        "total_yards": 576,
+        "total_yards": 610,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Chig Okonkwo"
@@ -90,6 +81,15 @@
         "in_play": [
             "Mike Evans"
         ]
+    },
+    {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 102,
+        "receiving_yards": 364,
+        "rushing_yards": 116,
+        "total_yards": 582,
+        "yet_to_play": [],
+        "in_play": []
     },
     {
         "owner": "Nick Leffell",
