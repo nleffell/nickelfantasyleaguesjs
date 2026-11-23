@@ -35,6 +35,18 @@
         "in_play": []
     },
     {
+        "owner": "Victor Dankens",
+        "passing_yards": 276,
+        "receiving_yards": 281,
+        "rushing_yards": 97,
+        "total_yards": 654,
+        "yet_to_play": [],
+        "in_play": [
+            "Justin Jefferson",
+            "George Kittle"
+        ]
+    },
+    {
         "owner": "Nick Janowicz",
         "passing_yards": 301,
         "receiving_yards": 306,
@@ -68,18 +80,6 @@
         "yet_to_play": [],
         "in_play": [
             "Myles Price"
-        ]
-    },
-    {
-        "owner": "Victor Dankens",
-        "passing_yards": 276,
-        "receiving_yards": 256,
-        "rushing_yards": 97,
-        "total_yards": 629,
-        "yet_to_play": [],
-        "in_play": [
-            "Justin Jefferson",
-            "George Kittle"
         ]
     },
     {
