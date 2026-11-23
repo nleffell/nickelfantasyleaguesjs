@@ -37,9 +37,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 276,
-        "receiving_yards": 305,
+        "receiving_yards": 315,
         "rushing_yards": 97,
-        "total_yards": 678,
+        "total_yards": 688,
         "yet_to_play": [],
         "in_play": [
             "Justin Jefferson",
@@ -63,9 +63,9 @@
     {
         "owner": "Jon Knicely",
         "passing_yards": 325,
-        "receiving_yards": 193,
+        "receiving_yards": 196,
         "rushing_yards": 145,
-        "total_yards": 663,
+        "total_yards": 666,
         "yet_to_play": [],
         "in_play": [
             "Myles Price"
@@ -86,8 +86,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 314,
-        "rushing_yards": 277,
-        "total_yards": 591,
+        "rushing_yards": 278,
+        "total_yards": 592,
         "yet_to_play": [
             "Jayden Daniels"
         ],
@@ -131,8 +131,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 181,
         "receiving_yards": 174,
-        "rushing_yards": 108,
-        "total_yards": 463,
+        "rushing_yards": 110,
+        "total_yards": 465,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
