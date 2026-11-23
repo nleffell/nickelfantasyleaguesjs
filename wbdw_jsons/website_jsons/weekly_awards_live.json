@@ -27,8 +27,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 145,
-        "rushing_yards": 299,
-        "total_yards": 723,
+        "rushing_yards": 308,
+        "total_yards": 732,
         "yet_to_play": [
             "Treylon Burks",
             "Chase Brown"
@@ -65,6 +65,19 @@
         ]
     },
     {
+        "owner": "Patrick Neafsey",
+        "passing_yards": 102,
+        "receiving_yards": 348,
+        "rushing_yards": 116,
+        "total_yards": 566,
+        "yet_to_play": [],
+        "in_play": [
+            "Pat Bryant",
+            "Tre Tucker",
+            "Parker Washington"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 276,
         "receiving_yards": 195,
@@ -79,24 +92,11 @@
         ]
     },
     {
-        "owner": "Patrick Neafsey",
-        "passing_yards": 102,
-        "receiving_yards": 327,
-        "rushing_yards": 116,
-        "total_yards": 545,
-        "yet_to_play": [],
-        "in_play": [
-            "Pat Bryant",
-            "Tre Tucker",
-            "Parker Washington"
-        ]
-    },
-    {
         "owner": "Nick Leffell",
         "passing_yards": 324,
-        "receiving_yards": 129,
+        "receiving_yards": 128,
         "rushing_yards": 75,
-        "total_yards": 528,
+        "total_yards": 527,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -137,6 +137,22 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 174,
+        "receiving_yards": 215,
+        "rushing_yards": 46,
+        "total_yards": 435,
+        "yet_to_play": [
+            "Ja'Marr Chase",
+            "Mike Evans",
+            "Chig Okonkwo"
+        ],
+        "in_play": [
+            "Trevor Lawrence",
+            "Jaylen Waddle"
+        ]
+    },
+    {
         "owner": "Brad Lowe",
         "passing_yards": 181,
         "receiving_yards": 161,
@@ -149,21 +165,5 @@
             "Samaje Perine"
         ],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 154,
-        "receiving_yards": 215,
-        "rushing_yards": 46,
-        "total_yards": 415,
-        "yet_to_play": [
-            "Ja'Marr Chase",
-            "Mike Evans",
-            "Chig Okonkwo"
-        ],
-        "in_play": [
-            "Trevor Lawrence",
-            "Jaylen Waddle"
-        ]
     }
 ]
