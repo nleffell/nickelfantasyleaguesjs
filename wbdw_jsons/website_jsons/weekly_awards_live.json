@@ -106,8 +106,8 @@
         "owner": "Tyler Smith",
         "passing_yards": 0,
         "receiving_yards": 302,
-        "rushing_yards": 214,
-        "total_yards": 516,
+        "rushing_yards": 213,
+        "total_yards": 515,
         "yet_to_play": [
             "Jayden Daniels"
         ],
@@ -119,9 +119,9 @@
     {
         "owner": "Chad Hill",
         "passing_yards": 254,
-        "receiving_yards": 129,
+        "receiving_yards": 149,
         "rushing_yards": 85,
-        "total_yards": 468,
+        "total_yards": 488,
         "yet_to_play": [],
         "in_play": [
             "T.J. Hockenson"
@@ -131,8 +131,8 @@
         "owner": "Brad Lowe",
         "passing_yards": 181,
         "receiving_yards": 161,
-        "rushing_yards": 83,
-        "total_yards": 425,
+        "rushing_yards": 79,
+        "total_yards": 421,
         "yet_to_play": [
             "Tee Higgins",
             "Mike Gesicki",
