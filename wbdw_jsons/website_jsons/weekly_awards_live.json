@@ -19,9 +19,7 @@
         "rushing_yards": 244,
         "total_yards": 748,
         "yet_to_play": [],
-        "in_play": [
-            "Brock Bowers"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -33,22 +31,7 @@
             "Treylon Burks",
             "Chase Brown"
         ],
-        "in_play": [
-            "Jonah Coleman"
-        ]
-    },
-    {
-        "owner": "Jon Knicely",
-        "passing_yards": 325,
-        "receiving_yards": 170,
-        "rushing_yards": 146,
-        "total_yards": 641,
-        "yet_to_play": [
-            "Myles Price"
-        ],
-        "in_play": [
-            "Cam Skattebo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -60,8 +43,20 @@
             "Joe Burrow"
         ],
         "in_play": [
-            "Ashton Jeanty",
             "Malachi Fields"
+        ]
+    },
+    {
+        "owner": "Jon Knicely",
+        "passing_yards": 325,
+        "receiving_yards": 170,
+        "rushing_yards": 145,
+        "total_yards": 640,
+        "yet_to_play": [
+            "Myles Price"
+        ],
+        "in_play": [
+            "Cam Skattebo"
         ]
     },
     {
@@ -72,8 +67,6 @@
         "total_yards": 583,
         "yet_to_play": [],
         "in_play": [
-            "Pat Bryant",
-            "Tre Tucker",
             "Parker Washington"
         ]
     },
@@ -103,8 +96,7 @@
             "Chig Okonkwo"
         ],
         "in_play": [
-            "Trevor Lawrence",
-            "Jaylen Waddle"
+            "Trevor Lawrence"
         ]
     },
     {
@@ -118,8 +110,7 @@
         ],
         "in_play": [
             "LeQuint Allen",
-            "Malik Nabers",
-            "Michael Mayer"
+            "Malik Nabers"
         ]
     },
     {
@@ -135,7 +126,6 @@
         ],
         "in_play": [
             "Jakobi Meyers",
-            "Courtland Sutton",
             "Isaiah Likely"
         ]
     },
@@ -148,9 +138,7 @@
         "yet_to_play": [
             "T.J. Hockenson"
         ],
-        "in_play": [
-            "Mike Washington"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
