@@ -67,9 +67,9 @@
     {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
-        "receiving_yards": 348,
+        "receiving_yards": 365,
         "rushing_yards": 116,
-        "total_yards": 566,
+        "total_yards": 583,
         "yet_to_play": [],
         "in_play": [
             "Pat Bryant",
@@ -81,8 +81,8 @@
         "owner": "Victor Dankens",
         "passing_yards": 276,
         "receiving_yards": 195,
-        "rushing_yards": 88,
-        "total_yards": 559,
+        "rushing_yards": 96,
+        "total_yards": 567,
         "yet_to_play": [
             "Justin Jefferson",
             "George Kittle"
@@ -94,9 +94,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 324,
-        "receiving_yards": 128,
+        "receiving_yards": 136,
         "rushing_yards": 75,
-        "total_yards": 527,
+        "total_yards": 535,
         "yet_to_play": [
             "Antonio Williams"
         ],
@@ -108,10 +108,10 @@
     },
     {
         "owner": "Nick Janowicz",
-        "passing_yards": 249,
+        "passing_yards": 266,
         "receiving_yards": 215,
         "rushing_yards": 46,
-        "total_yards": 510,
+        "total_yards": 527,
         "yet_to_play": [
             "Ja'Marr Chase",
             "Mike Evans",
