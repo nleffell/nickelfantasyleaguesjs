@@ -9,9 +9,7 @@
             "Stefon Diggs",
             "Jacory Croskey-Merritt"
         ],
-        "in_play": [
-            "Deebo Samuel"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -41,10 +39,7 @@
         "rushing_yards": 97,
         "total_yards": 688,
         "yet_to_play": [],
-        "in_play": [
-            "Justin Jefferson",
-            "George Kittle"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -56,9 +51,7 @@
             "Ja'Marr Chase",
             "Chig Okonkwo"
         ],
-        "in_play": [
-            "Mike Evans"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -67,9 +60,7 @@
         "rushing_yards": 145,
         "total_yards": 666,
         "yet_to_play": [],
-        "in_play": [
-            "Myles Price"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -91,10 +82,7 @@
         "yet_to_play": [
             "Jayden Daniels"
         ],
-        "in_play": [
-            "Christian McCaffrey",
-            "Jordan Mason"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -123,9 +111,7 @@
         "rushing_yards": 85,
         "total_yards": 523,
         "yet_to_play": [],
-        "in_play": [
-            "T.J. Hockenson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -138,8 +124,6 @@
             "Mike Gesicki",
             "Samaje Perine"
         ],
-        "in_play": [
-            "Aaron Jones"
-        ]
+        "in_play": []
     }
 ]
