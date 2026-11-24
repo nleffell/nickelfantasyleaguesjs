@@ -23,6 +23,17 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 141,
+        "receiving_yards": 314,
+        "rushing_yards": 345,
+        "total_yards": 800,
+        "yet_to_play": [],
+        "in_play": [
+            "Jayden Daniels"
+        ]
+    },
+    {
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 205,
@@ -32,17 +43,6 @@
         "in_play": [
             "Treylon Burks",
             "Chase Brown"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 122,
-        "receiving_yards": 314,
-        "rushing_yards": 345,
-        "total_yards": 781,
-        "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels"
         ]
     },
     {
@@ -57,9 +57,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 301,
-        "receiving_yards": 382,
+        "receiving_yards": 395,
         "rushing_yards": 46,
-        "total_yards": 729,
+        "total_yards": 742,
         "yet_to_play": [],
         "in_play": [
             "Ja'Marr Chase",
@@ -109,9 +109,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 324,
-        "receiving_yards": 159,
+        "receiving_yards": 165,
         "rushing_yards": 75,
-        "total_yards": 558,
+        "total_yards": 564,
         "yet_to_play": [],
         "in_play": [
             "Antonio Williams"
