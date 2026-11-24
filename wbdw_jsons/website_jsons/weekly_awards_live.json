@@ -6,10 +6,7 @@
         "rushing_yards": 323,
         "total_yards": 1033,
         "yet_to_play": [],
-        "in_play": [
-            "Stefon Diggs",
-            "Jacory Croskey-Merritt"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -18,9 +15,7 @@
         "rushing_yards": 346,
         "total_yards": 949,
         "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -29,9 +24,7 @@
         "rushing_yards": 204,
         "total_yards": 939,
         "yet_to_play": [],
-        "in_play": [
-            "Joe Burrow"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -40,10 +33,7 @@
         "rushing_yards": 314,
         "total_yards": 798,
         "yet_to_play": [],
-        "in_play": [
-            "Treylon Burks",
-            "Chase Brown"
-        ]
+        "in_play": []
     },
     {
         "owner": "Nick Janowicz",
@@ -52,10 +42,7 @@
         "rushing_yards": 46,
         "total_yards": 768,
         "yet_to_play": [],
-        "in_play": [
-            "Ja'Marr Chase",
-            "Chig Okonkwo"
-        ]
+        "in_play": []
     },
     {
         "owner": "Kyle Nester",
@@ -82,11 +69,7 @@
         "rushing_yards": 135,
         "total_yards": 681,
         "yet_to_play": [],
-        "in_play": [
-            "Tee Higgins",
-            "Mike Gesicki",
-            "Samaje Perine"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -104,9 +87,7 @@
         "rushing_yards": 75,
         "total_yards": 657,
         "yet_to_play": [],
-        "in_play": [
-            "Antonio Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
