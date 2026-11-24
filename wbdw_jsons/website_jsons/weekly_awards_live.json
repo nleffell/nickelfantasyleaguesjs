@@ -12,6 +12,17 @@
         ]
     },
     {
+        "owner": "Tyler Smith",
+        "passing_yards": 289,
+        "receiving_yards": 314,
+        "rushing_yards": 346,
+        "total_yards": 949,
+        "yet_to_play": [],
+        "in_play": [
+            "Jayden Daniels"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 300,
         "receiving_yards": 435,
@@ -20,17 +31,6 @@
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow"
-        ]
-    },
-    {
-        "owner": "Tyler Smith",
-        "passing_yards": 225,
-        "receiving_yards": 314,
-        "rushing_yards": 346,
-        "total_yards": 885,
-        "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels"
         ]
     },
     {
@@ -100,9 +100,9 @@
     {
         "owner": "Nick Leffell",
         "passing_yards": 324,
-        "receiving_yards": 194,
+        "receiving_yards": 258,
         "rushing_yards": 75,
-        "total_yards": 593,
+        "total_yards": 657,
         "yet_to_play": [],
         "in_play": [
             "Antonio Williams"
