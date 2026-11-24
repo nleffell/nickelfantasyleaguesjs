@@ -13,10 +13,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 233,
+        "passing_yards": 253,
         "receiving_yards": 435,
         "rushing_yards": 204,
-        "total_yards": 872,
+        "total_yards": 892,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow"
@@ -46,6 +46,18 @@
         ]
     },
     {
+        "owner": "Nick Janowicz",
+        "passing_yards": 301,
+        "receiving_yards": 405,
+        "rushing_yards": 46,
+        "total_yards": 752,
+        "yet_to_play": [],
+        "in_play": [
+            "Ja'Marr Chase",
+            "Chig Okonkwo"
+        ]
+    },
+    {
         "owner": "Kyle Nester",
         "passing_yards": 194,
         "receiving_yards": 310,
@@ -53,18 +65,6 @@
         "total_yards": 748,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Janowicz",
-        "passing_yards": 301,
-        "receiving_yards": 397,
-        "rushing_yards": 46,
-        "total_yards": 744,
-        "yet_to_play": [],
-        "in_play": [
-            "Ja'Marr Chase",
-            "Chig Okonkwo"
-        ]
     },
     {
         "owner": "Victor Dankens",
