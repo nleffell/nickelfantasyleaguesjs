@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 304,
-        "receiving_yards": 348,
-        "rushing_yards": 305,
-        "total_yards": 957,
+        "receiving_yards": 366,
+        "rushing_yards": 309,
+        "total_yards": 979,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -25,13 +25,24 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 279,
-        "receiving_yards": 192,
+        "receiving_yards": 205,
         "rushing_yards": 314,
-        "total_yards": 785,
+        "total_yards": 798,
         "yet_to_play": [],
         "in_play": [
             "Treylon Burks",
             "Chase Brown"
+        ]
+    },
+    {
+        "owner": "Tyler Smith",
+        "passing_yards": 122,
+        "receiving_yards": 314,
+        "rushing_yards": 345,
+        "total_yards": 781,
+        "yet_to_play": [],
+        "in_play": [
+            "Jayden Daniels"
         ]
     },
     {
@@ -44,22 +55,11 @@
         "in_play": []
     },
     {
-        "owner": "Tyler Smith",
-        "passing_yards": 85,
-        "receiving_yards": 314,
-        "rushing_yards": 345,
-        "total_yards": 744,
-        "yet_to_play": [],
-        "in_play": [
-            "Jayden Daniels"
-        ]
-    },
-    {
         "owner": "Nick Janowicz",
         "passing_yards": 301,
-        "receiving_yards": 376,
+        "receiving_yards": 382,
         "rushing_yards": 46,
-        "total_yards": 723,
+        "total_yards": 729,
         "yet_to_play": [],
         "in_play": [
             "Ja'Marr Chase",
