@@ -2,9 +2,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 304,
-        "receiving_yards": 338,
+        "receiving_yards": 348,
         "rushing_yards": 290,
-        "total_yards": 932,
+        "total_yards": 942,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -75,10 +75,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 42,
+        "passing_yards": 53,
         "receiving_yards": 314,
-        "rushing_yards": 288,
-        "total_yards": 644,
+        "rushing_yards": 298,
+        "total_yards": 665,
         "yet_to_play": [],
         "in_play": [
             "Jayden Daniels"
