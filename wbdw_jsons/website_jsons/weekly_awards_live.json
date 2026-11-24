@@ -24,8 +24,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 279,
         "receiving_yards": 151,
-        "rushing_yards": 311,
-        "total_yards": 741,
+        "rushing_yards": 312,
+        "total_yards": 742,
         "yet_to_play": [],
         "in_play": [
             "Treylon Burks",
@@ -54,6 +54,17 @@
         ]
     },
     {
+        "owner": "Ryan Shannon",
+        "passing_yards": 31,
+        "receiving_yards": 435,
+        "rushing_yards": 205,
+        "total_yards": 671,
+        "yet_to_play": [],
+        "in_play": [
+            "Joe Burrow"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 196,
@@ -61,17 +72,6 @@
         "total_yards": 666,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Ryan Shannon",
-        "passing_yards": 13,
-        "receiving_yards": 435,
-        "rushing_yards": 205,
-        "total_yards": 653,
-        "yet_to_play": [],
-        "in_play": [
-            "Joe Burrow"
-        ]
     },
     {
         "owner": "Tyler Smith",
@@ -116,9 +116,9 @@
     {
         "owner": "Brad Lowe",
         "passing_yards": 181,
-        "receiving_yards": 178,
+        "receiving_yards": 196,
         "rushing_yards": 113,
-        "total_yards": 472,
+        "total_yards": 490,
         "yet_to_play": [],
         "in_play": [
             "Tee Higgins",
