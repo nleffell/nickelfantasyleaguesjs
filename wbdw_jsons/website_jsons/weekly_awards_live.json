@@ -25,9 +25,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 279,
-        "receiving_yards": 161,
+        "receiving_yards": 178,
         "rushing_yards": 312,
-        "total_yards": 752,
+        "total_yards": 769,
         "yet_to_play": [],
         "in_play": [
             "Treylon Burks",
@@ -75,10 +75,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 25,
+        "passing_yards": 42,
         "receiving_yards": 314,
         "rushing_yards": 288,
-        "total_yards": 627,
+        "total_yards": 644,
         "yet_to_play": [],
         "in_play": [
             "Jayden Daniels"
