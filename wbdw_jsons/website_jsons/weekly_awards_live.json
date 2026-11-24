@@ -3,8 +3,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 304,
         "receiving_yards": 366,
-        "rushing_yards": 309,
-        "total_yards": 979,
+        "rushing_yards": 313,
+        "total_yards": 983,
         "yet_to_play": [],
         "in_play": [
             "Stefon Diggs",
@@ -24,10 +24,10 @@
     },
     {
         "owner": "Tyler Smith",
-        "passing_yards": 141,
+        "passing_yards": 171,
         "receiving_yards": 314,
         "rushing_yards": 345,
-        "total_yards": 800,
+        "total_yards": 830,
         "yet_to_play": [],
         "in_play": [
             "Jayden Daniels"
@@ -57,9 +57,9 @@
     {
         "owner": "Nick Janowicz",
         "passing_yards": 301,
-        "receiving_yards": 395,
+        "receiving_yards": 397,
         "rushing_yards": 46,
-        "total_yards": 742,
+        "total_yards": 744,
         "yet_to_play": [],
         "in_play": [
             "Ja'Marr Chase",
@@ -98,6 +98,17 @@
         ]
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 324,
+        "receiving_yards": 193,
+        "rushing_yards": 75,
+        "total_yards": 592,
+        "yet_to_play": [],
+        "in_play": [
+            "Antonio Williams"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 102,
         "receiving_yards": 364,
@@ -105,17 +116,6 @@
         "total_yards": 582,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 324,
-        "receiving_yards": 165,
-        "rushing_yards": 75,
-        "total_yards": 564,
-        "yet_to_play": [],
-        "in_play": [
-            "Antonio Williams"
-        ]
     },
     {
         "owner": "Chad Hill",
