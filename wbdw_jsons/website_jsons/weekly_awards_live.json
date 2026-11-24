@@ -13,10 +13,10 @@
     },
     {
         "owner": "Ryan Shannon",
-        "passing_yards": 267,
+        "passing_yards": 300,
         "receiving_yards": 435,
         "rushing_yards": 204,
-        "total_yards": 906,
+        "total_yards": 939,
         "yet_to_play": [],
         "in_play": [
             "Joe Burrow"
@@ -76,6 +76,19 @@
         "in_play": []
     },
     {
+        "owner": "Brad Lowe",
+        "passing_yards": 181,
+        "receiving_yards": 365,
+        "rushing_yards": 135,
+        "total_yards": 681,
+        "yet_to_play": [],
+        "in_play": [
+            "Tee Higgins",
+            "Mike Gesicki",
+            "Samaje Perine"
+        ]
+    },
+    {
         "owner": "Jon Knicely",
         "passing_yards": 325,
         "receiving_yards": 196,
@@ -83,19 +96,6 @@
         "total_yards": 666,
         "yet_to_play": [],
         "in_play": []
-    },
-    {
-        "owner": "Brad Lowe",
-        "passing_yards": 181,
-        "receiving_yards": 332,
-        "rushing_yards": 132,
-        "total_yards": 645,
-        "yet_to_play": [],
-        "in_play": [
-            "Tee Higgins",
-            "Mike Gesicki",
-            "Samaje Perine"
-        ]
     },
     {
         "owner": "Nick Leffell",
