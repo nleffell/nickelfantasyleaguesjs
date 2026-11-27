@@ -106,9 +106,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 37,
-        "receiving_yards": 158,
-        "rushing_yards": 22,
-        "total_yards": 217,
+        "receiving_yards": 164,
+        "rushing_yards": 30,
+        "total_yards": 231,
         "yet_to_play": [
             "David Montgomery",
             "Jaylen Warren",
@@ -179,10 +179,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 23,
+        "passing_yards": 33,
         "receiving_yards": 51,
         "rushing_yards": 0,
-        "total_yards": 74,
+        "total_yards": 84,
         "yet_to_play": [
             "Braelon Allen",
             "Jadarian Price",
