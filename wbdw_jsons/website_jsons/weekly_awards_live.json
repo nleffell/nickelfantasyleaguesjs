@@ -52,9 +52,9 @@
     {
         "owner": "TJ Pickeral",
         "passing_yards": 70,
-        "receiving_yards": 180,
-        "rushing_yards": 101,
-        "total_yards": 351,
+        "receiving_yards": 192,
+        "rushing_yards": 108,
+        "total_yards": 370,
         "yet_to_play": [
             "David Montgomery",
             "Jaylen Warren",
@@ -123,6 +123,26 @@
         "in_play": []
     },
     {
+        "owner": "Nick Leffell",
+        "passing_yards": 170,
+        "receiving_yards": 51,
+        "rushing_yards": 2,
+        "total_yards": 223,
+        "yet_to_play": [
+            "Braelon Allen",
+            "Jadarian Price",
+            "Malik Nabers",
+            "Emeka Egbuka",
+            "Germie Bernard",
+            "Kyle Pitts",
+            "Michael Mayer",
+            "Antonio Williams"
+        ],
+        "in_play": [
+            "Patrick Mahomes"
+        ]
+    },
+    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
         "receiving_yards": 190,
@@ -138,26 +158,6 @@
         ],
         "in_play": [
             "Rashee Rice"
-        ]
-    },
-    {
-        "owner": "Nick Leffell",
-        "passing_yards": 120,
-        "receiving_yards": 51,
-        "rushing_yards": 2,
-        "total_yards": 173,
-        "yet_to_play": [
-            "Braelon Allen",
-            "Jadarian Price",
-            "Malik Nabers",
-            "Emeka Egbuka",
-            "Germie Bernard",
-            "Kyle Pitts",
-            "Michael Mayer",
-            "Antonio Williams"
-        ],
-        "in_play": [
-            "Patrick Mahomes"
         ]
     },
     {
