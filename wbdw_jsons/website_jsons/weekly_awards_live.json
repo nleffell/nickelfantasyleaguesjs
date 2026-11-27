@@ -19,8 +19,8 @@
         "owner": "Brian Fuquay",
         "passing_yards": 313,
         "receiving_yards": 135,
-        "rushing_yards": 109,
-        "total_yards": 557,
+        "rushing_yards": 121,
+        "total_yards": 569,
         "yet_to_play": [
             "Drake London",
             "Josh Downs",
@@ -50,6 +50,25 @@
         "in_play": []
     },
     {
+        "owner": "TJ Pickeral",
+        "passing_yards": 70,
+        "receiving_yards": 180,
+        "rushing_yards": 101,
+        "total_yards": 351,
+        "yet_to_play": [
+            "David Montgomery",
+            "Jaylen Warren",
+            "Stefon Diggs",
+            "Quinshon Judkins",
+            "Deebo Samuel"
+        ],
+        "in_play": [
+            "Josh Allen",
+            "Khalil Shakir",
+            "Emmett Johnson"
+        ]
+    },
+    {
         "owner": "Victor Dankens",
         "passing_yards": 0,
         "receiving_yards": 346,
@@ -66,25 +85,6 @@
             "Zay Flowers"
         ],
         "in_play": []
-    },
-    {
-        "owner": "TJ Pickeral",
-        "passing_yards": 63,
-        "receiving_yards": 180,
-        "rushing_yards": 101,
-        "total_yards": 344,
-        "yet_to_play": [
-            "David Montgomery",
-            "Jaylen Warren",
-            "Stefon Diggs",
-            "Quinshon Judkins",
-            "Deebo Samuel"
-        ],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir",
-            "Emmett Johnson"
-        ]
     },
     {
         "owner": "Jon Knicely",
