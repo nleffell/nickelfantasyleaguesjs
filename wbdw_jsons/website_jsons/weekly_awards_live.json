@@ -3,8 +3,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 234,
-        "rushing_yards": 371,
-        "total_yards": 605,
+        "rushing_yards": 372,
+        "total_yards": 606,
         "yet_to_play": [
             "C.J. Stroud",
             "Jaxon Smith-Njigba",
@@ -75,6 +75,27 @@
         ]
     },
     {
+        "owner": "Jon Knicely",
+        "passing_yards": 276,
+        "receiving_yards": 0,
+        "rushing_yards": 19,
+        "total_yards": 295,
+        "yet_to_play": [
+            "Cam Skattebo",
+            "Breece Hall",
+            "Malik Washington",
+            "KC Concepcion",
+            "Denzel Boston",
+            "Hunter Henry",
+            "Quentin Johnston",
+            "Rhamondre Stevenson",
+            "Trey McBride"
+        ],
+        "in_play": [
+            "Dak Prescott"
+        ]
+    },
+    {
         "owner": "Patrick Neafsey",
         "passing_yards": 0,
         "receiving_yards": 79,
@@ -92,32 +113,11 @@
         "in_play": []
     },
     {
-        "owner": "Jon Knicely",
-        "passing_yards": 258,
-        "receiving_yards": 0,
-        "rushing_yards": 19,
-        "total_yards": 277,
-        "yet_to_play": [
-            "Cam Skattebo",
-            "Breece Hall",
-            "Malik Washington",
-            "KC Concepcion",
-            "Denzel Boston",
-            "Hunter Henry",
-            "Quentin Johnston",
-            "Rhamondre Stevenson",
-            "Trey McBride"
-        ],
-        "in_play": [
-            "Dak Prescott"
-        ]
-    },
-    {
         "owner": "Ryan Shannon",
         "passing_yards": 0,
-        "receiving_yards": 156,
+        "receiving_yards": 171,
         "rushing_yards": 0,
-        "total_yards": 156,
+        "total_yards": 171,
         "yet_to_play": [
             "Joe Burrow",
             "Ashton Jeanty",
