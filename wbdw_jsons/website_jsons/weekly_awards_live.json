@@ -3,8 +3,8 @@
         "owner": "Kyle Nester",
         "passing_yards": 0,
         "receiving_yards": 234,
-        "rushing_yards": 373,
-        "total_yards": 607,
+        "rushing_yards": 378,
+        "total_yards": 612,
         "yet_to_play": [
             "C.J. Stroud",
             "Jaxon Smith-Njigba",
@@ -76,10 +76,10 @@
     },
     {
         "owner": "Jon Knicely",
-        "passing_yards": 276,
+        "passing_yards": 291,
         "receiving_yards": 0,
         "rushing_yards": 19,
-        "total_yards": 295,
+        "total_yards": 310,
         "yet_to_play": [
             "Cam Skattebo",
             "Breece Hall",
