@@ -13,9 +13,7 @@
             "AJ Barner",
             "Brock Bowers"
         ],
-        "in_play": [
-            "Javonte Williams"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brian Fuquay",
@@ -31,7 +29,6 @@
             "Jonah Coleman"
         ],
         "in_play": [
-            "Saquon Barkley",
             "James Cook"
         ]
     },
@@ -50,9 +47,7 @@
             "Zach Charbonnet",
             "Samaje Perine"
         ],
-        "in_play": [
-            "Dallas Goedert"
-        ]
+        "in_play": []
     },
     {
         "owner": "Victor Dankens",
@@ -70,9 +65,7 @@
             "Travis Etienne",
             "Zay Flowers"
         ],
-        "in_play": [
-            "DeVonta Smith"
-        ]
+        "in_play": []
     },
     {
         "owner": "Jon Knicely",
@@ -91,9 +84,7 @@
             "Rhamondre Stevenson",
             "Trey McBride"
         ],
-        "in_play": [
-            "Dak Prescott"
-        ]
+        "in_play": []
     },
     {
         "owner": "Patrick Neafsey",
@@ -127,7 +118,6 @@
             "Ladd McConkey"
         ],
         "in_play": [
-            "George Pickens",
             "Rashee Rice"
         ]
     },
@@ -135,8 +125,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 8,
         "receiving_yards": 139,
-        "rushing_yards": 10,
-        "total_yards": 157,
+        "rushing_yards": 17,
+        "total_yards": 164,
         "yet_to_play": [
             "David Montgomery",
             "Jaylen Warren",
@@ -146,7 +136,6 @@
         ],
         "in_play": [
             "Josh Allen",
-            "CeeDee Lamb",
             "Khalil Shakir",
             "Emmett Johnson"
         ]
@@ -224,8 +213,7 @@
             "Antonio Williams"
         ],
         "in_play": [
-            "Patrick Mahomes",
-            "Makai Lemon"
+            "Patrick Mahomes"
         ]
     }
 ]
