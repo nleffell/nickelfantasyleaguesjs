@@ -18,9 +18,9 @@
     {
         "owner": "Brian Fuquay",
         "passing_yards": 313,
-        "receiving_yards": 122,
+        "receiving_yards": 135,
         "rushing_yards": 88,
-        "total_yards": 523,
+        "total_yards": 536,
         "yet_to_play": [
             "Drake London",
             "Josh Downs",
@@ -107,8 +107,8 @@
         "owner": "TJ Pickeral",
         "passing_yards": 41,
         "receiving_yards": 164,
-        "rushing_yards": 62,
-        "total_yards": 267,
+        "rushing_yards": 63,
+        "total_yards": 268,
         "yet_to_play": [
             "David Montgomery",
             "Jaylen Warren",
@@ -142,10 +142,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 107,
+        "passing_yards": 120,
         "receiving_yards": 51,
         "rushing_yards": 2,
-        "total_yards": 160,
+        "total_yards": 173,
         "yet_to_play": [
             "Braelon Allen",
             "Jadarian Price",
