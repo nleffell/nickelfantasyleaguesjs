@@ -142,10 +142,10 @@
     },
     {
         "owner": "Nick Leffell",
-        "passing_yards": 76,
+        "passing_yards": 97,
         "receiving_yards": 51,
         "rushing_yards": 0,
-        "total_yards": 127,
+        "total_yards": 148,
         "yet_to_play": [
             "Braelon Allen",
             "Jadarian Price",
@@ -163,9 +163,9 @@
     {
         "owner": "Tyler Smith",
         "passing_yards": 0,
-        "receiving_yards": 123,
+        "receiving_yards": 144,
         "rushing_yards": 0,
-        "total_yards": 123,
+        "total_yards": 144,
         "yet_to_play": [
             "Jayden Daniels",
             "Christian McCaffrey",
