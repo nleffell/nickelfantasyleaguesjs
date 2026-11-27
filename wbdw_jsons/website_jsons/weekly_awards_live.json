@@ -28,9 +28,7 @@
             "Chase Brown",
             "Jonah Coleman"
         ],
-        "in_play": [
-            "James Cook"
-        ]
+        "in_play": []
     },
     {
         "owner": "TJ Pickeral",
@@ -45,11 +43,7 @@
             "Quinshon Judkins",
             "Deebo Samuel"
         ],
-        "in_play": [
-            "Josh Allen",
-            "Khalil Shakir",
-            "Emmett Johnson"
-        ]
+        "in_play": []
     },
     {
         "owner": "Brad Lowe",
@@ -138,9 +132,7 @@
             "Michael Mayer",
             "Antonio Williams"
         ],
-        "in_play": [
-            "Patrick Mahomes"
-        ]
+        "in_play": []
     },
     {
         "owner": "Ryan Shannon",
@@ -156,9 +148,7 @@
             "Chris Olave",
             "Ladd McConkey"
         ],
-        "in_play": [
-            "Rashee Rice"
-        ]
+        "in_play": []
     },
     {
         "owner": "Tyler Smith",
@@ -175,10 +165,7 @@
             "Jordan Mason",
             "Tony Pollard"
         ],
-        "in_play": [
-            "DJ Moore",
-            "Travis Kelce"
-        ]
+        "in_play": []
     },
     {
         "owner": "Chad Hill",
