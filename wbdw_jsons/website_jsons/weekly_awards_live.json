@@ -24,7 +24,6 @@
         "rushing_yards": 17,
         "total_yards": 444,
         "yet_to_play": [
-            "James Cook",
             "Drake London",
             "Josh Downs",
             "Jonathan Taylor",
@@ -32,7 +31,8 @@
             "Jonah Coleman"
         ],
         "in_play": [
-            "Saquon Barkley"
+            "Saquon Barkley",
+            "James Cook"
         ]
     },
     {
@@ -57,9 +57,9 @@
     {
         "owner": "Victor Dankens",
         "passing_yards": 0,
-        "receiving_yards": 332,
+        "receiving_yards": 346,
         "rushing_yards": 0,
-        "total_yards": 332,
+        "total_yards": 346,
         "yet_to_play": [
             "Jacoby Brissett",
             "Bhayshul Tuten",
@@ -124,11 +124,11 @@
             "Chuba Hubbard",
             "Tyler Warren",
             "Chris Olave",
-            "Rashee Rice",
             "Ladd McConkey"
         ],
         "in_play": [
-            "George Pickens"
+            "George Pickens",
+            "Rashee Rice"
         ]
     },
     {
@@ -138,17 +138,17 @@
         "rushing_yards": 0,
         "total_yards": 139,
         "yet_to_play": [
-            "Josh Allen",
             "David Montgomery",
             "Jaylen Warren",
-            "Khalil Shakir",
             "Stefon Diggs",
             "Quinshon Judkins",
-            "Emmett Johnson",
             "Deebo Samuel"
         ],
         "in_play": [
-            "CeeDee Lamb"
+            "Josh Allen",
+            "CeeDee Lamb",
+            "Khalil Shakir",
+            "Emmett Johnson"
         ]
     },
     {
@@ -179,13 +179,14 @@
             "Christian McCaffrey",
             "Derrick Henry",
             "Jakobi Meyers",
-            "DJ Moore",
             "Isaiah Likely",
             "Jordan Mason",
-            "Travis Kelce",
             "Tony Pollard"
         ],
-        "in_play": []
+        "in_play": [
+            "DJ Moore",
+            "Travis Kelce"
+        ]
     },
     {
         "owner": "Nick Janowicz",
@@ -213,7 +214,6 @@
         "rushing_yards": 0,
         "total_yards": 51,
         "yet_to_play": [
-            "Patrick Mahomes",
             "Braelon Allen",
             "Jadarian Price",
             "Malik Nabers",
@@ -224,6 +224,7 @@
             "Antonio Williams"
         ],
         "in_play": [
+            "Patrick Mahomes",
             "Makai Lemon"
         ]
     }
